@@ -1,5 +1,4 @@
-export const BLOG_NO = [
-{
+export const BLOG_NO = [{
   slug: "all-on-4-eller-all-on-6-hva-passer-deg",
   title: "All-on-4 eller All-on-6: Hva passer deg?",
   description: "Både All-on-4 og All-on-6 gir deg en komplett, fast tannbue på implantater. Her er den reelle forskjellen mellom dem og hvordan tannlegen avgjør hva som passer kjeven din.",
