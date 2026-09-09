@@ -1,0 +1,19 @@
+---
+import BlogPost from '../../../components/BlogPost.astro';
+import { getBlogPosts, BLOG_LOCALES } from '../../../i18n/blog';
+import { DEFAULT_LOCALE } from '../../../i18n/locales';
+
+export function getStaticPaths() {
+  const paths: Array<{ params: { locale: string; slug: string }; props: { post: any } }> = [];
+  for (const code of BLOG_LOCALES.filter((l) => l !== DEFAULT_LOCALE)) {
+    for (const post of getBlogPosts(code)) {
+      paths.push({ params: { locale: code, slug: post.slug }, props: { post } });
+    }
+  }
+  return paths;
+}
+
+const { locale, slug } = Astro.params;
+const { post } = Astro.props;
+---
+<BlogPost locale={locale as string} post={post} path={`blog/${slug}/`} />

@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getHome } from '../i18n/content';
+import { getBlogPosts, BLOG_LOCALES } from '../i18n/blog';
+import { getBlogUI } from '../i18n/blog-ui';
+import { localePath } from '../i18n/locales';
+
+export interface Props { locale: string; }
+const { locale } = Astro.props;
+const t = getHome(locale);
+const posts = getBlogPosts(locale);
+const ui = getBlogUI(locale);
+---
+<BaseLayout locale={locale} title={`Blog — Nizam Abdullayev Dental Clinic`} description={ui.metaDescription} path="blog/" availableLocales={BLOG_LOCALES}>
+  <Header locale={locale} t={t} path="blog/" availableLocales={BLOG_LOCALES} />
+  <main>
+    <section style="padding:56px 0;">
+      <div class="wrap">
+        <div class="head" style="text-align:center;margin:0 auto 40px;max-width:640px;">
+          <span class="eyebrow">{ui.eyebrow}</span>
+          <h1 style="margin-top:14px;font-family:'Fraunces',serif;font-size:30px;">{ui.heading}</h1>
+        </div>
+        <div class="blog-grid">
+          {posts.map((post) => (
+            <a href={localePath(locale, `blog/${post.slug}/`)} class="blog-card">
+              <h2>{post.title}</h2>
+              <p>{post.description}</p>
+              <span class="link">{ui.read} →</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer locale={locale} t={t} />
+  <style>
+    .blog-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:22px;max-width:900px;margin:0 auto;}
+    .blog-card{background:var(--white);border:1px solid var(--line);border-radius:18px;padding:24px;box-shadow:var(--shadow);}
+    .blog-card h2{font-size:17px;margin-bottom:10px;font-family:'Fraunces',serif;}
+    .blog-card p{font-size:13px;color:var(--ink-soft);margin:0 0 14px;}
+    .blog-card .link{font-size:12.5px;font-weight:700;color:var(--gold);}
+    @media (max-width:700px){ .blog-grid{grid-template-columns:1fr;} }
+  </style>
+</BaseLayout>

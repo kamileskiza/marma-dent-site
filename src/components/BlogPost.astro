@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getHome } from '../i18n/content';
+import type { BlogPost } from '../i18n/blog';
+import { getBlogUI } from '../i18n/blog-ui';
+import { localePath } from '../i18n/locales';
+import { treatmentIdFromSlug } from '../i18n/slugs';
+import { TREATMENT_IMAGES } from '../i18n/treatment-images';
+
+export interface Props { locale: string; post: BlogPost; path: string; }
+const { locale, post, path } = Astro.props;
+const t = getHome(locale);
+const ui = getBlogUI(locale);
+
+// Use the related treatment's own photo for social-share previews instead of a
+// generic fallback, so sharing e.g. a root canal article doesn't show a Hollywood
+// Smile photo. Falls back to the site default only when there's no related treatment.
+let ogImage: string | undefined;
+if (post.relatedTreatment) {
+  const rawSlug = post.relatedTreatment.replace(/\/$/, '');
+  const tid = treatmentIdFromSlug(locale, rawSlug);
+  if (tid) ogImage = TREATMENT_IMAGES[tid];
+}
+
+let relatedHref: string | null = null;
+if (post.relatedTreatment) {
+  relatedHref = localePath(locale, `${post.relatedTreatment}/`);
+}
+---
+<!-- Blog posts don't share a slug across locales (each language's post has its own,
+     independently-written slug with no cross-locale ID mapping), so we can't honestly
+     build hreflang alternates to other languages' versions of "this same post" — doing
+     so would guess at a URL that doesn't exist. We self-reference only. -->
+<BaseLayout locale={locale} title={`${post.title} — Nizam Abdullayev Dental Clinic`} description={post.description} path={path} availableLocales={[locale]} ogImage={ogImage}>
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": post.title,
+  "description": post.description,
+  "datePublished": post.date,
+  "dateModified": post.date,
+  "inLanguage": locale,
+  "author": { "@type": "Person", "name": "Dt. Nizam Abdullayev" },
+  "publisher": { "@type": "Dentist", "@id": `${Astro.site}/#clinic`, "name": "Nizam Abdullayev Dental Clinic" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": `${Astro.site}${localePath(locale, path)}` }
+})} />
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": t.nav_home, "item": `${Astro.site}${localePath(locale, '')}` },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": `${Astro.site}${localePath(locale, 'blog/')}` },
+    { "@type": "ListItem", "position": 3, "name": post.title, "item": `${Astro.site}${localePath(locale, path)}` }
+  ]
+})} />
+  <Header locale={locale} t={t} path={path} slugMap={{ [locale]: path }} />
+  <main>
+    <article style="padding:48px 0;">
+      <div class="wrap" style="max-width:720px;">
+        <a href={localePath(locale, 'blog/')} class="back-link">{ui.backToGuides}</a>
+        <h1 style="font-family:'Fraunces',serif;font-size:clamp(24px,4vw,32px);margin:16px 0 24px;">{post.title}</h1>
+        <div class="post-body">
+          {post.body.map((block) => block.h ? <h2>{block.h}</h2> : <p>{block.p}</p>)}
+        </div>
+        {relatedHref && (
+          <a href={relatedHref} class="btn btn-cyan" style="margin-top:20px;display:inline-flex;padding:13px 22px;border-radius:99px;background:var(--gold);color:#fff;font-size:13.5px;font-weight:700;">
+            {ui.seeRelated}
+          </a>
+        )}
+        <div class="eeat-note">{ui.eeat}</div>
+      </div>
+    </article>
+    <style>
+      .eeat-note{margin-top:36px;padding-top:16px;border-top:1px solid var(--line);font-size:11.5px;color:var(--ink-faint);}
+    </style>
+  </main>
+  <Footer locale={locale} t={t} />
+  <style>
+    .back-link{font-size:13px;font-weight:700;color:var(--gold);}
+    .post-body h2{font-family:'Fraunces',serif;font-size:19px;margin:28px 0 10px;}
+    .post-body h2:first-child{margin-top:0;}
+    .post-body p{font-size:14.5px;color:var(--ink-soft);margin:0 0 14px;line-height:1.7;}
+  </style>
+</BaseLayout>

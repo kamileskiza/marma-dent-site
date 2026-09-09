@@ -1,0 +1,76 @@
+---
+import { localePath } from '../i18n/locales';
+import { treatmentSlug, TREATMENT_IDS, type TreatmentId } from '../i18n/slugs';
+import { TREATMENT_CONTENT_LOCALES, getTreatments, localesForTreatment } from '../i18n/content';
+
+export interface Props {
+  locale: string;
+  t: Record<string, string>;
+}
+const { locale, t } = Astro.props;
+const hasTreatmentPages = TREATMENT_CONTENT_LOCALES.includes(locale);
+const treatments = getTreatments(locale);
+
+// All treatments actually published for this locale (respects the emax-veneers
+// override), with their real titles — not the previous hardcoded 5-item list.
+const footerLinks = TREATMENT_IDS.filter((id) => localesForTreatment(id).includes(locale))
+  .map((id) => ({ id, label: treatments[id]?.title ?? id }));
+---
+<footer>
+  <div class="foot-top">
+    <div class="foot-brand">
+      <p>{t.footer_disclaimer}</p>
+    </div>
+    <div class="foot-col">
+      <h4>{t.footer_address_label}</h4>
+      <p style="margin:0 0 8px;">Bağlarbaşı, Atatürk Caddesi,<br>Galip Arcan Sokağı 1a,<br>34844 Maltepe/İstanbul</p>
+      <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x14cac7e750160475:0xf5753de54ca605bc?sa=X&ved=1t:8290&ictx=111" target="_blank" rel="noopener">{t.footer_directions}</a>
+    </div>
+    <div class="foot-col">
+      <h4>{t.footer_contact_label}</h4>
+      <p style="margin:0 0 6px;"><a href="https://wa.me/905551901034" target="_blank" rel="noopener">WhatsApp: +90 555 190 10 34</a></p>
+      <p style="margin:0;">{t.footer_languages}</p>
+    </div>
+    {hasTreatmentPages && (
+      <div class="foot-col">
+        <h4>{t.footer_services_label}</h4>
+        <ul class="foot-treat-list">
+          {footerLinks.map((l) => (
+            <li><a href={localePath(locale, treatmentSlug(locale, l.id) + '/')}>{l.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+  </div>
+
+  <div class="foot-map">
+    <div class="foot-map-frame">
+      <iframe src="https://www.google.com/maps?cid=17687111166610245052&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Clinic location"></iframe>
+      <a class="foot-map-tap" href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x14cac7e750160475:0xf5753de54ca605bc?sa=X&ved=1t:8290&ictx=111" target="_blank" rel="noopener">{t.footer_directions}</a>
+    </div>
+  </div>
+
+  <div class="foot-cert" id="certificates">
+    <img src="/images/cert-ministry.jpg" alt="International Health Tourism Authorization Certificate">
+    <img src="/images/cert-health-turkiye.jpg" alt="Health Türkiye" style="width:220px;background:#fff;padding:14px;border-radius:10px;">
+    <img src="/images/cert-gcr.jpg" alt="GCR International Accredited Clinic" style="width:170px;background:#fff;padding:14px;border-radius:10px;">
+    <img src="/images/cert-iso10002.jpg" alt="ISO 10002:2018 Certified" style="width:110px;background:#fff;padding:14px;border-radius:10px;">
+    <div class="cert-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg> <span>{t.cert_badge_text}</span></div>
+    <a class="cert-link" href="/images/cert-ministry.jpg" target="_blank" rel="noopener">{t.cert_view}</a>
+  </div>
+
+  {t.privacy_label && (
+    <div class="foot-about" id="privacy" style="border-top:1px solid rgba(255,255,255,.12);">
+      <h4>{t.privacy_label}</h4>
+      <p>{t.privacy_p1}</p>
+      <p>{t.privacy_p2}</p>
+      <p>{t.privacy_p3}</p>
+      <p style="font-size:11.5px;color:rgba(255,255,255,.45);margin-top:14px;">{t.privacy_note}</p>
+    </div>
+  )}
+
+  <div class="foot-bottom">
+    <span class="mono">© 2026 Nizam Abdullayev Dental Clinic</span>
+    {t.privacy_label && <a href="#privacy" style="margin-left:14px;text-decoration:underline;">{t.privacy_label}</a>}
+  </div>
+</footer>

@@ -1,0 +1,14 @@
+---
+import BlogList from '../../../components/BlogList.astro';
+import { BLOG_LOCALES } from '../../../i18n/blog';
+import { DEFAULT_LOCALE } from '../../../i18n/locales';
+
+export function getStaticPaths() {
+  return BLOG_LOCALES.filter((l) => l !== DEFAULT_LOCALE).map((l) => ({
+    params: { locale: l },
+  }));
+}
+
+const { locale } = Astro.params;
+---
+<BlogList locale={locale as string} />

@@ -1,0 +1,24 @@
+---
+import TreatmentPage from '../../components/TreatmentPage.astro';
+import { DEFAULT_LOCALE } from '../../i18n/locales';
+import { localesForTreatment } from '../../i18n/content';
+import { TREATMENT_IDS, treatmentSlug } from '../../i18n/slugs';
+import { TREATMENT_IMAGES } from '../../i18n/images';
+
+export function getStaticPaths() {
+  const paths: Array<{ params: { locale: string; slug: string }; props: { treatmentId: string } }> = [];
+  for (const id of TREATMENT_IDS) {
+    for (const code of localesForTreatment(id).filter((c) => c !== DEFAULT_LOCALE)) {
+      paths.push({
+        params: { locale: code, slug: treatmentSlug(code, id) },
+        props: { treatmentId: id },
+      });
+    }
+  }
+  return paths;
+}
+
+const { locale, slug } = Astro.params;
+const { treatmentId } = Astro.props;
+---
+<TreatmentPage locale={locale as string} treatmentId={treatmentId} img={TREATMENT_IMAGES[treatmentId as keyof typeof TREATMENT_IMAGES]} path={`${slug}/`} />

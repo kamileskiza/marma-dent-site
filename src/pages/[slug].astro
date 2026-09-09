@@ -1,0 +1,17 @@
+---
+import TreatmentPage from '../components/TreatmentPage.astro';
+import { TREATMENT_IDS, treatmentSlug } from '../i18n/slugs';
+import { TREATMENT_IMAGES } from '../i18n/images';
+import { localesForTreatment } from '../i18n/content';
+
+export function getStaticPaths() {
+  return TREATMENT_IDS.filter((id) => localesForTreatment(id).includes('en')).map((id) => ({
+    params: { slug: treatmentSlug('en', id) },
+    props: { treatmentId: id },
+  }));
+}
+
+const { treatmentId } = Astro.props;
+const { slug } = Astro.params;
+---
+<TreatmentPage locale="en" treatmentId={treatmentId} img={TREATMENT_IMAGES[treatmentId]} path={`${slug}/`} />

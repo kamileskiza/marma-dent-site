@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getHome } from '../i18n/content';
+import { localePath } from '../i18n/locales';
+
+const t = getHome('en');
+---
+<BaseLayout locale="en" title="Page not found — Nizam Abdullayev Dental Clinic" description="The page you're looking for doesn't exist." path="404/">
+  <Header locale="en" t={t} path="" />
+  <section class="notfound">
+    <div class="wrap">
+      <h1>404</h1>
+      <p>Sorry, we couldn't find that page.</p>
+      <a href={localePath('en')} class="btn">Back to home</a>
+    </div>
+  </section>
+  <Footer locale="en" t={t} />
+  <style>
+    .notfound{padding:100px 24px;text-align:center;}
+    .notfound h1{font-size:64px;color:var(--gold);}
+    .notfound p{color:var(--ink-soft);margin:14px 0 24px;}
+    .btn{display:inline-flex;padding:13px 24px;border-radius:99px;background:var(--gold);color:#fff;font-weight:700;font-size:14px;}
+  </style>
+</BaseLayout>
