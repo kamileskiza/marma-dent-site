@@ -1,5 +1,4 @@
 export const BLOG_LV = [
-
 {
   slug: "all-on-4-vai-all-on-6-kas-jums-ir-piemerots",
   title: "All-on-4 vai All-on-6: Kas jums ir piemērots?",
