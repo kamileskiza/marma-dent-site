@@ -1,4 +1,4 @@
-export const BLOG_ES = [
+blog/export const BLOG_ES = [
 
 {
   slug: "all-on-4-o-all-on-6-que-es-adecuado-para-usted",
