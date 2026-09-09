@@ -1,5 +1,4 @@
-blog/export const BLOG_HR = [
-
+export const BLOG_HR = [
 {
   slug: "all-on-4-ili-all-on-6-sto-vam-odgovara",
   title: "All-on-4 ili All-on-6: Što vam odgovara?",
