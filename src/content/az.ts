@@ -1,4 +1,4 @@
-export const BLOG_AZ = [
+blog/export const BLOG_AZ = [
 
 {
   slug: "all-on-4-ya-all-on-6-hansi-sizin-ucun-uygundur",
