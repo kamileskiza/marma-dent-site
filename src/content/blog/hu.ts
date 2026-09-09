@@ -1,5 +1,4 @@
-blog/export const BLOG_HU = [
-
+export const BLOG_HU = [
 {
   slug: "all-on-4-vagy-all-on-6-mi-a-megfelelo-onnek",
   title: "All-on-4 vagy All-on-6: Mi a megfelelő Önnek?",
