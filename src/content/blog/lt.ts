@@ -1,5 +1,4 @@
 export const BLOG_LT = [
-
 {
   slug: "all-on-4-ar-all-on-6-kas-jums-tinka",
   title: "All-on-4 ar All-on-6: Kas jums tinka?",
