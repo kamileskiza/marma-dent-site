@@ -1,5 +1,4 @@
 export const BLOG_UK = [
-
 {
   slug: "all-on-4-chy-all-on-6-shcho-vam-pidhodyt",
   title: "All-on-4 чи All-on-6: Що вам підходить?",
