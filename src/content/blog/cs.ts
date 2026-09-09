@@ -1,5 +1,4 @@
-blog/export const BLOG_CS = [
-
+export const BLOG_CS = [
 {
   slug: "all-on-4-nebo-all-on-6-co-je-pro-vas-vhodne",
   title: "All-on-4 nebo All-on-6: Co je pro vás vhodné?",
