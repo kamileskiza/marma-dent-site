@@ -1,5 +1,4 @@
-blog/export const BLOG_ES = [
-
+export const BLOG_ES = [
 {
   slug: "all-on-4-o-all-on-6-que-es-adecuado-para-usted",
   title: "All-on-4 o All-on-6: ¿Qué es adecuado para usted?",
