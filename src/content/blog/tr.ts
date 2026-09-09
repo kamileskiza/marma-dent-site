@@ -1,5 +1,4 @@
-export const BLOG_TR = [
-{
+export const BLOG_TR = [{
   slug: "all-on-4-mu-all-on-6-mi-hangisi-size-uygun",
   title: "All-on-4 mü All-on-6 mı? Hangisi Size Uygun",
   description: "All-on-4 ve All-on-6, implant üzerine tam ve sabit bir diş dizisi sağlar. Aralarındaki gerçek fark nedir ve diş hekimi hangisini seçeceğinize nasıl karar verir?",
