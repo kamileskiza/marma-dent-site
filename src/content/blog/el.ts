@@ -1,5 +1,4 @@
-blog/export const BLOG_EL = [
-
+export const BLOG_EL = [
 {
   slug: "all-on-4-i-all-on-6-ti-einai-katallilo-gia-esas",
   title: "All-on-4 ή All-on-6: Τι είναι κατάλληλο για εσάς;",
