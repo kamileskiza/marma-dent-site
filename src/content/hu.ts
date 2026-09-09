@@ -1,4 +1,4 @@
-export const BLOG_HU = [
+blog/export const BLOG_HU = [
 
 {
   slug: "all-on-4-vagy-all-on-6-mi-a-megfelelo-onnek",
