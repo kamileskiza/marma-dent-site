@@ -1,5 +1,4 @@
-log/export const BLOG_DE = [
-
+export const BLOG_DE = [
 {
   slug: "all-on-4-oder-all-on-6-was-ist-richtig-fuer-sie",
   title: "All-on-4 oder All-on-6: Was ist richtig für Sie?",
