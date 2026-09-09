@@ -1,4 +1,4 @@
-export const BLOG_FI = [
+blog/export const BLOG_FI = [
 
 {
   slug: "all-on-4-vai-all-on-6-kumpi-sopii-sinulle",
