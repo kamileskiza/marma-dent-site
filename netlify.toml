@@ -1,0 +1,15 @@
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "http://dtnizamabdullayev.com/*"
+  to = "https://www.dtnizamabdullayev.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://dtnizamabdullayev.com/*"
+  to = "https://www.dtnizamabdullayev.com/:splat"
+  status = 301
+  force = true
