@@ -1,5 +1,4 @@
 export const BLOG_NL = [
-
 {
   slug: "all-on-4-of-all-on-6-wat-is-juist-voor-u",
   title: "All-on-4 of All-on-6: Wat is juist voor u?",
