@@ -1,0 +1,308 @@
+{
+  "all-on-4-5-6": {
+    "eyebrow": "Tam çənə implantları",
+    "title": "All-on-4, All-on-5 və All-on-6",
+    "tagline": "Sadəcə dörd implantla dəstəklənən, tək seansda tamamlanan tam sabit çənə protezi.",
+    "overview": [
+      "All-on-4, əskik və ya uğursuz olmuş tam bir dizi dişi, stratejik olaraq yerləşdirilmiş sadəcə dörd implantla dəstəklənən sabit, çıxarılmayan bir körpü ilə əvəz edir. İki implant düz, iki implant çənənin arxasına doğru bucaqlı yerləşdirilir, çoğu halda mövcud sümük istifadə olunur və sümük greftinə ehtiyac qalmır.",
+      "İmplantlar bucaqlı yerləşdirildiyi və bütün qövs tək vahid kimi dizayn edildiyi üçün, hal çox vaxt cərrahiyyə ilə eyni gündə müvəqqəti sabit körpü ilə tamamlanır."
+    ],
+    "who_for": [
+      "Bir və ya hər iki çənənizdə dişlərinizin çoxu və ya hamısı əskikdir",
+      "Çıxarıla bilən protez taxırsınız və sabit alternativ istəyirsiniz",
+      "Müəyyən sümük itkiniz var, lakin mümkünsə sümük greftindən qaçınmaq istəyirsiniz"
+    ],
+    "expect_steps": [
+      "İmplant mövqeyini planlaşdırmaq və uyğunluğunuzu təsdiqləmək üçün 3D skan və rentgen",
+      "Adətən yerli anesteziya altında dörd implantın cərrahi yolla yerləşdirilməsi",
+      "Çoğu halda eyni gün müvəqqəti sabit körpü bərkidilir",
+      "Sağalmadan sonra (adətən bir neçə ay), son körpünüz taxılır"
+    ],
+    "why_us": "Cərrahiyyə komandamız hər All-on-4 halını cərrahiyyədən əvvəl rəqəmsal şəkildə planlaşdırır, beləliklə implant mövqeyi və son qapanma əvvəlcədən xəritələnir. İmplantlar ömürlük zəmanətimizlə əhatə olunur.",
+    "warranty": "All-on-4 müalicənizin bir hissəsi kimi yerləşdirilən implantlar ömürlük zəmanətimizlə əhatə olunur.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "Sadəcə dörd implantla dəstəklənən tam sabit çənə, bir ziyarətdə.",
+        "desc": "Kifayət qədər sümük həcmi olan əksər xəstələr üçün uyğun olan klassik dörd implant həlli."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "Beş implant üzərində tam sabit çənə protezi, daha güclü uzunmüddətli nəticə üçün əlavə dəstək.",
+        "desc": "Sümük sıxlığınız və ya qapanmanız tələb etdikdə beşinci implant çeynəmə qüvvəsini daha yaxşı paylayır."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "Altı implant üzərində tam sabit çənə protezi, daha çox sümük itkisi olan hallarda ən güclü dəstək.",
+        "desc": "Əhəmiyyətli sümük itkisi olduqda və ya maksimum sabitlik prioritet olduqda tövsiyə olunan ən güclü seçim."
+      }
+    ]
+  },
+  "dental-implants": {
+    "eyebrow": "İmplantologiya",
+    "title": "Diş İmplantları",
+    "tagline": "Əskik dişlər üçün daimi, təbii hiss olunan əvəzedici.",
+    "overview": [
+      "Diş implantı, süni diş kökü rolunu oynamaq üçün çənə sümüyünə yerləşdirilən, təbii dişlərinizə uyğun bir tacla örtülən titan bir sütundur. Körpüdən fərqli olaraq dəstək üçün qonşu dişlərə güvənmir, protezdən fərqli olaraq isə hərəkət etmir və çıxarılmasına ehtiyac yoxdur.",
+      "İmplantlar tək bir dişi, körpü ilə bir neçə dişi və ya bütün bir qövsü əvəz edə bilər — say və yerləşdirmə neçə dişin əskik olduğundan və çənə sümüyünüzün vəziyyətindən asılıdır."
+    ],
+    "who_for": [
+      "Bir və ya bir neçə dişiniz əskikdir və sabit, daimi həll istəyirsiniz",
+      "Boşluğun yanındakı sağlam dişləri hazırlamaq və ya təsir etmək istəmirsiniz",
+      "Kifayət qədər sümük sıxlığınız var, ya da lazım olduqda sümük greftinə açıqsınız"
+    ],
+    "expect_steps": [
+      "Sümüyü qiymətləndirmək və implant mövqeyini planlaşdırmaq üçün 3D skan və konsultasiya",
+      "Yerli anesteziya altında implantın cərrahi yolla yerləşdirilməsi",
+      "İmplantın sümüklə birləşməsi üçün adətən bir neçə aylıq sağalma dövrü",
+      "Sağalma təsdiqləndikdən sonra son tacın taxılması"
+    ],
+    "why_us": "İmplant mövqeyi dəqiqlik üçün cərrahiyyədən əvvəl rəqəmsal şəkildə planlaşdırılır və yerləşdirdiyimiz hər implant ömürlük zəmanətimizlə əhatə olunur.",
+    "warranty": "Bütün diş implantları ömürlük zəmanətimizlə əhatə olunur."
+  },
+  "hollywood-smile": {
+    "eyebrow": "Estetik stomatologiya",
+    "title": "Hollywood Smile",
+    "tagline": "Parlaq, kameraya hazır bir gülüş üçün üst çənənin tamamının yenidən dizaynı.",
+    "overview": [
+      "Hollywood Smile, adətən üst çənədəki görünən dişlərin forma, ölçü, düzülüş və çalarını bir uyğun nəticədə birləşdirən tam estetik yenilənmədir. Adətən porselen laminat və ya sirkonyum tacların bir dəst kimi birlikdə planlaşdırılmasından istifadə olunur, beləliklə hər diş digərini tamamlayır.",
+      "Məqsəd tək bir 'mükəmməl' şablon gülüş deyil — üz forması, dodaq xətti və dəri tonunuz nəzərə alınır, beləliklə nəticə başqasının deyil, sizin ola biləcək ən yaxşı gülüşünüz kimi görünür."
+    ],
+    "who_for": [
+      "Eyni anda bir neçə estetik probleminiz var — rəng dəyişikliyi, qırıqlar, boşluqlar və ya qeyri-bərabər dişlər",
+      "Tək-tək diş əvəzinə əlaqələndirilmiş nəticə istəyirsiniz",
+      "Ön dişlərdə orta dərəcədə hazırlığa razısınız"
+    ],
+    "expect_steps": [
+      "Hər hansı diş toxunmadan əvvəl yeni gülüşünüzü 3D dizayn etmək üçün rəqəmsal skan və fotolar",
+      "Yeni bərpalara yer açmaq üçün dişlərin minimal hazırlanması",
+      "Daimi laminat və ya taclar hazırlanarkən müvəqqəti bərpalar",
+      "Son nəticə üçün taxılma, rəng uyğunluğu və qapanma tənzimlənməsi"
+    ],
+    "why_us": "Hər Hollywood Smile halı əvvəlcə rəqəmsal olaraq dizayn olunur, beləliklə müalicə başlamazdan əvvəl nəticənizin ön izləməsini görə bilərsiniz. Sirkonyum və porselen işləri ömürlük zəmanətimizlə əhatə olunur.",
+    "warranty": "Hollywood Smile-ınızdakı sirkonyum və porselen bərpalar ömürlük zəmanətimizlə əhatə olunur."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Bərpaedici stomatologiya",
+    "title": "Monolit Sirkonyum",
+    "tagline": "Tək bir sirkonyum blokundan frezelənən tam konturlu taclar və körpülər — güclü, sınmaya davamlı və dəqiq.",
+    "overview": [
+      "Monolit sirkonyum bərpalar, metal və ya porselen laylı nüvə üzərinə ayrı porselen örtük əvəzinə, tək bir bərk sirkonium oksid blokundan frezelənir. Bu tək parça quruluş onları ənənəvi laylı taclara nisbətən qırılma və sınmaya qarşı əhəmiyyətli dərəcədə daha davamlı edir.",
+      "Müasir sirkonyum rəqəmsal olaraq rənglənir və xarakterizə edilir, beləliklə hazır tac və ya körpü ətrafdakı dişlərinizlə təbii şəkildə uyğunlaşır, düz və ya qeyri-şəffaf görünmür."
+    ],
+    "who_for": [
+      "Böyük çeynəmə qüvvəsi olan arxa dişdə tac və ya körpüyə ehtiyacınız var",
+      "Əvvəllər porselen bərpalarınız çatlamış və ya sınmışdır",
+      "Dişlərinizi sıxırsınız və ya qıcayırsınız və daha davamlı materiala ehtiyacınız var"
+    ],
+    "expect_steps": [
+      "Hazırlanan dişin rəqəmsal və ya ənənəvi ölçüsü",
+      "Bərpanız təbii dişlərinizin rənginə uyğun dizayn edilir və frezelenir",
+      "Daimi bərpa hazırlanarkən müvəqqəti bərpa dişi qoruyur",
+      "Lazım olduqda tənzimləmələrlə son taxılma və qapanma yoxlaması"
+    ],
+    "why_us": "Monolit sirkonyumu rəqəmsal dizaynla öz daxilimizdə frezeleyirik, beləliklə rəng uyğunluğu və uyğunluq dəqiqdir. Bütün sirkonyum işləri ömürlük zəmanətimizi daşıyır.",
+    "warranty": "Monolit sirkonyum bərpalar ömürlük zəmanətimizlə əhatə olunur."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Rəqəmsal planlaşdırma",
+    "title": "Rəqəmsal Gülüş Dizaynı",
+    "tagline": "Yeni gülüşünüz, müalicə başlamazdan əvvəl 3D-də planlaşdırılır və öncədən nümayiş etdirilir.",
+    "overview": [
+      "Rəqəmsal Gülüş Dizaynı, dişlərinizin 3D modelini qurmaq və hər hansı iş başlamazdan əvvəl müalicənizin nəticəsini simulyasiya etmək üçün ağızdaxili skaner və dizayn proqramından istifadə edir. Yazılı təsvirə güvənmək əvəzinə, yeni gülüşünüzün real önizləməsini görürsünüz və öhdəlik götürmədən əvvəl tənzimləmələri müzakirə edə bilərsiniz.",
+      "Bu rəqəmsal yanaşma həm də fiziki ölçünün nadir hallarda lazım olduğu deməkdir — çoğu hal qəliblənmir, taranır, bu da əksər xəstələr üçün daha sürətli və rahatdır."
+    ],
+    "who_for": [
+      "Estetik hal planlaşdırırsınız (laminat, taclar, Hollywood Smile) və əvvəlcə nəticəni görmək istəyirsiniz",
+      "Mümkün olduqda ənənəvi ölçüdən qaçınmaq istəyirsiniz",
+      "Müalicəni məsafədən əlaqələndirirsiniz və səyahət etməzdən əvvəl aydın vizual plan istəyirsiniz"
+    ],
+    "expect_steps": [
+      "Dişlərinizin və qapanmanızın ağızdaxili skanı",
+      "Üzünüzün və gülüş xəttinizin fotoları və ölçüləri",
+      "Diş həkiminizlə nəzərdən keçirilən təklif olunan yeni gülüşünüzün 3D dizaynı",
+      "Hər hansı daimi müalicə başlamazdan əvvəl dizaynda tənzimləmələr"
+    ],
+    "why_us": "Klinikamızdakı hər mürəkkəb estetik və ya bərpaedici hal rəqəmsal planlaşdırma ilə başlayır, beləliklə siz və diş həkiminiz ilk gündən eyni vizual plan üzərində işləyirsiniz.",
+    "warranty": "Rəqəmsal planlaşdırma aparılan müalicənin yekun zəmanətinin bir hissəsidir."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Estetik stomatologiya",
+    "title": "Diş Ağardılması",
+    "tagline": "Digər işlərdən əvvəl və ya sonra edilən, tək seansda rəng açılması.",
+    "overview": [
+      "Peşəkar diş ağardılması, reseptsiz məhsullardan daha yüksək gücdə ağartma jelindən istifadə edir, təbii dişlərinizin çalarını təhlükəsiz və bərabər şəkildə açmaq üçün nəzarətli şəraitdə tətbiq olunur. Əksər xəstələr tək seansda nəzərəçarpan nəticə görür.",
+      "Ağardılma yalnız təbii diş minasına təsir edir — mövcud taclar, laminat və ya dolğuların rəngini dəyişməyəcək, buna görə digər müalicələrə nisbətən vaxtlama vacibdir."
+    ],
+    "who_for": [
+      "Dişləriniz təbii olaraq rəngi dəyişib və ya qəhvə, çay, şərab və ya siqaretdən ləkəlidir",
+      "Başqa struktur dəyişiklik olmadan daha parlaq gülüş istəyirsiniz",
+      "Laminat və ya taclar barədə qərar verməzdən əvvəl rəng istinadı istəyirsiniz"
+    ],
+    "expect_steps": [
+      "Dişlərinizin və diş ətinizin ağartmaq üçün kifayət qədər sağlam olduğunun yoxlanması",
+      "Ağartma jeli tətbiq edilməzdən əvvəl diş ətinizin qorunması",
+      "Eyni ziyarətdə bir və ya bir neçə ağartma dövrü",
+      "Nəticənin davam etməsinə kömək etmək üçün qulluq rəhbərliyi"
+    ],
+    "why_us": "Ağartmanı aldığınız hər hansı digər müalicə ətrafında diqqətlə planlaşdırırıq, beləliklə yeni taclarınız və ya laminatlarınız ağardılmış təbii dişlərinizə uyğun rəngdə olur — əksinə deyil.",
+    "warranty": "Nəticəni uzatmaq üçün ağartmadan sonra qulluq tövsiyələri veririk."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "İmplant bərpaları",
+    "title": "Vintlə Bərkidilən Oklüzal Sistem",
+    "tagline": "Sement əvəzinə oklüzal vintlə bərkidilmiş implant bərpaları, beləliklə zədəsiz baxıla və saxlanıla bilər.",
+    "overview": [
+      "İmplant taclar və körpülər iki əsas üsulla bərkidilə bilər: yerinə sementlənir, ya da çeynəmə səthindən keçən kiçik bir vintlə bərkidilir. Vintlə bərkidilən bir bərpa, sementlənmişdən fərqli olaraq, bərpanı kəsmək və ya məhv etmək lazım olmadan qulluq və ya təmir üçün diş həkiminiz tərəfindən çıxarıla və yenidən yerləşdirilə bilər.",
+      "Vint giriş dəliyi taxıldıqdan sonra diş rəngində materialla doldurulur, beləliklə normal istifadədə görünmür."
+    ],
+    "who_for": [
+      "İmplant dəstəkli tac və ya körpü alırsınız və daha asan uzunmüddətli qulluq istəyirsiniz",
+      "Diş həkiminiz konkret haliniz üçün geri çıxarıla bilməni tövsiyə edir",
+      "İmplant ətrafındakı diş ətini qıcıqlandıran artıq sement riskindən qaçınmaq istəyirsiniz"
+    ],
+    "expect_steps": [
+      "İmplant bərpanız vint giriş kanalı ilə dizayn edilir",
+      "Bərpa xüsusi bir vintaçan və moment tənzimləməsi ilə yerinə sıxılır",
+      "Giriş dəliyi diş rəngində dolğu materialı ilə möhürlənir",
+      "Uyğunluğu və qapanmanı təsdiqləmək üçün təqib yoxlamaları"
+    ],
+    "why_us": "Gələcək qulluğun vacib olduğu implant hallarında, müalicənizin uzunmüddətli xidmət göstərilə bilən qalması üçün standart olaraq vintlə bərkidilən bərpaları seçirik.",
+    "warranty": "Vintlə bərkidilmiş okklüzal sistem ömürlük zəmanətimizlə əhatə olunur."
+  },
+  "gingivectomy": {
+    "eyebrow": "Periodontal müalicə",
+    "title": "Gingivektomiya",
+    "tagline": "Gülüşünüzün həm sağlamlığını, həm görünüşünü yaxşılaşdırmaq üçün diş əti xəttinin yenidən formalaşdırılması.",
+    "overview": [
+      "Gingivektomiya, ən çox gülərkən çox diş əti göründüyü 'diş əti gülüşünü' düzəltmək və ya təmiz saxlanması çətin və iltihaba meylli toxumanı çıxarmaq üçün artıq və ya qeyri-bərabər diş əti toxumasını çıxarır və yenidən formalaşdırır. Tək başına və ya laminat və ya taclardan əvvəl hazırlıq addımı kimi edilə bilər.",
+      "Prosedur yerli anesteziya altında edilir və ümumiyyətlə yaxşı tolerasiya olunur, qısa, proqnozlaşdırıla bilən sağalma dövrü ilə."
+    ],
+    "who_for": [
+      "Gülərkən dişdən çox diş əti göstərirsiniz",
+      "Ön dişlərinizdə qeyri-bərabər diş əti səviyyələri var",
+      "Artıq diş əti toxuması dişlərinizi düzgün təmizləməyi çətinləşdirir"
+    ],
+    "expect_steps": [
+      "Diş əti xəttinizin qiymətləndirilməsi və xəritələnməsi, bəzən rəqəmsal olaraq",
+      "Müalicə sahəsini keyitmək üçün yerli anesteziya",
+      "Artıq diş əti toxumasının dəqiq çıxarılması və yenidən formalaşdırılması",
+      "Lazım olduqda təqiblə bir-iki həftə ərzində sağalma"
+    ],
+    "why_us": "Gingivektomiya estetik halın bir hissəsi olduqda, yeni diş əti xəttini və yeni diş formalarını birlikdə planlaşdırırıq, beləliklə hər ikisi bir əlaqələndirilmiş nəticəyə sağalır.",
+    "warranty": "Düzgün sağalmanı təmin etmək üçün prosedurdan sonra qulluq təlimatları veririk."
+  },
+  "sinus-lift": {
+    "eyebrow": "İmplantdan əvvəl cərrahiyyə",
+    "title": "Sinus Liftinq",
+    "tagline": "Lazım olduqda üst çənəyə sümük həcmi əlavə edərək, arxa dişlərdəki implantlara sabit, uzunmüddətli təməl verir.",
+    "overview": [
+      "Sinus boşluqları arxa üst dişlərin dərhal üstündə yerləşir və o bölgədə bir diş itirildikdən sonra, qalan sümük implantı təhlükəsiz dəstəkləmək üçün çox nazik ola bilər. Sinus liftinq sinusun tabanını nəzakətlə qaldırır və altına sümük grefti materialı əlavə edir, sabit implant üçün kifayət qədər hündürlük yaradır.",
+      "Yaxşı qurulmuş bir prosedurdur və nə qədər hündürlüyün lazım olduğundan asılı olaraq, bəzən ayrı cərrahiyyə əvəzinə implant yerləşdirilməsi ilə eyni vaxtda edilə bilər."
+    ],
+    "who_for": [
+      "Üst arxa dişiniz əskikdir və implant istəyirsiniz, lakin sümük hündürlüyünüz məhduddur",
+      "Əvvəlki qiymətləndirmə sinusunuzun implant yerinə çox yaxın olduğunu tapıb",
+      "Uzun müddət əskik olan dişdən üst çənədə sümük itkiniz var"
+    ],
+    "expect_steps": [
+      "Mövcud dəqiq sümük hündürlüyünü ölçmək üçün 3D görüntüləmə",
+      "Sinus zarı nəzakətlə qaldırılır və sümük grefti materialı yerləşdirilir",
+      "İmplant yerləşdirilməsindən əvvəl və ya birlikdə sağalma dövrü (hala görə dəyişir)",
+      "Sağaldıqdan sonra, implant planlandığı kimi yerləşdirilir və ya bərpa edilir"
+    ],
+    "why_us": "Sinus liftinqi yalnız 3D skan həqiqətən lazım olduğunu göstərdikdə tövsiyə edirik və vaxtlamanı implant planınızla əlaqələndiririk ki, minimum sayda ayrı ziyarətiniz olsun.",
+    "warranty": "Sinus liftinq ümumi implant zəmanəti daxilindədir."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontiya",
+    "title": "Kanal Müalicəsi",
+    "tagline": "Diş daxilindəki infeksiyanı təmizləyir və möhürləyir, mümkün olduqda təbii dişi saxlayır.",
+    "overview": [
+      "Çürük və ya çat dişin daxilindəki yumşaq toxumaya çatdıqda, o, infeksiyalaşa və ya iltihablana bilər, ağrı və həssaslığa səbəb ola bilər. Kanal müalicəsi bu infeksiyalı toxumanı dişin daxilindən çıxarır, boşluğu təmizləyir və dezinfeksiya edir, sonra möhürləyir — bu da dişi çəkmək əvəzinə təbii dişinizi saxlamağa imkan verir.",
+      "Müasir kanal müalicəsi yerli anesteziya altında edilir və ümumiyyətlə dolğu qoydurmaqdan daha narahatedici deyil."
+    ],
+    "who_for": [
+      "Xüsusilə isti və ya soyuq qidalarla davamlı diş ağrınız var",
+      "Diş həkimi bir dişin kökündə infeksiya və ya abses aşkar edib",
+      "Dişin sinirinə yaxın dərin bir çatınız və ya köhnə dolğunuz var"
+    ],
+    "expect_steps": [
+      "İnfeksiyanın həcmini qiymətləndirmək və müalicəni planlaşdırmaq üçün rentgen",
+      "Dişi keyitmək üçün yerli anesteziya",
+      "İnfeksiyalı toxumanın çıxarılması və kök kanal(lar)ının təmizlənməsi",
+      "Adətən uzunmüddətli qorunma üçün tacla izlənən dişin möhürlənməsi"
+    ],
+    "why_us": "Mümkün olduqda təbii dişinizi qorumağa üstünlük veririk və müalicə olunan dişi uzunmüddətli güclü saxlamaq üçün adətən sonradan qoruyucu tac tövsiyə edirik.",
+    "warranty": "Kanal müalicəsi yenidən infeksiyaya qarşı zəmanətimizlə əhatə olunur."
+  },
+  "dental-bridge": {
+    "eyebrow": "Bərpaedici stomatologiya",
+    "title": "Diş Körpüsü",
+    "tagline": "Cərrahiyyə olmadan bir və ya bir neçə əskik dişi, boşluğun hər iki tərəfindəki dişlərə bərkidilərək əvəz edən üsul.",
+    "overview": [
+      "Diş körpüsü, əskik dişin qoyduğu boşluğu, boşluğun hər iki tərəfindəki təbii dişlərə taxılan iki tac arasında birləşdirilmiş süni bir diş (pontik) ilə doldurur. Yerinə bərkidildikdən sonra körpü çıxarılmır — onu tam olaraq təbii dişlər kimi təmizləyir və istifadə edirsiniz.",
+      "İmplantdan fərqli olaraq körpü cərrahiyyə və ya sağalma dövrü tələb etmir, bu da onu uyğun namizədlər üçün əskik dişi əvəz etməyin daha sürətli və çox vaxt daha əlçatan yolu edir."
+    ],
+    "who_for": [
+      "Arxa-arxaya bir və ya bir neçə dişiniz əskikdir və sabit, cərrahiyyəsiz həll istəyirsiniz",
+      "Boşluğun yanındakı dişlər artıq tac tələb edir, ya da birini dəstəkləyəcək qədər güclüdür",
+      "İmplant cərrahiyyəsindən və ya tələb etdiyi sağalma müddətindən qaçınmağı üstün tutursunuz"
+    ],
+    "expect_steps": [
+      "Rəqəmsal skan və iki dəstəkləyici dişin hazırlanması",
+      "Daimi körpünüz hazırlanarkən bölgəni müvəqqəti körpü qoruyur",
+      "Körpünüz təbii diş rənginizə uyğun frezelenir və bitirilir",
+      "Son bərkitmə və qapanma yoxlaması"
+    ],
+    "why_us": "Körpünü yalnız dəstəkləyici dişlər həqiqətən bunun üçün kifayət qədər güclü olduqda tövsiyə edirik — əks halda bunu deyirik və əvəzinə implantı müzakirə edirik. Bütün körpü işləri ömürlük zəmanətimizlə əhatə olunur.",
+    "warranty": "Diş körpüləri ömürlük zəmanətimizlə əhatə olunur."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "İrəli implantologiya",
+    "title": "Ziqoma İmplant",
+    "tagline": "Standart implanta uyğun olmayan, ciddi üst çənə sümük itkisi olan xəstələr üçün sabit, eyni gün həlli.",
+    "overview": [
+      "Ziqoma implantlar standart diş implantlarından daha uzundur və üst çənə əvəzinə elmacıq sümüyünə bərkidilir. Bu, üst çənəsində konvensional implant, hətta All-on-4 üçün belə yetərli sümük qalmamış xəstələr üçün təhlükəsiz seçim təqdim edir.",
+      "Elmacıq sümüyü sıx olduğundan və diş itkisindən sonrakı sümük itkisindən nadir hallarda təsirləndiyindən, əvvəlcə sümük grefti və ya sinus liftə ehtiyac olmadan sabit dayaq nöqtəsi təmin edir."
+    ],
+    "who_for": [
+      "Sizə standart implant və ya All-on-4 üçün yetərli üst çənə sümüyünüz olmadığı deyilib",
+      "Əvvəlki sümük grefti uğursuz oldu, ya da greftdən və əlavə sağalma müddətindən qaçınmaq istəyirsiniz",
+      "Üst protez taxırsınız və sabit, çıxarılmayan alternativ istəyirsiniz"
+    ],
+    "expect_steps": [
+      "Elmacıq sümüyünü qiymətləndirmək və implant marşrutunu dəqiq planlaşdırmaq üçün 3D KT skan",
+      "Mürəkkəbliyi səbəbindən adətən ümumi anesteziya və ya dərin sedasiya altında ziqoma implantların cərrahi yerləşdirilməsi",
+      "Çox vaxt eyni gün sabit müvəqqəti körpü bərkidilir",
+      "Sağalma təsdiqləndikdən sonra son, daimi körpü taxılır"
+    ],
+    "why_us": "Ziqoma halları, əksər ümumi implant diş həkimlərinin rutin olaraq etmədiyi cərrahi dəqiqlik tələb edir. Cərrahiyyə komandamız hər halı əvvəlcədən 3D görüntüləmə üzərində planlaşdırır və yerləşdirilən hər implant ömürlük zəmanətimizlə əhatə olunur.",
+    "warranty": "Ziqoma implantlar ömürlük zəmanətimizlə əhatə olunur."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodontiya",
+    "title": "Invisalign / Şəffaf Kapalar",
+    "tagline": "Xüsusi hazırlanmış, çıxarıla bilən şəffaf kapalar seriyası istifadə edərək dişləri demək olar ki görünməz şəkildə düzəltmə üsulu.",
+    "overview": [
+      "Şəffaf kapa müalicəsi, dişlərinizi düzgün mövqeyə tədricən köçürən, hər biri seriyada növbətiyə keçmədən əvvəl bir-iki həftə taxılan xüsusi hazırlanmış, şəffaf plastik kapalar seriyasından istifadə edir. Kapalar şəffaf və çıxarıla bildiyi üçün çoxları taxdığınızı fərq etməyəcək.",
+      "Sabit metal aparatlardan fərqli olaraq, kapalar yemək, fırçalamaq və diş sapı istifadə etmək üçün normal şəkildə çıxarıla bilər."
+    ],
+    "who_for": [
+      "Yüngül-orta sıxlıq, boşluqlar, ya da qapanma pozğunluğunuz var",
+      "Görünən metal breket və məftillər olmadan dişlərinizi düzəltmək istəyirsiniz",
+      "Normal gündəlik rejimə uyğun müalicə istəyən yetkinsiniz"
+    ],
+    "expect_steps": [
+      "Bütün hərəkət ardıcıllığını əvvəlcədən planlaşdırmaq üçün dişlərinizin rəqəmsal 3D skanı",
+      "Müalicəyə başlamadan əvvəl proqnozlaşdırılan nəticənizin ön izləməsini görəcəksiniz",
+      "Bu plana əsaslanaraq tam xüsusi kapa seriyanız istehsal olunur",
+      "İrəliləyişi izləmək üçün dövri yoxlamalarla hər dəsti 1-2 həftə taxırsınız"
+    ],
+    "why_us": "Hər hal ilk skandan etibarən rəqəmsal olaraq planlaşdırılır, beləliklə başlamadan əvvəl təxminən neçə kapaya ehtiyacınız olacağını və son nəticənin necə görünəcəyini bilirsiniz.",
+    "warranty": "Nəticəni qorumaq üçün müalicə tamamlandıqdan sonra saxlayıcı kapalar veririk."
+  }
+}

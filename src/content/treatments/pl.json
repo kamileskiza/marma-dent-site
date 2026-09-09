@@ -1,0 +1,308 @@
+{
+  "all-on-4-5-6": {
+    "eyebrow": "Implanty na całą szczękę",
+    "title": "All-on-4, All-on-5 i All-on-6",
+    "tagline": "Pełny stały łuk podparty zaledwie czterema implantami, podczas jednej wizyty.",
+    "overview": [
+      "All-on-4 zastępuje pełny rząd brakujących lub uszkodzonych zębów stałym, niezdejmowanym mostem, podpartym zaledwie czterema strategicznie umieszczonymi implantami. Dwa są umieszczane prosto, a dwa pod kątem w kierunku tylnej części szczęki, wykorzystując dostępną kość bez potrzeby przeszczepu kości w większości przypadków.",
+      "Ponieważ implanty są umieszczane pod kątem, a cały łuk jest zaprojektowany jako jedna jednostka, przypadek jest często kończony tymczasowym stałym mostem tego samego dnia co operacja."
+    ],
+    "who_for": [
+      "Brakuje Ci większości lub wszystkich zębów w jednej lub obu szczękach",
+      "Nosisz ruchomą protezę i chcesz stałej alternatywy",
+      "Masz pewien ubytek kości, ale chcesz uniknąć przeszczepu kości, jeśli to możliwe"
+    ],
+    "expect_steps": [
+      "Skan 3D i prześwietlenie w celu zaplanowania pozycji implantów i potwierdzenia kwalifikacji",
+      "Chirurgiczne umieszczenie czterech implantów, zazwyczaj w znieczuleniu miejscowym",
+      "Tymczasowy stały most jest mocowany tego samego dnia w większości przypadków",
+      "Po zagojeniu (zazwyczaj kilka miesięcy) zakładany jest ostateczny most"
+    ],
+    "why_us": "Nasz zespół chirurgiczny planuje każdy przypadek All-on-4 cyfrowo przed operacją, dzięki czemu pozycja implantów i ostateczny zgryz są wcześniej zaplanowane. Implanty są objęte naszą dożywotnią gwarancją.",
+    "warranty": "Implanty umieszczone w ramach leczenia All-on-4 są objęte naszą dożywotnią gwarancją.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "Pełny stały łuk podparty zaledwie czterema implantami, podczas jednej wizyty.",
+        "desc": "Klasyczne rozwiązanie na czterech implantach, odpowiednie dla większości pacjentów z wystarczającą objętością kości."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "Pełny stały łuk na pięciu implantach, oferujący dodatkowe wsparcie dla trwalszego efektu długoterminowego.",
+        "desc": "Piąty implant lepiej rozkłada siłę żucia, gdy wymaga tego gęstość kości lub zgryz."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "Pełny stały łuk na sześciu implantach, dla najsilniejszego wsparcia w przypadkach większej utraty kości.",
+        "desc": "Najmocniejsza opcja, zalecana przy znacznej utracie kości lub gdy priorytetem jest maksymalna stabilność."
+      }
+    ]
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologia",
+    "title": "Implanty Zębowe",
+    "tagline": "Trwałe, naturalnie odczuwalne zastąpienie brakujących zębów.",
+    "overview": [
+      "Implant zębowy to tytanowy filar umieszczony w kości szczęki, który pełni funkcję sztucznego korzenia zęba, zwieńczony koroną dopasowaną do naturalnych zębów. W przeciwieństwie do mostu nie polega na sąsiednich zębach jako wsparciu, a w przeciwieństwie do protezy nie porusza się i nie wymaga zdejmowania.",
+      "Implanty mogą zastąpić pojedynczy ząb, kilka zębów mostem lub cały łuk — liczba i rozmieszczenie zależą od tego, ile zębów brakuje i jaki jest stan kości szczęki."
+    ],
+    "who_for": [
+      "Brakuje Ci jednego lub więcej zębów i chcesz stałego, trwałego rozwiązania",
+      "Nie chcesz przygotowywać ani naruszać zdrowych zębów sąsiadujących z luką",
+      "Masz odpowiednią gęstość kości lub jesteś otwarty na przeszczep kości w razie potrzeby"
+    ],
+    "expect_steps": [
+      "Skan 3D i konsultacja w celu oceny kości i zaplanowania pozycji implantu",
+      "Chirurgiczne umieszczenie implantu w znieczuleniu miejscowym",
+      "Okres gojenia, zazwyczaj kilka miesięcy, aby implant zrósł się z kością",
+      "Założenie ostatecznej korony po potwierdzeniu gojenia"
+    ],
+    "why_us": "Pozycja implantu jest planowana cyfrowo przed operacją dla precyzji, a każdy zakładany przez nas implant jest objęty naszą dożywotnią gwarancją.",
+    "warranty": "Wszystkie implanty zębowe są objęte naszą dożywotnią gwarancją."
+  },
+  "hollywood-smile": {
+    "eyebrow": "Stomatologia estetyczna",
+    "title": "Hollywood Smile",
+    "tagline": "Pełne przeprojektowanie górnego łuku zębowego dla jasnego, gotowego do zdjęć uśmiechu.",
+    "overview": [
+      "Hollywood Smile to kompletna kosmetyczna metamorfoza widocznych zębów, zazwyczaj górnego łuku, łącząca kształt, rozmiar, wyrównanie i odcień w jeden harmonijny rezultat. Zwykle stosuje się kombinację licówek porcelanowych lub koron cyrkonowych, zaplanowanych razem jako zestaw, tak aby każdy ząb uzupełniał kolejny.",
+      "Celem nie jest jeden 'idealny' szablonowy uśmiech — kształt twarzy, linia ust i odcień skóry są brane pod uwagę, aby efekt wyglądał jak Twój najlepszy możliwy uśmiech, a nie czyjś inny."
+    ],
+    "who_for": [
+      "Masz kilka problemów kosmetycznych jednocześnie — przebarwienia, ubytki, przerwy lub nierówne zęby",
+      "Chcesz skoordynowanego efektu zamiast naprawiania zębów jeden po drugim",
+      "Jesteś komfortowy z umiarkowanym przygotowaniem przednich zębów"
+    ],
+    "expect_steps": [
+      "Skan cyfrowy i zdjęcia do zaprojektowania nowego uśmiechu w 3D, zanim dotknięty zostanie jakikolwiek ząb",
+      "Minimalne przygotowanie zębów, aby zrobić miejsce na nowe uzupełnienia",
+      "Tymczasowe uzupełnienia podczas wytwarzania stałych licówek lub koron",
+      "Montaż, dopasowanie odcienia i regulacja zgryzu dla ostatecznego efektu"
+    ],
+    "why_us": "Każdy przypadek Hollywood Smile jest najpierw projektowany cyfrowo, dzięki czemu możesz zobaczyć podgląd efektu przed rozpoczęciem leczenia. Prace w cyrkonie i porcelanie objęte są naszą dożywotnią gwarancją.",
+    "warranty": "Uzupełnienia z cyrkonu i porcelany w Twoim Hollywood Smile są objęte naszą dożywotnią gwarancją."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Stomatologia odtwórcza",
+    "title": "Cyrkon monolityczny",
+    "tagline": "Korony i mosty o pełnym konturze, frezowane z jednego bloku cyrkonu — mocne, odporne na odpryski i precyzyjne.",
+    "overview": [
+      "Uzupełnienia z cyrkonu monolitycznego są frezowane z jednego litego bloku tlenku cyrkonu, a nie z metalowego lub warstwowego rdzenia porcelanowego z osobną warstwą porcelany. Ta jednolita konstrukcja czyni je znacznie bardziej odpornymi na odpryski i pęknięcia niż tradycyjne korony warstwowe.",
+      "Nowoczesny cyrkon jest barwiony i charakteryzowany cyfrowo, dzięki czemu gotowa korona lub most naturalnie wtapia się w otaczające zęby zamiast wyglądać płasko lub nieprzezroczyście."
+    ],
+    "who_for": [
+      "Potrzebujesz korony lub mostu na tylnym zębie poddawanym dużej sile żucia",
+      "Miałeś wcześniej odpryski lub pęknięcia uzupełnień porcelanowych",
+      "Zgrzytasz lub zaciskasz zęby i potrzebujesz bardziej trwałego materiału"
+    ],
+    "expect_steps": [
+      "Cyfrowy lub tradycyjny wycisk przygotowanego zęba",
+      "Twoje uzupełnienie jest projektowane i frezowane, aby pasowało do odcienia naturalnych zębów",
+      "Tymczasowe uzupełnienie chroni ząb podczas wytwarzania stałego",
+      "Ostateczny montaż i sprawdzenie zgryzu z regulacjami w razie potrzeby"
+    ],
+    "why_us": "Frezujemy cyrkon monolityczny wewnętrznie z projektowaniem cyfrowym, więc dopasowanie odcienia i przylegania są precyzyjne. Wszystkie prace w cyrkonie objęte są naszą dożywotnią gwarancją.",
+    "warranty": "Uzupełnienia z cyrkonu monolitycznego są objęte naszą dożywotnią gwarancją."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Planowanie cyfrowe",
+    "title": "Cyfrowe Projektowanie Uśmiechu",
+    "tagline": "Twój nowy uśmiech, zaplanowany i podglądnięty w 3D przed rozpoczęciem leczenia.",
+    "overview": [
+      "Cyfrowe projektowanie uśmiechu wykorzystuje skaner wewnątrzustny i oprogramowanie projektowe do zbudowania modelu 3D Twoich zębów i symulacji efektu leczenia przed rozpoczęciem jakichkolwiek prac. Zamiast polegać na pisemnym opisie, widzisz realistyczny podgląd nowego uśmiechu i możesz omówić poprawki przed podjęciem decyzji.",
+      "To cyfrowe podejście oznacza również, że fizyczny wycisk jest rzadko potrzebny — większość przypadków jest skanowana, a nie odlewana, co jest szybsze i wygodniejsze dla większości pacjentów."
+    ],
+    "who_for": [
+      "Planujesz przypadek kosmetyczny (licówki, korony, Hollywood Smile) i chcesz najpierw zobaczyć efekt",
+      "Chcesz uniknąć tradycyjnego wycisku, gdzie to możliwe",
+      "Koordynujesz leczenie zdalnie i chcesz jasny wizualny plan przed podróżą"
+    ],
+    "expect_steps": [
+      "Skan wewnątrzustny Twoich zębów i zgryzu",
+      "Zdjęcia i pomiary Twojej twarzy i linii uśmiechu",
+      "Projekt 3D Twojego proponowanego nowego uśmiechu, omówiony z dentystą",
+      "Poprawki w projekcie przed rozpoczęciem jakiegokolwiek stałego leczenia"
+    ],
+    "why_us": "Każdy złożony przypadek kosmetyczny lub odtwórczy w naszej klinice zaczyna się od planowania cyfrowego, dzięki czemu Ty i Twój dentysta pracujecie na tym samym wizualnym planie od pierwszego dnia.",
+    "warranty": "Planowanie cyfrowe jest częścią ostatecznej gwarancji na przeprowadzone leczenie."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Stomatologia estetyczna",
+    "title": "Wybielanie Zębów",
+    "tagline": "Rozjaśnienie odcienia podczas jednej sesji, wykonywane przed lub po innych zabiegach.",
+    "overview": [
+      "Profesjonalne wybielanie zębów wykorzystuje żel wybielający o wyższym stężeniu niż produkty dostępne bez recepty, stosowany w kontrolowanych warunkach, aby bezpiecznie i równomiernie rozjaśnić odcień naturalnych zębów. Większość pacjentów widzi zauważalny efekt po jednej sesji.",
+      "Wybielanie wpływa tylko na naturalne szkliwo zębów — nie zmieni koloru istniejących koron, licówek ani wypełnień, dlatego czas w stosunku do innych zabiegów ma znaczenie."
+    ],
+    "who_for": [
+      "Twoje zęby są naturalnie przebarwione lub poplamione kawą, herbatą, winem lub paleniem",
+      "Chcesz jaśniejszego uśmiechu bez żadnych innych zmian strukturalnych",
+      "Chcesz punktu odniesienia dla odcienia przed decyzją o licówkach lub koronach"
+    ],
+    "expect_steps": [
+      "Sprawdzenie, czy Twoje zęby i dziąsła są wystarczająco zdrowe do wybielania",
+      "Ochrona dziąseł przed nałożeniem żelu wybielającego",
+      "Jeden lub więcej cykli wybielania podczas tej samej wizyty",
+      "Wskazówki dotyczące pielęgnacji, aby efekt trwał dłużej"
+    ],
+    "why_us": "Starannie planujemy wybielanie wokół każdego innego leczenia, które otrzymujesz, aby Twoje nowe korony lub licówki były dopasowane odcieniem do wybielonych naturalnych zębów — a nie odwrotnie.",
+    "warranty": "Udzielamy zaleceń pielęgnacyjnych po wybielaniu, aby przedłużyć efekt."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Uzupełnienia implantologiczne",
+    "title": "System Okluzyjny Mocowany Śrubą",
+    "tagline": "Uzupełnienia implantologiczne mocowane śrubą okluzyjną zamiast cementu, dzięki czemu można je serwisować bez uszkodzeń.",
+    "overview": [
+      "Korony i mosty implantologiczne mogą być mocowane na dwa główne sposoby: cementowane na miejscu lub mocowane małą śrubą przez powierzchnię okluzyjną. Uzupełnienie mocowane śrubą może zostać zdjęte i ponownie założone przez dentystę w celu konserwacji lub naprawy bez konieczności cięcia lub niszczenia uzupełnienia, w przeciwieństwie do cementowanego.",
+      "Otwór dostępu do śruby jest wypełniany materiałem w kolorze zęba po założeniu, więc nie jest widoczny przy normalnym użytkowaniu."
+    ],
+    "who_for": [
+      "Otrzymujesz koronę lub most wspierany implantem i chcesz łatwiejszej konserwacji długoterminowej",
+      "Twój dentysta zaleca możliwość wyjęcia dla Twojego konkretnego przypadku",
+      "Chcesz uniknąć ryzyka, że nadmiar cementu podrażni dziąsło wokół implantu"
+    ],
+    "expect_steps": [
+      "Twoje uzupełnienie implantologiczne jest projektowane z kanałem dostępu do śruby",
+      "Uzupełnienie jest dokręcane na miejscu specjalnym śrubokrętem z ustawieniem momentu obrotowego",
+      "Otwór dostępu jest uszczelniany materiałem wypełniającym w kolorze zęba",
+      "Kontrole następcze w celu potwierdzenia dopasowania i zgryzu"
+    ],
+    "why_us": "W przypadkach implantologicznych, gdzie liczy się przyszła konserwacja, domyślnie wybieramy uzupełnienia mocowane śrubą, aby leczenie pozostało możliwe do serwisowania na dłuższą metę.",
+    "warranty": "System okluzyjny mocowany śrubą jest objęty naszą dożywotnią gwarancją."
+  },
+  "gingivectomy": {
+    "eyebrow": "Leczenie periodontologiczne",
+    "title": "Gingiwektomia",
+    "tagline": "Przekształcenie linii dziąseł w celu poprawy zarówno zdrowia, jak i wyglądu uśmiechu.",
+    "overview": [
+      "Gingiwektomia usuwa i przekształca nadmierną lub nierówną tkankę dziąseł, najczęściej w celu skorygowania 'dziąsłowego uśmiechu', gdzie przy uśmiechu widać zbyt dużo dziąsła, lub w celu usunięcia tkanki trudnej do utrzymania w czystości i podatnej na stan zapalny. Może być wykonana samodzielnie lub jako etap przygotowawczy przed licówkami lub koronami.",
+      "Zabieg wykonywany jest w znieczuleniu miejscowym i generalnie jest dobrze tolerowany, z krótkim, przewidywalnym okresem gojenia."
+    ],
+    "who_for": [
+      "Pokazujesz więcej dziąsła niż zęba, gdy się uśmiechasz",
+      "Masz nierówne poziomy dziąseł na przednich zębach",
+      "Nadmierna tkanka dziąseł utrudnia prawidłowe czyszczenie zębów"
+    ],
+    "expect_steps": [
+      "Ocena i mapowanie linii dziąseł, czasem cyfrowo",
+      "Znieczulenie miejscowe w celu znieczulenia obszaru leczenia",
+      "Precyzyjne usunięcie i przekształcenie nadmiernej tkanki dziąseł",
+      "Gojenie przez tydzień do dwóch tygodni, z kontrolą w razie potrzeby"
+    ],
+    "why_us": "Gdy gingiwektomia jest częścią przypadku kosmetycznego, planujemy nową linię dziąseł i nowe kształty zębów razem, aby oba goiły się w jeden skoordynowany efekt.",
+    "warranty": "Udzielamy wskazówek dotyczących pielęgnacji po zabiegu, aby zapewnić prawidłowe gojenie."
+  },
+  "sinus-lift": {
+    "eyebrow": "Chirurgia przed implantacją",
+    "title": "Podniesienie Zatoki (Sinus Lift)",
+    "tagline": "W razie potrzeby dodaje objętość kości w górnej szczęce, zapewniając implantom w tylnych zębach stabilną, trwałą podstawę.",
+    "overview": [
+      "Jamy zatokowe znajdują się bezpośrednio nad tylnymi górnymi zębami, a po utracie zęba w tym obszarze pozostała kość może stać się zbyt cienka, aby bezpiecznie podeprzeć implant. Podniesienie zatoki delikatnie unosi dno zatoki i dodaje materiał przeszczepu kostnego pod spodem, tworząc wystarczającą wysokość dla stabilnego implantu.",
+      "Jest to dobrze ugruntowany zabieg i, w zależności od tego, ile wysokości jest potrzebne, czasem może być wykonany jednocześnie z umieszczeniem implantu, a nie jako osobna operacja."
+    ],
+    "who_for": [
+      "Brakuje Ci górnego tylnego zęba i chcesz implant, ale masz ograniczoną wysokość kości",
+      "Wcześniejsza ocena wykazała, że Twoja zatoka jest zbyt blisko miejsca implantu",
+      "Masz utratę kości w górnej szczęce z powodu długo brakującego zęba"
+    ],
+    "expect_steps": [
+      "Obrazowanie 3D w celu zmierzenia dokładnej dostępnej wysokości kości",
+      "Błona zatoki jest delikatnie unoszona, a materiał przeszczepu kostnego jest umieszczany",
+      "Okres gojenia (różni się w zależności od przypadku) przed lub razem z umieszczeniem implantu",
+      "Po zagojeniu implant jest umieszczany lub odbudowywany zgodnie z planem"
+    ],
+    "why_us": "Zalecamy podniesienie zatoki tylko wtedy, gdy skan 3D naprawdę pokazuje, że jest to konieczne, i koordynujemy czas z Twoim planem implantologicznym, aby zminimalizować liczbę osobnych wizyt.",
+    "warranty": "Podniesienie zatoki jest objęte ogólną gwarancją na implanty."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodoncja",
+    "title": "Leczenie Kanałowe",
+    "tagline": "Usuwa infekcję z wnętrza zęba i uszczelnia go, ratując naturalny ząb, gdy tylko to możliwe.",
+    "overview": [
+      "Gdy próchnica lub pęknięcie dosięgają miękkiej tkanki wewnątrz zęba, może ona ulec infekcji lub zapaleniu, powodując ból i wrażliwość. Leczenie kanałowe usuwa tę zainfekowaną tkankę z wnętrza zęba, czyści i dezynfekuje przestrzeń, a następnie ją uszczelnia — pozwalając zachować naturalny ząb zamiast go usuwać.",
+      "Nowoczesne leczenie kanałowe wykonywane jest w znieczuleniu miejscowym i generalnie nie jest bardziej nieprzyjemne niż założenie wypełnienia."
+    ],
+    "who_for": [
+      "Masz utrzymujący się ból zęba, szczególnie przy gorących lub zimnych pokarmach",
+      "Dentysta zidentyfikował infekcję lub ropień u korzenia zęba",
+      "Masz głębokie pęknięcie lub starą plombę sięgającą blisko nerwu zęba"
+    ],
+    "expect_steps": [
+      "Prześwietlenie w celu oceny zasięgu infekcji i zaplanowania leczenia",
+      "Znieczulenie miejscowe w celu znieczulenia zęba",
+      "Usunięcie zainfekowanej tkanki i oczyszczenie kanału(ów) korzeniowego(ych)",
+      "Uszczelnienie zęba, zazwyczaj następnie korona dla długoterminowej ochrony"
+    ],
+    "why_us": "Priorytetowo traktujemy ratowanie naturalnego zęba tam, gdzie jest to realna opcja, i zazwyczaj zalecamy następnie ochronną koronę, aby leczony ząb pozostał mocny na dłuższą metę.",
+    "warranty": "Leczenie kanałowe jest objęte naszą gwarancją przed ponowną infekcją."
+  },
+  "dental-bridge": {
+    "eyebrow": "Stomatologia odtwórcza",
+    "title": "Most Protetyczny",
+    "tagline": "Stały sposób na zastąpienie jednego lub więcej brakujących zębów bez operacji, zakotwiczony w zębach po obu stronach luki.",
+    "overview": [
+      "Most protetyczny wypełnia lukę pozostawioną przez brakujący ząb sztucznym zębem (przęsłem) połączonym między dwiema koronami, które są zakładane na naturalne zęby po obu stronach przestrzeni. Po zamocowaniu most nie jest zdejmowany — czyścisz go i nosisz dokładnie tak jak naturalne zęby.",
+      "W przeciwieństwie do implantu, most nie wymaga operacji ani okresu gojenia, co czyni go szybszą i często bardziej przystępną cenowo drogą zastąpienia brakującego zęba dla odpowiednich kandydatów."
+    ],
+    "who_for": [
+      "Brakuje Ci jednego lub kilku zębów z rzędu i chcesz stałego, niechirurgicznego rozwiązania",
+      "Zęby obok luki już potrzebują koron, lub są wystarczająco mocne, aby ją podeprzeć",
+      "Wolisz uniknąć operacji implantologicznej lub wymaganego czasu gojenia"
+    ],
+    "expect_steps": [
+      "Skan cyfrowy i przygotowanie dwóch zębów filarowych",
+      "Tymczasowy most chroni obszar podczas wykonywania stałego",
+      "Twój most jest frezowany i wykańczany, aby pasował do koloru Twoich naturalnych zębów",
+      "Ostateczne zamocowanie i sprawdzenie zgryzu"
+    ],
+    "why_us": "Zalecamy most tylko wtedy, gdy zęby filarowe są rzeczywiście wystarczająco mocne — w przeciwnym razie powiemy to i omówimy zamiast tego implant. Wszystkie prace mostowe są objęte naszą dożywotnią gwarancją.",
+    "warranty": "Mosty protetyczne są objęte naszą dożywotnią gwarancją."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Zaawansowana implantologia",
+    "title": "Implanty Jarzmowe",
+    "tagline": "Stałe rozwiązanie tego samego dnia dla pacjentów z poważnym ubytkiem kości szczęki górnej, którzy nie kwalifikują się do standardowych implantów.",
+    "overview": [
+      "Implanty jarzmowe są dłuższe niż standardowe implanty zębowe i zakotwiczają się w kości jarzmowej zamiast w szczęce górnej. To czyni je opcją dla pacjentów, których szczęka górna straciła zbyt dużo kości, aby konwencjonalne implanty — lub nawet All-on-4 — mogły zostać bezpiecznie umieszczone.",
+      "Ponieważ kość jarzmowa jest gęsta i rzadko dotknięta ubytkiem kości, który następuje po utracie zębów, zapewnia stabilny punkt zakotwiczenia bez konieczności wcześniejszego przeszczepu kości lub podniesienia zatoki."
+    ],
+    "who_for": [
+      "Powiedziano Ci, że nie masz wystarczającej ilości kości szczęki górnej dla standardowych implantów lub All-on-4",
+      "Poprzedni przeszczep kości nie powiódł się, lub wolisz uniknąć przeszczepu i dodatkowego czasu gojenia",
+      "Nosisz górną protezę i chcesz stałej, niewyjmowanej alternatywy"
+    ],
+    "expect_steps": [
+      "Skan 3D CT w celu oceny kości jarzmowej i precyzyjnego zaplanowania trajektorii implantu",
+      "Chirurgiczne umieszczenie implantów jarzmowych, zazwyczaj w znieczuleniu ogólnym lub głębokiej sedacji ze względu na złożoność",
+      "Często tego samego dnia mocowany jest tymczasowy stały most",
+      "Ostateczny, stały most jest zakładany po potwierdzeniu gojenia"
+    ],
+    "why_us": "Przypadki jarzmowe wymagają precyzji chirurgicznej, której większość ogólnych implantologów nie wykonuje rutynowo. Nasz zespół chirurgiczny planuje każdy przypadek wcześniej na obrazowaniu 3D, a każdy założony implant jest objęty naszą dożywotnią gwarancją.",
+    "warranty": "Implanty jarzmowe są objęte naszą dożywotnią gwarancją."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodoncja",
+    "title": "Invisalign / Przezroczyste Nakładki",
+    "tagline": "Niemal niewidoczny sposób na wyprostowanie zębów za pomocą serii spersonalizowanych, wyjmowanych przezroczystych nakładek.",
+    "overview": [
+      "Leczenie przezroczystymi nakładkami wykorzystuje serię indywidualnie wykonanych, przezroczystych plastikowych nakładek, które stopniowo przesuwają zęby do prawidłowej pozycji, każda noszona przez tydzień do dwóch przed przejściem do następnej w serii. Ponieważ nakładki są przezroczyste i wyjmowane, większość ludzi nie zauważy, że je nosisz.",
+      "W przeciwieństwie do stałych metalowych aparatów, nakładki można wyjąć, aby normalnie jeść, szczotkować zęby i używać nici dentystycznej."
+    ],
+    "who_for": [
+      "Masz łagodne do umiarkowanego stłoczenie, przerwy lub wady zgryzu",
+      "Chcesz wyprostować zęby bez widocznych metalowych zamków i drutów",
+      "Jesteś dorosłym, który chce leczenia dopasowanego do normalnej codziennej rutyny"
+    ],
+    "expect_steps": [
+      "Cyfrowy skan 3D zębów w celu wcześniejszego zaplanowania całej sekwencji ruchu",
+      "Zobaczysz podgląd przewidywanego efektu przed zaangażowaniem się w leczenie",
+      "Cała Twoja seria spersonalizowanych nakładek jest wytwarzana na podstawie tego planu",
+      "Nosisz każdy zestaw 1-2 tygodnie, z okresowymi kontrolami w celu śledzenia postępów"
+    ],
+    "why_us": "Każdy przypadek jest planowany cyfrowo od pierwszego skanu, dzięki czemu w przybliżeniu wiesz, ile nakładek będziesz potrzebować i jak powinien wyglądać efekt końcowy, zanim zaczniesz.",
+    "warranty": "Po zakończeniu leczenia dostarczamy szyny retencyjne, aby utrzymać efekt."
+  }
+}

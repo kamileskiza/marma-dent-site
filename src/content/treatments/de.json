@@ -1,0 +1,330 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Kosmetische Zahnheilkunde",
+    "title": "Hollywood Smile",
+    "tagline": "Eine komplette Neugestaltung des Oberkiefers für ein strahlendes, kamerareifes Lächeln.",
+    "overview": [
+      "Ein Hollywood Smile ist eine vollständige kosmetische Erneuerung der sichtbaren Zähne, meist im Oberkiefer, bei der Form, Größe, Ausrichtung und Farbe zu einem harmonischen Ergebnis kombiniert werden. Meist wird eine Kombination aus Porzellanveneers oder Zirkonkronen verwendet, die als Set gemeinsam geplant werden, sodass jeder Zahn den nächsten ergänzt.",
+      "Das Ziel ist nicht ein einziges „perfektes“ Schablonenlächeln — Ihre Gesichtsform, Lippenlinie und Hautton werden berücksichtigt, damit das Ergebnis wie Ihr bestmögliches Lächeln aussieht, nicht das von jemand anderem."
+    ],
+    "who_for": [
+      "Sie haben mehrere kosmetische Anliegen gleichzeitig — Verfärbungen, Absplitterungen, Lücken oder unregelmäßige Zähne",
+      "Sie möchten ein koordiniertes Ergebnis statt einzelne Zähne zu korrigieren",
+      "Sie sind mit einer moderaten Präparation der Frontzähne einverstanden"
+    ],
+    "expect_steps": [
+      "Digitaler Scan und Fotos zur 3D-Gestaltung Ihres neuen Lächelns, bevor ein Zahn berührt wird",
+      "Minimale Präparation der Zähne, um Platz für die neuen Restaurationen zu schaffen",
+      "Provisorische Restaurationen, während Ihre permanenten Veneers oder Kronen gefräst werden",
+      "Einsetzen, Farbabgleich und Bissanpassung für das endgültige Ergebnis"
+    ],
+    "why_us": "Jeder Hollywood-Smile-Fall wird zunächst digital gestaltet, sodass Sie eine Vorschau Ihres Ergebnisses sehen können, bevor die Behandlung beginnt. Zirkon- und Porzellanarbeiten sind durch unsere lebenslange Garantie abgedeckt.",
+    "warranty": "Zirkon- und Porzellanrestaurationen in Ihrem Hollywood Smile sind durch unsere lebenslange Garantie abgedeckt."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Restaurative Zahnheilkunde",
+    "title": "Monolithisches Zirkon",
+    "tagline": "Vollkontur-Kronen und -Brücken, gefräst aus einem einzigen Zirkonblock — stark, splitterresistent und präzise.",
+    "overview": [
+      "Monolithische Zirkonrestaurationen werden aus einem einzigen massiven Zirkoniumoxidblock gefräst, statt aus einem Metall- oder porzellangeschichteten Kern mit separater Porzellanverblendung. Diese einteilige Konstruktion macht sie deutlich widerstandsfähiger gegen Absplitterungen und Brüche als herkömmliche geschichtete Kronen.",
+      "Modernes Zirkon wird digital eingefärbt und charakterisiert, sodass die fertige Krone oder Brücke sich natürlich in Ihre umliegenden Zähne einfügt, statt flach oder undurchsichtig zu wirken."
+    ],
+    "who_for": [
+      "Sie benötigen eine Krone oder Brücke an einem Backenzahn mit hoher Kaubelastung",
+      "Sie hatten schon einmal Absplitterungen oder Brüche bei Porzellanrestaurationen",
+      "Sie knirschen oder pressen mit den Zähnen und benötigen ein widerstandsfähigeres Material"
+    ],
+    "expect_steps": [
+      "Digitaler oder traditioneller Abdruck des präparierten Zahns",
+      "Ihre Restauration wird passend zur Farbe Ihrer natürlichen Zähne gestaltet und gefräst",
+      "Ein Provisorium schützt den Zahn, während das dauerhafte Werkstück hergestellt wird",
+      "Endgültiges Einsetzen und Bisskontrolle mit Anpassungen nach Bedarf"
+    ],
+    "why_us": "Wir fräsen monolithisches Zirkon selbst mit digitaler Gestaltung, sodass Farbabgleich und Passform präzise sind. Alle Zirkonarbeiten tragen unsere lebenslange Garantie.",
+    "warranty": "Monolithische Zirkonrestaurationen sind durch unsere lebenslange Garantie abgedeckt."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologie",
+    "title": "Zahnimplantate",
+    "tagline": "Ein dauerhafter, natürlich wirkender Ersatz für fehlende Zähne.",
+    "overview": [
+      "Ein Zahnimplantat ist ein Titanpfosten, der in den Kieferknochen eingesetzt wird, um als künstliche Zahnwurzel zu dienen, gekrönt von einer Krone, die zu Ihren natürlichen Zähnen passt. Anders als eine Brücke stützt es sich nicht auf benachbarte Zähne, und anders als eine Prothese bewegt es sich nicht und muss nicht herausgenommen werden.",
+      "Implantate können einen einzelnen Zahn, mehrere Zähne mit einer Brücke oder einen ganzen Bogen ersetzen — die Anzahl und Platzierung hängen davon ab, wie viele Zähne fehlen und in welchem Zustand Ihr Kieferknochen ist."
+    ],
+    "who_for": [
+      "Ihnen fehlen ein oder mehrere Zähne und Sie möchten eine feste, dauerhafte Lösung",
+      "Sie möchten die gesunden Zähne neben der Lücke nicht präparieren oder beeinträchtigen",
+      "Sie haben ausreichende Knochendichte oder sind offen für einen Knochenaufbau bei Bedarf"
+    ],
+    "expect_steps": [
+      "3D-Scan und Beratung zur Beurteilung des Knochens und Planung der Implantatposition",
+      "Chirurgische Platzierung des Implantats unter örtlicher Betäubung",
+      "Eine Heilungsphase, typischerweise einige Monate, damit das Implantat mit dem Knochen verwächst",
+      "Einsetzen der endgültigen Krone nach bestätigter Heilung"
+    ],
+    "why_us": "Die Implantatposition wird vor der Operation digital für Präzision geplant, und jedes von uns gesetzte Implantat ist durch unsere lebenslange Garantie abgedeckt.",
+    "warranty": "Alle Zahnimplantate sind durch unsere lebenslange Garantie abgedeckt."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Digitale Planung",
+    "title": "Digitales Smile Design",
+    "tagline": "Ihr neues Lächeln, geplant und in 3D vorgeschaut, bevor die Behandlung beginnt.",
+    "overview": [
+      "Digitales Smile Design verwendet einen Intraoralscanner und Designsoftware, um ein 3D-Modell Ihrer Zähne zu erstellen und das Ergebnis Ihrer Behandlung zu simulieren, bevor irgendeine Arbeit beginnt. Statt sich auf eine schriftliche Beschreibung zu verlassen, sehen Sie eine realistische Vorschau Ihres neuen Lächelns und können Anpassungen besprechen, bevor Sie sich festlegen.",
+      "Dieser digital-first-Ansatz bedeutet auch, dass ein physischer Abdruck selten nötig ist — die meisten Fälle werden gescannt, nicht abgeformt, was für die meisten Patienten schneller und angenehmer ist."
+    ],
+    "who_for": [
+      "Sie planen einen kosmetischen Fall (Veneers, Kronen, Hollywood Smile) und möchten zuerst das Ergebnis sehen",
+      "Sie möchten einen traditionellen Abdruck möglichst vermeiden",
+      "Sie koordinieren die Behandlung aus der Ferne und möchten einen klaren visuellen Plan, bevor Sie reisen"
+    ],
+    "expect_steps": [
+      "Intraoraler Scan Ihrer Zähne und Ihres Bisses",
+      "Fotos und Messungen Ihres Gesichts und Ihrer Lächellinie",
+      "Ein 3D-Design Ihres vorgeschlagenen neuen Lächelns, gemeinsam mit Ihrem Zahnarzt besprochen",
+      "Anpassungen am Design, bevor eine dauerhafte Behandlung beginnt"
+    ],
+    "why_us": "Jeder komplexe kosmetische oder restaurative Fall in unserer Klinik beginnt mit digitaler Planung, sodass Sie und Ihr Zahnarzt von Tag eins an mit demselben visuellen Plan arbeiten.",
+    "warranty": "Die digitale Planung ist Teil der abschließenden Garantie für die durchgeführte Behandlung."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Kosmetische Zahnheilkunde",
+    "title": "Zahnaufhellung",
+    "tagline": "Eine Aufhellung des Farbtons in einer Sitzung, vor oder nach anderen Arbeiten durchgeführt.",
+    "overview": [
+      "Professionelle Zahnaufhellung verwendet ein stärkeres Bleichgel als frei verkäufliche Produkte, das unter kontrollierten Bedingungen angewendet wird, um den Farbton Ihrer natürlichen Zähne sicher und gleichmäßig aufzuhellen. Die meisten Patienten sehen ein spürbares Ergebnis in einer einzigen Sitzung.",
+      "Die Aufhellung wirkt sich nur auf natürlichen Zahnschmelz aus — sie verändert nicht die Farbe bestehender Kronen, Veneers oder Füllungen, weshalb die Zeitplanung relativ zu anderen Behandlungen wichtig ist."
+    ],
+    "who_for": [
+      "Ihre Zähne sind von Natur aus verfärbt oder durch Kaffee, Tee, Wein oder Rauchen verfärbt",
+      "Sie möchten ein strahlenderes Lächeln ohne andere strukturelle Veränderungen",
+      "Sie möchten eine Farbreferenz, bevor Sie sich für Veneers oder Kronen entscheiden"
+    ],
+    "expect_steps": [
+      "Eine Prüfung, ob Ihre Zähne und Ihr Zahnfleisch gesund genug für eine Aufhellung sind",
+      "Schutz Ihres Zahnfleischs, bevor das Bleichgel aufgetragen wird",
+      "Ein oder mehrere Aufhellungszyklen während desselben Termins",
+      "Nachsorge-Anleitung, um das Ergebnis haltbar zu machen"
+    ],
+    "why_us": "Wir planen die Aufhellung sorgfältig um jede andere Behandlung herum, die Sie erhalten, sodass Ihre neuen Kronen oder Veneers zu Ihren aufgehellten, natürlichen Zähnen passen — nicht umgekehrt.",
+    "warranty": "Wir geben Nachsorgeempfehlungen nach dem Bleaching, um das Ergebnis zu verlängern."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantatrestaurationen",
+    "title": "Verschraubtes Okklusalsystem",
+    "tagline": "Implantatrestaurationen, die mit einer Okklusalschraube statt Zement befestigt werden, sodass sie ohne Beschädigung zugänglich und wartbar sind.",
+    "overview": [
+      "Implantatkronen und -brücken können auf zwei Hauptarten befestigt werden: einzementiert oder mit einer kleinen Schraube durch die Kaufläche befestigt. Eine verschraubte Restauration kann von Ihrem Zahnarzt zur Wartung oder Reparatur entfernt und wieder eingesetzt werden, ohne die Restauration schneiden oder zerstören zu müssen, anders als bei einer zementierten.",
+      "Das Schraubenzugangsloch wird nach dem Einsetzen mit zahnfarbenem Material gefüllt, sodass es bei normaler Nutzung nicht sichtbar ist."
+    ],
+    "who_for": [
+      "Sie erhalten eine implantatgetragene Krone oder Brücke und möchten eine einfachere Langzeitwartung",
+      "Ihr Zahnarzt empfiehlt Rückholbarkeit für Ihren speziellen Fall",
+      "Sie möchten das Risiko vermeiden, dass überschüssiger Zement das Zahnfleisch um ein Implantat reizt"
+    ],
+    "expect_steps": [
+      "Ihre Implantatrestauration wird mit einem Schraubenzugangskanal gestaltet",
+      "Die Restauration wird mit einem speziellen Schraubendreher und Drehmomenteinstellung festgezogen",
+      "Das Zugangsloch wird mit zahnfarbenem Füllmaterial versiegelt",
+      "Nachkontrollen zur Bestätigung von Passform und Biss"
+    ],
+    "why_us": "Bei Implantatfällen, bei denen zukünftige Wartung wichtig ist, greifen wir standardmäßig auf verschraubte Restaurationen zurück, damit Ihre Behandlung langfristig wartbar bleibt.",
+    "warranty": "Das schraubenretinierte Okklusalsystem ist durch unsere lebenslange Garantie abgedeckt."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontale Behandlung",
+    "title": "Gingivektomie",
+    "tagline": "Neugestaltung des Zahnfleischrands zur Verbesserung sowohl der Gesundheit als auch der Ästhetik Ihres Lächelns.",
+    "overview": [
+      "Eine Gingivektomie entfernt und formt überschüssiges oder unregelmäßiges Zahnfleischgewebe neu, meist um ein „Gummy Smile“ zu korrigieren, bei dem beim Lächeln zu viel Zahnfleisch sichtbar ist, oder um Gewebe zu entfernen, das schwer sauber zu halten und entzündungsanfällig ist. Sie kann eigenständig oder als Vorbereitungsschritt vor Veneers oder Kronen durchgeführt werden.",
+      "Der Eingriff erfolgt unter örtlicher Betäubung und wird im Allgemeinen gut vertragen, mit einer kurzen, vorhersehbaren Heilungsphase."
+    ],
+    "who_for": [
+      "Sie zeigen beim Lächeln mehr Zahnfleisch als Zahn",
+      "Sie haben ungleiche Zahnfleischniveaus an Ihren Frontzähnen",
+      "Überschüssiges Zahnfleischgewebe erschwert die richtige Reinigung Ihrer Zähne"
+    ],
+    "expect_steps": [
+      "Beurteilung und Kartierung Ihres Zahnfleischrands, manchmal digital",
+      "Örtliche Betäubung zur Betäubung des Behandlungsbereichs",
+      "Präzise Entfernung und Neuformung des überschüssigen Zahnfleischgewebes",
+      "Heilung über ein bis zwei Wochen, mit Nachsorge bei Bedarf"
+    ],
+    "why_us": "Wenn eine Gingivektomie Teil eines kosmetischen Falls ist, planen wir den neuen Zahnfleischrand und die neuen Zahnformen gemeinsam, sodass beide zu einem koordinierten Ergebnis verheilen.",
+    "warranty": "Wir geben Nachsorgehinweise nach dem Eingriff, um eine ordnungsgemäße Heilung zu gewährleisten."
+  },
+  "sinus-lift": {
+    "eyebrow": "Chirurgie vor Implantation",
+    "title": "Sinuslift",
+    "tagline": "Fügt bei Bedarf Knochenvolumen im Oberkiefer hinzu und gibt Implantaten in den hinteren Zähnen ein stabiles, dauerhaftes Fundament.",
+    "overview": [
+      "Die Nasennebenhöhlen liegen direkt über den hinteren oberen Zähnen, und nach dem Verlust eines Zahns in diesem Bereich kann der verbleibende Knochen zu dünn werden, um ein Implantat sicher zu tragen. Ein Sinuslift hebt sanft den Boden der Nasennebenhöhle an und fügt darunter Knochenaufbaumaterial hinzu, wodurch genug Höhe für ein stabiles Implantat entsteht.",
+      "Es ist ein bewährtes Verfahren, das je nach benötigter Höhe manchmal gleichzeitig mit der Implantatplatzierung durchgeführt werden kann, statt als separate Operation."
+    ],
+    "who_for": [
+      "Ihnen fehlt ein oberer hinterer Zahn und Sie möchten ein Implantat, haben aber begrenzte Knochenhöhe",
+      "Eine vorherige Beurteilung ergab, dass Ihre Nasennebenhöhle zu nah an der Implantatstelle ist",
+      "Sie haben Knochenschwund im Oberkiefer durch einen lange fehlenden Zahn"
+    ],
+    "expect_steps": [
+      "3D-Bildgebung zur Messung der genauen verfügbaren Knochenhöhe",
+      "Die Nasennebenhöhlenschleimhaut wird sanft angehoben und Knochenaufbaumaterial platziert",
+      "Eine Heilungsphase (variiert je nach Fall) vor oder gleichzeitig mit der Implantatplatzierung",
+      "Nach der Heilung wird das Implantat wie geplant gesetzt oder versorgt"
+    ],
+    "why_us": "Wir empfehlen einen Sinuslift nur, wenn der 3D-Scan wirklich zeigt, dass er nötig ist, und koordinieren den Zeitplan mit Ihrem Implantatplan, damit Sie die minimale Anzahl separater Besuche haben.",
+    "warranty": "Der Sinuslift ist im Rahmen der allgemeinen Implantatgarantie abgedeckt."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontie",
+    "title": "Wurzelkanalbehandlung",
+    "tagline": "Entfernt die Infektion im Inneren des Zahns und versiegelt ihn, um den natürlichen Zahn wo möglich zu erhalten.",
+    "overview": [
+      "Wenn Karies oder ein Riss das weiche Gewebe im Inneren eines Zahns erreicht, kann es sich infizieren oder entzünden und Schmerzen und Empfindlichkeit verursachen. Eine Wurzelkanalbehandlung entfernt dieses infizierte Gewebe aus dem Inneren des Zahns, reinigt und desinfiziert den Raum und versiegelt ihn — sodass Sie Ihren natürlichen Zahn behalten können, statt ihn zu ziehen.",
+      "Moderne Wurzelkanalbehandlung erfolgt unter örtlicher Betäubung und ist im Allgemeinen nicht unangenehmer als das Legen einer Füllung."
+    ],
+    "who_for": [
+      "Sie haben anhaltende Zahnschmerzen, besonders bei heißen oder kalten Speisen",
+      "Ein Zahnarzt hat eine Infektion oder einen Abszess an der Wurzel eines Zahns festgestellt",
+      "Sie haben einen tiefen Riss oder eine alte Füllung, die nah an den Nerv des Zahns reicht"
+    ],
+    "expect_steps": [
+      "Röntgenaufnahme zur Beurteilung des Ausmaßes der Infektion und Planung der Behandlung",
+      "Örtliche Betäubung zur Betäubung des Zahns",
+      "Entfernung des infizierten Gewebes und Reinigung des/der Wurzelkanäle",
+      "Versiegelung des Zahns, meist gefolgt von einer Krone für langfristigen Schutz"
+    ],
+    "why_us": "Wir priorisieren die Erhaltung Ihres natürlichen Zahns, wo dies eine praktikable Option ist, und empfehlen danach typischerweise eine schützende Krone, um den behandelten Zahn langfristig stark zu halten.",
+    "warranty": "Die Wurzelkanalbehandlung ist durch unsere Garantie gegen erneute Infektion abgedeckt."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantate für den ganzen Kiefer",
+    "title": "All-on-4, All-on-5 & All-on-6",
+    "tagline": "Ein vollständig festsitzender Zahnbogen auf nur vier Implantaten, in einem Termin.",
+    "overview": [
+      "All-on-4 ersetzt eine vollständige Reihe fehlender oder versagender Zähne durch eine feste, nicht abnehmbare Brücke, die von nur vier strategisch platzierten Implantaten getragen wird. Zwei werden gerade und zwei zur Rückseite des Kiefers hin abgewinkelt platziert, wobei in den meisten Fällen vorhandener Knochen genutzt wird, ohne dass ein Knochenaufbau nötig ist.",
+      "Da die Implantate abgewinkelt platziert werden und der gesamte Bogen als eine Einheit konzipiert ist, wird der Fall oft mit einer provisorischen festsitzenden Brücke am selben Tag wie die Operation abgeschlossen."
+    ],
+    "who_for": [
+      "Ihnen fehlen die meisten oder alle Zähne in einem oder beiden Kiefern",
+      "Sie tragen eine herausnehmbare Prothese und möchten eine feste Alternative",
+      "Sie haben etwas Knochenschwund, möchten aber einen Knochenaufbau nach Möglichkeit vermeiden"
+    ],
+    "expect_steps": [
+      "3D-Scan und Röntgen zur Planung der Implantatposition und Bestätigung Ihrer Eignung",
+      "Chirurgische Platzierung von vier Implantaten, meist unter örtlicher Betäubung",
+      "In den meisten Fällen wird noch am selben Tag eine provisorische feste Brücke befestigt",
+      "Nach der Heilung (typischerweise einige Monate) wird Ihre endgültige Brücke eingesetzt"
+    ],
+    "why_us": "Unser Chirurgenteam plant jeden All-on-4-Fall vor der Operation digital, sodass Implantatposition und der endgültige Biss im Voraus festgelegt sind. Implantate sind durch unsere lebenslange Garantie abgedeckt.",
+    "warranty": "Implantate, die im Rahmen Ihrer All-on-4-Behandlung gesetzt werden, sind durch unsere lebenslange Garantie abgedeckt.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "Ein vollständig festsitzender Zahnbogen auf nur vier Implantaten, in einem Termin.",
+        "desc": "All-on-4 ersetzt eine vollständige Reihe fehlender oder versagender Zähne durch eine feste, nicht abnehmbare Brücke, die von nur vier strategisch platzierten Implantaten getragen wird. Zwei werden gerade und zwei zur Rückseite des Kiefers hin abgewinkelt platziert, wobei in den meisten Fällen vorhandener Knochen genutzt wird, ohne dass ein Knochenaufbau nötig ist."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "Ein vollständig festsitzender Zahnbogen auf fünf Implantaten — zusätzlicher Halt für ein stabileres Langzeitergebnis.",
+        "desc": "All-on-5 folgt dem gleichen Prinzip wie All-on-4 — ein vollständiger Bogen fester Zähne auf wenigen Implantaten — fügt aber ein fünftes Implantat für eine bessere Verteilung der Kaukraft hinzu. Dies wird oft empfohlen, wenn Ihre Knochendichte oder Ihr Bissmuster von der zusätzlichen Unterstützung profitieren würde."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "Ein vollständig festsitzender Zahnbogen auf sechs Implantaten — der stärkste Halt bei stärkerem Knochenabbau.",
+        "desc": "All-on-6 verwendet sechs Implantate zur Unterstützung eines vollständig festsitzenden Bogens und bietet die breiteste Verteilung der Kaukraft unter den All-on-X-Optionen. Es wird typischerweise für Patienten mit erheblichem Knochenschwund, sehr starkem Biss oder in Fällen empfohlen, in denen langfristige Stabilität Priorität hat."
+      }
+    ]
+  },
+  "emax-veneers": {
+    "eyebrow": "Kosmetische Zahnheilkunde",
+    "title": "E-max Veneers",
+    "tagline": "Hauchdünne Porzellanveneers, die Ihren natürlichen Zahnschmelz erhalten und Ihr Lächeln verwandeln.",
+    "overview": [
+      "E-max-Veneers sind dünne Schalen aus Lithiumdisilikat-Keramik, die auf die Vorderfläche Ihrer Zähne geklebt werden. Da das Material selbst bei einem Bruchteil eines Millimeters stark ist, ist in den meisten Fällen nur eine minimale, manchmal gar keine Entfernung von Zahnsubstanz nötig — anders als bei einer vollständigen Krone.",
+      "Die Keramik hat eine glasartige Transluzenz, die natürlichen Zahnschmelz nachahmt, sodass gut platzierte Veneers selbst aus der Nähe kaum von echten Zähnen zu unterscheiden sind."
+    ],
+    "who_for": [
+      "Sie haben Verfärbungen, Absplitterungen oder kleine Lücken, die Sie ohne vollständige Krone korrigieren möchten",
+      "Sie möchten so viel wie möglich von Ihrem natürlichen Zahn erhalten",
+      "Sie vergleichen Veneers mit vollständigen Zirkonkronen für Ihre Frontzähne"
+    ],
+    "expect_steps": [
+      "Digitaler Scan und Farbauswahl zur Gestaltung Ihrer Veneers",
+      "Minimale oder keine Präparation der Zahnoberfläche, je nach Fall",
+      "Veneers werden intern gefräst und passend zur gewählten Farbe fertiggestellt",
+      "Verklebung und abschließende Politur für ein nahtloses, natürliches Ergebnis"
+    ],
+    "why_us": "Wir setzen standardmäßig auf minimal-invasives E-max, wo Ihr Fall es zulässt, damit Sie so viel natürlichen Zahn wie möglich behalten. Alle Veneer-Arbeiten sind durch unsere lebenslange Garantie abgedeckt.",
+    "warranty": "E-max-Veneers sind durch unsere lebenslange Garantie abgedeckt."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Fortgeschrittene Implantologie",
+    "title": "Zygomatische Implantate",
+    "tagline": "Eine feste Lösung am selben Tag für Patienten mit starkem Knochenschwund im Oberkiefer, die für Standardimplantate nicht infrage kommen.",
+    "overview": [
+      "Zygomatische Implantate sind länger als Standard-Zahnimplantate und verankern sich im Jochbein (Os zygomaticum) statt im Oberkiefer. Dies macht sie zu einer Option für Patienten, deren Oberkiefer zu viel Knochen verloren hat, um herkömmliche Implantate — oder sogar All-on-4 — sicher zu platzieren.",
+      "Da das Jochbein dicht ist und selten vom Knochenschwund betroffen ist, der auf Zahnverlust folgt, bietet es einen stabilen Ankerpunkt, ohne dass vorher ein Knochenaufbau oder Sinuslift nötig ist, was die Behandlung sonst um Monate verlängern kann."
+    ],
+    "who_for": [
+      "Ihnen wurde gesagt, dass Sie nicht genug Oberkieferknochen für Standardimplantate oder All-on-4 haben",
+      "Ein vorheriger Knochenaufbau ist fehlgeschlagen, oder Sie möchten einen Aufbau und die zusätzliche Heilungszeit vermeiden",
+      "Sie tragen eine Oberkieferprothese und möchten eine feste, nicht abnehmbare Alternative"
+    ],
+    "expect_steps": [
+      "3D-CT-Scan zur Beurteilung Ihres Jochbeins und präzisen Planung der Implantatbahn",
+      "Chirurgische Platzierung der zygomatischen Implantate, aufgrund der Komplexität meist unter Vollnarkose oder tiefer Sedierung",
+      "Oft wird noch am selben Tag eine feste provisorische Brücke befestigt",
+      "Endgültige, permanente Brücke wird nach bestätigter Heilung eingesetzt"
+    ],
+    "why_us": "Zygomatische Fälle erfordern chirurgische Präzision, die die meisten allgemeinen Implantologen nicht routinemäßig ausführen. Unser Chirurgenteam plant jeden Fall vorab anhand von 3D-Bildgebung, und jedes gesetzte Implantat ist durch unsere lebenslange Garantie abgedeckt.",
+    "warranty": "Zygomatische Implantate sind durch unsere lebenslange Garantie abgedeckt."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restaurative Zahnheilkunde",
+    "title": "Zahnbrücke",
+    "tagline": "Eine feste Möglichkeit, einen oder mehrere fehlende Zähne ohne Operation zu ersetzen, verankert an den Zähnen beidseits der Lücke.",
+    "overview": [
+      "Eine Zahnbrücke füllt die durch einen fehlenden Zahn entstandene Lücke mit einem künstlichen Zahn (Brückenglied), der zwischen zwei Kronen verschmolzen ist, die auf die natürlichen Zähne beidseits der Lücke gesetzt werden. Einmal befestigt, wird eine Brücke nicht herausgenommen — Sie reinigen und tragen sie genau wie natürliche Zähne.",
+      "Anders als ein Implantat erfordert eine Brücke keine Operation oder Heilungszeit, was sie für geeignete Kandidaten zu einem schnelleren und oft kostengünstigeren Weg macht, einen fehlenden Zahn zu ersetzen."
+    ],
+    "who_for": [
+      "Ihnen fehlen ein oder mehrere Zähne in Folge und Sie möchten eine feste, nicht-chirurgische Lösung",
+      "Die Zähne neben der Lücke benötigen bereits Kronen oder sind stark genug, um eine zu tragen",
+      "Sie möchten eine Implantatoperation oder die dafür nötige Heilungszeit vermeiden"
+    ],
+    "expect_steps": [
+      "Digitaler Scan und Präparation der beiden Pfeilerzähne",
+      "Eine provisorische Brücke schützt den Bereich, während Ihre permanente hergestellt wird",
+      "Ihre Brücke wird gefräst und passend zur Farbe Ihrer natürlichen Zähne fertiggestellt",
+      "Endgültige Befestigung und Bisskontrolle"
+    ],
+    "why_us": "Wir empfehlen eine Brücke nur, wenn die Pfeilerzähne wirklich stark genug dafür sind — andernfalls sagen wir das offen und besprechen stattdessen ein Implantat. Alle Brückenarbeiten sind durch unsere lebenslange Garantie abgedeckt.",
+    "warranty": "Zahnbrücken sind durch unsere lebenslange Garantie abgedeckt."
+  },
+  "invisalign": {
+    "eyebrow": "Kieferorthopädie",
+    "title": "Invisalign / Durchsichtige Zahnschienen",
+    "tagline": "Eine nahezu unsichtbare Möglichkeit, Zähne mit einer Serie individueller, herausnehmbarer durchsichtiger Schienen zu begradigen.",
+    "overview": [
+      "Die Behandlung mit durchsichtigen Zahnschienen verwendet eine Serie individuell angefertigter, transparenter Kunststoffschienen, die Ihre Zähne schrittweise in die richtige Position bewegen, jede wird ein bis zwei Wochen getragen, bevor zur nächsten in der Serie gewechselt wird. Da die Schienen durchsichtig und herausnehmbar sind, werden die meisten Menschen nicht bemerken, dass Sie sie tragen.",
+      "Anders als feste Metallzahnspangen können die Schienen zum Essen, Zähneputzen und für Zahnseide normal herausgenommen werden, was viele erwachsene Patienten im Alltag und Berufsleben als deutlich handhabbarer empfinden."
+    ],
+    "who_for": [
+      "Sie haben leichte bis mittlere Zahnfehlstellungen, Lücken oder Bissfehler",
+      "Sie möchten Ihre Zähne begradigen, ohne sichtbare Metallbrackets und -drähte",
+      "Sie sind Erwachsener und möchten eine Behandlung, die sich in den normalen Alltag einfügt"
+    ],
+    "expect_steps": [
+      "Digitaler 3D-Scan Ihrer Zähne, um die gesamte Bewegungssequenz vorab zu planen",
+      "Sie sehen eine Vorschau Ihres voraussichtlichen Ergebnisses, bevor Sie sich zur Behandlung entscheiden",
+      "Ihre komplette Serie individueller Schienen wird basierend auf diesem Plan hergestellt",
+      "Sie tragen jedes Set 1–2 Wochen, mit regelmäßigen Kontrollen zur Fortschrittsverfolgung"
+    ],
+    "why_us": "Jeder Fall wird ab dem ersten Scan digital geplant, sodass Sie ungefähr wissen, wie viele Schienen Sie benötigen werden und wie das Endergebnis aussehen sollte, bevor Sie beginnen.",
+    "warranty": "Nach Abschluss der Behandlung stellen wir Retentionsschienen zur Verfügung, um das Ergebnis zu erhalten."
+  }
+}

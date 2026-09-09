@@ -1,0 +1,308 @@
+{
+  "all-on-4-5-6": {
+    "eyebrow": "Implantaten voor de volledige boog",
+    "title": "All-on-4, All-on-5 & All-on-6",
+    "tagline": "Een volledig vaste boog ondersteund door slechts vier implantaten, in één bezoek.",
+    "overview": [
+      "All-on-4 vervangt een volledige rij ontbrekende of falende tanden door een vaste, niet-afneembare brug op slechts vier strategisch geplaatste implantaten. Twee worden recht geplaatst en twee schuin naar de achterkant van de kaak, met gebruik van het beschikbare bot zonder dat in de meeste gevallen een botopbouw nodig is.",
+      "Omdat de implantaten schuin geplaatst worden en de hele boog als één geheel is ontworpen, wordt de behandeling vaak op dezelfde dag als de operatie afgerond met een tijdelijke vaste brug."
+    ],
+    "who_for": [
+      "U mist de meeste of alle tanden in één of beide kaken",
+      "U draagt een uitneembaar kunstgebit en wilt een vast alternatief",
+      "U heeft enig botverlies maar wilt een botopbouw indien mogelijk vermijden"
+    ],
+    "expect_steps": [
+      "3D-scan en röntgenfoto om de implantaatpositie te plannen en uw geschiktheid te bevestigen",
+      "Chirurgische plaatsing van vier implantaten, meestal onder lokale verdoving",
+      "In de meeste gevallen wordt dezelfde dag een tijdelijke vaste brug geplaatst",
+      "Na genezing (meestal enkele maanden) wordt uw definitieve brug geplaatst"
+    ],
+    "why_us": "Ons chirurgisch team plant elk All-on-4 geval digitaal vóór de operatie, zodat implantaatpositie en de uiteindelijke beet vooraf zijn uitgestippeld. Implantaten vallen onder onze levenslange garantie.",
+    "warranty": "Implantaten geplaatst als onderdeel van uw All-on-4 behandeling vallen onder onze levenslange garantie.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "Een volledig vaste boog ondersteund door slechts vier implantaten, in één bezoek.",
+        "desc": "De klassieke oplossing met vier implantaten — geschikt voor de meeste patiënten met voldoende botvolume."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "Een volledig vaste boog op vijf implantaten, voor extra steun en een sterker langetermijnresultaat.",
+        "desc": "Een vijfde implantaat verdeelt de kauwkracht beter wanneer uw botdichtheid of beet dit vereist."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "Een volledig vaste boog op zes implantaten, voor de sterkste steun bij meer botverlies.",
+        "desc": "De sterkste optie, aanbevolen bij aanzienlijk botverlies of wanneer maximale stabiliteit de prioriteit is."
+      }
+    ]
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologie",
+    "title": "Tandimplantaten",
+    "tagline": "Een permanente, natuurlijk aanvoelende vervanging voor ontbrekende tanden.",
+    "overview": [
+      "Een tandimplantaat is een titanium pin die in het kaakbot wordt geplaatst om als kunstmatige tandwortel te dienen, bekroond met een kroon die bij uw natuurlijke tanden past. In tegenstelling tot een brug steunt het niet op naburige tanden, en in tegenstelling tot een kunstgebit beweegt het niet en hoeft het niet te worden verwijderd.",
+      "Implantaten kunnen één tand, meerdere tanden met een brug, of een hele boog vervangen — het aantal en de plaatsing hangen af van hoeveel tanden ontbreken en de staat van uw kaakbot."
+    ],
+    "who_for": [
+      "U mist één of meer tanden en wilt een vaste, permanente oplossing",
+      "U wilt de gezonde tanden naast de opening niet prepareren of aantasten",
+      "U heeft voldoende botdichtheid, of staat open voor een botopbouw indien nodig"
+    ],
+    "expect_steps": [
+      "3D-scan en consult om het bot te beoordelen en de implantaatpositie te plannen",
+      "Chirurgische plaatsing van het implantaat onder lokale verdoving",
+      "Een genezingsperiode, meestal enkele maanden, zodat het implantaat vergroeit met het bot",
+      "Plaatsing van de definitieve kroon zodra de genezing is bevestigd"
+    ],
+    "why_us": "De implantaatpositie wordt vóór de operatie digitaal gepland voor precisie, en elk implantaat dat wij plaatsen valt onder onze levenslange garantie.",
+    "warranty": "Alle tandimplantaten vallen onder onze levenslange garantie."
+  },
+  "hollywood-smile": {
+    "eyebrow": "Cosmetische tandheelkunde",
+    "title": "Hollywood Smile",
+    "tagline": "Een volledige herontwerp van de bovenboog voor een stralende, cameraklare glimlach.",
+    "overview": [
+      "Een Hollywood Smile is een complete cosmetische make-over van de zichtbare tanden, meestal de bovenboog, waarbij vorm, grootte, uitlijning en tint worden gecombineerd tot één harmonieus resultaat. Meestal wordt een combinatie van porseleinen facings of zirkonium kronen gebruikt, samen gepland als een set zodat elke tand de volgende aanvult.",
+      "Het doel is niet één 'perfecte' standaardglimlach — uw gezichtsvorm, lippenlijn en huidtint worden allemaal meegenomen, zodat het resultaat eruitziet als uw best mogelijke glimlach, niet die van iemand anders."
+    ],
+    "who_for": [
+      "U heeft meerdere cosmetische zorgen tegelijk — verkleuring, afgebroken stukjes, tussenruimtes of ongelijke tanden",
+      "U wilt een gecoördineerd resultaat in plaats van tand voor tand te repareren",
+      "U bent comfortabel met een matige preparatie van de voortanden"
+    ],
+    "expect_steps": [
+      "Digitale scan en foto's om uw nieuwe glimlach in 3D te ontwerpen voordat een tand wordt aangeraakt",
+      "Minimale preparatie van de tanden om ruimte te maken voor de nieuwe restauraties",
+      "Tijdelijke restauraties terwijl uw permanente facings of kronen worden vervaardigd",
+      "Plaatsing, kleurmatching en beetaanpassing voor het eindresultaat"
+    ],
+    "why_us": "Elke Hollywood Smile-behandeling wordt eerst digitaal ontworpen, zodat u een voorbeeld van uw resultaat kunt zien voordat de behandeling begint. Zirkonium- en porseleinwerk valt onder onze levenslange garantie.",
+    "warranty": "Zirkonium- en porseleinrestauraties in uw Hollywood Smile vallen onder onze levenslange garantie."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Restauratieve tandheelkunde",
+    "title": "Monolithisch zirkonium",
+    "tagline": "Kronen en bruggen met volledige contour, gefreesd uit één blok zirkonium — sterk, splintervrij en precies.",
+    "overview": [
+      "Monolithische zirkoniumrestauraties worden gefreesd uit één massief blok zirkoniumoxide, in plaats van een metalen of porseleinlaag-kern met een aparte porseleinlaag. Deze eendelige constructie maakt ze aanzienlijk bestendiger tegen afsplinteren en breuk dan traditionele gelaagde kronen.",
+      "Modern zirkonium wordt digitaal getint en gekarakteriseerd, zodat de voltooide kroon of brug natuurlijk samensmelt met uw omliggende tanden in plaats van plat of ondoorzichtig te lijken."
+    ],
+    "who_for": [
+      "U heeft een kroon of brug nodig op een achterste tand met hoge kaubelasting",
+      "U heeft eerder poreleinrestauraties gehad die afsplinterden of braken",
+      "U klemt of knarst met uw tanden en heeft een duurzamer materiaal nodig"
+    ],
+    "expect_steps": [
+      "Digitale of traditionele afdruk van de geprepareerde tand",
+      "Uw restauratie wordt ontworpen en gefreesd om bij de tint van uw natuurlijke tanden te passen",
+      "Een tijdelijke restauratie beschermt de tand terwijl de permanente wordt vervaardigd",
+      "Definitieve plaatsing en beetcontrole met aanpassingen indien nodig"
+    ],
+    "why_us": "Wij frezen monolithisch zirkonium intern met digitaal ontwerp, zodat kleurmatching en pasvorm precies zijn. Al het zirkoniumwerk draagt onze levenslange garantie.",
+    "warranty": "Monolithische zirkoniumrestauraties vallen onder onze levenslange garantie."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Digitale planning",
+    "title": "Digitaal Smile Design",
+    "tagline": "Uw nieuwe glimlach, gepland en vooraf bekeken in 3D voordat de behandeling begint.",
+    "overview": [
+      "Digitaal Smile Design gebruikt een intraorale scanner en ontwerpsoftware om een 3D-model van uw tanden te bouwen en het resultaat van uw behandeling te simuleren voordat er werk begint. In plaats van te vertrouwen op een schriftelijke beschrijving, ziet u een realistische voorvertoning van uw nieuwe glimlach en kunt u aanpassingen bespreken voordat u zich vastlegt.",
+      "Deze digitale aanpak betekent ook dat een fysieke afdruk zelden nodig is — de meeste gevallen worden gescand, niet afgevormd, wat sneller en comfortabeler is voor de meeste patiënten."
+    ],
+    "who_for": [
+      "U plant een cosmetisch geval (facings, kronen, Hollywood Smile) en wilt eerst het resultaat zien",
+      "U wilt een traditionele afdruk vermijden waar mogelijk",
+      "U coördineert de behandeling op afstand en wilt een duidelijk visueel plan voordat u reist"
+    ],
+    "expect_steps": [
+      "Intraorale scan van uw tanden en beet",
+      "Foto's en metingen van uw gezicht en glimlachlijn",
+      "Een 3D-ontwerp van uw voorgestelde nieuwe glimlach, besproken met uw tandarts",
+      "Aanpassingen aan het ontwerp voordat een permanente behandeling begint"
+    ],
+    "why_us": "Elk complex cosmetisch of restauratief geval in onze kliniek begint met digitale planning, zodat u en uw tandarts vanaf dag één met hetzelfde visuele plan werken.",
+    "warranty": "Digitale planning maakt deel uit van de uiteindelijke garantie op de uitgevoerde behandeling."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Cosmetische tandheelkunde",
+    "title": "Tanden bleken",
+    "tagline": "Een opheldering van de tint in één sessie, uitgevoerd voor of na ander werk.",
+    "overview": [
+      "Professioneel tanden bleken gebruikt een bleekgel met hogere sterkte dan producten zonder recept, toegepast onder gecontroleerde omstandigheden om de tint van uw natuurlijke tanden veilig en gelijkmatig op te helderen. De meeste patiënten zien een merkbaar resultaat in één sessie.",
+      "Bleken beïnvloedt alleen natuurlijk tandglazuur — het verandert niet de kleur van bestaande kronen, facings of vullingen, daarom is timing ten opzichte van andere behandelingen belangrijk."
+    ],
+    "who_for": [
+      "Uw tanden zijn van nature verkleurd of bevlekt door koffie, thee, wijn of roken",
+      "U wilt een stralendere glimlach zonder andere structurele veranderingen",
+      "U wilt een tintreferentie voordat u beslist over facings of kronen"
+    ],
+    "expect_steps": [
+      "Een controle of uw tanden en tandvlees gezond genoeg zijn voor bleken",
+      "Bescherming van uw tandvlees voordat de bleekgel wordt aangebracht",
+      "Een of meer bleekcycli tijdens hetzelfde bezoek",
+      "Nazorgadvies om het resultaat te helpen behouden"
+    ],
+    "why_us": "Wij plannen het bleken zorgvuldig rond elke andere behandeling die u ondergaat, zodat uw nieuwe kronen of facings qua tint overeenkomen met uw gebleekte natuurlijke tanden — niet andersom.",
+    "warranty": "We geven nazorgadvies na het bleken om het resultaat te verlengen."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantaatrestauraties",
+    "title": "Schroefbevestigd occlusaal systeem",
+    "tagline": "Implantaatrestauraties bevestigd met een occlusale schroef in plaats van cement, zodat ze zonder schade toegankelijk en te onderhouden zijn.",
+    "overview": [
+      "Implantaatkronen en -bruggen kunnen op twee hoofdmanieren worden bevestigd: gecementeerd op hun plaats, of vastgezet met een kleine schroef door het kauwvlak. Een schroefbevestigde restauratie kan door uw tandarts worden verwijderd en opnieuw geplaatst voor onderhoud of reparatie zonder de restauratie te hoeven snijden of vernietigen, in tegenstelling tot een gecementeerde.",
+      "Het schroeftoegangsgat wordt na plaatsing gevuld met tandkleurig materiaal, zodat het bij normaal gebruik niet zichtbaar is."
+    ],
+    "who_for": [
+      "U krijgt een implantaatgedragen kroon of brug en wilt eenvoudiger langdurig onderhoud",
+      "Uw tandarts adviseert terughaalbaarheid voor uw specifieke geval",
+      "U wilt het risico vermijden dat overtollig cement het tandvlees rond een implantaat irriteert"
+    ],
+    "expect_steps": [
+      "Uw implantaatrestauratie wordt ontworpen met een schroeftoegangskanaal",
+      "De restauratie wordt vastgedraaid met een specifieke schroevendraaier en momentinstelling",
+      "Het toegangsgat wordt verzegeld met tandkleurig vulmateriaal",
+      "Vervolgcontroles om pasvorm en beet te bevestigen"
+    ],
+    "why_us": "Voor implantaatgevallen waar toekomstig onderhoud belangrijk is, kiezen wij standaard voor schroefbevestigde restauraties, zodat uw behandeling op lange termijn onderhoudbaar blijft.",
+    "warranty": "Het schroefgeretineerde occlusale systeem valt onder onze levenslange garantie."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontale behandeling",
+    "title": "Gingivectomie",
+    "tagline": "Herprofilering van de tandvleeslijn om zowel de gezondheid als het uiterlijk van uw glimlach te verbeteren.",
+    "overview": [
+      "Een gingivectomie verwijdert en herprofileert overtollig of ongelijk tandvleesweefsel, meestal om een 'gummy smile' te corrigeren waarbij te veel tandvlees zichtbaar is wanneer u glimlacht, of om weefsel te verwijderen dat moeilijk schoon te houden is en vatbaar voor ontsteking. Het kan alleen worden uitgevoerd of als voorbereidende stap vóór facings of kronen.",
+      "De procedure wordt uitgevoerd onder lokale verdoving en wordt over het algemeen goed verdragen, met een korte, voorspelbare genezingsperiode."
+    ],
+    "who_for": [
+      "U toont meer tandvlees dan tand wanneer u glimlacht",
+      "U heeft ongelijke tandvleesniveaus op uw voortanden",
+      "Overtollig tandvleesweefsel maakt het moeilijk om uw tanden goed schoon te maken"
+    ],
+    "expect_steps": [
+      "Beoordeling en in kaart brengen van uw tandvleeslijn, soms digitaal",
+      "Lokale verdoving om het behandelgebied te verdoven",
+      "Precieze verwijdering en herprofilering van het overtollige tandvleesweefsel",
+      "Genezing over één tot twee weken, met vervolgcontrole indien nodig"
+    ],
+    "why_us": "Wanneer een gingivectomie deel uitmaakt van een cosmetisch geval, plannen wij de nieuwe tandvleeslijn en de nieuwe tandvormen samen, zodat beide genezen tot één gecoördineerd resultaat.",
+    "warranty": "We geven nazorgadvies na de ingreep om een goede genezing te waarborgen."
+  },
+  "sinus-lift": {
+    "eyebrow": "Chirurgie vóór implantatie",
+    "title": "Sinuslift",
+    "tagline": "Voegt indien nodig botvolume toe aan de bovenkaak, waardoor implantaten in de achterste tanden een stabiele, blijvende basis krijgen.",
+    "overview": [
+      "De sinusholtes bevinden zich direct boven de achterste bovenste tanden, en na het verlies van een tand in dat gebied kan het resterende bot te dun worden om een implantaat veilig te ondersteunen. Een sinuslift tilt voorzichtig de bodem van de sinus op en voegt daaronder botopbouwmateriaal toe, waardoor voldoende hoogte ontstaat voor een stabiel implantaat.",
+      "Het is een goed gevestigde procedure en, afhankelijk van hoeveel hoogte nodig is, kan soms tegelijk met de implantaatplaatsing worden uitgevoerd in plaats van als aparte operatie."
+    ],
+    "who_for": [
+      "U mist een bovenste achterste tand en wilt een implantaat, maar heeft beperkte bothoogte",
+      "Een eerdere beoordeling toonde aan dat uw sinus te dicht bij de implantaatlocatie is",
+      "U heeft botverlies in de bovenkaak door een lang ontbrekende tand"
+    ],
+    "expect_steps": [
+      "3D-beeldvorming om de exacte beschikbare bothoogte te meten",
+      "Het sinusslijmvlies wordt voorzichtig opgetild en botopbouwmateriaal wordt geplaatst",
+      "Een genezingsperiode (varieert per geval) voor of samen met de implantaatplaatsing",
+      "Zodra genezen, wordt het implantaat geplaatst of hersteld zoals gepland"
+    ],
+    "why_us": "Wij adviseren een sinuslift alleen wanneer de 3D-scan echt aantoont dat het nodig is, en coördineren de timing met uw implantaatplan zodat u het minimale aantal aparte bezoeken heeft.",
+    "warranty": "De sinuslift valt onder de algemene implantaatgarantie."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontie",
+    "title": "Wortelkanaalbehandeling",
+    "tagline": "Verwijdert de infectie in de tand en verzegelt deze, waarbij de natuurlijke tand zoveel mogelijk behouden blijft.",
+    "overview": [
+      "Wanneer cariës of een scheur het zachte weefsel binnenin een tand bereikt, kan het geïnfecteerd of ontstoken raken, wat pijn en gevoeligheid veroorzaakt. Wortelkanaalbehandeling verwijdert dit geïnfecteerde weefsel van binnenuit de tand, reinigt en desinfecteert de ruimte, en verzegelt deze vervolgens — zodat u uw natuurlijke tand kunt behouden in plaats van deze te trekken.",
+      "Moderne wortelkanaalbehandeling wordt uitgevoerd onder lokale verdoving en is over het algemeen niet ongemakkelijker dan het plaatsen van een vulling."
+    ],
+    "who_for": [
+      "U heeft aanhoudende tandpijn, vooral bij warm of koud eten",
+      "Een tandarts heeft infectie of een abces bij de wortel van een tand vastgesteld",
+      "U heeft een diepe scheur of oude vulling die dicht bij de zenuw van de tand komt"
+    ],
+    "expect_steps": [
+      "Röntgenfoto om de omvang van de infectie te beoordelen en de behandeling te plannen",
+      "Lokale verdoving om de tand te verdoven",
+      "Verwijdering van het geïnfecteerde weefsel en reiniging van het/de wortelkanaal/kanalen",
+      "Verzegeling van de tand, meestal gevolgd door een kroon voor langdurige bescherming"
+    ],
+    "why_us": "Wij geven prioriteit aan het behoud van uw natuurlijke tand waar dit een haalbare optie is, en adviseren daarna meestal een beschermende kroon om de behandelde tand op lange termijn sterk te houden.",
+    "warranty": "Wortelkanaalbehandeling valt onder onze garantie tegen herinfectie."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restauratieve tandheelkunde",
+    "title": "Tandbrug",
+    "tagline": "Een vaste manier om een of meer ontbrekende tanden te vervangen zonder chirurgie, verankerd aan de tanden aan weerszijden van de opening.",
+    "overview": [
+      "Een tandbrug vult de opening die is achtergelaten door een ontbrekende tand met een valse tand (pontic) gesmolten tussen twee kronen, die worden geplaatst op de natuurlijke tanden aan weerszijden van de ruimte. Eenmaal vastgezet, komt een brug niet meer los — u reinigt en draagt hem precies zoals natuurlijke tanden.",
+      "In tegenstelling tot een implantaat vereist een brug geen operatie of genezingsperiode, waardoor het een snellere en vaak betaalbaardere manier is om een ontbrekende tand te vervangen voor geschikte kandidaten."
+    ],
+    "who_for": [
+      "U mist een of enkele tanden op een rij en wilt een vaste, niet-chirurgische oplossing",
+      "De tanden naast de opening hebben al kronen nodig, of zijn sterk genoeg om er een te dragen",
+      "U geeft er de voorkeur aan implantaatchirurgie of de vereiste genezingstijd te vermijden"
+    ],
+    "expect_steps": [
+      "Digitale scan en voorbereiding van de twee steuntanden",
+      "Een tijdelijke brug beschermt het gebied terwijl uw permanente wordt gemaakt",
+      "Uw brug wordt gefreesd en afgewerkt om overeen te komen met uw natuurlijke tandkleur",
+      "Definitieve bevestiging en beetcontrole"
+    ],
+    "why_us": "Wij bevelen alleen een brug aan wanneer de steuntanden er echt sterk genoeg voor zijn — anders zeggen we dat en bespreken we in plaats daarvan een implantaat. Al het brugwerk valt onder onze levenslange garantie.",
+    "warranty": "Tandbruggen vallen onder onze levenslange garantie."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Geavanceerde implantologie",
+    "title": "Zygomatische implantaten",
+    "tagline": "Een vaste oplossing op dezelfde dag voor patiënten met ernstig botverlies in de bovenkaak die niet in aanmerking komen voor standaard implantaten.",
+    "overview": [
+      "Zygomatische implantaten zijn langer dan standaard tandimplantaten en verankeren in het jukbeen in plaats van de bovenkaak. Dit maakt ze een optie voor patiënten wiens bovenkaak te veel bot heeft verloren om conventionele implantaten — of zelfs All-on-4 — veilig te plaatsen.",
+      "Omdat het jukbeen dicht is en zelden wordt aangetast door het botverlies dat volgt op tandverlies, biedt het een stabiel ankerpunt zonder dat vooraf een botopbouw of sinuslift nodig is."
+    ],
+    "who_for": [
+      "U is verteld dat u niet genoeg bovenkaakbot heeft voor standaard implantaten of All-on-4",
+      "Een eerdere botopbouw is mislukt, of u geeft er de voorkeur aan een opbouw en de extra genezingstijd te vermijden",
+      "U draagt een bovenprothese en wilt een vaste, niet-afneembare alternatief"
+    ],
+    "expect_steps": [
+      "3D CT-scan om uw jukbeen te beoordelen en het implantaattraject nauwkeurig te plannen",
+      "Chirurgische plaatsing van de zygomatische implantaten, meestal onder algehele narcose of diepe sedatie gezien de complexiteit",
+      "Vaak wordt dezelfde dag een vaste tijdelijke brug bevestigd",
+      "Definitieve, permanente brug wordt geplaatst zodra genezing is bevestigd"
+    ],
+    "why_us": "Zygomatische gevallen vereisen chirurgische precisie die de meeste algemene implantologen niet routinematig uitvoeren. Ons chirurgisch team plant elk geval vooraf op 3D-beeldvorming, en elk geplaatst implantaat valt onder onze levenslange garantie.",
+    "warranty": "Zygomatische implantaten vallen onder onze levenslange garantie."
+  },
+  "invisalign": {
+    "eyebrow": "Orthodontie",
+    "title": "Invisalign / Doorzichtige beugels",
+    "tagline": "Een bijna onzichtbare manier om tanden recht te zetten met een serie op maat gemaakte, uitneembare doorzichtige trays.",
+    "overview": [
+      "Behandeling met doorzichtige beugels gebruikt een serie op maat gemaakte, transparante plastic trays die uw tanden geleidelijk naar hun juiste positie bewegen, elk gedragen gedurende een tot twee weken voordat u overgaat naar de volgende in de serie. Omdat de trays doorzichtig en uitneembaar zijn, zal de meeste mensen niet merken dat u ze draagt.",
+      "In tegenstelling tot vaste metalen beugels kunnen trays worden uitgenomen om normaal te eten, te poetsen en te flossen."
+    ],
+    "who_for": [
+      "U heeft milde tot matige scheefstand, gaten of beetafwijkingen",
+      "U wilt uw tanden rechtzetten zonder zichtbare metalen beugels en draden",
+      "U bent een volwassene die een behandeling wil die past bij een normale dagelijkse routine"
+    ],
+    "expect_steps": [
+      "Digitale 3D-scan van uw tanden om de hele bewegingssequentie vooraf te plannen",
+      "U ziet een voorbeeld van uw verwachte resultaat voordat u zich vastlegt op de behandeling",
+      "Uw volledige serie op maat gemaakte trays wordt gefabriceerd op basis van dat plan",
+      "U draagt elke set 1-2 weken, met periodieke controles om de voortgang te volgen"
+    ],
+    "why_us": "Elk geval wordt vanaf de eerste scan digitaal gepland, zodat u ongeveer weet hoeveel trays u nodig heeft en hoe het eindresultaat eruit moet zien voordat u begint.",
+    "warranty": "Na afronding van de behandeling leveren we retentiebeugels om het resultaat te behouden."
+  }
+}

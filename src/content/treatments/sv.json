@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Estetisk tandvård",
+    "title": "Hollywood Smile",
+    "tagline": "En fullständig omdesign av den övre bågen för ett strålande, symmetriskt, kamerafärdigt leende.",
+    "overview": [
+      "Hollywood Smile är en fullständig kosmetisk makeover av de synliga tänderna, vanligtvis den övre bågen, som kombinerar form, storlek, inriktning och nyans till ett harmoniskt resultat. Vanligtvis används en kombination av porslinsfasetter eller zirkoniumkronor, planerade tillsammans som en uppsättning så att varje tand kompletterar nästa.",
+      "Målet är inte ett enda „perfekt“ mallleende — din ansiktsform, läpplinje och hudton beaktas alla så att resultatet ser ut som ditt bästa möjliga leende, inte någon annans."
+    ],
+    "who_for": [
+      "Du har flera kosmetiska bekymmer samtidigt — missfärgning, flisor, mellanrum eller ojämna tänder",
+      "Du vill ha ett koordinerat resultat istället för att fixa en tand i taget",
+      "Du är bekväm med måttlig slipning av framtänderna"
+    ],
+    "expect_steps": [
+      "Digital skanning och foton för att designa ditt nya leende i 3D innan någon tand berörs",
+      "Minimal slipning av tänderna för att skapa utrymme för de nya restaurationerna",
+      "Tillfälliga restaurationer medan dina permanenta fasetter eller kronor fräses",
+      "Anpassning, nyansmatchning och bettjustering för slutresultatet"
+    ],
+    "why_us": "Varje Hollywood Smile-fall designas först digitalt, så att du kan se en förhandsvisning av resultatet redan innan behandlingen börjar. Zirkonium- och porslinsarbete täcks av vår livstidsgaranti.",
+    "warranty": "Zirkonium- och porslinsrestaurationer i ditt Hollywood Smile täcks av vår livstidsgaranti."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Kronor och restaurationer",
+    "title": "Monolitisk zirkonia",
+    "tagline": "Kronor fräst från ett enda massivt zirkoniumblock för maximal styrka utan flisning.",
+    "overview": [
+      "Monolitiska zirkoniumkronor fräses från ett enda massivt zirkoniumblock, utan separat porslinslager ovanpå. Detta eliminerar den huvudsakliga svagheten hos äldre zirkoniumkronor — flisning av porslinsfineringen över tid.",
+      "Moderna flerskiktade zirkoniumblock är färgade så att genomskinligheten varierar från tandköttslinjen till den bitande kanten, vilket i stor utsträckning stänger det gamla estetiska gapet utan att lägga till ett separat, flisningsbenäget porslinslager."
+    ],
+    "who_for": [
+      "Du behöver en krona eller bro på en bakre tand där tuggkraften är högst",
+      "Du gnisslar eller biter ihop tänderna och behöver ett mer hållbart material",
+      "Du vill ha en långsiktig lösning med minimal flisningsrisk"
+    ],
+    "expect_steps": [
+      "Digital skanning av tanden efter förberedelse",
+      "Fräsning av kronan från ett massivt zirkoniumblock i vårt eget laboratorium",
+      "Färgning och glasering för att matcha den naturliga tandnyansen",
+      "Slutlig passform-kontroll och cementering"
+    ],
+    "why_us": "Vårt interna fräslaboratorium gör att vi kan slutföra en krona på dagar, inte veckor, med exakt digital planering.",
+    "warranty": "Monolitiska zirkoniumkronor täcks av vår livstidsgaranti mot materialfel."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologi",
+    "title": "Tandimplantat",
+    "tagline": "En permanent tandrotsersättning i titan som en krona eller bro fästs vid.",
+    "overview": [
+      "Ett tandimplantat ersätter direkt den saknade tandroten, stående på egen hand i käkbenet, oberoende av grannande tänder. Titan har en ovanlig egenskap — levande benceller växer direkt på det, vilket kallas osseointegration.",
+      "Denna process tar flera månader, så implantatfall delas vanligtvis upp i två besök: det första för skanning, ingrepp och en tillfällig restauration, det andra månader senare för den slutliga permanenta kronan."
+    ],
+    "who_for": [
+      "Du saknar en eller flera tänder och vill ha en permanent lösning",
+      "Du vill undvika att slipa friska grannande tänder (som en bro skulle kräva)",
+      "Du har tillräckligt med benmassa eller är villig att överväga benuppbyggnad"
+    ],
+    "expect_steps": [
+      "3D-skanning (CBCT) för att bedöma tillgänglig benmassa",
+      "Placering av implantatet under lokalbedövning",
+      "Läkningsperiod (osseointegration), vanligtvis 3–6 månader",
+      "Placering av den slutliga kronan vid det andra besöket"
+    ],
+    "why_us": "Vi använder etablerade, kliniskt testade implantatmärken med långsiktiga data och full garanti.",
+    "warranty": "Tandimplantat täcks av vår livstidsgaranti mot implantatfel."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Behandlingsplanering",
+    "title": "Digital leendedesign",
+    "tagline": "Planeringsfasen som avgör vilka behandlingar du verkligen behöver, baserat på ditt ansikte, inte en mall.",
+    "overview": [
+      "Digital Leendedesign är inte i sig en behandling — det är planeringsstadiet som avgör vilka behandlingar (fasetter, kronor, blekning, tandköttsformning) som faktiskt kommer att användas för att nå ditt mål, baserat på ditt ansikte, läppar och tänder snarare än en generisk mall.",
+      "En intraoral skanning bygger en 3D-modell av dina tänder, och designmjukvaran lägger ett föreslaget nytt leende över den modellen — detta är punkten där du faktiskt kan se planen och diskutera ändringar innan något permanent sker."
+    ],
+    "who_for": [
+      "Du överväger flera kosmetiska ingrepp och vill se resultatet i förväg",
+      "Du vill vara säker på resultatet innan något permanent arbete börjar",
+      "Du har ojämnt tandkött eller asymmetri som behöver lösas först"
+    ],
+    "expect_steps": [
+      "Foton och video av ditt leende, läpplinje och ansiktsproportioner",
+      "3D-skanning och digital förhandsvisning av det föreslagna nya leendet",
+      "Att fastställa vilka behandlingar som verkligen behövs, tand för tand",
+      "Fysisk mock-up i munnen i många fall före permanent arbete"
+    ],
+    "why_us": "Leendedesign ingår i alla större kosmetiska fall utan extra kostnad, så du vet exakt vad du kan förvänta dig.",
+    "warranty": "Digital planering är en del av den slutliga garantin för den utförda behandlingen."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Estetisk tandvård",
+    "title": "Tandblekning",
+    "tagline": "Professionell blekning för ett märkbart ljusare leende på ett enda besök.",
+    "overview": [
+      "Professionell tandblekning använder en mer koncentrerad blekgel än receptfria produkter, tillämpad under kontrollerad övervakning för snabbare och jämnare resultat. Utförs vanligtvis på ett enda besök.",
+      "Om du också planerar fasetter eller kronor bör blekningen ske innan de tillverkas — inte efteråt — så att keramikarbetet matchar i nyans med dina blekta naturliga tänder."
+    ],
+    "who_for": [
+      "Dina tänder är friska men missfärgade av kaffe, te, vin eller rökning",
+      "Du vill ha ett snabbt kosmetiskt resultat utan att slipa tänderna",
+      "Du planerar att kombinera med andra kosmetiska ingrepp (gör blekningen först)"
+    ],
+    "expect_steps": [
+      "Kontroll av tänder och tandkött för att bekräfta lämplighet",
+      "Skydd av tandköttet och applicering av blekgel",
+      "Aktivering av gelen, vanligtvis i flera cykler",
+      "Utvärdering av resultatet och rekommendationer för att bibehålla nyansen"
+    ],
+    "why_us": "Vi använder professionella blekningssystem med förutsägbara, jämna resultat på ett enda besök.",
+    "warranty": "Vi ger rekommendationer för vård efter blekning för att förlänga resultatet."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantologi",
+    "title": "Skruvretinerat ocklusalt system",
+    "tagline": "En restauration skruvad fast på implantat som tandläkaren enkelt kan ta bort vid behov.",
+    "overview": [
+      "Ett skruvretinerat ocklusalt system fäster en krona eller bro på implantatet med en skruv istället för cementering. Detta gör att tandläkaren enkelt kan ta bort restaurationen för inspektion eller reparation vid behov, utan att skada själva restaurationen.",
+      "Detta tillvägagångssätt föredras ofta i större fall, som fullständiga bågar, där enkel åtkomst för framtida underhåll är värdefull."
+    ],
+    "who_for": [
+      "Du genomgår mer omfattande implantatarbete, som en full båge",
+      "Du vill ha enklare framtida underhåll eller reparerbarhet",
+      "Din tandläkare rekommenderar skruvretention istället för cementering för ditt specifika fall"
+    ],
+    "expect_steps": [
+      "Placering av implantatet och läkning (osseointegration)",
+      "Digital skanning för att designa restaurationen",
+      "Tillverkning av restaurationen med åtkomsthål för skruvarna",
+      "Skruvning av restaurationen och tätning av åtkomsthålen"
+    ],
+    "why_us": "Vi erbjuder både skruv- och cementerade alternativ och rekommenderar det som bäst passar ditt specifika fall.",
+    "warranty": "Skruvretinerat ocklusalt system täcks av vår livstidsgaranti."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontologi",
+    "title": "Gingivektomi",
+    "tagline": "Tandköttsformning för att åtgärda överskott eller ojämn tandköttsvävnad.",
+    "overview": [
+      "Gingivektomi tar bort överflödig tandköttsvävnad för att exponera mer naturlig tandhöjd, antingen av kosmetiska skäl („tandköttsleende“) eller eftersom den överflödiga vävnaden gör det svårt att rengöra tänderna ordentligt.",
+      "Ingreppet är ofta ett steg innan fasetter eller kronor, för att först skapa en symmetrisk tandköttslinje som keramikarbetet sedan ser naturligt ut på."
+    ],
+    "who_for": [
+      "Du visar märkbart mer tandkött än tand när du ler",
+      "Din tandköttslinje är ojämn längs framtänderna",
+      "Överskott av tandköttsvävnad gör det svårt att rengöra tänderna effektivt"
+    ],
+    "expect_steps": [
+      "Utvärdering av tandköttsnivåer och planering av önskad kontur",
+      "Lokalbedövning",
+      "Borttagning av överflödig tandköttsvävnad med precisionsinstrument",
+      "Kort läkningsperiod före eventuellt efterföljande kosmetiskt arbete"
+    ],
+    "why_us": "Tandköttsutvärdering är en del av varje korrekt digital leendedesignplan, så det hanteras som en del av den övergripande planen, inte isolerat.",
+    "warranty": "Vi ger vårdriktlinjer efter ingreppet för att säkerställa korrekt läkning."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantologi",
+    "title": "Sinuslyft",
+    "tagline": "Att skapa tillräcklig benhöjd under den övre käkbihålan för implantatplacering.",
+    "overview": [
+      "Den övre bakre käken ligger nära bihålorna, och benförlust där betyder ibland att det inte finns tillräckligt med höjd under bihålan för ett implantat. Ett sinuslyft lyfter försiktigt upp bihålans golv och tillsätter uppbyggnadsmaterial under för att skapa den höjden.",
+      "Detta är en specifik, väletablerad lösning för det aktuella området, vilket lägger till läkningstid till den övergripande planen, men det är en rutinmässig del av implantologin, inte ett sällsynt undantag."
+    ],
+    "who_for": [
+      "Du behöver ett implantat i den övre bakre käken men saknar tillräcklig benhöjd",
+      "3D-skanning visade otillräckligt avstånd till bihålan",
+      "Du vill säkerställa långsiktig implantatstabilitet i detta utmanande område"
+    ],
+    "expect_steps": [
+      "3D-skanning för att bedöma benhöjden under bihålan",
+      "Försiktig lyftning av bihålemembranet",
+      "Placering av uppbyggnadsmaterial",
+      "Läkningstid före (eller samtidigt med) implantatplacering"
+    ],
+    "why_us": "Vårt team har omfattande erfarenhet av sinuslyft som en standarddel av övre käkens implantologifall.",
+    "warranty": "Sinuslyft täcks av den övergripande implantatgarantin."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodonti",
+    "title": "Rotfyllning",
+    "tagline": "Borttagning av infekterad pulpa och tätning av tanden, vanligtvis jämförbart med att lägga en fyllning.",
+    "overview": [
+      "Rotfyllning tar bort den infekterade tandpulpan från insidan av tanden, kanalen rengörs, formas och desinficeras, sedan förseglas den med biokompatibelt material.",
+      "Obehaget som människor förknippar med detta ingrepp kommer vanligtvis från själva infektionen, före behandlingen — inte från själva ingreppet, som utförs under lokalbedövning och i allmänhet är jämförbart med att lägga en fyllning."
+    ],
+    "who_for": [
+      "Du har tandvärk eller känslighet som tyder på pulpainfektion",
+      "Röntgen visade infektion vid tandroten",
+      "Du vill rädda tanden istället för att dra ut den"
+    ],
+    "expect_steps": [
+      "Diagnos och röntgen för att bekräfta infektionens omfattning",
+      "Lokalbedövning",
+      "Borttagning av infekterad vävnad och rengöring av kanalen",
+      "Tätning av tanden, och vanligtvis en skyddande krona efteråt"
+    ],
+    "why_us": "Vi använder moderna roterande instrument och desinfektionsprotokoll för en noggrann och bekväm behandling.",
+    "warranty": "Rotfyllning täcks av vår garanti mot återinfektion."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantologi",
+    "title": "All-on-4, All-on-5 och All-on-6",
+    "tagline": "En helt fixerad tandbåge på implantat, med antalet implantat anpassat efter din anatomi.",
+    "overview": [
+      "All-on-4, All-on-5 och All-on-6 använder samma grundidé — en komplett båge av fasta tänder stödda av ett litet antal implantat placerade i käken. Numret anger hur många implantat som stöder den bågen.",
+      "Beslutet om hur många implantat som ska användas beror vanligtvis på benet: 3D-skanning visar hur mycket ben som finns tillgängligt, och därifrån kan tandläkaren ärligt säga om fyra implantat kommer att hålla på lång sikt eller om ett femte eller sjätte skulle förbättra resultatet avsevärt."
+    ],
+    "who_for": [
+      "Du saknar de flesta eller alla tänder i en båge",
+      "Du vill ha en fixerad, inte avtagbar lösning",
+      "Du har tillräckligt med ben eller är villig att överväga alternativ som vinklad implantatplacering"
+    ],
+    "expect_steps": [
+      "3D-skanning för att bedöma benmassa och planera antalet och placeringen av implantat",
+      "Placering av implantaten och anpassning av en tillfällig fast bro vid samma besök",
+      "Läkningsperiod (osseointegration), vanligtvis 4–6 månader",
+      "Anpassning av den slutliga permanenta bron vid det andra besöket"
+    ],
+    "why_us": "Digital planering och vinkling av implantat gör att vi ofta kan undvika benuppbyggnad även hos patienter med benförlust.",
+    "warranty": "All-on-4/5/6-fall täcks av vår livstidsgaranti för implantat och strukturell garanti för bron."
+  },
+  "emax-veneers": {
+    "eyebrow": "Estetisk tandvård",
+    "title": "E-max-fasetter",
+    "tagline": "Tunna porslinsfasetter med minimal tandslipning för ett naturligt utseende resultat.",
+    "overview": [
+      "E-max-fasetter (litiumdisilikat) har en glasaktig genomskinlighet som efterliknar naturlig tandemalj närmare än andra material, särskilt i normalt ljus. Materialet förblir starkt även när det tillverkas mycket tunt, vilket möjliggör minimal tandslipning i många fall.",
+      "Om dina tänder redan är rimligt väl inriktade och du huvudsakligen vill ändra färg, stänga små mellanrum eller förfina formen något, kan en tunn E-max-fasett ofta limmas fast med lite eller ingen emaljborttagning."
+    ],
+    "who_for": [
+      "Du har missfärgning som inte svarar på blekning",
+      "Du har små flisor, mellanrum eller en något ojämn tandkant",
+      "Du vill ha en minimalt invasiv lösning som bevarar så mycket som möjligt av den naturliga tanden"
+    ],
+    "expect_steps": [
+      "Digital skanning och leendedesignplanering",
+      "Minimal tandslipning, om alls nödvändigt",
+      "Fräsning av fasetterna från ett E-max-block i vårt eget laboratorium",
+      "Anpassning och kontroll av färg och bett"
+    ],
+    "why_us": "Vårt interna laboratorium möjliggör snabb tillverkning av E-max-fasetter med exakt färgmatchning.",
+    "warranty": "E-max-fasetter täcks av vår livstidsgaranti mot materialfel."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantologi",
+    "title": "Zygomatiska implantat",
+    "tagline": "Längre implantat förankrade i kindbenet för patienter med allvarlig benförlust i övre käken.",
+    "overview": [
+      "Zygomatiska implantat är längre än standardtandimplantat och förankras i kindbenet (zygomatiska benet) istället för käkbenet. Detta löser situationer där benförlusten i övre käken är för allvarlig för standardimplantat, även med benuppbyggnad.",
+      "Eftersom de kringgår behovet av käkbensuppbyggnad kan zygomatiska implantat i många fall möjliggöra en fixerad tandbåge utan separata benuppbyggnadsprocedurer och deras längre läkningstid."
+    ],
+    "who_for": [
+      "Du har allvarlig benförlust i övre käken som utesluter standardimplantat",
+      "Du har tidigare fått veta att du behöver omfattande benuppbyggnad",
+      "Du vill undvika långa väntetider förknippade med flera benprocedurer"
+    ],
+    "expect_steps": [
+      "Detaljerad 3D-skanning för att bedöma kindbenet och planera implantatplaceringen",
+      "Placering av det zygomatiska implantatet under bedövning",
+      "Anpassning av en tillfällig fast bro, ofta vid samma besök",
+      "Anpassning av den slutliga permanenta bron efter läkning"
+    ],
+    "why_us": "Zygomatiska implantat kräver specialiserad kirurgisk erfarenhet — vårt team är specialiserat på dessa avancerade fall.",
+    "warranty": "Zygomatiska implantat täcks av vår livstidsgaranti."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restaurationer",
+    "title": "Tandbro",
+    "tagline": "En ersättning för saknad tand som stöds av grannande tänder, vanligtvis klar på ett enda besök.",
+    "overview": [
+      "En tandbro ersätter den synliga saknade tanden genom att stödja sig på tänderna bredvid luckan för stöd. Till skillnad från ett implantat kräver den ingen operation eller läkningsperiod för benintegration, så den slutförs vanligtvis på ett enda besök.",
+      "Om grannande tänder redan behöver kronor (på grund av en gammal fyllning, karies eller tidigare skada) är en bro ett effektivt val eftersom den behandlar dessa tänder och fyller luckan i en process."
+    ],
+    "who_for": [
+      "Du saknar en eller flera tänder i rad",
+      "Grannande tänder behöver redan kronor eller har mindre skador",
+      "Du vill ha en snabbare lösning utan operation"
+    ],
+    "expect_steps": [
+      "Slipning av stödtänder på båda sidor av luckan",
+      "Digital skanning för att designa bron",
+      "Fräsning och färgning av bron i vårt laboratorium",
+      "Anpassning och bettkontroll"
+    ],
+    "why_us": "Vårt team ger ärliga råd om en bro eller ett implantat är mer lämpligt för ditt specifika fall.",
+    "warranty": "Tandbroar täcks av vår livstidsgaranti mot materialfel."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodonti",
+    "title": "Invisalign / genomskinliga skenor",
+    "tagline": "Genomskinliga, avtagbara skenor för att gradvis rätta till tänderna utan metallbågar.",
+    "overview": [
+      "Genomskinliga skenor rättar till tänderna med kontrollerat, gradvist tryck, på liknande sätt som traditionella tandställningar, men genom en serie avtagbara genomskinliga skenor istället för fasta metalldelar.",
+      "Avtagbarhet innebär att du äter, borstar tänderna och använder tandtråd normalt, vilket är en stor del av anledningen till att vuxna patienter tenderar att föredra dem av livsstilsskäl. De fungerar dock bara om de bärs enligt förskrivning, vanligtvis 20–22 timmar per dag."
+    ],
+    "who_for": [
+      "Du har lätt till måttlig trängsel, mellanrum eller enkla bettproblem",
+      "Du vill ha möjligheten att ta av skenorna vid ätande och tandborstning",
+      "Du är villig att konsekvent bära skenorna enligt förskrivning"
+    ],
+    "expect_steps": [
+      "3D-skanning och bettbedömning för att planera den nödvändiga tandrörelsen",
+      "Tillverkning av en serie genomskinliga skenor som matchar behandlingsplanen",
+      "Gradvis byte av skenor var 1–2 vecka",
+      "Kontrollbesök för att övervaka framsteg"
+    ],
+    "why_us": "3D-planering visar exakt vilka rörelser ditt fall behöver, innan behandlingen ens börjar.",
+    "warranty": "Vi tillhandahåller retentionsskenor efter avslutad behandling för att bibehålla resultatet."
+  }
+}

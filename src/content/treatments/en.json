@@ -1,0 +1,330 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Cosmetic dentistry",
+    "title": "Hollywood Smile",
+    "tagline": "A full upper-arch redesign for a bright, symmetrical, camera-ready smile.",
+    "overview": [
+      "A Hollywood Smile is a complete cosmetic makeover of the visible teeth, usually the upper arch, combining shape, size, alignment and shade into one harmonious result. It typically uses a combination of porcelain veneers or zirconium crowns, planned together as a set so every tooth complements the next.",
+      "The goal isn't a single \"perfect\" template smile — your facial shape, lip line and skin tone are all considered so the result looks like your best possible smile, not someone else's."
+    ],
+    "who_for": [
+      "You have several cosmetic concerns at once — discoloration, chips, gaps or uneven teeth",
+      "You want a coordinated result rather than fixing one tooth at a time",
+      "You're comfortable with a moderate amount of preparation on the front teeth"
+    ],
+    "expect_steps": [
+      "Digital scan and photos to design your new smile in 3D before any tooth is touched",
+      "Minimal preparation of the teeth to make room for the new restorations",
+      "Temporary restorations while your permanent veneers or crowns are milled",
+      "Fitting, shade-matching and bite adjustment for the final result"
+    ],
+    "why_us": "Every Hollywood Smile case is designed digitally first, so you can see a preview of your result before treatment starts. Zirconium and porcelain work is covered by our lifetime warranty.",
+    "warranty": "Zirconium and porcelain restorations in your Hollywood Smile are covered by our lifetime warranty."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Restorative dentistry",
+    "title": "Monolithic Zirconia",
+    "tagline": "Full-contour crowns and bridges milled from a single block of zirconia — strong, chip-resistant and precise.",
+    "overview": [
+      "Monolithic zirconia restorations are milled from one solid block of zirconium oxide, rather than a metal or porcelain-layered core with a separate porcelain coating. That single-piece construction makes them significantly more resistant to chipping and fracture than traditional layered crowns.",
+      "Modern zirconia is shaded and characterized digitally, so the finished crown or bridge blends naturally with your surrounding teeth rather than looking flat or opaque."
+    ],
+    "who_for": [
+      "You need a crown or bridge on a back tooth that takes heavy biting force",
+      "You've had porcelain restorations chip or fracture in the past",
+      "You grind or clench your teeth and need a more durable material"
+    ],
+    "expect_steps": [
+      "Digital or traditional impression of the prepared tooth",
+      "Your restoration is designed and milled to match the shade of your natural teeth",
+      "A temporary restoration protects the tooth while the permanent one is made",
+      "Final fitting and bite check, with adjustments as needed"
+    ],
+    "why_us": "We mill monolithic zirconia in-house using digital design, so shade-matching and fit are precise. All zirconium work carries our lifetime warranty.",
+    "warranty": "Monolithic zirconia restorations are covered by our lifetime warranty."
+  },
+  "dental-implants": {
+    "eyebrow": "Implant dentistry",
+    "title": "Dental Implants",
+    "tagline": "A permanent, natural-feeling replacement for missing teeth.",
+    "overview": [
+      "A dental implant is a titanium post placed into the jawbone to act as an artificial tooth root, topped with a crown that matches your natural teeth. Unlike a bridge, it doesn't rely on neighboring teeth for support, and unlike a denture, it doesn't move or need to be removed.",
+      "Implants can replace a single tooth, several teeth with a bridge, or an entire arch — the number and placement depend on how many teeth are missing and the condition of your jawbone."
+    ],
+    "who_for": [
+      "You're missing one or more teeth and want a fixed, permanent solution",
+      "You don't want to prepare or affect the healthy teeth next to the gap",
+      "You have adequate bone density, or are open to a bone graft if needed"
+    ],
+    "expect_steps": [
+      "3D scan and consultation to assess bone and plan implant position",
+      "Surgical placement of the implant under local anaesthesia",
+      "A healing period, typically a few months, for the implant to fuse with the bone",
+      "Fitting of the final crown once healing is confirmed"
+    ],
+    "why_us": "Implant position is planned digitally before surgery for accuracy, and every implant we place is covered by our lifetime warranty.",
+    "warranty": "All dental implants are covered by our lifetime warranty."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Digital planning",
+    "title": "Digital Smile Design",
+    "tagline": "Your new smile, planned and previewed in 3D before treatment starts.",
+    "overview": [
+      "Digital Smile Design uses an intraoral scanner and design software to build a 3D model of your teeth and simulate the result of your treatment before any work begins. Instead of relying on a written description, you see a realistic preview of your new smile and can discuss adjustments before committing.",
+      "This digital-first approach also means a physical impression is rarely needed — most cases are scanned, not moulded, which is faster and more comfortable for most patients."
+    ],
+    "who_for": [
+      "You're planning a cosmetic case (veneers, crowns, Hollywood Smile) and want to see the result first",
+      "You want to avoid a traditional impression where possible",
+      "You're coordinating treatment remotely and want a clear visual plan before you travel"
+    ],
+    "expect_steps": [
+      "Intraoral scan of your teeth and bite",
+      "Photos and measurements of your face and smile line",
+      "A 3D design of your proposed new smile, reviewed with your dentist",
+      "Adjustments to the design before any permanent treatment begins"
+    ],
+    "why_us": "Every complex cosmetic or restorative case at our clinic starts with digital planning, so you and your dentist are working from the same visual plan from day one.",
+    "warranty": "Digital planning is part of the final warranty on the treatment performed."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Cosmetic dentistry",
+    "title": "Teeth Whitening",
+    "tagline": "A single-session lift in shade, done before or after other work.",
+    "overview": [
+      "Professional teeth whitening uses a higher-strength bleaching gel than over-the-counter products, applied under controlled conditions to lift the shade of your natural teeth safely and evenly. Most patients see a noticeable result in a single session.",
+      "Whitening only affects natural tooth enamel — it won't change the color of existing crowns, veneers or fillings, which is why timing relative to other treatments matters."
+    ],
+    "who_for": [
+      "Your teeth are naturally discolored or stained from coffee, tea, wine or smoking",
+      "You want a brighter smile without any other structural changes",
+      "You want a shade reference before deciding on veneers or crowns"
+    ],
+    "expect_steps": [
+      "A check that your teeth and gums are healthy enough for whitening",
+      "Protection of your gums before the whitening gel is applied",
+      "One or more whitening cycles during the same visit",
+      "Aftercare guidance to help the result last"
+    ],
+    "why_us": "We time whitening carefully around any other treatment you're having, so your new crowns or veneers are shade-matched to your whitened, natural teeth — not the other way around.",
+    "warranty": "We provide aftercare recommendations following whitening to extend the result."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implant restorations",
+    "title": "Screw-Retained Occlusal System",
+    "tagline": "Implant restorations secured with an occlusal screw rather than cement, so they can be accessed and maintained without damage.",
+    "overview": [
+      "Implant crowns and bridges can be attached in two main ways: cemented in place, or secured with a small screw through the biting surface. A screw-retained restoration can be removed and re-seated by your dentist for maintenance or repair without having to cut or destroy the restoration, unlike a cemented one.",
+      "The screw access hole is filled with a tooth-colored material after fitting, so it isn't visible in normal use."
+    ],
+    "who_for": [
+      "You're having an implant-supported crown or bridge and want easier long-term maintenance",
+      "Your dentist recommends retrievability for your specific case",
+      "You want to avoid the risk of excess cement irritating the gum around an implant"
+    ],
+    "expect_steps": [
+      "Your implant restoration is designed with a screw-access channel",
+      "The restoration is torqued into place with a specific screwdriver and force setting",
+      "The access hole is sealed with a tooth-colored filling material",
+      "Follow-up checks to confirm fit and bite"
+    ],
+    "why_us": "For implant cases where future maintenance matters, we default to screw-retained restorations so your treatment stays serviceable for the long run.",
+    "warranty": "The screw-retained occlusal system is covered by our lifetime warranty."
+  },
+  "gingivectomy": {
+    "eyebrow": "Periodontal treatment",
+    "title": "Gingivectomy",
+    "tagline": "Reshaping of the gum line to improve both the health and the appearance of your smile.",
+    "overview": [
+      "A gingivectomy removes and reshapes excess or uneven gum tissue, most often to correct a \"gummy smile\" where too much gum shows when you smile, or to remove tissue that's difficult to keep clean and prone to inflammation. It can be done on its own or as a preparation step before veneers or crowns.",
+      "The procedure is done under local anaesthesia and is generally well tolerated, with a short, predictable healing period."
+    ],
+    "who_for": [
+      "You show more gum than tooth when you smile",
+      "You have uneven gum levels across your front teeth",
+      "Excess gum tissue is making it hard to clean your teeth properly"
+    ],
+    "expect_steps": [
+      "Assessment and mapping of your gum line, sometimes digitally",
+      "Local anaesthesia to numb the treatment area",
+      "Precise removal and reshaping of the excess gum tissue",
+      "Healing over one to two weeks, with follow-up as needed"
+    ],
+    "why_us": "When a gingivectomy is part of a cosmetic case, we plan the new gum line and the new tooth shapes together, so the two heal into one coordinated result.",
+    "warranty": "We provide aftercare guidance following the procedure to ensure proper healing."
+  },
+  "sinus-lift": {
+    "eyebrow": "Pre-implant surgery",
+    "title": "Sinus Lift",
+    "tagline": "Adds bone volume to the upper jaw when needed, giving implants in the back teeth a stable, lasting foundation.",
+    "overview": [
+      "The sinus cavities sit directly above the back upper teeth, and after losing a tooth in that area, the remaining bone can become too thin to support an implant safely. A sinus lift gently raises the floor of the sinus and adds bone graft material underneath, creating enough height for a stable implant.",
+      "It's a well-established procedure and, depending on how much height is needed, can sometimes be done at the same time as implant placement rather than as a separate surgery."
+    ],
+    "who_for": [
+      "You're missing an upper back tooth and want an implant, but have limited bone height",
+      "A previous evaluation found your sinus is too close to the implant site",
+      "You've had bone loss in the upper jaw from a long-missing tooth"
+    ],
+    "expect_steps": [
+      "3D imaging to measure the exact bone height available",
+      "The sinus lining is gently raised and bone graft material is placed",
+      "A healing period (varies by case) before or alongside implant placement",
+      "Once healed, the implant is placed or restored as planned"
+    ],
+    "why_us": "We only recommend a sinus lift when the 3D scan genuinely shows it's needed, and coordinate the timing with your implant plan so you have the minimum number of separate visits.",
+    "warranty": "The sinus lift is covered under the overall implant warranty."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontics",
+    "title": "Root Canal Therapy",
+    "tagline": "Removes infection from inside the tooth and seals it, saving the natural tooth wherever possible.",
+    "overview": [
+      "When decay or a crack reaches the soft tissue inside a tooth, it can become infected or inflamed, causing pain and sensitivity. Root canal treatment removes that infected tissue from inside the tooth, cleans and disinfects the space, and seals it — allowing you to keep your natural tooth instead of extracting it.",
+      "Modern root canal treatment is done under local anaesthesia and is generally no more uncomfortable than having a filling placed."
+    ],
+    "who_for": [
+      "You have persistent tooth pain, especially with hot or cold foods",
+      "A dentist has identified infection or an abscess at the root of a tooth",
+      "You have a deep crack or old filling reaching close to the tooth's nerve"
+    ],
+    "expect_steps": [
+      "X-ray to assess the extent of the infection and plan treatment",
+      "Local anaesthesia to numb the tooth",
+      "Removal of the infected tissue and cleaning of the root canal(s)",
+      "Sealing the tooth, usually followed by a crown for long-term protection"
+    ],
+    "why_us": "We prioritize saving your natural tooth wherever it's a viable option, and typically recommend a protective crown afterward to keep the treated tooth strong long-term.",
+    "warranty": "Root canal treatment is covered by our warranty against reinfection."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Full-arch implants",
+    "title": "All-on-4, All-on-5 & All-on-6",
+    "tagline": "A full fixed arch supported by just four implants, in one visit.",
+    "overview": [
+      "All-on-4 replaces a full arch of missing or failing teeth with a fixed, non-removable bridge supported by only four strategically placed implants. Two are placed straight and two are angled toward the back of the jaw, using available bone without the need for a bone graft in most cases.",
+      "Because the implants are placed at an angle and the whole arch is engineered as one unit, the case is often completed with a temporary fixed bridge on the same day as surgery."
+    ],
+    "who_for": [
+      "You're missing most or all of your teeth in one or both arches",
+      "You wear a removable denture and want a fixed alternative",
+      "You have some bone loss but want to avoid a bone graft where possible"
+    ],
+    "expect_steps": [
+      "3D scan and X-ray to plan implant position and confirm you're a candidate",
+      "Surgical placement of four implants, usually under local anaesthesia",
+      "A temporary fixed bridge is attached the same day in most cases",
+      "After healing (typically a few months), your final bridge is fitted"
+    ],
+    "why_us": "Our surgical team plans every All-on-4 case digitally before surgery, so implant position and the final bite are mapped out in advance. Implants are covered by our lifetime warranty.",
+    "warranty": "Implants placed as part of your All-on-4 treatment are covered by our lifetime warranty.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "A full fixed arch supported by just four implants, in one visit.",
+        "desc": "All-on-4 replaces a full arch of missing or failing teeth with a fixed, non-removable bridge supported by only four strategically placed implants. Two are placed straight and two are angled toward the back of the jaw, using available bone without the need for a bone graft in most cases."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "A full fixed arch on five implants, adding extra support for a stronger long-term result.",
+        "desc": "All-on-5 follows the same principle as All-on-4 — a full arch of fixed teeth on a small number of implants — but adds a fifth implant for extra distribution of biting force. This is often recommended when your bone density or bite pattern would benefit from the additional support."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "A full fixed arch on six implants, for the strongest support in cases with more bone loss.",
+        "desc": "All-on-6 uses six implants to support a full fixed arch, offering the widest distribution of biting force among the All-on-X options. It's typically recommended for patients with more significant bone loss, a very strong bite, or cases where long-term stability is the priority."
+      }
+    ]
+  },
+  "emax-veneers": {
+    "eyebrow": "Cosmetic dentistry",
+    "title": "E-max Veneers",
+    "tagline": "Ultra-thin porcelain veneers that preserve your natural enamel while transforming your smile.",
+    "overview": [
+      "E-max veneers are thin shells of lithium disilicate ceramic bonded to the front surface of your teeth. Because the material is strong even at a fraction of a millimetre thick, most cases need only minimal, sometimes no, removal of tooth structure — unlike a full crown.",
+      "The ceramic has a glass-like translucency that mimics natural enamel, so veneers placed well are very difficult to distinguish from real teeth, even up close."
+    ],
+    "who_for": [
+      "You have staining, chips or small gaps you want to correct without a full crown",
+      "You want to preserve as much of your natural tooth as possible",
+      "You're comparing veneers to full zirconia crowns for your front teeth"
+    ],
+    "expect_steps": [
+      "Digital scan and shade selection to design your veneers",
+      "Minimal or no preparation of the tooth surface, depending on your case",
+      "Veneers are milled and finished in-house to match your chosen shade",
+      "Bonding and final polish for a seamless, natural finish"
+    ],
+    "why_us": "We default to minimal-prep E-max where your case allows it, so you keep as much natural tooth as possible. All veneer work is covered by our lifetime warranty.",
+    "warranty": "E-max veneers are covered by our lifetime warranty."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Advanced implantology",
+    "title": "Zygomatic Implants",
+    "tagline": "A fixed, same-day solution for patients with severe upper jaw bone loss who aren't candidates for standard implants.",
+    "overview": [
+      "Zygomatic implants are longer than standard dental implants and anchor into the cheekbone (zygomatic bone) instead of the upper jaw. This makes them an option for patients whose upper jaw has lost too much bone for conventional implants — or even All-on-4 — to be placed safely.",
+      "Because the zygomatic bone is dense and rarely affected by the bone loss that follows tooth loss, it offers a stable anchor point without needing a bone graft or sinus lift first, which can otherwise add months to treatment."
+    ],
+    "who_for": [
+      "You've been told you don't have enough upper jawbone for standard implants or All-on-4",
+      "A previous bone graft failed, or you'd prefer to avoid a graft and its extra healing time",
+      "You wear an upper denture and want a fixed, non-removable alternative"
+    ],
+    "expect_steps": [
+      "3D CT scan to assess your cheekbone and plan implant trajectory precisely",
+      "Surgical placement of the zygomatic implants, typically under general or deep sedation given the complexity",
+      "A fixed temporary bridge is often attached the same day",
+      "Final, permanent bridge fitted once healing is confirmed"
+    ],
+    "why_us": "Zygomatic cases require surgical precision most general implant dentists don't perform routinely. Our surgical team plans each case on 3D imaging beforehand, and every implant placed is covered by our lifetime warranty.",
+    "warranty": "Zygomatic implants are covered by our lifetime warranty."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restorative dentistry",
+    "title": "Dental Bridge",
+    "tagline": "A fixed way to replace one or more missing teeth without surgery, anchored to the teeth on either side of the gap.",
+    "overview": [
+      "A dental bridge fills the gap left by a missing tooth with a false tooth (pontic) fused between two crowns, which are fitted onto the natural teeth on either side of the space. Once bonded in place, a bridge doesn't come out — you clean and wear it exactly like natural teeth.",
+      "Unlike an implant, a bridge doesn't require any surgery or a healing period, which makes it a faster and often more affordable route to replacing a missing tooth for suitable candidates."
+    ],
+    "who_for": [
+      "You're missing one or a few teeth in a row and want a fixed, non-surgical solution",
+      "The teeth next to the gap already need crowns, or are strong enough to support one",
+      "You'd prefer to avoid implant surgery or the healing time it requires"
+    ],
+    "expect_steps": [
+      "Digital scan and preparation of the two supporting teeth",
+      "A temporary bridge protects the area while your permanent one is made",
+      "Your bridge is milled and finished to match your natural tooth shade",
+      "Final bonding and bite check"
+    ],
+    "why_us": "We only recommend a bridge when the supporting teeth are genuinely strong enough for it — otherwise we'll say so and discuss an implant instead. All bridge work is covered by our lifetime warranty.",
+    "warranty": "Dental bridges are covered by our lifetime warranty."
+  },
+  "invisalign": {
+    "eyebrow": "Orthodontics",
+    "title": "Invisalign / Clear Aligners",
+    "tagline": "A nearly invisible way to straighten teeth using a series of custom, removable clear trays.",
+    "overview": [
+      "Clear aligner treatment uses a series of custom-made, transparent plastic trays that gradually move your teeth into their correct position, each worn for one to two weeks before moving to the next in the series. Because the trays are clear and removable, most people won't notice you're wearing them.",
+      "Unlike fixed metal braces, aligners can be taken out to eat, brush and floss normally, which many adult patients find far more manageable around daily life and work."
+    ],
+    "who_for": [
+      "You have mild to moderate crowding, gaps, or bite misalignment",
+      "You want to straighten your teeth without visible metal brackets and wires",
+      "You're an adult who wants a treatment that fits around a normal daily routine"
+    ],
+    "expect_steps": [
+      "Digital 3D scan of your teeth to plan the entire movement sequence in advance",
+      "You'll see a preview of your projected result before committing to treatment",
+      "Your full series of custom aligners is manufactured based on that plan",
+      "You wear each set for 1–2 weeks, with periodic check-ins to track progress"
+    ],
+    "why_us": "Every case is planned digitally from the first scan, so you know roughly how many aligners you'll need and what the end result should look like before you start.",
+    "warranty": "We provide retention aligners after treatment is complete to maintain the result."
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Esteetiline hambaravi",
+    "title": "Hollywood Smile",
+    "tagline": "Ülemise hambakaare täielik ümberkujundamine särava, sümmeetrilise, kaamerasõbraliku naeratuse jaoks.",
+    "overview": [
+      "Hollywood Smile on nähtavate hammaste, tavaliselt ülemise kaare, täielik kosmeetiline uuenduskuur, mis ühendab kuju, suuruse, joonduse ja tooni üheks harmooniliseks tulemuseks. Tavaliselt kasutatakse portselan-viilude või tsirkooniumkroonide kombinatsiooni, mis on koos planeeritud komplektina, et iga hammas täiendaks järgmist.",
+      "Eesmärgiks pole üksainus „täiuslik“ šabloonnaeratus — arvesse võetakse teie näokuju, huulejoont ja nahatooni, nii et tulemus näeb välja nagu teie parim võimalik naeratus, mitte kellegi teise oma."
+    ],
+    "who_for": [
+      "Teil on korraga mitu kosmeetilist muret — värvimuutus, kildumine, vahed või ebaühtlased hambad",
+      "Soovite koordineeritud tulemust selle asemel, et parandada üht hammast korraga",
+      "Teile sobib eesmiste hammaste mõõdukas lihvimine"
+    ],
+    "expect_steps": [
+      "Digitaalne skaneerimine ja fotod uue naeratuse 3D-kavandamiseks, enne kui ühtegi hammast puudutatakse",
+      "Hammaste minimaalne lihvimine, et teha ruumi uutele restauratsioonidele",
+      "Ajutised restauratsioonid, kuni jäävad viilud või kroonid frees itakse",
+      "Paigaldamine, toonisobitamine ja hambumuse kohandamine lõpptulemuse jaoks"
+    ],
+    "why_us": "Iga Hollywood Smile'i juhtum kavandatakse esmalt digitaalselt, nii et näete tulemuse eelvaadet juba enne ravi algust. Tsirkooniumi- ja portselanitöödele kehtib meie eluaegne garantii.",
+    "warranty": "Teie Hollywood Smile'i tsirkooniumi- ja portselanirestauratsioonidele kehtib meie eluaegne garantii."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Kroonid ja restauratsioonid",
+    "title": "Monoliitne tsirkoonium",
+    "tagline": "Ühest tahkest tsirkooniumplokist freesitud kroonid maksimaalse tugevuse jaoks ilma kildumiseta.",
+    "overview": [
+      "Monoliitsed tsirkooniumkroonid freesitakse ühest tahkest tsirkooniumplokist, ilma eraldi portselanikihita peal. See kõrvaldab vanemate tsirkooniumkroonide peamise nõrkuse — portselankatte kildumise aja jooksul.",
+      "Kaasaegsed mitmekihilised tsirkooniumplokid on värvitud nii, et läbipaistvus muutub igemejoonest hambumusservani, sulgedes suuresti vana esteetilise lõhe ilma eraldi, kildumisele altid portselanikihi lisamiseta."
+    ],
+    "who_for": [
+      "Vajate krooni või silda tagumisel hambal, kus närimisjõud on suurim",
+      "Krigistate või pigistate hambaid ja vajate vastupidavamat materjali",
+      "Soovite pikaajalist lahendust minimaalse kildumise riskiga"
+    ],
+    "expect_steps": [
+      "Hamba digitaalne skaneerimine pärast ettevalmistust",
+      "Krooni freesimine tahkest tsirkooniumplokist meie enda laboris",
+      "Värvimine ja glasuurimine, et sobituda loomuliku hambatooniga",
+      "Lõplik sobivuskontroll ja tsementimine"
+    ],
+    "why_us": "Sisemine freesimislabor võimaldab meil krooni valmis saada päevade, mitte nädalatega, täpse digitaalse planeerimisega.",
+    "warranty": "Monoliitsetele tsirkooniumkroonidele kehtib meie eluaegne garantii materjalidefektide vastu."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantoloogia",
+    "title": "Hambaimplantaadid",
+    "tagline": "Püsiv titaanist hambajuure asendaja, mille külge kinnitatakse kroon või sild.",
+    "overview": [
+      "Hambaimplantaat asendab otseselt puuduva hambajuure, seistes iseseisvalt lõualuus, sõltumata naaberhammastest. Titaanil on ebatavaline omadus — elusad luurakud kasvavad otse selle peale, mida nimetatakse osseointegratsiooniks.",
+      "See protsess võtab mitu kuud aega, seetõttu jagatakse implantaadi juhtumid tavaliselt kaheks visiidiks: esimene skaneerimiseks, protseduuriks ja ajutiseks restauratsiooniks, teine kuid hiljem lõpliku püsiva krooni jaoks."
+    ],
+    "who_for": [
+      "Teil puudub üks või mitu hammast ja soovite püsivat lahendust",
+      "Soovite vältida naaberhammaste lihvimist (nagu sild seda nõuaks)",
+      "Teil on piisavalt luumassi või olete valmis kaaluma luusuurendust"
+    ],
+    "expect_steps": [
+      "3D-skaneerimine (CBCT) saadaoleva luumassi hindamiseks",
+      "Implantaadi paigaldamine kohaliku anesteesia all",
+      "Paranemisperiood (osseointegratsioon), tavaliselt 3–6 kuud",
+      "Lõpliku krooni paigaldamine teisel visiidil"
+    ],
+    "why_us": "Kasutame tunnustatud, kliiniliselt testitud implantaadibrände koos pikaajaliste andmete ja täieliku garantiiga.",
+    "warranty": "Hambaimplantaatidele kehtib meie eluaegne garantii implantaadi rikke vastu."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Ravi planeerimine",
+    "title": "Digitaalne naeratuse disain",
+    "tagline": "Planeerimise etapp, mis otsustab, millist ravi teil tegelikult vaja on, teie näo, mitte šabloon põhjal.",
+    "overview": [
+      "Digitaalne naeratuse disain ei ole iseenesest ravi — see on planeerimisetapp, mis otsustab, milliseid ravimeetodeid (viilud, kroonid, valgendamine, igemete vormimine) tegelikult kasutatakse teie eesmärgi saavutamiseks, lähtudes teie näost, huultest ja hammastest, mitte üldisest šabloonist.",
+      "Suusisene skaneerimine loob teie hammaste 3D-mudeli ja disainitarkvara paigutab kavandatud uue naeratuse sellele mudelile — see on hetk, mil saate plaani tegelikult näha ja arutada muudatusi enne, kui midagi püsivat toimub."
+    ],
+    "who_for": [
+      "Kaalute mitut kosmeetilist protseduuri ja soovite tulemust ette näha",
+      "Soovite olla tulemuses kindel enne mis tahes püsiva töö algust",
+      "Teil on ebaühtlased igemed või asümmeetria, mis tuleb esmalt lahendada"
+    ],
+    "expect_steps": [
+      "Fotod ja video teie naeratusest, huulejoonest ja näoproportsioonidest",
+      "3D-skaneerimine ja digitaalne eelvaade kavandatud uuest naeratusest",
+      "Selle kindlaksmääramine, millist ravi tegelikult vaja on, hamba kaupa",
+      "Füüsiline makett suus paljudel juhtudel enne püsivat tööd"
+    ],
+    "why_us": "Naeratuse disain sisaldub kõigi suuremate kosmeetiliste juhtumite puhul tasuta, nii et teate täpselt, mida oodata.",
+    "warranty": "Digitaalne planeerimine on osa lõplikust garantiist teostatud ravile."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Esteetiline hambaravi",
+    "title": "Hammaste valgendamine",
+    "tagline": "Professionaalne valgendamine märgatavalt heledama naeratuse jaoks ühe visiidiga.",
+    "overview": [
+      "Professionaalne hammaste valgendamine kasutab käsimüügipreparaatidest kontsentreeritumat valgendusgeeli, mida rakendatakse kontrollitud järelevalve all kiiremate ja ühtlasemate tulemuste saavutamiseks. Tavaliselt tehakse ühe visiidiga.",
+      "Kui planeerite ka viile või kroone, peaks valgendamine toimuma enne nende valmistamist — mitte pärast — et keraamiline töö sobiks toonilt teie valgendatud loomulike hammastega."
+    ],
+    "who_for": [
+      "Teie hambad on terved, kuid värvunud kohvist, teest, veinist või suitsetamisest",
+      "Soovite kiiret kosmeetilist tulemust ilma hammaste lihvimiseta",
+      "Plaanite kombineerida teiste kosmeetiliste protseduuridega (tehke valgendamine esimesena)"
+    ],
+    "expect_steps": [
+      "Hammaste ja igemete kontroll sobivuse kinnitamiseks",
+      "Igemete kaitsmine ja valgendusgeeli kandmine",
+      "Geeli aktiveerimine, tavaliselt mitmes tsüklis",
+      "Tulemuse hindamine ja soovitused tooni säilitamiseks"
+    ],
+    "why_us": "Kasutame professionaalseid valgendussüsteeme prognoositavate, ühtlaste tulemustega ühe visiidiga.",
+    "warranty": "Pakume soovitusi hooldamiseks pärast valgendamist, et pikendada tulemust."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantoloogia",
+    "title": "Kruvikinnitusega oklusaalne süsteem",
+    "tagline": "Implantaatide külge kruvitud restauratsioon, mille hambaarst saab vajadusel hõlpsasti eemaldada.",
+    "overview": [
+      "Kruvikinnitusega oklusaalne süsteem kinnitab krooni või silla implantaadile kruvi abil, mitte tsementeerimisega. See võimaldab hambaarstil vajadusel restauratsiooni hõlpsasti eemaldada kontrollimiseks või remondiks, kahjustamata restauratsiooni ennast.",
+      "Seda lähenemist eelistatakse sageli suuremate juhtumite puhul, näiteks täiskaared, kus lihtne juurdepääs tulevaseks hoolduseks on väärtuslik."
+    ],
+    "who_for": [
+      "Läbite ulatuslikuma implantaaditöö, näiteks täiskaare",
+      "Soovite lihtsamat tulevast hooldust või remonditavust",
+      "Teie hambaarst soovitab teie konkreetse juhtumi jaoks kruvikinnitust, mitte tsementeerimist"
+    ],
+    "expect_steps": [
+      "Implantaadi paigaldamine ja paranemine (osseointegratsioon)",
+      "Digitaalne skaneerimine restauratsiooni kavandamiseks",
+      "Restauratsiooni valmistamine kruvide juurdepääsuavadega",
+      "Restauratsiooni kruvimine ja juurdepääsuavade sulgemine"
+    ],
+    "why_us": "Pakume nii kruvi- kui ka tsementeeritud võimalusi ning soovitame seda, mis sobib kõige paremini teie konkreetse juhtumiga.",
+    "warranty": "Kruvikinnitusega oklusaalsele süsteemile kehtib meie eluaegne garantii."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontoloogia",
+    "title": "Gingivektoomia",
+    "tagline": "Igemete kuju korrigeerimine liigse või ebaühtlase igemekoe lahendamiseks.",
+    "overview": [
+      "Gingivektoomia eemaldab liigse igemekoe, et paljastada rohkem loomulikku hamba kõrgust, olgu see kosmeetilistel põhjustel („igemenaeratus“) või seetõttu, et liigne kude raskendab hammaste korralikku puhastamist.",
+      "Protseduur on sageli samm enne viile või kroone, et esmalt luua sümmeetriline igemejoon, millel keraamiline töö näeb hiljem loomulik välja."
+    ],
+    "who_for": [
+      "Naeratades näitate märgatavalt rohkem igemeid kui hambaid",
+      "Teie igemejoon on eesmiste hammaste ulatuses ebaühtlane",
+      "Liigne igemekude raskendab hammaste tõhusat puhastamist"
+    ],
+    "expect_steps": [
+      "Igemetasemete hindamine ja soovitud kontuuri planeerimine",
+      "Kohalik anesteesia",
+      "Liigse igemekoe eemaldamine täppisinstrumentidega",
+      "Lühike paranemisperiood enne järgnevat kosmeetilist tööd"
+    ],
+    "why_us": "Igemete hindamine on osa igast korralikust digitaalse naeratuse disaini plaanist, seega käsitletakse seda üldise plaani osana, mitte eraldiseisvalt.",
+    "warranty": "Pakume protseduurijärgseid hooldusjuhiseid, et tagada korralik paranemine."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantoloogia",
+    "title": "Siinuse tõstmine",
+    "tagline": "Piisava luukõrguse loomine ülemise lõualuu siinuse all implantaadi paigaldamiseks.",
+    "overview": [
+      "Ülemine tagumine lõualuu asub lähedal siinusõõntele ja luukadu seal tähendab mõnikord, et siinuse all pole implantaadi jaoks piisavalt kõrgust. Siinuse tõstmine tõstab õrnalt siinuse põhja ja lisab selle alla suurendusmaterjali selle kõrguse loomiseks.",
+      "See on konkreetne, hästi väljakujunenud lahendus sellele konkreetsele piirkonnale, lisades üldplaanile paranemisaega, kuid see on implantoloogia rutiinne, mitte harv erand."
+    ],
+    "who_for": [
+      "Vajate implantaati ülemises tagumises lõualuus, kuid teil puudub piisav luukõrgus",
+      "3D-skaneerimine näitas ebapiisavat kaugust siinuseni",
+      "Soovite tagada implantaadi pikaajalise stabiilsuse selles keerulises piirkonnas"
+    ],
+    "expect_steps": [
+      "3D-skaneerimine luukõrguse hindamiseks siinuse all",
+      "Siinusmembraani õrn tõstmine",
+      "Suurendusmaterjali paigutamine",
+      "Paranemisaeg enne implantaadi paigaldamist (või samaaegselt sellega)"
+    ],
+    "why_us": "Meie meeskonnal on ulatuslikud kogemused siinuse tõstmisega kui ülemise lõualuu implantoloogia juhtumite standardse osaga.",
+    "warranty": "Siinuse tõstmisele kehtib üldine implantaadi garantii."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontia",
+    "title": "Juurekanaliravi",
+    "tagline": "Infitseerunud pulbi eemaldamine ja hamba sulgemine, tavaliselt võrreldav täidise tegemisega.",
+    "overview": [
+      "Juurekanaliravi eemaldab infitseerunud hambapulbi hamba seest, kanal puhastatakse, vormitakse ja desinfitseeritakse, seejärel suletakse biosobiva materjaliga.",
+      "Ebamugavustunne, mida inimesed selle protseduuriga seostavad, tuleneb tavaliselt infektsioonist endast enne ravi, mitte protseduurist endast, mis tehakse kohaliku anesteesia all ja on üldiselt võrreldav täidise tegemisega."
+    ],
+    "who_for": [
+      "Teil on hambavalu või tundlikkus, mis viitab pulbiinfektsioonile",
+      "Röntgen näitas infektsiooni hambajuure juures",
+      "Soovite hammast päästa väljatõmbamise asemel"
+    ],
+    "expect_steps": [
+      "Diagnoos ja röntgen infektsiooni ulatuse kinnitamiseks",
+      "Kohalik anesteesia",
+      "Infitseerunud koe eemaldamine ja kanali puhastamine",
+      "Hamba sulgemine ning tavaliselt kaitsekroon pärast seda"
+    ],
+    "why_us": "Kasutame kaasaegseid rotatsiooniinstrumente ja desinfitseerimisprotokolle põhjalikuks ja mugavaks raviks.",
+    "warranty": "Juurekanaliravile kehtib meie garantii korduva infektsiooni vastu."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantoloogia",
+    "title": "All-on-4, All-on-5 ja All-on-6",
+    "tagline": "Täielikult kinnitatud hambakaar implantaatidel, implantaatide arv kohandatud teie anatoomiaga.",
+    "overview": [
+      "All-on-4, All-on-5 ja All-on-6 kasutavad sama põhiideed — täielik kinnitatud hammaste kaar, mida toetab lõualuusse paigaldatud väike arv implantaate. Number näitab, mitu implantaati seda kaart toetab.",
+      "Otsus, mitu implantaati kasutada, taandub tavaliselt luule: 3D-skaneerimine näitab, kui palju luud on saadaval, ja sellest saab hambaarst ausalt öelda, kas neli implantaati peavad vastu pikas perspektiivis või kas viies või kuues parandaks tulemust märkimisväärselt."
+    ],
+    "who_for": [
+      "Teil puuduvad enamik või kõik hambad ühes kaares",
+      "Soovite fikseeritud, mitte eemaldatavat lahendust",
+      "Teil on piisavalt luud või olete valmis kaaluma alternatiive, näiteks kaldu implantaadi paigutust"
+    ],
+    "expect_steps": [
+      "3D-skaneerimine luumassi hindamiseks ning implantaatide arvu ja asukoha planeerimiseks",
+      "Implantaatide paigaldamine ja ajutise fikseeritud silla paigaldamine samal visiidil",
+      "Paranemisperiood (osseointegratsioon), tavaliselt 4–6 kuud",
+      "Lõpliku püsiva silla paigaldamine teisel visiidil"
+    ],
+    "why_us": "Digitaalne planeerimine ja implantaatide kaldenurk võimaldavad meil sageli vältida luusuurendust isegi luukaoga patsientidel.",
+    "warranty": "All-on-4/5/6 juhtumitele kehtib meie eluaegne garantii implantaatidele ja struktuurne garantii sillale."
+  },
+  "emax-veneers": {
+    "eyebrow": "Esteetiline hambaravi",
+    "title": "E-max viilud",
+    "tagline": "Õhukesed portselan-viilud minimaalse hammaste lihvimisega loomuliku väljanägemisega tulemuse jaoks.",
+    "overview": [
+      "E-max (liitiumdisilikaat) viiludel on klaasjas läbipaistvus, mis jäljendab loomulikku hambaemaili lähedasemalt kui teised materjalid, eriti tavavalguses. Materjal jääb tugevaks isegi väga õhukesena valmistatuna, mis võimaldab paljudel juhtudel minimaalset hamba lihvimist.",
+      "Kui teie hambad on juba mõistlikult hästi joondatud ja soovite peamiselt värvi muuta, väikeseid vahesid sulgeda või kuju veidi täpsustada, saab õhukese E-max viilu sageli liimida vähese või olematu emaili eemaldamisega."
+    ],
+    "who_for": [
+      "Teil on värvimuutus, mis ei reageeri valgendamisele",
+      "Teil on väikesed kildumised, vahed või veidi ebaühtlane hambaäär",
+      "Soovite minimaalselt invasiivset lahendust, mis säilitab võimalikult palju loomulikku hammast"
+    ],
+    "expect_steps": [
+      "Digitaalne skaneerimine ja naeratuse disaini planeerimine",
+      "Minimaalne hamba lihvimine, kui üldse vajalik",
+      "Viilude freesimine E-max plokist meie enda laboris",
+      "Paigaldamine ning värvi ja hambumuse kontroll"
+    ],
+    "why_us": "Meie sisemine labor võimaldab E-max viilude kiiret valmistamist täpse värvisobitusega.",
+    "warranty": "E-max viiludele kehtib meie eluaegne garantii materjalidefektide vastu."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantoloogia",
+    "title": "Sigomaatilised implantaadid",
+    "tagline": "Pikemad implantaadid, mis on ankurdatud põsesarnaluusse patsientidele, kellel on ülemise lõualuu tõsine luukadu.",
+    "overview": [
+      "Sigomaatilised implantaadid on pikemad kui standardsed hambaimplantaadid ja on ankurdatud põsesarnaluusse (sigomaatilisse luusse), mitte lõualuusse. See lahendab olukorrad, kus ülemise lõualuu luukadu on standardsetele implantaatidele liiga tõsine, isegi luusuurendusega.",
+      "Kuna need lahendavad lõualuu luusuurenduse vajaduse, võivad sigomaatilised implantaadid paljudel juhtudel võimaldada fikseeritud hammaste kaart ilma eraldi luuehitusprotseduurideta ja nende pikema paranemisajata."
+    ],
+    "who_for": [
+      "Teil on tõsine ülemise lõualuu luukadu, mis välistab standardsed implantaadid",
+      "Teile on varem öeldud, et vajate ulatuslikku luusuurendust",
+      "Soovite vältida mitme luuprotseduuriga seotud pikki ooteaegu"
+    ],
+    "expect_steps": [
+      "Üksikasjalik 3D-skaneerimine põsesarnaluu hindamiseks ja implantaadi asukoha planeerimiseks",
+      "Sigomaatilise implantaadi paigaldamine anesteesia all",
+      "Ajutise fikseeritud silla paigaldamine, sageli samal visiidil",
+      "Lõpliku püsiva silla paigaldamine pärast paranemist"
+    ],
+    "why_us": "Sigomaatilised implantaadid nõuavad spetsialiseeritud kirurgilisi kogemusi — meie meeskond on spetsialiseerunud nendele arenenud juhtumitele.",
+    "warranty": "Sigomaatilistele implantaatidele kehtib meie eluaegne garantii."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restauratsioonid",
+    "title": "Hambasild",
+    "tagline": "Puuduva hamba asendaja, mis toetub naaberhammastele, tavaliselt valmis ühe visiidiga.",
+    "overview": [
+      "Hambasild asendab nähtava puuduva hamba, toetudes vahe kõrval olevatele hammastele toe saamiseks. Erinevalt implantaadist ei vaja see kirurgilist operatsiooni ega paranemisperioodi luuintegratsiooniks, seega valmib see tavaliselt ühe visiidiga.",
+      "Kui naaberhambad vajavad juba kroone (vana täidise, kaariese või varasema kahjustuse tõttu), on sild tõhus valik, kuna see ravib neid hambaid ja täidab vahe ühes protsessis."
+    ],
+    "who_for": [
+      "Teil puudub üks või mitu hammast järjest",
+      "Naaberhambad vajavad juba kroone või neil on väiksem kahjustus",
+      "Soovite kiiremat lahendust ilma kirurgilise operatsioonita"
+    ],
+    "expect_steps": [
+      "Tugihammaste lihvimine vahe mõlemal küljel",
+      "Digitaalne skaneerimine silla kavandamiseks",
+      "Silla freesimine ja värvimine meie laboris",
+      "Paigaldamine ja hambumuse kontroll"
+    ],
+    "why_us": "Meie meeskond annab ausalt nõu, kas sild või implantaat sobib teie konkreetse juhtumi jaoks paremini.",
+    "warranty": "Hambasildadele kehtib meie eluaegne garantii materjalidefektide vastu."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodontia",
+    "title": "Invisalign / läbipaistvad hambumusravid",
+    "tagline": "Läbipaistvad, eemaldatavad alignerid hammaste järkjärguliseks sirgendamiseks ilma metallbreketiteta.",
+    "overview": [
+      "Läbipaistvad alignerid sirgendavad hambaid kontrollitud, järkjärgulise surve abil, sarnaselt traditsiooniliste breketitega, kuid kasutades eemaldatavate läbipaistvate ravimite seeriat fikseeritud metallosade asemel.",
+      "Eemaldatavus tähendab, et sööte, harjate hambaid ja kasutate hambaniiti normaalselt, mis on suur osa põhjusest, miks täiskasvanud patsiendid eelistavad neid elustiili põhjustel. Need töötavad siiski ainult siis, kui neid kantakse vastavalt ettekirjutusele, tavaliselt 20–22 tundi päevas."
+    ],
+    "who_for": [
+      "Teil on kerge kuni mõõdukas hammaste tihedus, vahed või lihtsad hambumusprobleemid",
+      "Soovite võimalust breketid söömise ja hammaste harjamise ajaks ära võtta",
+      "Olete valmis järjekindlalt kandma ravimeid vastavalt ettekirjutusele"
+    ],
+    "expect_steps": [
+      "3D-skaneerimine ja hambumuse hindamine vajaliku hammaste liikumise planeerimiseks",
+      "Läbipaistvate ravimite seeria valmistamine vastavalt raviplaanile",
+      "Ravimite järkjärguline vahetamine iga 1–2 nädala järel",
+      "Kontrollkäigud edenemise jälgimiseks"
+    ],
+    "why_us": "3D-planeerimine näitab täpselt, milliseid liigutusi teie juhtum vajab, enne kui ravi üldse algab.",
+    "warranty": "Pärast ravi lõppu pakume säilitusravimeid tulemuse säilitamiseks."
+  }
+}

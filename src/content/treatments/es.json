@@ -1,0 +1,308 @@
+{
+  "all-on-4-5-6": {
+    "eyebrow": "Implantes de arcada completa",
+    "title": "All-on-4, All-on-5 y All-on-6",
+    "tagline": "Un arco completo fijo soportado por solo cuatro implantes, en una visita.",
+    "overview": [
+      "All-on-4 reemplaza una fila completa de dientes faltantes o fallidos con un puente fijo, no removible, soportado por solo cuatro implantes colocados estratégicamente. Dos se colocan rectos y dos en ángulo hacia la parte posterior de la mandíbula, utilizando el hueso disponible sin necesidad de injerto óseo en la mayoría de los casos.",
+      "Debido a que los implantes se colocan en ángulo y toda la arcada está diseñada como una sola unidad, el caso a menudo se completa con un puente fijo temporal el mismo día de la cirugía."
+    ],
+    "who_for": [
+      "Le faltan la mayoría o todos los dientes en una o ambas arcadas",
+      "Usa una prótesis removible y quiere una alternativa fija",
+      "Tiene cierta pérdida ósea pero quiere evitar un injerto óseo si es posible"
+    ],
+    "expect_steps": [
+      "Escaneo 3D y radiografía para planificar la posición de los implantes y confirmar su elegibilidad",
+      "Colocación quirúrgica de cuatro implantes, generalmente bajo anestesia local",
+      "Se coloca un puente fijo temporal el mismo día en la mayoría de los casos",
+      "Después de la cicatrización (generalmente unos meses), se coloca su puente final"
+    ],
+    "why_us": "Nuestro equipo quirúrgico planifica cada caso All-on-4 digitalmente antes de la cirugía, de modo que la posición de los implantes y la mordida final se planifican con antelación. Los implantes están cubiertos por nuestra garantía de por vida.",
+    "warranty": "Los implantes colocados como parte de su tratamiento All-on-4 están cubiertos por nuestra garantía de por vida.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "Un arco completo fijo soportado por solo cuatro implantes, en una visita.",
+        "desc": "La solución clásica de cuatro implantes, adecuada para la mayoría de los pacientes con suficiente volumen óseo."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "Un arco completo fijo sobre cinco implantes, con soporte adicional para un resultado más sólido a largo plazo.",
+        "desc": "Un quinto implante distribuye mejor la fuerza de masticación cuando su densidad ósea o mordida lo requieren."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "Un arco completo fijo sobre seis implantes, para el soporte más fuerte en casos con mayor pérdida ósea.",
+        "desc": "La opción más sólida, recomendada en caso de pérdida ósea significativa o cuando la estabilidad máxima es la prioridad."
+      }
+    ]
+  },
+  "dental-implants": {
+    "eyebrow": "Implantología",
+    "title": "Implantes Dentales",
+    "tagline": "Un reemplazo permanente y de sensación natural para los dientes faltantes.",
+    "overview": [
+      "Un implante dental es un poste de titanio colocado en el hueso de la mandíbula para actuar como raíz dental artificial, coronado con una corona que combina con sus dientes naturales. A diferencia de un puente, no depende de los dientes vecinos para su soporte, y a diferencia de una prótesis, no se mueve ni necesita ser retirado.",
+      "Los implantes pueden reemplazar un solo diente, varios dientes con un puente, o una arcada completa — el número y la colocación dependen de cuántos dientes faltan y el estado de su hueso mandibular."
+    ],
+    "who_for": [
+      "Le faltan uno o más dientes y quiere una solución fija y permanente",
+      "No quiere preparar ni afectar los dientes sanos junto al espacio",
+      "Tiene densidad ósea adecuada, o está abierto a un injerto óseo si es necesario"
+    ],
+    "expect_steps": [
+      "Escaneo 3D y consulta para evaluar el hueso y planificar la posición del implante",
+      "Colocación quirúrgica del implante bajo anestesia local",
+      "Un período de cicatrización, generalmente unos meses, para que el implante se fusione con el hueso",
+      "Colocación de la corona final una vez confirmada la cicatrización"
+    ],
+    "why_us": "La posición del implante se planifica digitalmente antes de la cirugía para mayor precisión, y cada implante que colocamos está cubierto por nuestra garantía de por vida.",
+    "warranty": "Todos los implantes dentales están cubiertos por nuestra garantía de por vida."
+  },
+  "hollywood-smile": {
+    "eyebrow": "Odontología cosmética",
+    "title": "Hollywood Smile",
+    "tagline": "Un rediseño completo del arco superior para una sonrisa brillante, lista para las cámaras.",
+    "overview": [
+      "Un Hollywood Smile es una transformación cosmética completa de los dientes visibles, generalmente el arco superior, que combina forma, tamaño, alineación y tono en un resultado armonioso. Generalmente se usa una combinación de carillas de porcelana o coronas de circonio, planificadas juntas como un conjunto para que cada diente complemente al siguiente.",
+      "El objetivo no es una única sonrisa modelo 'perfecta' — la forma de su cara, línea de labios y tono de piel se tienen en cuenta para que el resultado se vea como su mejor sonrisa posible, no la de otra persona."
+    ],
+    "who_for": [
+      "Tiene varias preocupaciones cosméticas a la vez — decoloración, astillas, espacios o dientes desiguales",
+      "Quiere un resultado coordinado en lugar de arreglar los dientes uno por uno",
+      "Se siente cómodo con una preparación moderada de los dientes frontales"
+    ],
+    "expect_steps": [
+      "Escaneo digital y fotos para diseñar su nueva sonrisa en 3D antes de tocar un solo diente",
+      "Preparación mínima de los dientes para hacer espacio para las nuevas restauraciones",
+      "Restauraciones temporales mientras se fabrican sus carillas o coronas permanentes",
+      "Colocación, coincidencia de tono y ajuste de la mordida para el resultado final"
+    ],
+    "why_us": "Cada caso de Hollywood Smile se diseña primero digitalmente, para que pueda ver una vista previa de su resultado antes de que comience el tratamiento. El trabajo en circonio y porcelana está cubierto por nuestra garantía de por vida.",
+    "warranty": "Las restauraciones de circonio y porcelana en su Hollywood Smile están cubiertas por nuestra garantía de por vida."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Odontología restauradora",
+    "title": "Circonio Monolítico",
+    "tagline": "Coronas y puentes de contorno completo, fresados de un solo bloque de circonio — fuertes, resistentes a astillas y precisos.",
+    "overview": [
+      "Las restauraciones de circonio monolítico se fresan de un solo bloque sólido de óxido de circonio, en lugar de un núcleo metálico o estratificado de porcelana con un revestimiento de porcelana separado. Esta construcción de una sola pieza las hace significativamente más resistentes a astillarse y fracturarse que las coronas estratificadas tradicionales.",
+      "El circonio moderno se tiñe y caracteriza digitalmente, de modo que la corona o puente terminado se mezcla naturalmente con sus dientes circundantes en lugar de verse plano u opaco."
+    ],
+    "who_for": [
+      "Necesita una corona o puente en un diente posterior que soporta mucha fuerza de masticación",
+      "Ha tenido restauraciones de porcelana astilladas o fracturadas en el pasado",
+      "Aprieta o rechina los dientes y necesita un material más duradero"
+    ],
+    "expect_steps": [
+      "Impresión digital o tradicional del diente preparado",
+      "Su restauración se diseña y fresa para que coincida con el tono de sus dientes naturales",
+      "Una restauración temporal protege el diente mientras se fabrica la permanente",
+      "Colocación final y verificación de la mordida con ajustes según sea necesario"
+    ],
+    "why_us": "Fresamos el circonio monolítico internamente con diseño digital, por lo que la coincidencia de tono y el ajuste son precisos. Todo el trabajo en circonio lleva nuestra garantía de por vida.",
+    "warranty": "Las restauraciones de circonio monolítico están cubiertas por nuestra garantía de por vida."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Planificación digital",
+    "title": "Diseño Digital de Sonrisa",
+    "tagline": "Su nueva sonrisa, planificada y previsualizada en 3D antes de comenzar el tratamiento.",
+    "overview": [
+      "El diseño digital de sonrisa utiliza un escáner intraoral y software de diseño para construir un modelo 3D de sus dientes y simular el resultado de su tratamiento antes de que comience cualquier trabajo. En lugar de depender de una descripción escrita, ve una vista previa realista de su nueva sonrisa y puede discutir ajustes antes de comprometerse.",
+      "Este enfoque digital también significa que rara vez se necesita una impresión física — la mayoría de los casos se escanean, no se moldean, lo que es más rápido y cómodo para la mayoría de los pacientes."
+    ],
+    "who_for": [
+      "Está planificando un caso cosmético (carillas, coronas, Hollywood Smile) y quiere ver primero el resultado",
+      "Quiere evitar una impresión tradicional cuando sea posible",
+      "Está coordinando el tratamiento a distancia y quiere un plan visual claro antes de viajar"
+    ],
+    "expect_steps": [
+      "Escaneo intraoral de sus dientes y mordida",
+      "Fotos y medidas de su cara y línea de sonrisa",
+      "Un diseño 3D de su nueva sonrisa propuesta, revisado con su dentista",
+      "Ajustes al diseño antes de que comience cualquier tratamiento permanente"
+    ],
+    "why_us": "Cada caso cosmético o restaurador complejo en nuestra clínica comienza con planificación digital, para que usted y su dentista trabajen con el mismo plan visual desde el primer día.",
+    "warranty": "La planificación digital forma parte de la garantía final del tratamiento realizado."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Odontología cosmética",
+    "title": "Blanqueamiento Dental",
+    "tagline": "Un aclarado de tono en una sola sesión, realizado antes o después de otros trabajos.",
+    "overview": [
+      "El blanqueamiento dental profesional utiliza un gel blanqueador de mayor concentración que los productos de venta libre, aplicado en condiciones controladas para aclarar el tono de sus dientes naturales de forma segura y uniforme. La mayoría de los pacientes ven un resultado notable en una sola sesión.",
+      "El blanqueamiento solo afecta al esmalte dental natural — no cambiará el color de coronas, carillas o empastes existentes, por lo que el momento en relación con otros tratamientos es importante."
+    ],
+    "who_for": [
+      "Sus dientes están naturalmente decolorados o manchados por café, té, vino o tabaco",
+      "Quiere una sonrisa más brillante sin ningún otro cambio estructural",
+      "Quiere una referencia de tono antes de decidir sobre carillas o coronas"
+    ],
+    "expect_steps": [
+      "Una verificación de que sus dientes y encías están lo suficientemente sanos para el blanqueamiento",
+      "Protección de sus encías antes de aplicar el gel blanqueador",
+      "Uno o más ciclos de blanqueamiento durante la misma visita",
+      "Orientación de cuidado para ayudar a que el resultado dure"
+    ],
+    "why_us": "Planificamos cuidadosamente el blanqueamiento en torno a cualquier otro tratamiento que esté recibiendo, para que sus nuevas coronas o carillas coincidan en tono con sus dientes naturales blanqueados — no al revés.",
+    "warranty": "Ofrecemos recomendaciones de cuidado posterior al blanqueamiento para prolongar el resultado."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Restauraciones implantológicas",
+    "title": "Sistema Oclusal Atornillado",
+    "tagline": "Restauraciones implantológicas fijadas con un tornillo oclusal en lugar de cemento, para poder acceder y mantenerlas sin dañarlas.",
+    "overview": [
+      "Las coronas y puentes implantológicos pueden fijarse de dos maneras principales: cementados en su lugar, o fijados con un pequeño tornillo a través de la superficie oclusal. Una restauración atornillada puede ser retirada y vuelta a colocar por su dentista para mantenimiento o reparación sin tener que cortar o destruir la restauración, a diferencia de una cementada.",
+      "El orificio de acceso del tornillo se rellena con material del color del diente después de la colocación, por lo que no es visible en el uso normal."
+    ],
+    "who_for": [
+      "Está recibiendo una corona o puente soportado por implante y quiere un mantenimiento a largo plazo más fácil",
+      "Su dentista recomienda la recuperabilidad para su caso específico",
+      "Quiere evitar el riesgo de que el exceso de cemento irrite la encía alrededor de un implante"
+    ],
+    "expect_steps": [
+      "Su restauración implantológica se diseña con un canal de acceso para el tornillo",
+      "La restauración se atornilla en su lugar con un destornillador específico y un ajuste de torque",
+      "El orificio de acceso se sella con material de relleno del color del diente",
+      "Controles de seguimiento para confirmar el ajuste y la mordida"
+    ],
+    "why_us": "Para casos de implantes donde el mantenimiento futuro importa, optamos por defecto por restauraciones atornilladas para que su tratamiento siga siendo reparable a largo plazo.",
+    "warranty": "El sistema oclusal retenido por tornillo está cubierto por nuestra garantía de por vida."
+  },
+  "gingivectomy": {
+    "eyebrow": "Tratamiento periodontal",
+    "title": "Gingivectomía",
+    "tagline": "Remodelación de la línea de las encías para mejorar tanto la salud como la apariencia de su sonrisa.",
+    "overview": [
+      "Una gingivectomía elimina y remodela el tejido gingival excesivo o irregular, la mayoría de las veces para corregir una 'sonrisa gingival' donde se muestra demasiada encía al sonreír, o para eliminar tejido difícil de mantener limpio y propenso a la inflamación. Puede hacerse sola o como paso de preparación antes de carillas o coronas.",
+      "El procedimiento se realiza bajo anestesia local y generalmente se tolera bien, con un período de cicatrización corto y predecible."
+    ],
+    "who_for": [
+      "Muestra más encía que diente cuando sonríe",
+      "Tiene niveles de encía desiguales en sus dientes frontales",
+      "El tejido gingival excesivo dificulta la limpieza correcta de sus dientes"
+    ],
+    "expect_steps": [
+      "Evaluación y mapeo de su línea de encías, a veces digitalmente",
+      "Anestesia local para adormecer el área de tratamiento",
+      "Eliminación precisa y remodelación del tejido gingival excesivo",
+      "Cicatrización durante una a dos semanas, con seguimiento según sea necesario"
+    ],
+    "why_us": "Cuando una gingivectomía es parte de un caso cosmético, planificamos la nueva línea de encías y las nuevas formas dentales juntas, para que ambas cicatricen en un resultado coordinado.",
+    "warranty": "Ofrecemos pautas de cuidado tras el procedimiento para garantizar una correcta cicatrización."
+  },
+  "sinus-lift": {
+    "eyebrow": "Cirugía previa al implante",
+    "title": "Elevación de Seno (Sinus Lift)",
+    "tagline": "Añade volumen óseo al maxilar superior cuando es necesario, dando a los implantes en los dientes posteriores una base estable y duradera.",
+    "overview": [
+      "Las cavidades sinusales se encuentran directamente encima de los dientes posteriores superiores, y después de perder un diente en esa área, el hueso restante puede volverse demasiado delgado para soportar un implante de forma segura. Una elevación de seno levanta suavemente el suelo del seno y añade material de injerto óseo debajo, creando suficiente altura para un implante estable.",
+      "Es un procedimiento bien establecido y, dependiendo de cuánta altura se necesite, a veces puede hacerse al mismo tiempo que la colocación del implante en lugar de como una cirugía separada."
+    ],
+    "who_for": [
+      "Le falta un diente posterior superior y quiere un implante, pero tiene altura ósea limitada",
+      "Una evaluación previa encontró que su seno está demasiado cerca del sitio del implante",
+      "Tiene pérdida ósea en el maxilar superior por un diente ausente desde hace tiempo"
+    ],
+    "expect_steps": [
+      "Imágenes 3D para medir la altura ósea exacta disponible",
+      "La membrana sinusal se levanta suavemente y se coloca material de injerto óseo",
+      "Un período de cicatrización (varía según el caso) antes o junto con la colocación del implante",
+      "Una vez cicatrizado, el implante se coloca o restaura según lo planeado"
+    ],
+    "why_us": "Recomendamos una elevación de seno solo cuando el escaneo 3D realmente muestra que es necesaria, y coordinamos el tiempo con su plan de implantes para tener el número mínimo de visitas separadas.",
+    "warranty": "La elevación de seno está cubierta por la garantía general de implantes."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodoncia",
+    "title": "Tratamiento de Conducto",
+    "tagline": "Elimina la infección del interior del diente y lo sella, salvando el diente natural siempre que sea posible.",
+    "overview": [
+      "Cuando la caries o una fractura alcanzan el tejido blando dentro de un diente, puede infectarse o inflamarse, causando dolor y sensibilidad. El tratamiento de conducto elimina ese tejido infectado del interior del diente, limpia y desinfecta el espacio, y luego lo sella — permitiéndole conservar su diente natural en lugar de extraerlo.",
+      "El tratamiento de conducto moderno se realiza bajo anestesia local y generalmente no es más incómodo que colocar un empaste."
+    ],
+    "who_for": [
+      "Tiene dolor dental persistente, especialmente con alimentos calientes o fríos",
+      "Un dentista ha identificado infección o un absceso en la raíz de un diente",
+      "Tiene una fractura profunda o un empaste antiguo que llega cerca del nervio del diente"
+    ],
+    "expect_steps": [
+      "Radiografía para evaluar la extensión de la infección y planificar el tratamiento",
+      "Anestesia local para adormecer el diente",
+      "Eliminación del tejido infectado y limpieza del/los conducto(s) radicular(es)",
+      "Sellado del diente, generalmente seguido de una corona para protección a largo plazo"
+    ],
+    "why_us": "Priorizamos salvar su diente natural cuando es una opción viable, y típicamente recomendamos una corona protectora después para mantener fuerte el diente tratado a largo plazo.",
+    "warranty": "El tratamiento de conducto está cubierto por nuestra garantía contra la reinfección."
+  },
+  "dental-bridge": {
+    "eyebrow": "Odontología restauradora",
+    "title": "Puente Dental",
+    "tagline": "Una forma fija de reemplazar uno o más dientes faltantes sin cirugía, anclada a los dientes a ambos lados del espacio.",
+    "overview": [
+      "Un puente dental llena el espacio dejado por un diente faltante con un diente falso (póntico) fusionado entre dos coronas, que se colocan sobre los dientes naturales a ambos lados del espacio. Una vez cementado, un puente no se quita — lo limpia y lo usa exactamente como dientes naturales.",
+      "A diferencia de un implante, un puente no requiere cirugía ni período de cicatrización, lo que lo convierte en una vía más rápida y a menudo más asequible para reemplazar un diente faltante para candidatos adecuados."
+    ],
+    "who_for": [
+      "Le faltan uno o algunos dientes seguidos y quiere una solución fija, no quirúrgica",
+      "Los dientes junto al espacio ya necesitan coronas, o son lo suficientemente fuertes para soportar una",
+      "Prefiere evitar la cirugía de implantes o el tiempo de cicatrización que requiere"
+    ],
+    "expect_steps": [
+      "Escaneo digital y preparación de los dos dientes pilares",
+      "Un puente temporal protege el área mientras se fabrica el permanente",
+      "Su puente se fresa y termina para que coincida con el tono de sus dientes naturales",
+      "Cementación final y verificación de la mordida"
+    ],
+    "why_us": "Solo recomendamos un puente cuando los dientes pilares son realmente lo suficientemente fuertes para ello — de lo contrario lo diremos y discutiremos un implante en su lugar. Todo el trabajo de puentes está cubierto por nuestra garantía de por vida.",
+    "warranty": "Los puentes dentales están cubiertos por nuestra garantía de por vida."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantología avanzada",
+    "title": "Implantes Cigomáticos",
+    "tagline": "Una solución fija el mismo día para pacientes con pérdida ósea severa del maxilar superior que no son candidatos para implantes estándar.",
+    "overview": [
+      "Los implantes cigomáticos son más largos que los implantes dentales estándar y se anclan en el hueso cigomático (pómulo) en lugar del maxilar superior. Esto los convierte en una opción para pacientes cuyo maxilar superior ha perdido demasiado hueso para que los implantes convencionales — o incluso el All-on-4 — puedan colocarse de forma segura.",
+      "Debido a que el hueso cigomático es denso y rara vez se ve afectado por la pérdida ósea que sigue a la pérdida de dientes, ofrece un punto de anclaje estable sin necesidad de un injerto óseo o elevación de seno de antemano."
+    ],
+    "who_for": [
+      "Le han dicho que no tiene suficiente hueso maxilar superior para implantes estándar o All-on-4",
+      "Un injerto óseo anterior falló, o prefiere evitar un injerto y el tiempo de cicatrización adicional",
+      "Usa una prótesis superior y quiere una alternativa fija, no removible"
+    ],
+    "expect_steps": [
+      "Escaneo TC 3D para evaluar su hueso cigomático y planificar con precisión la trayectoria del implante",
+      "Colocación quirúrgica de los implantes cigomáticos, típicamente bajo anestesia general o sedación profunda dada la complejidad",
+      "A menudo se fija un puente temporal el mismo día",
+      "El puente final y permanente se coloca una vez confirmada la cicatrización"
+    ],
+    "why_us": "Los casos cigomáticos requieren una precisión quirúrgica que la mayoría de los implantólogos generales no realizan de forma rutinaria. Nuestro equipo quirúrgico planifica cada caso de antemano con imágenes 3D, y cada implante colocado está cubierto por nuestra garantía de por vida.",
+    "warranty": "Los implantes cigomáticos están cubiertos por nuestra garantía de por vida."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodoncia",
+    "title": "Invisalign / Alineadores Transparentes",
+    "tagline": "Una forma casi invisible de enderezar los dientes utilizando una serie de alineadores transparentes personalizados y removibles.",
+    "overview": [
+      "El tratamiento con alineadores transparentes utiliza una serie de alineadores de plástico transparente hechos a medida que mueven gradualmente sus dientes a su posición correcta, cada uno usado durante una a dos semanas antes de pasar al siguiente de la serie. Debido a que los alineadores son transparentes y removibles, la mayoría de las personas no notarán que los está usando.",
+      "A diferencia de los brackets metálicos fijos, los alineadores se pueden quitar para comer, cepillarse y usar hilo dental normalmente."
+    ],
+    "who_for": [
+      "Tiene apiñamiento leve a moderado, espacios o problemas de mordida",
+      "Quiere enderezar sus dientes sin brackets y alambres metálicos visibles",
+      "Es un adulto que quiere un tratamiento que se ajuste a una rutina diaria normal"
+    ],
+    "expect_steps": [
+      "Escaneo digital 3D de sus dientes para planificar toda la secuencia de movimiento de antemano",
+      "Verá una vista previa de su resultado proyectado antes de comprometerse con el tratamiento",
+      "Toda su serie de alineadores personalizados se fabrica según ese plan",
+      "Usa cada juego de 1 a 2 semanas, con controles periódicos para seguir el progreso"
+    ],
+    "why_us": "Cada caso se planifica digitalmente desde el primer escaneo, por lo que sabrá aproximadamente cuántos alineadores necesitará y cómo debería verse el resultado final antes de comenzar.",
+    "warranty": "Proporcionamos férulas de retención al finalizar el tratamiento para mantener el resultado."
+  }
+}

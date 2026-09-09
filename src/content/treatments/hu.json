@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Esztétikai fogászat",
+    "title": "Hollywood Smile",
+    "tagline": "A felső fogsor teljes újratervezése egy ragyogó, szimmetrikus, kamerakész mosolyért.",
+    "overview": [
+      "A Hollywood Smile a látható fogak, jellemzően a felső fogsor, teljes esztétikai átalakítása, amely a formát, méretet, illeszkedést és árnyalatot egyetlen harmonikus eredménybe egyesíti. Jellemzően porcelán héjak vagy cirkónium koronák kombinációját alkalmazza, közösen megtervezve, hogy minden fog kiegészítse a másikat.",
+      "A cél nem egy egyetlen „tökéletes” sablonmosoly — figyelembe veszik az arcformát, az ajakvonalat és a bőrszínt, így az eredmény az Ön lehető legjobb mosolyának tűnik, nem másvalakiének."
+    ],
+    "who_for": [
+      "Egyszerre több esztétikai problémája van — elszíneződés, letörés, rések vagy egyenetlen fogak",
+      "Koordinált eredményt szeretne, nem pedig fogról fogra történő javítást",
+      "Elfogadja az elülső fogak mérsékelt csiszolását"
+    ],
+    "expect_steps": [
+      "Digitális szkennelés és fotók az új mosoly 3D-ben történő megtervezéséhez, mielőtt bármelyik fogat érintenénk",
+      "A fogak minimális csiszolása, hogy helyet teremtsünk az új pótlásoknak",
+      "Ideiglenes pótlások, amíg a végleges héjakat vagy koronákat marják",
+      "Illesztés, árnyalategyeztetés és harapásbeállítás a végeredményhez"
+    ],
+    "why_us": "Minden Hollywood Smile esetet előbb digitálisan tervezünk meg, így az eredmény előnézetét már a kezelés megkezdése előtt megtekintheti. A cirkónium és porcelán munkálatokra élethosszig tartó garanciát vállalunk.",
+    "warranty": "A Hollywood Smile cirkónium és porcelán pótlásaira élethosszig tartó garanciát vállalunk."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Koronák és pótlások",
+    "title": "Monolitikus cirkónium",
+    "tagline": "Egyetlen tömör cirkónium tömbből mart koronák maximális szilárdságért, lepattogzás nélkül.",
+    "overview": [
+      "A monolitikus cirkónium koronákat egyetlen tömör cirkónium tömbből marják, külön porcelánréteg nélkül. Ez megszünteti a régebbi cirkónium koronák fő gyengeségét — a porcelán réteg idővel történő lepattogzását.",
+      "A modern többrétegű cirkónium tömbök úgy vannak színezve, hogy az áttetszőség az íny vonalától a rágóélig változzon, így nagyrészt bezárva a régi esztétikai szakadékot anélkül, hogy törékeny porcelán réteget adnának hozzá."
+    ],
+    "who_for": [
+      "Koronára vagy hídra van szüksége hátsó fogon, ahol a rágóerő a legnagyobb",
+      "Csikorgatja vagy szorítja a fogait, és tartósabb anyagra van szüksége",
+      "Hosszú távú megoldást szeretne minimális lepattogzási kockázattal"
+    ],
+    "expect_steps": [
+      "A fog digitális szkennelése előkészítés után",
+      "A korona marása tömör cirkónium tömbből saját laboratóriumunkban",
+      "Színezés és mázolás a természetes fogszín illesztéséhez",
+      "Végső illesztésellenőrzés és cementezés"
+    ],
+    "why_us": "A belső maróműhely lehetővé teszi, hogy napok, ne hetek alatt elkészüljön a korona, pontos digitális tervezéssel.",
+    "warranty": "A monolitikus cirkónium koronákra élethosszig tartó garanciát vállalunk az anyaghiba ellen."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantológia",
+    "title": "Fogimplantátumok",
+    "tagline": "Tartós, titánból készült fogyökér-pótlás, amelyre koronát vagy hidat rögzítenek.",
+    "overview": [
+      "A fogimplantátum közvetlenül pótolja a hiányzó fogyökeret, önállóan állva az állcsontban, a szomszédos fogaktól függetlenül. A titánnak szokatlan tulajdonsága van — az élő csontsejtek közvetlenül ránőnek, amit oszteointegrációnak neveznek.",
+      "Ez a folyamat több hónapig tart, ezért az implantátumos eseteket általában két látogatásra osztják: az elsőre a szkenneléshez, a beavatkozáshoz és egy ideiglenes pótláshoz, a másodikra hónapokkal később a végleges, tartós koronához."
+    ],
+    "who_for": [
+      "Egy vagy több foga hiányzik, és tartós megoldást szeretne",
+      "El szeretné kerülni a szomszédos egészséges fogak csiszolását (ahogy egy híd megkövetelné)",
+      "Elegendő csontállománnyal rendelkezik, vagy hajlandó fontolóra venni a csontpótlást"
+    ],
+    "expect_steps": [
+      "3D szkennelés (CBCT) a rendelkezésre álló csontállomány felmérésére",
+      "Az implantátum behelyezése helyi érzéstelenítés alatt",
+      "Gyógyulási időszak (oszteointegráció), jellemzően 3–6 hónap",
+      "A végleges korona illesztése a második látogatáson"
+    ],
+    "why_us": "Bevált, klinikailag tesztelt implantátummárkákat használunk, hosszú távú adatokkal és teljes garanciával.",
+    "warranty": "A fogimplantátumokra élethosszig tartó garanciát vállalunk az implantátum meghibásodása ellen."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Kezeléstervezés",
+    "title": "Digitális mosolytervezés",
+    "tagline": "A tervezési fázis, amely eldönti, milyen kezelésekre van valójában szüksége, az arca alapján, nem sablon szerint.",
+    "overview": [
+      "A Digitális Mosolytervezés önmagában nem kezelés — ez a tervezési szakasz, amely eldönti, milyen kezeléseket (héjakat, koronákat, fehérítést, ínyformázást) alkalmaznak valójában a cél eléréséhez, az Ön arca, ajkai és fogai alapján, nem egy általános sablon szerint.",
+      "Egy szájon belüli szkennelés 3D modellt épít a fogairól, és a tervezőszoftver egy javasolt új mosolyt vetít erre a modellre — ezen a ponton valóban láthatja a tervet, és megbeszélheti a módosításokat, mielőtt bármi végleges történne."
+    ],
+    "who_for": [
+      "Több esztétikai beavatkozást fontolgat, és előre szeretné látni az eredményt",
+      "Biztos szeretne lenni az eredményben, mielőtt bármilyen tartós munka elkezdődik",
+      "Egyenetlen ínyei vagy aszimmetriája van, amelyet előbb meg kell oldani"
+    ],
+    "expect_steps": [
+      "Fotók és videó a mosolyáról, ajakvonaláról és arcarányairól",
+      "3D szkennelés és digitális előnézet a javasolt új mosolyról",
+      "Annak meghatározása, milyen kezelésekre van valójában szükség, fogonként",
+      "Fizikai makett a szájban sok esetben a tartós munka előtt"
+    ],
+    "why_us": "A mosolytervezés minden nagyobb esztétikai esetben ingyenesen jár, így pontosan tudja, mire számíthat.",
+    "warranty": "A digitális tervezés a elvégzett kezelés végső garanciájának része."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Esztétikai fogászat",
+    "title": "Fogfehérítés",
+    "tagline": "Professzionális fehérítés egy jól látható, világosabb mosolyért egyetlen látogatás alatt.",
+    "overview": [
+      "A professzionális fogfehérítés koncentráltabb fehérítő gélt használ, mint a vény nélkül kapható termékek, ellenőrzött felügyelet mellett alkalmazva a gyorsabb és egyenletesebb eredmények érdekében. Jellemzően egyetlen látogatás alatt elvégezhető.",
+      "Ha héjakat vagy koronákat is tervez, a fehérítésnek előbb kell megtörténnie, mint azok elkészítésének — nem utána —, hogy a kerámiamunka árnyalatban illeszkedjen a fehérített természetes fogaihoz."
+    ],
+    "who_for": [
+      "Fogai egészségesek, de kávétól, teától, bortól vagy dohányzástól elszíneződtek",
+      "Gyors esztétikai eredményt szeretne fogcsiszolás nélkül",
+      "Más esztétikai beavatkozásokkal is tervez kombinálni (a fehérítést végezze el először)"
+    ],
+    "expect_steps": [
+      "Fogak és íny ellenőrzése az alkalmasság megerősítésére",
+      "Az íny védelme és a fehérítő gél felvitele",
+      "A gél aktiválása, jellemzően több ciklusban",
+      "Az eredmény kiértékelése és ajánlások az árnyalat megőrzésére"
+    ],
+    "why_us": "Professzionális fehérítő rendszereket használunk, kiszámítható, egyenletes eredményekkel egyetlen látogatás alatt.",
+    "warranty": "Fehérítés utáni ápolási ajánlásokat biztosítunk az eredmény meghosszabbítására."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantológia",
+    "title": "Csavarrögzítésű okklúziós rendszer",
+    "tagline": "Implantátumokhoz csavarozott pótlás, amelyet a fogorvos szükség esetén könnyen eltávolíthat.",
+    "overview": [
+      "A csavarrögzítésű okklúziós rendszer csavarral, nem pedig cementezéssel rögzíti a koronát vagy hidat az implantátumhoz. Ez lehetővé teszi a fogorvosnak, hogy szükség esetén könnyen eltávolítsa a pótlást ellenőrzés vagy javítás céljából, anélkül, hogy magát a pótlást károsítaná.",
+      "Ezt a megközelítést gyakran előnyben részesítik nagyobb esetekben, mint például a teljes fogsorok, ahol a jövőbeli karbantartáshoz való könnyű hozzáférés értékes."
+    ],
+    "who_for": [
+      "Kiterjedtebb implantátumos munkán esik át, mint például teljes fogsor",
+      "Könnyebb jövőbeli karbantartást vagy javíthatóságot szeretne",
+      "Fogorvosa csavarrögzítést javasol cementezés helyett az Ön konkrét esetéhez"
+    ],
+    "expect_steps": [
+      "Implantátum behelyezése és gyógyulás (oszteointegráció)",
+      "Digitális szkennelés a pótlás megtervezéséhez",
+      "A pótlás elkészítése csavarhozzáférési nyílásokkal",
+      "A pótlás csavarozása és a hozzáférési nyílások lezárása"
+    ],
+    "why_us": "Csavarrögzítésű és cementezett lehetőségeket is kínálunk, és azt ajánljuk, amelyik a legjobban illik az Ön konkrét esetéhez.",
+    "warranty": "A csavarrögzítésű okklúziós rendszerre élethosszig tartó garanciát vállalunk."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontológia",
+    "title": "Gingivektómia",
+    "tagline": "Ínyformázás a túlzott vagy egyenetlen ínyszövet kezelésére.",
+    "overview": [
+      "A gingivektómia eltávolítja a felesleges ínyszövetet, hogy több természetes fogmagasságot tárjon fel, akár esztétikai okokból („íny mosoly”), akár mert a felesleges szövet megnehezíti a fogak megfelelő tisztítását.",
+      "A beavatkozás gyakran a héjak vagy koronák előtti lépés, hogy először szimmetrikus ínyvonalat hozzon létre, amelyen a kerámiamunka aztán természetesnek tűnik."
+    ],
+    "who_for": [
+      "Mosolykor érezhetően több ínyt mutat, mint fogat",
+      "Ínyvonala egyenetlen az elülső fogak mentén",
+      "A felesleges ínyszövet megnehezíti a fogak hatékony tisztítását"
+    ],
+    "expect_steps": [
+      "Az ínyszintek felmérése és a kívánt kontúr megtervezése",
+      "Helyi érzéstelenítés",
+      "A felesleges ínyszövet eltávolítása precíziós eszközökkel",
+      "Rövid gyógyulási idő minden azt követő esztétikai munka előtt"
+    ],
+    "why_us": "Az ínyértékelés minden megfelelő digitális mosolytervezési tervnek része, így az átfogó terv részeként kezelik, nem elszigetelten.",
+    "warranty": "Beavatkozás utáni ápolási útmutatót biztosítunk a megfelelő gyógyulás érdekében."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantológia",
+    "title": "Arcüreg-emelés",
+    "tagline": "Elegendő csontmagasság kialakítása a felső arcüreg alatt implantátum behelyezéséhez.",
+    "overview": [
+      "A felső hátsó állcsont közel van az arcüregekhez, és az ottani csontvesztés néha azt jelenti, hogy nincs elegendő magasság az üreg alatt egy implantátumhoz. Az arcüreg-emelés finoman megemeli az üreg alját, és alá pótanyagot ad, hogy létrehozza ezt a magasságot.",
+      "Ez egy konkrét, jól bevált megoldás erre a bizonyos területre, gyógyulási időt ad hozzá az általános tervhez, de ez az implantológia rutinszerű, nem ritka kivétel része."
+    ],
+    "who_for": [
+      "Implantátumra van szüksége a felső hátsó állcsontban, de nincs elegendő csontmagassága",
+      "A 3D szkennelés nem elegendő távolságot mutatott az arcüregig",
+      "Hosszú távú implantátumstabilitást szeretne biztosítani ebben a nehéz területen"
+    ],
+    "expect_steps": [
+      "3D szkennelés a csontmagasság felmérésére az üreg alatt",
+      "Az üreghártya finom megemelése",
+      "Pótanyag elhelyezése",
+      "Gyógyulási idő az implantátum behelyezése előtt (vagy azzal egyidejűleg)"
+    ],
+    "why_us": "Csapatunknak kiterjedt tapasztalata van az arcüreg-emeléssel, mint a felső állcsonti implantológiai esetek standard részével.",
+    "warranty": "Az arcüreg-emelés az implantátumra vonatkozó átfogó garancia része."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodoncia",
+    "title": "Gyökérkezelés",
+    "tagline": "A fertőzött pép eltávolítása és a fog lezárása, jellemzően összehasonlítható egy tömés elkészítésével.",
+    "overview": [
+      "A gyökérkezelés eltávolítja a fertőzött fogbelet a fog belsejéből, a gyökércsatornát megtisztítják, formázzák és fertőtlenítik, majd biokompatibilis anyaggal lezárják.",
+      "A kellemetlenség, amelyet az emberek ezzel a beavatkozással kapcsolnak össze, jellemzően magából a fertőzésből ered a kezelés előtt, nem magából a beavatkozásból, amelyet helyi érzéstelenítés alatt végeznek, és általában összehasonlítható egy tömés elkészítésével."
+    ],
+    "who_for": [
+      "Fogfájása vagy érzékenysége van, amely pépfertőzésre utal",
+      "A röntgen fertőzést mutatott a fog gyökerénél",
+      "Meg szeretné menteni a fogat kihúzás helyett"
+    ],
+    "expect_steps": [
+      "Diagnózis és röntgen a fertőzés kiterjedésének megerősítésére",
+      "Helyi érzéstelenítés",
+      "A fertőzött szövet eltávolítása és a csatorna tisztítása",
+      "A fog lezárása, majd általában egy védő korona"
+    ],
+    "why_us": "Modern forgó eszközöket és fertőtlenítési protokollokat használunk az alapos és kényelmes kezeléshez.",
+    "warranty": "A gyökérkezelésre garanciát vállalunk az újrafertőződés ellen."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantológia",
+    "title": "All-on-4, All-on-5 és All-on-6",
+    "tagline": "Teljes, rögzített fogsor implantátumokon, az implantátumok száma az Ön anatómiájához igazítva.",
+    "overview": [
+      "Az All-on-4, All-on-5 és All-on-6 ugyanazt az alapötletet használja — teljes, rögzített fogsor, amelyet az állcsontba helyezett kis számú implantátum tart. A számok jelzik, hány implantátum tartja az adott fogsort.",
+      "Az implantátumok számáról szóló döntés általában a csonton múlik: a 3D szkennelés megmutatja, mennyi csont áll rendelkezésre, és innen a fogorvos őszintén megmondhatja, hogy négy implantátum kitart-e hosszú távon, vagy egy ötödik vagy hatodik jelentősen javítaná-e az eredményt."
+    ],
+    "who_for": [
+      "Egy fogsorban a fogak nagy része vagy mindegyike hiányzik",
+      "Rögzített, nem kivehető megoldást szeretne",
+      "Elegendő csontja van, vagy hajlandó fontolóra venni alternatívákat, mint például a dőlt implantátumelhelyezést"
+    ],
+    "expect_steps": [
+      "3D szkennelés a csontállomány felmérésére és az implantátumok számának és elhelyezésének megtervezésére",
+      "Az implantátumok behelyezése és egy ideiglenes rögzített híd felhelyezése ugyanazon a látogatáson",
+      "Gyógyulási időszak (oszteointegráció), jellemzően 4–6 hónap",
+      "A végleges, tartós híd felhelyezése a második látogatáson"
+    ],
+    "why_us": "A digitális tervezés és az implantátumok döntése gyakran lehetővé teszi számunkra, hogy elkerüljük a csontpótlást még a csontvesztéssel küzdő betegeknél is.",
+    "warranty": "Az All-on-4/5/6 esetekre élethosszig tartó garanciát vállalunk az implantátumokra és strukturális garanciát a hídra."
+  },
+  "emax-veneers": {
+    "eyebrow": "Esztétikai fogászat",
+    "title": "E-max héjak",
+    "tagline": "Vékony porcelán héjak minimális fogcsiszolással, természetesen kinéző eredményért.",
+    "overview": [
+      "Az E-max (lítium-diszilikát) héjak üvegszerű áttetszőséggel rendelkeznek, amely közelebb utánozza a természetes fogzománcot, mint más anyagok, különösen normál fényben. Az anyag akkor is szilárd marad, ha nagyon vékonyra készítik, ami sok esetben minimális fogcsiszolást tesz lehetővé.",
+      "Ha a fogai már ésszerűen jól illeszkednek, és elsősorban a színt szeretné megváltoztatni, kis réseket zárni, vagy kissé finomítani a formán, egy vékony E-max héjat gyakran kevés vagy semmilyen zománceltávolítás nélkül lehet ráragasztani."
+    ],
+    "who_for": [
+      "Olyan elszíneződése van, amely nem reagál a fehérítésre",
+      "Kis letörése, rései vagy kissé egyenetlen fogszéle van",
+      "Minimálisan invazív megoldást szeretne, amely a lehető legtöbb természetes fogat megőrzi"
+    ],
+    "expect_steps": [
+      "Digitális szkennelés és mosolytervezés",
+      "Minimális fogcsiszolás, ha egyáltalán szükséges",
+      "A héjak marása E-max tömbből saját laboratóriumunkban",
+      "Illesztés és a szín és harapás ellenőrzése"
+    ],
+    "why_us": "Belső laboratóriumunk lehetővé teszi az E-max héjak gyors elkészítését, pontos színegyeztetéssel.",
+    "warranty": "Az E-max héjakra élethosszig tartó garanciát vállalunk az anyaghiba ellen."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantológia",
+    "title": "Zigomatikus implantátumok",
+    "tagline": "Hosszabb implantátumok, amelyeket a járomcsontban rögzítenek olyan betegek számára, akiknek súlyos felső állcsonti csontvesztésük van.",
+    "overview": [
+      "A zigomatikus implantátumok hosszabbak a standard fogimplantátumoknál, és a járomcsontban (zigomatikus csontban) horgonyzódnak le, nem az állcsontban. Ez olyan helyzeteket old meg, ahol a felső állcsonti csontvesztés túl súlyos a standard implantátumokhoz, még csontpótlással is.",
+      "Mivel megkerülik az állcsonti csontpótlás szükségességét, a zigomatikus implantátumok sok esetben lehetővé tehetik a rögzített fogsort külön csontépítő beavatkozások és azok hosszabb gyógyulási ideje nélkül."
+    ],
+    "who_for": [
+      "Súlyos felső állcsonti csontvesztése van, amely kizárja a standard implantátumokat",
+      "Korábban azt mondták Önnek, hogy kiterjedt csontpótlásra van szüksége",
+      "El szeretné kerülni a többszörös csontos beavatkozásokkal járó hosszú várakozási időket"
+    ],
+    "expect_steps": [
+      "Részletes 3D szkennelés a járomcsont felmérésére és az implantátum elhelyezésének megtervezésére",
+      "A zigomatikus implantátum behelyezése érzéstelenítés alatt",
+      "Ideiglenes rögzített híd felhelyezése, gyakran ugyanazon a látogatáson",
+      "A végleges, tartós híd felhelyezése gyógyulás után"
+    ],
+    "why_us": "A zigomatikus implantátumok speciális sebészi tapasztalatot igényelnek — csapatunk erre a fejlett esetekre szakosodott.",
+    "warranty": "A zigomatikus implantátumokra élethosszig tartó garanciát vállalunk."
+  },
+  "dental-bridge": {
+    "eyebrow": "Pótlások",
+    "title": "Fogpótló híd",
+    "tagline": "A hiányzó fog pótlása a szomszédos fogakra támaszkodva, jellemzően egyetlen látogatás alatt elkészül.",
+    "overview": [
+      "A fogpótló híd a látható hiányzó fogat úgy pótolja, hogy a rés melletti fogakra támaszkodik a tartáshoz. Az implantátumtól eltérően nem igényel sebészeti beavatkozást vagy gyógyulási időt a csontba való beépüléshez, így jellemzően egyetlen látogatás alatt elkészül.",
+      "Ha a szomszédos fogaknak már koronára van szükségük (régi tömés, szuvasodás vagy korábbi károsodás miatt), a híd hatékony választás, mivel egy folyamatban kezeli ezeket a fogakat és tölti ki a rést."
+    ],
+    "who_for": [
+      "Egy vagy több foga hiányzik sorban",
+      "A szomszédos fogaknak már koronára van szükségük vagy kisebb sérülésük van",
+      "Gyorsabb megoldást szeretne sebészeti beavatkozás nélkül"
+    ],
+    "expect_steps": [
+      "A tartófogak csiszolása a rés mindkét oldalán",
+      "Digitális szkennelés a híd megtervezéséhez",
+      "A híd marása és színezése laboratóriumunkban",
+      "Illesztés és a harapás ellenőrzése"
+    ],
+    "why_us": "Csapatunk őszintén tanácsot ad, hogy híd vagy implantátum-e a megfelelőbb az Ön konkrét esetéhez.",
+    "warranty": "A fogpótló hidakra élethosszig tartó garanciát vállalunk az anyaghiba ellen."
+  },
+  "invisalign": {
+    "eyebrow": "Fogszabályozás",
+    "title": "Invisalign / átlátszó fogszabályozó",
+    "tagline": "Átlátszó, kivehető fogsorok a fogak fokozatos egyenesítésére fémkapcsok nélkül.",
+    "overview": [
+      "Az átlátszó fogszabályozók kontrollált, fokozatos nyomással egyenesítik a fogakat, hasonlóan a hagyományos fogszabályozókhoz, de kivehető átlátszó fogsorok sorozatán keresztül, rögzített fémalkatrészek helyett.",
+      "A kivehetőség azt jelenti, hogy normálisan eszik, fogat mos és fogselymet használ, ami nagyrészt az oka annak, hogy a felnőtt betegek életmódbeli okokból inkább ezt preferálják. Azonban csak akkor működnek, ha az előírásnak megfelelően, jellemzően napi 20–22 órán át viselik."
+    ],
+    "who_for": [
+      "Enyhe vagy közepes fogtorlódása, rései vagy egyszerű harapási problémái vannak",
+      "Szeretné, hogy le tudja venni a fogszabályozót evéshez és fogmosáshoz",
+      "Hajlandó következetesen viselni a fogsorokat az előírás szerint"
+    ],
+    "expect_steps": [
+      "3D szkennelés és harapásértékelés a szükséges fogmozgás megtervezéséhez",
+      "Az átlátszó fogsorok sorozatának elkészítése a kezelési tervnek megfelelően",
+      "A fogsorok fokozatos cseréje 1–2 hetente",
+      "Ellenőrző látogatások a haladás nyomon követésére"
+    ],
+    "why_us": "A 3D tervezés pontosan megmutatja, milyen mozgásokra van szüksége az Ön esetének, mielőtt a kezelés egyáltalán elkezdődne.",
+    "warranty": "A kezelés befejezése után retenciós fogsorokat biztosítunk az eredmény megőrzésére."
+  }
+}

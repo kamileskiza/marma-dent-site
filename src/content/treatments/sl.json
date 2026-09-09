@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Estetska zobozdravstvena nega",
+    "title": "Hollywood Smile",
+    "tagline": "Popolna prenova zgornjega zobnega loka za žareč, simetričen, za kamero pripravljen nasmeh.",
+    "overview": [
+      "Hollywood Smile je popolna kozmetična preobrazba vidnih zob, običajno zgornjega loka, ki združuje obliko, velikost, poravnavo in odtenek v en sam skladen rezultat. Običajno se uporablja kombinacija porcelanskih fasetk ali cirkonijevih kron, ki so skupaj načrtovane kot niz, tako da vsak zob dopolnjuje naslednjega.",
+      "Cilj ni en sam „popoln“ šablonski nasmeh — upoštevajo se oblika vašega obraza, linija ustnic in odtenek kože, tako da rezultat izgleda kot vaš najboljši možni nasmeh, ne nasmeh nekoga drugega."
+    ],
+    "who_for": [
+      "Imate več kozmetičnih težav hkrati — obarvanost, odkrušitve, vrzeli ali neravne zobe",
+      "Želite usklajen rezultat namesto popravljanja enega zoba za drugim",
+      "Vam ustreza zmerno brušenje sprednjih zob"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje in fotografije za oblikovanje vašega novega nasmeha v 3D, preden se dotaknemo kateregakoli zoba",
+      "Minimalno brušenje zob, da se ustvari prostor za nove restavracije",
+      "Začasne restavracije, medtem ko se frezajo vaše trajne fasetke ali krone",
+      "Namestitev, ujemanje odtenka in prilagoditev ugriza za končni rezultat"
+    ],
+    "why_us": "Vsak primer Hollywood Smile je najprej digitalno zasnovan, tako da lahko vidite predogled rezultata še pred začetkom zdravljenja. Cirkonijevo in porcelansko delo krije naša doživljenjska garancija.",
+    "warranty": "Cirkonijeve in porcelanske restavracije v vašem Hollywood Smile krije naša doživljenjska garancija."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Krone in restavracije",
+    "title": "Monolitni cirkonij",
+    "tagline": "Krone, frezane iz enega samega trdnega bloka cirkonija za največjo trdnost brez luščenja.",
+    "overview": [
+      "Monolitne cirkonijeve krone se frezajo iz enega samega trdnega bloka cirkonija, brez ločene plasti porcelana na vrhu. To odpravlja glavno šibkost starejših cirkonijevih kron — luščenje porcelanske obloge sčasoma.",
+      "Sodobni večplastni cirkonijevi bloki so obarvani tako, da se prosojnost spreminja od dlesnene linije do grizne robe, s čimer se v veliki meri zapre stari estetski razkorak, ne da bi dodali ločeno, luščenju nagnjeno plast porcelana."
+    ],
+    "who_for": [
+      "Potrebujete krono ali most na zadnjem zobu, kjer je žvečilna sila največja",
+      "Škripate ali stiskate zobe in potrebujete bolj vzdržljiv material",
+      "Želite dolgoročno rešitev z minimalnim tveganjem luščenja"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje zoba po pripravi",
+      "Frezanje krone iz trdnega cirkonijevega bloka v našem lastnem laboratoriju",
+      "Barvanje in glaziranje za ujemanje z naravnim odtenkom zob",
+      "Končno preverjanje prileganja in cementiranje"
+    ],
+    "why_us": "Naš interni laboratorij za frezanje nam omogoča, da krono dokončamo v dneh, ne tednih, s natančnim digitalnim načrtovanjem.",
+    "warranty": "Monolitne cirkonijeve krone krije naša doživljenjska garancija proti napakam materiala."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologija",
+    "title": "Zobni vsadki",
+    "tagline": "Trajna titanska zamenjava korenine zoba, na katero se pritrdi krona ali most.",
+    "overview": [
+      "Zobni vsadek neposredno nadomesti manjkajočo korenino zoba, samostojno stoji v čeljustni kosti, neodvisno od sosednjih zob. Titan ima nenavadno lastnost — žive kostne celice neposredno rastejo nanj, kar imenujemo osteointegracija.",
+      "Ta proces traja več mesecev, zato se primere z vsadki običajno razdeli na dva obiska: prvi za skeniranje, poseg in začasno restavracijo, drugi mesece pozneje za končno trajno krono."
+    ],
+    "who_for": [
+      "Manjka vam en ali več zob in želite trajno rešitev",
+      "Želite se izogniti brušenju sosednjih zdravih zob (kot bi to zahteval most)",
+      "Imate dovolj kostne mase ali ste pripravljeni razmisliti o nadgradnji kosti"
+    ],
+    "expect_steps": [
+      "3D skeniranje (CBCT) za oceno razpoložljive kostne mase",
+      "Vstavitev vsadka pod lokalno anestezijo",
+      "Obdobje celjenja (osteointegracija), tipično 3–6 mesecev",
+      "Namestitev končne krone na drugem obisku"
+    ],
+    "why_us": "Uporabljamo uveljavljene, klinično preizkušene znamke vsadkov z dolgoročnimi podatki in polno garancijo.",
+    "warranty": "Zobne vsadke krije naša doživljenjska garancija proti okvari vsadka."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Načrtovanje zdravljenja",
+    "title": "Digitalno oblikovanje nasmeha",
+    "tagline": "Faza načrtovanja, ki odloči, katero zdravljenje resnično potrebujete, na podlagi vašega obraza, ne šablone.",
+    "overview": [
+      "Digitalno oblikovanje nasmeha samo po sebi ni zdravljenje — je faza načrtovanja, ki odloči, katera zdravljenja (fasetke, krone, beljenje, oblikovanje dlesni) se bodo dejansko uporabila za dosego vašega cilja, na podlagi vašega obraza, ustnic in zob namesto generične šablone.",
+      "Intraoralno skeniranje ustvari 3D model vaših zob, programska oprema za oblikovanje pa nanj postavi predlagani nov nasmeh — to je trenutek, ko lahko dejansko vidite načrt in razpravljate o spremembah, preden se zgodi kaj trajnega."
+    ],
+    "who_for": [
+      "Razmišljate o več kozmetičnih posegih in želite videti rezultat vnaprej",
+      "Želite biti prepričani o rezultatu, preden se začne kakršno koli trajno delo",
+      "Imate neravne dlesni ali asimetrijo, ki jo je treba najprej rešiti"
+    ],
+    "expect_steps": [
+      "Fotografije in video vašega nasmeha, linije ustnic in obraznih proporcev",
+      "3D skeniranje in digitalni predogled predlaganega novega nasmeha",
+      "Določitev, katera zdravljenja so resnično potrebna, zob za zobom",
+      "Fizični maket v ustih v mnogih primerih pred trajnim delom"
+    ],
+    "why_us": "Oblikovanje nasmeha je vključeno v vse večje kozmetične primere brez dodatnih stroškov, tako da natančno veste, kaj lahko pričakujete.",
+    "warranty": "Digitalno načrtovanje je del končne garancije na opravljeno zdravljenje."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Estetska zobozdravstvena nega",
+    "title": "Beljenje zob",
+    "tagline": "Profesionalno beljenje za občutno svetlejši nasmeh v enem obisku.",
+    "overview": [
+      "Profesionalno beljenje zob uporablja bolj koncentriran gel za beljenje kot izdelki brez recepta, apliciran pod nadzorovanim nadzorom za hitrejše in enakomernejše rezultate. Običajno se izvede v enem obisku.",
+      "Če načrtujete tudi fasetke ali krone, mora beljenje potekati pred njihovo izdelavo — ne po njej — da se keramično delo ujema po odtenku z vašimi beljenimi naravnimi zobmi."
+    ],
+    "who_for": [
+      "Vaši zobje so zdravi, vendar obarvani od kave, čaja, vina ali kajenja",
+      "Želite hiter kozmetični rezultat brez brušenja zob",
+      "Načrtujete kombiniranje z drugimi kozmetičnimi posegi (najprej naredite beljenje)"
+    ],
+    "expect_steps": [
+      "Pregled zob in dlesni za potrditev primernosti",
+      "Zaščita dlesni in nanos gela za beljenje",
+      "Aktivacija gela, tipično v več ciklih",
+      "Ocena rezultata in priporočila za ohranjanje odtenka"
+    ],
+    "why_us": "Uporabljamo profesionalne sisteme za beljenje s predvidljivimi, enakomernimi rezultati v enem obisku.",
+    "warranty": "Nudimo priporočila za nego po beljenju za podaljšanje rezultata."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantologija",
+    "title": "Vijačno pritrjen okluzalni sistem",
+    "tagline": "Restavracija, privita na vsadke, ki jo lahko zobozdravnik po potrebi zlahka odstrani.",
+    "overview": [
+      "Vijačno pritrjen okluzalni sistem pritrdi krono ali most na vsadek z vijakom namesto cementiranja. To zobozdravniku omogoča, da po potrebi zlahka odstrani restavracijo za pregled ali popravilo, ne da bi poškodoval samo restavracijo.",
+      "Ta pristop se pogosto raje uporablja v večjih primerih, kot so polni loki, kjer je enostaven dostop za prihodnje vzdrževanje dragocen."
+    ],
+    "who_for": [
+      "Opravljate obsežnejše delo z vsadki, kot je poln lok",
+      "Želite lažje prihodnje vzdrževanje ali popravljivost",
+      "Vaš zobozdravnik priporoča vijačno pritrditev namesto cementirane za vaš specifičen primer"
+    ],
+    "expect_steps": [
+      "Vstavitev vsadka in celjenje (osteointegracija)",
+      "Digitalno skeniranje za oblikovanje restavracije",
+      "Izdelava restavracije z dostopnimi odprtinami za vijake",
+      "Privijanje restavracije in zapiranje dostopnih odprtin"
+    ],
+    "why_us": "Ponujamo tako vijačne kot cementirane možnosti in priporočimo tisto, ki najbolje ustreza vašemu specifičnemu primeru.",
+    "warranty": "Vijačno pritrjen okluzalni sistem krije naša doživljenjska garancija."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontologija",
+    "title": "Gingivektomija",
+    "tagline": "Oblikovanje dlesni za reševanje presežnega ali neravnega tkiva dlesni.",
+    "overview": [
+      "Gingivektomija odstrani presežno tkivo dlesni, da razkrije več naravne višine zoba, bodisi iz kozmetičnih razlogov („dlesnov nasmeh“) ali ker presežno tkivo otežuje pravilno čiščenje zob.",
+      "Poseg je pogosto korak pred fasetkami ali kronami, da se najprej ustvari simetrična linija dlesni, na kateri nato keramično delo izgleda naravno."
+    ],
+    "who_for": [
+      "Pri nasmehu pokažete občutno več dlesni kot zoba",
+      "Vaša linija dlesni je neravna vzdolž sprednjih zob",
+      "Presežno tkivo dlesni otežuje učinkovito čiščenje zob"
+    ],
+    "expect_steps": [
+      "Ocena ravni dlesni in načrtovanje želenega obrisa",
+      "Lokalna anestezija",
+      "Odstranitev presežnega tkiva dlesni s precizijskimi instrumenti",
+      "Kratko obdobje celjenja pred kakršnim koli naknadnim kozmetičnim delom"
+    ],
+    "why_us": "Ocena dlesni je del vsakega ustreznega načrta digitalnega oblikovanja nasmeha, zato se obravnava kot del celotnega načrta, ne izolirano.",
+    "warranty": "Nudimo smernice za nego po posegu za zagotovitev pravilnega celjenja."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantologija",
+    "title": "Dvig sinusa",
+    "tagline": "Ustvarjanje zadostne višine kosti pod zgornjim maksilarnim sinusom za vstavitev vsadka.",
+    "overview": [
+      "Zgornja zadnja čeljust se nahaja blizu sinusnih votlin, izguba kosti tam pa včasih pomeni, da pod sinusom ni dovolj višine za vsadek. Dvig sinusa nežno dvigne dno sinusa in doda nadgradbeni material spodaj, da ustvari to višino.",
+      "To je specifična, dobro uveljavljena rešitev za to konkretno območje, ki k celotnemu načrtu doda čas celjenja, vendar je rutinski del implantologije, ne redka izjema."
+    ],
+    "who_for": [
+      "Potrebujete vsadek v zgornji zadnji čeljusti, vendar nimate dovolj višine kosti",
+      "3D skeniranje je pokazalo nezadostno razdaljo do sinusa",
+      "Želite zagotoviti dolgoročno stabilnost vsadka na tem zahtevnem območju"
+    ],
+    "expect_steps": [
+      "3D skeniranje za oceno višine kosti pod sinusom",
+      "Nežen dvig membrane sinusa",
+      "Namestitev nadgradbenega materiala",
+      "Čas celjenja pred (ali sočasno z) vstavitvijo vsadka"
+    ],
+    "why_us": "Naša ekipa ima obsežne izkušnje z dvigom sinusa kot standardnim delom primerov implantologije zgornje čeljusti.",
+    "warranty": "Dvig sinusa krije splošna garancija na vsadek."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontija",
+    "title": "Zdravljenje korenskega kanala",
+    "tagline": "Odstranitev okužene pulpe in zatesnitev zoba, tipično primerljivo z namestitvijo plombe.",
+    "overview": [
+      "Zdravljenje korenskega kanala odstrani okuženo zobno pulpo iz notranjosti zoba, kanal se očisti, oblikuje in razkuži, nato pa zatesni z biokompatibilnim materialom.",
+      "Nelagodje, ki ga ljudje povezujejo s tem posegom, običajno izvira iz same okužbe pred zdravljenjem — ne iz samega posega, ki se izvaja pod lokalno anestezijo in je na splošno primerljiv z namestitvijo plombe."
+    ],
+    "who_for": [
+      "Imate zobobol ali občutljivost, ki kaže na okužbo pulpe",
+      "Rentgen je pokazal okužbo pri korenini zoba",
+      "Želite rešiti zob namesto izdrtja"
+    ],
+    "expect_steps": [
+      "Diagnoza in rentgen za potrditev obsega okužbe",
+      "Lokalna anestezija",
+      "Odstranitev okuženega tkiva in čiščenje kanala",
+      "Zatesnitev zoba, nato pa običajno zaščitna krona"
+    ],
+    "why_us": "Uporabljamo sodobne rotacijske instrumente in protokole razkuževanja za temeljito in udobno zdravljenje.",
+    "warranty": "Zdravljenje korenskega kanala krije naša garancija proti ponovni okužbi."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantologija",
+    "title": "All-on-4, All-on-5 in All-on-6",
+    "tagline": "Popolnoma fiksni zobni lok na vsadkih, s številom vsadkov prilagojenim vaši anatomiji.",
+    "overview": [
+      "All-on-4, All-on-5 in All-on-6 uporabljajo isto osnovno idejo — popoln lok fiksnih zob, podprt z majhnim številom vsadkov, nameščenih v čeljust. Številka označuje, koliko vsadkov podpira ta lok.",
+      "Odločitev o tem, koliko vsadkov uporabiti, se običajno svede na kost: 3D skeniranje pokaže, koliko kosti je na voljo, in od tam lahko zobozdravnik pošteno pove, ali bodo štirje vsadki zdržali dolgoročno ali bi peti ali šesti bistveno izboljšal rezultat."
+    ],
+    "who_for": [
+      "Manjka vam večina ali vsi zobje v enem loku",
+      "Želite fiksno, ne odstranljivo rešitev",
+      "Imate dovolj kosti ali ste pripravljeni razmisliti o alternativah, kot je nagnjena namestitev vsadkov"
+    ],
+    "expect_steps": [
+      "3D skeniranje za oceno kostne mase in načrtovanje števila in položaja vsadkov",
+      "Vstavitev vsadkov in prilagoditev začasnega fiksnega mostu na istem obisku",
+      "Obdobje celjenja (osteointegracija), tipično 4–6 mesecev",
+      "Prilagoditev končnega trajnega mostu na drugem obisku"
+    ],
+    "why_us": "Digitalno načrtovanje in nagib vsadkov nam pogosto omogočata, da se izognemo nadgradnji kosti tudi pri pacientih z izgubo kosti.",
+    "warranty": "Primere All-on-4/5/6 krije naša doživljenjska garancija za vsadke in strukturna garancija za most."
+  },
+  "emax-veneers": {
+    "eyebrow": "Estetska zobozdravstvena nega",
+    "title": "E-max fasetke",
+    "tagline": "Tanke porcelanske fasetke z minimalnim brušenjem zob za naravno izgledajoč rezultat.",
+    "overview": [
+      "E-max (litijev disilikat) fasetke imajo stekleno prosojnost, ki bolj natančno posnema naravno zobno sklenino kot drugi materiali, zlasti pri normalni svetlobi. Material ostane trden tudi, ko je izdelan zelo tanko, kar v mnogih primerih omogoča minimalno brušenje zoba.",
+      "Če so vaši zobje že razumno dobro poravnani in želite predvsem spremeniti barvo, zapreti majhne vrzeli ali nekoliko izpopolniti obliko, se lahko tanka E-max fasetka pogosto zalepi z malo ali brez odstranjevanja sklenine."
+    ],
+    "who_for": [
+      "Imate obarvanost, ki se ne odziva na beljenje",
+      "Imate majhne odkrušitve, vrzeli ali nekoliko neraven rob zoba",
+      "Želite minimalno invaziven rešitev, ki ohrani čim več naravnega zoba"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje in načrtovanje oblikovanja nasmeha",
+      "Minimalno brušenje zoba, če je sploh potrebno",
+      "Frezanje fasetk iz E-max bloka v našem lastnem laboratoriju",
+      "Namestitev ter preverjanje barve in ugriza"
+    ],
+    "why_us": "Naš interni laboratorij omogoča hitro izdelavo E-max fasetk z natančnim ujemanjem barve.",
+    "warranty": "E-max fasetke krije naša doživljenjska garancija proti napakam materiala."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantologija",
+    "title": "Zigomatski vsadki",
+    "tagline": "Daljši vsadki, zasidrani v ličnico, za paciente z resno izgubo kosti zgornje čeljusti.",
+    "overview": [
+      "Zigomatski vsadki so daljši od standardnih zobnih vsadkov in so zasidrani v ličnico (zigomatično kost) namesto v čeljustno kost. To reši situacije, kjer je izguba kosti zgornje čeljusti pretežka za standardne vsadke, tudi z nadgradnjo kosti.",
+      "Ker se izognejo potrebi po nadgradnji čeljustne kosti, zigomatski vsadki v mnogih primerih omogočijo fiksni zobni lok brez ločenih postopkov izgradnje kosti in njihovega daljšega časa celjenja."
+    ],
+    "who_for": [
+      "Imate resno izgubo kosti zgornje čeljusti, ki izključuje standardne vsadke",
+      "Vam je bilo prej rečeno, da potrebujete obsežno nadgradnjo kosti",
+      "Želite se izogniti dolgim čakalnim dobam, povezanim z več kostnimi posegi"
+    ],
+    "expect_steps": [
+      "Podrobno 3D skeniranje za oceno ličnice in načrtovanje položaja vsadka",
+      "Vstavitev zigomatskega vsadka pod anestezijo",
+      "Prilagoditev začasnega fiksnega mostu, pogosto na istem obisku",
+      "Prilagoditev končnega trajnega mostu po celjenju"
+    ],
+    "why_us": "Zigomatski vsadki zahtevajo specializirane kirurške izkušnje — naša ekipa je specializirana za te napredne primere.",
+    "warranty": "Zigomatske vsadke krije naša doživljenjska garancija."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restavracije",
+    "title": "Zobni most",
+    "tagline": "Zamenjava za manjkajoči zob, ki se opira na sosednje zobe, tipično dokončana v enem obisku.",
+    "overview": [
+      "Zobni most nadomesti viden manjkajoči zob tako, da se opira na zobe ob vrzeli za oporo. Za razliko od vsadka ne zahteva kirurškega posega ali obdobja celjenja za vključitev v kost, zato se tipično dokonča v enem obisku.",
+      "Če sosednji zobje že potrebujejo krone (zaradi stare plombe, kariesa ali prejšnje poškodbe), je most učinkovita izbira, saj zdravi te zobe in zapolni vrzel v enem postopku."
+    ],
+    "who_for": [
+      "Manjka vam en ali več zob v vrsti",
+      "Sosednji zobje že potrebujejo krone ali imajo manjšo poškodbo",
+      "Želite hitrejšo rešitev brez kirurškega posega"
+    ],
+    "expect_steps": [
+      "Brušenje podpornih zob na obeh straneh vrzeli",
+      "Digitalno skeniranje za oblikovanje mostu",
+      "Frezanje in barvanje mostu v našem laboratoriju",
+      "Namestitev in preverjanje ugriza"
+    ],
+    "why_us": "Naša ekipa pošteno svetuje, ali je most ali vsadek bolj primeren za vaš specifičen primer.",
+    "warranty": "Zobne mostove krije naša doživljenjska garancija proti napakam materiala."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodontija",
+    "title": "Invisalign / prozorne opornice",
+    "tagline": "Prozorne, odstranljive opornice za postopno poravnavo zob brez kovinskih aparatkov.",
+    "overview": [
+      "Prozorne opornice poravnajo zobe z nadzorovanim, postopnim pritiskom, podobno kot tradicionalni aparatki, vendar prek serije odstranljivih prozornih opornic namesto fiksnih kovinskih delov.",
+      "Odstranljivost pomeni, da normalno jeste, si umivate zobe in uporabljate zobno nitko, kar je velik del razloga, zakaj imajo odrasli pacienti do njih raje zaradi življenjskega sloga. Vendar delujejo le, če se nosijo po predpisu, tipično 20–22 ur na dan."
+    ],
+    "who_for": [
+      "Imate blago do zmerno gnečo zob, vrzeli ali preproste težave z ugrizom",
+      "Želite možnost, da si aparatek odstranite za jedo in umivanje zob",
+      "Ste pripravljeni dosledno nositi opornice po predpisu"
+    ],
+    "expect_steps": [
+      "3D skeniranje in ocena ugriza za načrtovanje potrebnega premika zob",
+      "Izdelava serije prozornih opornic, ki ustrezajo načrtu zdravljenja",
+      "Postopna zamenjava opornic vsakih 1–2 tedna",
+      "Kontrolni obiski za spremljanje napredka"
+    ],
+    "why_us": "3D načrtovanje natančno pokaže, katere gibe vaš primer potrebuje, še preden se zdravljenje sploh začne.",
+    "warranty": "Po zaključku zdravljenja nudimo retencijske opornice za ohranjanje rezultata."
+  }
+}

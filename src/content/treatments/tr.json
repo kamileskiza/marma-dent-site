@@ -1,0 +1,330 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Estetik diş hekimliği",
+    "title": "Hollywood Smile",
+    "tagline": "Parlak, kameraya hazır bir gülüş için üst çenenin tamamının yeniden tasarlanması.",
+    "overview": [
+      "Hollywood Smile, genellikle üst çenedeki görünür dişlerin şekil, boyut, dizilim ve renk açısından tek bir uyumlu sonuçta birleştirilerek kapsamlı bir estetik yenilenmesidir. Genellikle porselen laminate veya zirkonyum kaplamaların bir set olarak birlikte planlanmasıyla yapılır, böylece her diş bir diğerini tamamlar.",
+      "Amaç tek bir \"mükemmel\" şablon gülüş değildir — yüz şekliniz, dudak hattınız ve cilt tonunuz da dikkate alınarak sonuç başkasının değil, sizin olabilecek en iyi gülüşünüz gibi görünür."
+    ],
+    "who_for": [
+      "Aynı anda birkaç estetik sorununuz var — renk bozukluğu, kırıklar, boşluklar veya düzensiz dişler",
+      "Tek tek diş yerine koordineli bir sonuç istiyorsunuz",
+      "Ön dişlerde orta düzeyde bir kesim/hazırlığa açıksınız"
+    ],
+    "expect_steps": [
+      "Herhangi bir dişe dokunulmadan önce dijital tarama ve fotoğraflarla yeni gülüşünüzün 3D tasarımı",
+      "Yeni restorasyonlara yer açmak için dişlerin minimal hazırlanması",
+      "Kalıcı kaplamalar hazırlanırken geçici restorasyonlar",
+      "Son sonuç için yerleştirme, renk uyumu ve ısırma ayarı"
+    ],
+    "why_us": "Her Hollywood Smile vakası önce dijital olarak tasarlanır, böylece tedavi başlamadan önce sonucun bir önizlemesini görebilirsiniz. Zirkonyum ve porselen işçiliği ömür boyu garantimiz kapsamındadır.",
+    "warranty": "Hollywood Smile'ınızdaki zirkonyum ve porselen restorasyonlar ömür boyu garantimiz kapsamındadır."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Restoratif diş hekimliği",
+    "title": "Monolitik Zirkonya",
+    "tagline": "Tek bir zirkonya bloğundan frezelenen tam konturlu kaplama ve köprüler — güçlü, kırılmaya dayanıklı ve hassas.",
+    "overview": [
+      "Monolitik zirkonya restorasyonlar, metal veya porselen katmanlı bir çekirdek üzerine ayrı bir porselen kaplama yerine, tek bir zirkonyum oksit bloğundan frezelenir. Bu tek parça yapı, geleneksel katmanlı kaplamalara göre çatlama ve kırılmaya karşı önemli ölçüde daha dayanıklı hale getirir.",
+      "Modern zirkonya dijital olarak renklendirilir ve karakterize edilir, böylece bitmiş kaplama veya köprü çevredeki dişlerinizle doğal bir şekilde uyum sağlar, düz veya opak görünmez."
+    ],
+    "who_for": [
+      "Yoğun ısırma kuvveti alan bir arka dişte kaplama veya köprüye ihtiyacınız var",
+      "Daha önce porselen restorasyonlarınız kırıldı veya çatladı",
+      "Diş sıkma veya gıcırdatma alışkanlığınız var ve daha dayanıklı bir malzemeye ihtiyacınız var"
+    ],
+    "expect_steps": [
+      "Hazırlanan dişin dijital veya geleneksel ölçüsü",
+      "Restorasyonunuz doğal dişlerinizin rengine uyacak şekilde tasarlanır ve frezelenir",
+      "Kalıcı restorasyon hazırlanırken bir geçici restorasyon dişi korur",
+      "Gerektiğinde ayarlamalarla son yerleştirme ve ısırma kontrolü"
+    ],
+    "why_us": "Monolitik zirkonyayı dijital tasarımla kendi bünyemizde freze ediyoruz, böylece renk uyumu ve uyum hassas oluyor. Tüm zirkonyum işçiliği ömür boyu garantimizi taşır.",
+    "warranty": "Monolitik zirkonya restorasyonlar ömür boyu garantimiz kapsamındadır."
+  },
+  "dental-implants": {
+    "eyebrow": "İmplant diş hekimliği",
+    "title": "Diş İmplantları",
+    "tagline": "Eksik dişler için kalıcı, doğal hissettiren bir değiştirme.",
+    "overview": [
+      "Diş implantı, doğal dişlerinizle eşleşen bir kaplamayla üstlenen, yapay bir diş kökü görevi görmek için çene kemiğine yerleştirilen titanyum bir direktir. Bir köprünün aksine, destek için komşu dişlere güvenmez ve bir protezin aksine, hareket etmez veya çıkarılmasına gerek yoktur.",
+      "İmplantlar tek bir dişi, bir köprüyle birkaç dişi veya tüm bir çeneyi değiştirebilir — sayı ve yerleşim, kaç dişin eksik olduğuna ve çene kemiğinizin durumuna bağlıdır."
+    ],
+    "who_for": [
+      "Bir veya daha fazla dişiniz eksik ve sabit, kalıcı bir çözüm istiyorsunuz",
+      "Boşluğun yanındaki sağlıklı dişleri hazırlamak veya etkilemek istemiyorsunuz",
+      "Yeterli kemik yoğunluğunuz var veya gerekirse kemik greftine açıksınız"
+    ],
+    "expect_steps": [
+      "Kemiği değerlendirmek ve implant konumunu planlamak için 3D tarama ve konsültasyon",
+      "Lokal anestezi altında implantın cerrahi olarak yerleştirilmesi",
+      "İmplantın kemikle kaynaşması için genellikle birkaç aylık bir iyileşme süreci",
+      "İyileşme onaylandıktan sonra son kaplamanın takılması"
+    ],
+    "why_us": "İmplant konumu doğruluk için ameliyattan önce dijital olarak planlanır ve yerleştirdiğimiz her implant ömür boyu garantimiz kapsamındadır.",
+    "warranty": "Tüm diş implantları ömür boyu garantimiz kapsamındadır."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Dijital planlama",
+    "title": "Dijital Gülüş Tasarımı",
+    "tagline": "Yeni gülüşünüz, tedavi başlamadan önce 3D olarak planlanır ve önizlenir.",
+    "overview": [
+      "Dijital Gülüş Tasarımı, dişlerinizin 3D modelini oluşturmak ve herhangi bir işlem başlamadan önce tedavinizin sonucunu simüle etmek için ağız içi tarayıcı ve tasarım yazılımı kullanır. Yazılı bir açıklamaya güvenmek yerine, yeni gülüşünüzün gerçekçi bir önizlemesini görür ve taahhüt etmeden önce ayarlamaları tartışabilirsiniz.",
+      "Bu dijital öncelikli yaklaşım aynı zamanda fiziksel bir ölçünün nadiren gerekli olduğu anlamına gelir — çoğu vaka kalıplanmaz, taranır, bu da çoğu hasta için daha hızlı ve daha konforludur."
+    ],
+    "who_for": [
+      "Estetik bir vaka planlıyorsunuz (kaplama, kron, Hollywood Smile) ve önce sonucu görmek istiyorsunuz",
+      "Mümkün olduğunda geleneksel bir ölçüden kaçınmak istiyorsunuz",
+      "Tedaviyi uzaktan koordine ediyorsunuz ve seyahat etmeden önce net bir görsel plan istiyorsunuz"
+    ],
+    "expect_steps": [
+      "Dişlerinizin ve ısırmanızın ağız içi taraması",
+      "Yüzünüzün ve gülüş hattınızın fotoğrafları ve ölçümleri",
+      "Diş hekiminizle gözden geçirilen önerilen yeni gülüşünüzün 3D tasarımı",
+      "Herhangi bir kalıcı tedavi başlamadan önce tasarımda ayarlamalar"
+    ],
+    "why_us": "Kliniğimizdeki her karmaşık estetik veya restoratif vaka dijital planlamayla başlar, böylece siz ve diş hekiminiz ilk günden aynı görsel plan üzerinde çalışırsınız.",
+    "warranty": "Dijital planlama, uygulanan tedavinin nihai garantisinin bir parçasıdır."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Estetik diş hekimliği",
+    "title": "Diş Beyazlatma",
+    "tagline": "Diğer işlerden önce veya sonra yapılan, tek seansta renk açılması.",
+    "overview": [
+      "Profesyonel diş beyazlatma, doğal dişlerinizin rengini güvenli ve düzenli bir şekilde açmak için kontrollü koşullar altında uygulanan, reçetesiz ürünlerden daha yüksek güçte bir ağartma jeli kullanır. Çoğu hasta tek bir seansta belirgin bir sonuç görür.",
+      "Beyazlatma sadece doğal diş minesini etkiler — mevcut kaplama, laminate veya dolguların rengini değiştirmez, bu yüzden diğer tedavilere göre zamanlama önemlidir."
+    ],
+    "who_for": [
+      "Dişleriniz doğal olarak renksiz veya kahve, çay, şaraptan ya da sigaradan lekelidir",
+      "Başka bir yapısal değişiklik olmadan daha parlak bir gülüş istiyorsunuz",
+      "Laminate veya kaplamalara karar vermeden önce bir renk referansı istiyorsunuz"
+    ],
+    "expect_steps": [
+      "Dişlerinizin ve diş etlerinizin beyazlatma için yeterince sağlıklı olduğunun kontrolü",
+      "Beyazlatma jeli uygulanmadan önce diş etlerinizin korunması",
+      "Aynı ziyarette bir veya daha fazla beyazlatma döngüsü",
+      "Sonucun kalıcılığına yardımcı olacak bakım rehberliği"
+    ],
+    "why_us": "Beyazlatmayı aldığınız başka herhangi bir tedavi etrafında dikkatlice zamanlıyoruz, böylece yeni kaplamalarınız veya laminatelarınız beyazlatılmış doğal dişlerinize göre renk uyumlu olur — tersi değil.",
+    "warranty": "Sonucu uzatmak için beyazlatma sonrası bakım önerileri sunuyoruz."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "İmplant restorasyonları",
+    "title": "Vidalı Oklüzal Sistem",
+    "tagline": "Çimento yerine oklüzal bir vidayla sabitlenen implant restorasyonları, böylece hasar vermeden erişilebilir ve bakımı yapılabilir.",
+    "overview": [
+      "İmplant kaplama ve köprüler iki ana şekilde bağlanabilir: yerine çimentolanır veya ısırma yüzeyinden geçen küçük bir vidayla sabitlenir. Vidalı bir restorasyon, çimentolu olanın aksine, restorasyonu kesmeye veya tahrip etmeye gerek kalmadan diş hekiminiz tarafından bakım veya onarım için çıkarılıp yeniden yerleştirilebilir.",
+      "Vida erişim deliği takıldıktan sonra diş renginde bir malzemeyle doldurulur, bu yüzden normal kullanımda görünmez."
+    ],
+    "who_for": [
+      "İmplant destekli bir kaplama veya köprü yaptırıyorsunuz ve daha kolay uzun vadeli bakım istiyorsunuz",
+      "Diş hekiminiz özel vakanız için çıkarılabilirliği öneriyor",
+      "Bir implant çevresindeki diş etini tahriş eden fazla çimento riskinden kaçınmak istiyorsunuz"
+    ],
+    "expect_steps": [
+      "İmplant restorasyonunuz bir vida erişim kanalıyla tasarlanır",
+      "Restorasyon belirli bir tornavida ve tork ayarıyla yerine sıkıştırılır",
+      "Erişim deliği diş renginde bir dolgu malzemesiyle mühürlenir",
+      "Uyum ve ısırmayı doğrulamak için takip kontrolleri"
+    ],
+    "why_us": "Gelecekteki bakımın önemli olduğu implant vakalarında, tedavinizin uzun vadede servis edilebilir kalması için varsayılan olarak vidalı restorasyonları tercih ediyoruz.",
+    "warranty": "Vida tutuculu oklüzal sistem ömür boyu garantimiz kapsamındadır."
+  },
+  "gingivectomy": {
+    "eyebrow": "Periodontal tedavi",
+    "title": "Gingivektomi",
+    "tagline": "Gülüşünüzün hem sağlığını hem de görünümünü iyileştirmek için diş eti hattının yeniden şekillendirilmesi.",
+    "overview": [
+      "Gingivektomi, çoğunlukla güldüğünüzde çok fazla diş etinin göründüğü \"dişeti gülüşünü\" düzeltmek veya temiz tutulması zor ve iltihaba yatkın dokuyu çıkarmak için fazla veya düzensiz diş eti dokusunu çıkarır ve yeniden şekillendirir. Tek başına veya laminate ya da kaplamalardan önce bir hazırlık adımı olarak yapılabilir.",
+      "İşlem lokal anestezi altında yapılır ve genellikle kısa, öngörülebilir bir iyileşme süreciyle iyi tolere edilir."
+    ],
+    "who_for": [
+      "Gülümserken diş etinden daha çok diş eti görünüyor",
+      "Ön dişlerinizde düzensiz diş eti seviyeleri var",
+      "Fazla diş eti dokusu dişlerinizi düzgün temizlemeyi zorlaştırıyor"
+    ],
+    "expect_steps": [
+      "Diş eti hattınızın değerlendirilmesi ve haritalanması, bazen dijital olarak",
+      "Tedavi alanını uyuşturmak için lokal anestezi",
+      "Fazla diş eti dokusunun hassas şekilde çıkarılması ve yeniden şekillendirilmesi",
+      "Bir ila iki hafta boyunca iyileşme, gerektiğinde takiple"
+    ],
+    "why_us": "Bir gingivektomi estetik bir vakanın parçası olduğunda, yeni diş eti hattını ve yeni diş şekillerini birlikte planlıyoruz, böylece ikisi tek bir koordineli sonuca kavuşuyor.",
+    "warranty": "Doğru iyileşmeyi sağlamak için işlem sonrası bakım rehberliği sunuyoruz."
+  },
+  "sinus-lift": {
+    "eyebrow": "İmplant öncesi cerrahi",
+    "title": "Sinüs Lift",
+    "tagline": "Gerektiğinde üst çeneye kemik hacmi ekleyerek, arka dişlerdeki implantlara sabit, kalıcı bir temel sağlar.",
+    "overview": [
+      "Sinüs boşlukları üst arka dişlerin hemen üzerinde bulunur ve o bölgede bir diş kaybedildikten sonra, kalan kemik bir implantı güvenle desteklemek için çok ince hale gelebilir. Sinüs lift, sinüsün tabanını nazikçe kaldırır ve altına kemik greft materyali ekler, sabit bir implant için yeterli yükseklik oluşturur.",
+      "İyi kurulmuş bir işlemdir ve ne kadar yükseklik gerektiğine bağlı olarak, bazen ayrı bir ameliyat yerine implant yerleştirmeyle aynı anda yapılabilir."
+    ],
+    "who_for": [
+      "Üst arka bir dişiniz eksik ve implant istiyorsunuz, ancak kemik yüksekliğiniz sınırlı",
+      "Önceki bir değerlendirme sinüsünüzün implant alanına çok yakın olduğunu buldu",
+      "Üst çenede uzun süredir eksik bir dişten kaynaklanan kemik kaybınız var"
+    ],
+    "expect_steps": [
+      "Mevcut tam kemik yüksekliğini ölçmek için 3D görüntüleme",
+      "Sinüs zarı nazikçe kaldırılır ve kemik greft materyali yerleştirilir",
+      "İmplant yerleştirmeden önce veya birlikte bir iyileşme süreci (vakaya göre değişir)",
+      "İyileştikten sonra, implant planlandığı gibi yerleştirilir veya restore edilir"
+    ],
+    "why_us": "Sadece 3D tarama gerçekten gerektiğini gösterdiğinde sinüs lift öneriyoruz ve zamanlamayı implant planınızla koordine ederek minimum sayıda ayrı ziyaret olmasını sağlıyoruz.",
+    "warranty": "Sinüs lifting, genel implant garantisi kapsamındadır."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodonti",
+    "title": "Kanal Tedavisi",
+    "tagline": "Diş içindeki enfeksiyonu temizler ve mühürler, mümkün olduğunda doğal dişi kurtarır.",
+    "overview": [
+      "Çürük veya bir çatlak dişin içindeki yumuşak dokuya ulaştığında, enfekte olabilir veya iltihaplanabilir, ağrı ve hassasiyete neden olabilir. Kanal tedavisi, dişin içindeki bu enfekte dokuyu temizler, boşluğu temizler ve dezenfekte eder, sonra mühürler — dişi çekmek yerine doğal dişinizi korumanıza olanak tanır.",
+      "Modern kanal tedavisi lokal anestezi altında yapılır ve genellikle bir dolgu yaptırmaktan daha rahatsız edici değildir."
+    ],
+    "who_for": [
+      "Özellikle sıcak veya soğuk yiyeceklerle sürekli diş ağrınız var",
+      "Bir diş hekimi bir dişin kökünde enfeksiyon veya apse tespit etti",
+      "Dişin sinirine yakın derin bir çatlağınız veya eski bir dolgunuz var"
+    ],
+    "expect_steps": [
+      "Enfeksiyonun boyutunu değerlendirmek ve tedaviyi planlamak için röntgen",
+      "Dişi uyuşturmak için lokal anestezi",
+      "Enfekte dokunun çıkarılması ve kök kanal(lar)ının temizlenmesi",
+      "Genellikle uzun vadeli koruma için bir kaplamayla takip edilen dişin mühürlenmesi"
+    ],
+    "why_us": "Mümkün olduğunda doğal dişinizi kurtarmaya öncelik veriyoruz ve tedavi edilen dişi uzun vadede güçlü tutmak için genellikle sonrasında koruyucu bir kaplama öneriyoruz.",
+    "warranty": "Kök kanal tedavisi, yeniden enfeksiyona karşı garantimiz kapsamındadır."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Tam çene implantları",
+    "title": "All-on-4, All-on-5 & All-on-6",
+    "tagline": "Sadece dört implantla desteklenen, tek seansta tamamlanan tam sabit çene protezi.",
+    "overview": [
+      "All-on-4, eksik veya başarısız olmuş tam bir dizi dişi, stratejik olarak yerleştirilmiş sadece dört implantla desteklenen sabit, çıkarılamaz bir köprüyle değiştirir. İki implant düz, iki implant çenenin arkasına doğru açılı yerleştirilir, çoğu durumda kemik greftine gerek kalmadan mevcut kemik kullanılır.",
+      "İmplantlar açılı yerleştirildiği ve tüm çene tek bir ünite olarak tasarlandığı için, vaka genellikle ameliyatla aynı gün geçici sabit bir köprüyle tamamlanır."
+    ],
+    "who_for": [
+      "Bir veya her iki çenenizde dişlerinizin çoğu veya tamamı eksik",
+      "Çıkarılabilir bir protez kullanıyorsunuz ve sabit bir alternatif istiyorsunuz",
+      "Bir miktar kemik kaybınız var ama mümkünse kemik greftinden kaçınmak istiyorsunuz"
+    ],
+    "expect_steps": [
+      "İmplant konumunu planlamak ve aday olduğunuzu doğrulamak için 3D tarama ve röntgen",
+      "Genellikle lokal anestezi altında dört implantın cerrahi olarak yerleştirilmesi",
+      "Çoğu durumda aynı gün geçici sabit bir köprü takılır",
+      "İyileşmeden sonra (genellikle birkaç ay), son köprünüz takılır"
+    ],
+    "why_us": "Cerrahi ekibimiz her All-on-4 vakasını ameliyattan önce dijital olarak planlar, böylece implant konumu ve son ısırma önceden haritalanır. İmplantlar ömür boyu garantimiz kapsamındadır.",
+    "warranty": "All-on-4 tedavinizin bir parçası olarak yerleştirilen implantlar ömür boyu garantimiz kapsamındadır.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "Sadece dört implantla desteklenen, tek seansta tamamlanan tam sabit çene protezi.",
+        "desc": "All-on-4, eksik veya başarısız olmuş tam bir dizi dişi, stratejik olarak yerleştirilmiş sadece dört implantla desteklenen sabit, çıkarılamaz bir köprüyle değiştirir. İki implant düz, iki implant çenenin arkasına doğru açılı yerleştirilir, çoğu durumda kemik greftine gerek kalmadan mevcut kemik kullanılır."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "Beş implant üzerine tam sabit çene protezi, daha güçlü ve uzun vadeli bir sonuç için ek destek sağlar.",
+        "desc": "All-on-5, All-on-4 ile aynı prensibi izler — az sayıda implant üzerinde tam bir sabit diş dizisi — ancak ısırma kuvvetinin daha iyi dağılımı için beşinci bir implant ekler. Bu genellikle kemik yoğunluğunuz veya ısırma düzeninizin ek destekten fayda görebileceği durumlarda önerilir."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "Altı implant üzerine tam sabit çene protezi, daha fazla kemik kaybı olan vakalarda en güçlü desteği sağlar.",
+        "desc": "All-on-6, tam sabit bir çeneyi desteklemek için altı implant kullanır ve All-on-X seçenekleri arasında ısırma kuvvetinin en geniş dağılımını sunar. Genellikle daha önemli kemik kaybı, çok güçlü bir ısırma veya uzun vadeli kararlılığın öncelik olduğu vakalar için önerilir."
+      }
+    ]
+  },
+  "emax-veneers": {
+    "eyebrow": "Estetik diş hekimliği",
+    "title": "E-max Lamina (Veneer)",
+    "tagline": "Doğal diş minenizi koruyarak gülüşünüzü dönüştüren ultra ince porselen laminalar.",
+    "overview": [
+      "E-max laminalar, dişlerinizin ön yüzeyine yapıştırılan ince lityum disilikat seramik kabuklardır. Malzeme milimetrenin bir kısmı kalınlığında bile güçlü olduğundan, çoğu vakada tam kaplamanın aksine dişten çok az, bazen hiç madde alınmasına gerek kalmaz.",
+      "Seramik, doğal mineye benzeyen cam gibi bir şeffaflığa sahiptir, bu yüzden düzgün yerleştirilmiş laminalar yakından bakıldığında bile gerçek dişlerden ayırt edilmesi çok zordur."
+    ],
+    "who_for": [
+      "Tam kaplama yapmadan lekelenme, kırık veya küçük boşlukları düzeltmek istiyorsunuz",
+      "Doğal dişinizden mümkün olduğunca az kaybetmek istiyorsunuz",
+      "Ön dişleriniz için laminaları tam zirkonyum kaplamalarla karşılaştırıyorsunuz"
+    ],
+    "expect_steps": [
+      "Laminalarınızı tasarlamak için dijital tarama ve renk seçimi",
+      "Vakanıza bağlı olarak diş yüzeyinin minimal veya hiç hazırlanmaması",
+      "Laminaların seçtiğiniz renge uyacak şekilde kendi bünyemizde frezelenip bitirilmesi",
+      "Kusursuz, doğal bir görünüm için yapıştırma ve son parlatma"
+    ],
+    "why_us": "Vakanız uygun olduğunda varsayılan olarak minimal müdahaleli E-max tercih ediyoruz, böylece doğal dişinizden mümkün olduğunca az kaybedersiniz. Tüm laminat işçiliği ömür boyu garantimiz kapsamındadır.",
+    "warranty": "E-max laminalar ömür boyu garantimiz kapsamındadır."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "İleri implantoloji",
+    "title": "Zigoma İmplant",
+    "tagline": "Standart implanta uygun olmayan, ciddi üst çene kemik kaybı olan hastalar için sabit, aynı gün çözüm.",
+    "overview": [
+      "Zigoma implantlar standart diş implantlarından daha uzundur ve üst çene yerine elmacık kemiğine (zigomatik kemik) tutunur. Bu, üst çenesinde konvansiyonel implant hatta All-on-4 için bile yeterli kemik kalmamış hastalar için güvenli bir seçenek sunar.",
+      "Zigomatik kemik yoğun olduğundan ve diş kaybını takip eden kemik erimesinden nadiren etkilendiğinden, önce kemik grefti veya sinüs liftine gerek kalmadan stabil bir dayanak noktası sağlar — bu da tedaviye aylar ekleyebilecek adımları ortadan kaldırır."
+    ],
+    "who_for": [
+      "Size standart implant veya All-on-4 için yeterli üst çene kemiğiniz olmadığı söylendi",
+      "Önceki bir kemik grefti başarısız oldu, ya da greftten ve ek iyileşme süresinden kaçınmak istiyorsunuz",
+      "Üst protez takıyorsunuz ve sabit, çıkarılamaz bir alternatif istiyorsunuz"
+    ],
+    "expect_steps": [
+      "Elmacık kemiğinizi değerlendirmek ve implant rotasını hassas planlamak için 3D CT tarama",
+      "Karmaşıklığı nedeniyle genellikle genel anestezi veya derin sedasyon altında zigoma implantların cerrahi yerleştirilmesi",
+      "Genellikle aynı gün sabit geçici bir köprü takılır",
+      "Sağlama onaylandıktan sonra son, kalıcı köprü takılır"
+    ],
+    "why_us": "Zigoma vakaları, çoğu genel implant diş hekiminin rutin olarak yapmadığı cerrahi hassasiyet gerektirir. Cerrahi ekibimiz her vakayı önceden 3D görüntüleme üzerinde planlar ve yerleştirilen her implant ömür boyu garantimizle kapsanır.",
+    "warranty": "Zigoma implantlar ömür boyu garantimiz kapsamındadır."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restoratif diş hekimliği",
+    "title": "Diş Köprüsü",
+    "tagline": "Cerrahi olmadan bir veya daha fazla eksik dişi, boşluğun iki yanındaki dişlere sabitlenerek değiştiren yöntem.",
+    "overview": [
+      "Diş köprüsü, eksik dişin bıraktığı boşluğu, boşluğun iki yanındaki doğal dişlere takılan iki kaplama arasına kaynaştırılmış sahte bir diş (pontik) ile doldurur. Yerine yapıştırıldıktan sonra köprü çıkmaz — tıpkı doğal dişler gibi temizler ve kullanırsınız.",
+      "İmplanttan farklı olarak köprü cerrahi veya iyileşme süresi gerektirmez, bu da uygun adaylar için eksik bir dişi değiştirmenin daha hızlı ve genellikle daha uygun fiyatlı bir yolu olmasını sağlar."
+    ],
+    "who_for": [
+      "Arka arkaya bir veya birkaç dişiniz eksik ve sabit, cerrahi olmayan bir çözüm istiyorsunuz",
+      "Boşluğun yanındaki dişler zaten kaplamaya ihtiyaç duyuyor, ya da birini destekleyecek kadar güçlü",
+      "İmplant cerrahisinden veya gerektirdiği iyileşme süresinden kaçınmayı tercih ediyorsunuz"
+    ],
+    "expect_steps": [
+      "Dijital tarama ve iki destekleyici dişin hazırlanması",
+      "Kalıcı köprünüz hazırlanırken bölgeyi geçici bir köprü korur",
+      "Köprünüz doğal diş renginize uyacak şekilde frezelenip bitirilir",
+      "Son yapıştırma ve ısırma kontrolü"
+    ],
+    "why_us": "Köprüyü yalnızca destekleyici dişler gerçekten bunun için yeterince güçlü olduğunda öneriyoruz — aksi halde bunu söyler ve implant seçeneğini tartışırız. Tüm köprü işçiliği ömür boyu garantimiz kapsamındadır.",
+    "warranty": "Diş köprüleri ömür boyu garantimiz kapsamındadır."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodonti",
+    "title": "Şeffaf Diş Teli (Invisalign)",
+    "tagline": "Özel yapım, çıkarılabilir şeffaf plaklar serisi kullanarak dişleri neredeyse görünmez şekilde düzeltme yöntemi.",
+    "overview": [
+      "Şeffaf plak tedavisi, dişlerinizi doğru konumuna kademeli olarak taşıyan, her biri serideki bir sonrakine geçmeden önce bir ila iki hafta takılan özel yapım, saydam plastik plaklar dizisi kullanır. Plaklar şeffaf ve çıkarılabilir olduğundan, çoğu insan taktığınızı fark etmez.",
+      "Sabit metal tel aparatlardan farklı olarak, plaklar yemek yemek, fırçalamak ve diş ipi kullanmak için normal şekilde çıkarılabilir, bu da birçok yetişkin hasta için günlük yaşam ve iş etrafında çok daha yönetilebilir bulunuyor."
+    ],
+    "who_for": [
+      "Hafif ila orta derecede diş sıkışıklığı, boşluk veya ısırma bozukluğunuz var",
+      "Görünür metal braket ve tellerle olmadan dişlerinizi düzeltmek istiyorsunuz",
+      "Normal günlük rutine uyan bir tedavi isteyen bir yetişkinsiniz"
+    ],
+    "expect_steps": [
+      "Tüm hareket sırasını önceden planlamak için dişlerinizin dijital 3D taraması",
+      "Tedaviye başlamadan önce öngörülen sonucunuzun bir önizlemesini görürsünüz",
+      "Bu plana dayalı olarak tam özel plak seriniz üretilir",
+      "İlerlemeyi takip etmek için periyodik kontrollerle her seti 1-2 hafta takarsınız"
+    ],
+    "why_us": "Her vaka ilk taramadan itibaren dijital olarak planlanır, böylece başlamadan önce yaklaşık kaç plağa ihtiyacınız olacağını ve son sonucun nasıl görüneceğini bilirsiniz.",
+    "warranty": "Sonucu korumak için tedavi tamamlandıktan sonra tutucu plaklar sağlıyoruz."
+  }
+}

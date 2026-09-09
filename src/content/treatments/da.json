@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Kosmetisk tandpleje",
+    "title": "Hollywood Smile",
+    "tagline": "En komplet redesign af den øverste tandbue for et strålende, symmetrisk smil klar til kameraet.",
+    "overview": [
+      "Hollywood Smile er en fuldstændig kosmetisk makeover af de synlige tænder, normalt den øverste bue, der kombinerer form, størrelse, tilpasning og nuance til ét harmonisk resultat. Typisk bruges en kombination af porcelænsfacader eller zirconiumkroner, planlagt sammen som et sæt, så hver tand komplementerer den næste.",
+      "Målet er ikke et enkelt „perfekt“ skabelonsmil — din ansigtsform, læbelinje og hudtone tages alle i betragtning, så resultatet ser ud som dit bedst mulige smil, ikke en andens."
+    ],
+    "who_for": [
+      "Du har flere kosmetiske bekymringer på én gang — misfarvning, skår, mellemrum eller ujævne tænder",
+      "Du ønsker et koordineret resultat frem for at reparere én tand ad gangen",
+      "Du er tryg ved moderat slibning af fortænderne"
+    ],
+    "expect_steps": [
+      "Digital scanning og fotos til at designe dit nye smil i 3D, før nogen tand berøres",
+      "Minimal slibning af tænderne for at skabe plads til de nye restaureringer",
+      "Midlertidige restaureringer, mens dine permanente facader eller kroner fræses",
+      "Tilpasning, nuancematchning og bidjustering for det endelige resultat"
+    ],
+    "why_us": "Hver Hollywood Smile-sag designes først digitalt, så du kan se en forhåndsvisning af resultatet, allerede før behandlingen begynder. Zirconium- og porcelænsarbejde er dækket af vores livstidsgaranti.",
+    "warranty": "Zirconium- og porcelænsrestaureringer i dit Hollywood Smile er dækket af vores livstidsgaranti."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Kroner og restaureringer",
+    "title": "Monolitisk zirconium",
+    "tagline": "Kroner fræset fra en enkelt massiv zirconiumblok for maksimal styrke uden afskalning.",
+    "overview": [
+      "Monolitiske zirconiumkroner fræses fra en enkelt massiv zirconiumblok, uden et separat porcelænslag ovenpå. Dette eliminerer den primære svaghed ved ældre zirconiumkroner — afskalning af porcelænsbelægningen over tid.",
+      "Moderne flerlags zirconiumblokke er farvet, så gennemsigtigheden varierer fra tandkødslinjen til bidkanten, hvilket i vid udstrækning lukker det gamle æstetiske hul uden at tilføje et separat, afskalningsudsat porcelænslag."
+    ],
+    "who_for": [
+      "Du har brug for en krone eller bro på en bagtand, hvor tyggekraften er størst",
+      "Du skærer tænder eller bider sammen og har brug for et mere holdbart materiale",
+      "Du ønsker en langsigtet løsning med minimal risiko for afskalning"
+    ],
+    "expect_steps": [
+      "Digital scanning af tanden efter forberedelse",
+      "Fræsning af kronen fra en massiv zirconiumblok i vores eget laboratorium",
+      "Farvning og glasering for at matche den naturlige tandfarve",
+      "Endelig pasformkontrol og cementering"
+    ],
+    "why_us": "Vores interne fræselaboratorium giver os mulighed for at færdiggøre en krone på dage, ikke uger, med præcis digital planlægning.",
+    "warranty": "Monolitiske zirconiumkroner er dækket af vores livstidsgaranti mod materialefejl."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologi",
+    "title": "Tandimplantater",
+    "tagline": "En permanent tandrodserstatning i titanium, hvorpå en krone eller bro fastgøres.",
+    "overview": [
+      "Et tandimplantat erstatter direkte den manglende tandrod og står alene i kæbeknoglen, uafhængigt af naboende tænder. Titanium har en usædvanlig egenskab — levende knogleceller vokser direkte på det, hvilket kaldes osseointegration.",
+      "Denne proces tager flere måneder, så implantatsager opdeles normalt i to besøg: det første til scanning, indgreb og en midlertidig restaurering, det andet måneder senere til den endelige permanente krone."
+    ],
+    "who_for": [
+      "Du mangler en eller flere tænder og ønsker en permanent løsning",
+      "Du ønsker at undgå at slibe naboende sunde tænder (som en bro ville kræve)",
+      "Du har tilstrækkelig knoglemasse eller er villig til at overveje knogleopbygning"
+    ],
+    "expect_steps": [
+      "3D-scanning (CBCT) for at vurdere tilgængelig knoglemasse",
+      "Placering af implantatet under lokalbedøvelse",
+      "Helingsperiode (osseointegration), typisk 3–6 måneder",
+      "Placering af den endelige krone ved det andet besøg"
+    ],
+    "why_us": "Vi bruger etablerede, klinisk testede implantatmærker med langsigtede data og fuld garanti.",
+    "warranty": "Tandimplantater er dækket af vores livstidsgaranti mod implantatsvigt."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Behandlingsplanlægning",
+    "title": "Digital smiledesign",
+    "tagline": "Planlægningsfasen, der afgør, hvilke behandlinger du reelt har brug for, baseret på dit ansigt, ikke en skabelon.",
+    "overview": [
+      "Digital Smiledesign er ikke i sig selv en behandling — det er planlægningstrinnet, der afgør, hvilke behandlinger (facader, kroner, blegning, tandkødsformning) der faktisk vil blive brugt til at nå dit mål, baseret på dit ansigt, læber og tænder frem for en generisk skabelon.",
+      "En intraoral scanning bygger en 3D-model af dine tænder, og designsoftwaren lægger et foreslået nyt smil oven på denne model — dette er punktet, hvor du reelt kan se planen og diskutere ændringer, før noget permanent sker."
+    ],
+    "who_for": [
+      "Du overvejer flere kosmetiske indgreb og ønsker at se resultatet på forhånd",
+      "Du ønsker at være sikker på resultatet, før noget permanent arbejde begynder",
+      "Du har ujævnt tandkød eller asymmetri, der skal løses først"
+    ],
+    "expect_steps": [
+      "Fotos og video af dit smil, læbelinje og ansigtsproportioner",
+      "3D-scanning og digital forhåndsvisning af det foreslåede nye smil",
+      "Bestemmelse af, hvilke behandlinger der reelt er nødvendige, tand for tand",
+      "Fysisk mock-up i munden i mange tilfælde før permanent arbejde"
+    ],
+    "why_us": "Smiledesign er inkluderet i alle større kosmetiske sager uden ekstra omkostning, så du ved præcis, hvad du kan forvente.",
+    "warranty": "Digital planlægning er en del af den endelige garanti på den udførte behandling."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Kosmetisk tandpleje",
+    "title": "Tandblegning",
+    "tagline": "Professionel blegning for et mærkbart lysere smil på ét besøg.",
+    "overview": [
+      "Professionel tandblegning bruger en mere koncentreret blegegel end håndkøbsprodukter, anvendt under kontrolleret overvågning for hurtigere og jævnere resultater. Udføres typisk på ét besøg.",
+      "Hvis du også planlægger facader eller kroner, bør blegning ske, før de fremstilles — ikke bagefter — så keramikarbejdet matcher i nuance med dine blegede naturlige tænder."
+    ],
+    "who_for": [
+      "Dine tænder er sunde, men misfarvede af kaffe, te, vin eller rygning",
+      "Du ønsker et hurtigt kosmetisk resultat uden at slibe tænderne",
+      "Du planlægger at kombinere med andre kosmetiske indgreb (udfør blegning først)"
+    ],
+    "expect_steps": [
+      "Kontrol af tænder og tandkød for at bekræfte egnethed",
+      "Beskyttelse af tandkødet og påføring af blegegel",
+      "Aktivering af gelen, typisk i flere cyklusser",
+      "Evaluering af resultatet og anbefalinger til at bevare nuancen"
+    ],
+    "why_us": "Vi bruger professionelle blegesystemer med forudsigelige, jævne resultater på ét besøg.",
+    "warranty": "Vi giver anbefalinger til pleje efter blegning for at forlænge resultatet."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantologi",
+    "title": "Skrueretineret okklusalt system",
+    "tagline": "En restaurering skruet fast på implantater, som tandlægen let kan fjerne, hvis nødvendigt.",
+    "overview": [
+      "Et skrueretineret okklusalt system fastgør en krone eller bro til implantatet med en skrue frem for cementering. Dette gør det muligt for tandlægen let at fjerne restaureringen til inspektion eller reparation, hvis nødvendigt, uden at beskadige selve restaureringen.",
+      "Denne fremgangsmåde foretrækkes ofte i større sager, som fulde buer, hvor nem adgang til fremtidig vedligeholdelse er værdifuld."
+    ],
+    "who_for": [
+      "Du gennemgår mere omfattende implantatarbejde, som en fuld bue",
+      "Du ønsker lettere fremtidig vedligeholdelse eller reparerbarhed",
+      "Din tandlæge anbefaler skrueretention frem for cementering til dit specifikke tilfælde"
+    ],
+    "expect_steps": [
+      "Placering af implantatet og heling (osseointegration)",
+      "Digital scanning for at designe restaureringen",
+      "Fremstilling af restaureringen med adgangshuller til skruerne",
+      "Fastskruning af restaureringen og forsegling af adgangshullerne"
+    ],
+    "why_us": "Vi tilbyder både skrue- og cementerede muligheder og anbefaler den, der passer bedst til dit specifikke tilfælde.",
+    "warranty": "Skrueretineret okklusalt system er dækket af vores livstidsgaranti."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontologi",
+    "title": "Gingivektomi",
+    "tagline": "Formning af tandkød til at afhjælpe overskydende eller ujævnt tandkødsvæv.",
+    "overview": [
+      "Gingivektomi fjerner overskydende tandkødsvæv for at afsløre mere naturlig tandhøjde, enten af kosmetiske årsager („tandkødssmil“) eller fordi det overskydende væv gør det svært at rengøre tænderne ordentligt.",
+      "Indgrebet er ofte et trin før facader eller kroner, for først at skabe en symmetrisk tandkødslinje, som keramikarbejdet derefter ser naturligt ud på."
+    ],
+    "who_for": [
+      "Du viser mærkbart mere tandkød end tand, når du smiler",
+      "Din tandkødslinje er ujævn langs fortænderne",
+      "Overskydende tandkødsvæv gør det svært at rengøre tænderne effektivt"
+    ],
+    "expect_steps": [
+      "Vurdering af tandkødsniveauer og planlægning af den ønskede kontur",
+      "Lokalbedøvelse",
+      "Fjernelse af overskydende tandkødsvæv med præcisionsinstrumenter",
+      "Kort helingsperiode før eventuelt efterfølgende kosmetisk arbejde"
+    ],
+    "why_us": "Tandkødsvurdering er en del af enhver ordentlig digital smiledesignplan, så det behandles som en del af den overordnede plan, ikke isoleret.",
+    "warranty": "Vi giver plejevejledning efter indgrebet for at sikre korrekt heling."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantologi",
+    "title": "Sinusløft",
+    "tagline": "Skabelse af tilstrækkelig knoglehøjde under den øvre kæbehule til implantatplacering.",
+    "overview": [
+      "Den øvre bagerste kæbe ligger tæt på bihulerne, og knogletab der betyder nogle gange, at der ikke er tilstrækkelig højde under hulen til et implantat. Et sinusløft løfter forsigtigt hulens bund og tilføjer opbygningsmateriale nedenunder for at skabe denne højde.",
+      "Dette er en specifik, veletableret løsning til dette bestemte område, der tilføjer helingstid til den overordnede plan, men det er en rutinemæssig del af implantologi, ikke en sjælden undtagelse."
+    ],
+    "who_for": [
+      "Du har brug for et implantat i den øvre bagerste kæbe, men mangler tilstrækkelig knoglehøjde",
+      "3D-scanning viste utilstrækkelig afstand til bihulen",
+      "Du ønsker at sikre langsigtet implantatstabilitet i dette udfordrende område"
+    ],
+    "expect_steps": [
+      "3D-scanning for at vurdere knoglehøjden under hulen",
+      "Forsigtig løftning af sinusmembranen",
+      "Placering af opbygningsmateriale",
+      "Helingstid før (eller samtidig med) implantatplacering"
+    ],
+    "why_us": "Vores team har omfattende erfaring med sinusløft som en standarddel af øvre kæbe implantologisager.",
+    "warranty": "Sinusløft er dækket af den overordnede implantatgaranti."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodonti",
+    "title": "Rodbehandling",
+    "tagline": "Fjernelse af inficeret pulpa og forsegling af tanden, typisk sammenlignelig med at lægge en fyldning.",
+    "overview": [
+      "Rodbehandling fjerner den inficerede tandpulpa fra tandens indre, kanalen renses, formes og desinficeres, derefter forsegles den med biokompatibelt materiale.",
+      "Ubehaget, folk forbinder med dette indgreb, kommer typisk fra selve infektionen, før behandlingen — ikke fra selve indgrebet, som udføres under lokalbedøvelse og generelt er sammenligneligt med at lægge en fyldning."
+    ],
+    "who_for": [
+      "Du har tandpine eller følsomhed, der indikerer pulpainfektion",
+      "Røntgen viste infektion ved tandroden",
+      "Du ønsker at redde tanden i stedet for at trække den ud"
+    ],
+    "expect_steps": [
+      "Diagnose og røntgen for at bekræfte infektionens omfang",
+      "Lokalbedøvelse",
+      "Fjernelse af inficeret væv og rengøring af kanalen",
+      "Forsegling af tanden, og typisk en beskyttende krone bagefter"
+    ],
+    "why_us": "Vi bruger moderne roterende instrumenter og desinfektionsprotokoller til en grundig og behagelig behandling.",
+    "warranty": "Rodbehandling er dækket af vores garanti mod geninfektion."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantologi",
+    "title": "All-on-4, All-on-5 og All-on-6",
+    "tagline": "En komplet, fikseret tandbue på implantater, med antallet af implantater tilpasset din anatomi.",
+    "overview": [
+      "All-on-4, All-on-5 og All-on-6 bruger den samme grundlæggende idé — en komplet bue af faste tænder understøttet af et lille antal implantater placeret i kæben. Tallet angiver, hvor mange implantater der understøtter den bue.",
+      "Beslutningen om, hvor mange implantater der skal bruges, kommer normalt ned til knoglen: 3D-scanning viser, hvor meget knogle der er tilgængelig, og derfra kan tandlægen ærligt fortælle, om fire implantater vil holde på lang sigt, eller om et femte eller sjette markant ville forbedre resultatet."
+    ],
+    "who_for": [
+      "Du mangler de fleste eller alle tænder i en bue",
+      "Du ønsker en fikseret, ikke aftagelig løsning",
+      "Du har tilstrækkelig knogle eller er villig til at overveje alternativer som vinklet implantatplacering"
+    ],
+    "expect_steps": [
+      "3D-scanning for at vurdere knoglemasse og planlægge antal og placering af implantater",
+      "Placering af implantaterne og tilpasning af en midlertidig fast bro ved samme besøg",
+      "Helingsperiode (osseointegration), typisk 4–6 måneder",
+      "Tilpasning af den endelige permanente bro ved det andet besøg"
+    ],
+    "why_us": "Digital planlægning og vinkling af implantater gør det ofte muligt for os at undgå knogleopbygning selv hos patienter med knogletab.",
+    "warranty": "All-on-4/5/6-sager er dækket af vores livstidsgaranti for implantater og strukturel garanti for broen."
+  },
+  "emax-veneers": {
+    "eyebrow": "Kosmetisk tandpleje",
+    "title": "E-max facader",
+    "tagline": "Tynde porcelænsfacader med minimal tandslibning for et naturligt udseende resultat.",
+    "overview": [
+      "E-max (lithiumdisilikat) facader har en glasagtig gennemsigtighed, der efterligner naturlig tandemalje tættere end andre materialer, især i normalt lys. Materialet forbliver stærkt, selv når det fremstilles meget tyndt, hvilket muliggør minimal tandslibning i mange tilfælde.",
+      "Hvis dine tænder allerede er rimeligt godt tilpasset, og du primært ønsker at ændre farve, lukke små mellemrum eller lidt forfine formen, kan en tynd E-max facade ofte klæbes med lidt eller ingen emaljefjernelse."
+    ],
+    "who_for": [
+      "Du har misfarvning, der ikke reagerer på blegning",
+      "Du har mindre skår, mellemrum eller en lidt ujævn tandkant",
+      "Du ønsker en minimalt invasiv løsning, der bevarer så meget som muligt af den naturlige tand"
+    ],
+    "expect_steps": [
+      "Digital scanning og smiledesignplanlægning",
+      "Minimal tandslibning, hvis overhovedet nødvendigt",
+      "Fræsning af facaderne fra en E-max-blok i vores eget laboratorium",
+      "Tilpasning og kontrol af farve og bid"
+    ],
+    "why_us": "Vores interne laboratorium muliggør hurtig fremstilling af E-max facader med præcis farvematchning.",
+    "warranty": "E-max facader er dækket af vores livstidsgaranti mod materialefejl."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantologi",
+    "title": "Zygomatiske implantater",
+    "tagline": "Længere implantater forankret i kindbenet for patienter med alvorligt knogletab i overkæben.",
+    "overview": [
+      "Zygomatiske implantater er længere end standardtandimplantater og forankres i kindbenet (zygomatisk knogle) i stedet for kæbeknoglen. Dette løser situationer, hvor knogletab i overkæben er for alvorligt til standardimplantater, selv med knogleopbygning.",
+      "Fordi de omgår behovet for kæbeknogleopbygning, kan zygomatiske implantater i mange tilfælde muliggøre en fikseret tandbue uden separate knogleopbygningsprocedurer og deres længere helingstid."
+    ],
+    "who_for": [
+      "Du har alvorligt knogletab i overkæben, der udelukker standardimplantater",
+      "Du er tidligere blevet fortalt, at du har brug for omfattende knogleopbygning",
+      "Du ønsker at undgå lange ventetider forbundet med flere knogleprocedurer"
+    ],
+    "expect_steps": [
+      "Detaljeret 3D-scanning for at vurdere kindbenet og planlægge implantatplaceringen",
+      "Placering af det zygomatiske implantat under bedøvelse",
+      "Tilpasning af en midlertidig fast bro, ofte ved samme besøg",
+      "Tilpasning af den endelige permanente bro efter heling"
+    ],
+    "why_us": "Zygomatiske implantater kræver specialiseret kirurgisk erfaring — vores team er specialiseret i disse avancerede tilfælde.",
+    "warranty": "Zygomatiske implantater er dækket af vores livstidsgaranti."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restaureringer",
+    "title": "Tandbro",
+    "tagline": "En erstatning for en manglende tand, understøttet af naboende tænder, typisk fuldført på ét besøg.",
+    "overview": [
+      "En tandbro erstatter den synlige manglende tand ved at støtte sig på tænderne ved siden af mellemrummet for støtte. I modsætning til et implantat kræver den ikke kirurgi eller helingsperiode for knogleintegration, så den fuldføres typisk på ét besøg.",
+      "Hvis naboende tænder allerede har brug for kroner (på grund af en gammel fyldning, hul eller tidligere skade), er en bro et effektivt valg, da den behandler disse tænder og fylder mellemrummet i én proces."
+    ],
+    "who_for": [
+      "Du mangler en eller flere tænder i træk",
+      "Naboende tænder har allerede brug for kroner eller har mindre skader",
+      "Du ønsker en hurtigere løsning uden kirurgi"
+    ],
+    "expect_steps": [
+      "Slibning af støttetænder på begge sider af mellemrummet",
+      "Digital scanning for at designe broen",
+      "Fræsning og farvning af broen i vores laboratorium",
+      "Tilpasning og bidkontrol"
+    ],
+    "why_us": "Vores team giver ærlig rådgivning om, hvorvidt en bro eller et implantat er mere passende til dit specifikke tilfælde.",
+    "warranty": "Tandbroer er dækket af vores livstidsgaranti mod materialefejl."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodonti",
+    "title": "Invisalign / gennemsigtige skinner",
+    "tagline": "Gennemsigtige, aftagelige skinner til gradvist at rette tænderne uden metaltandbøjler.",
+    "overview": [
+      "Gennemsigtige skinner retter tænderne ved hjælp af kontrolleret, gradvist tryk, på samme måde som traditionelle tandbøjler, men gennem en serie af aftagelige gennemsigtige skinner i stedet for faste metaldele.",
+      "Aftagelighed betyder, at du spiser, børster tænder og bruger tandtråd normalt, hvilket er en stor del af grunden til, at voksne patienter har tendens til at foretrække dem af livsstilsmæssige årsager. De virker dog kun, hvis de bæres som foreskrevet, typisk 20–22 timer om dagen."
+    ],
+    "who_for": [
+      "Du har let til moderat trængsel, mellemrum eller enkle bidproblemer",
+      "Du ønsker muligheden for at tage bøjlen af ved spisning og tandbørstning",
+      "Du er villig til konsekvent at bære skinnerne som foreskrevet"
+    ],
+    "expect_steps": [
+      "3D-scanning og bidvurdering for at planlægge den nødvendige tandbevægelse",
+      "Fremstilling af en serie gennemsigtige skinner, der matcher behandlingsplanen",
+      "Gradvis udskiftning af skinner hver 1–2 uge",
+      "Kontrolbesøg for at overvåge fremskridt"
+    ],
+    "why_us": "3D-planlægning viser præcis, hvilke bevægelser dit tilfælde har brug for, allerede før behandlingen begynder.",
+    "warranty": "Vi leverer retentionsskinner efter afsluttet behandling for at bevare resultatet."
+  }
+}

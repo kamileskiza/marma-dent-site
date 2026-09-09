@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Estētiskā stomatoloģija",
+    "title": "Hollywood Smile",
+    "tagline": "Pilnīga augšējās žokļa loka pārveide spilgtam, simetriskam, kamerai gatavam smaidam.",
+    "overview": [
+      "Hollywood Smile ir pilnīga redzamo zobu, parasti augšējā loka, kosmētiska pārveide, kas apvieno formu, izmēru, izlīdzinājumu un nokrāsu vienā harmoniskā rezultātā. Parasti izmanto porcelāna vinīru vai cirkonija kroņu kombināciju, kas kopīgi ieplānota kā komplekts, lai katrs zobs papildinātu nākamo.",
+      "Mērķis nav viens „perfekts” šablona smaids — tiek ņemta vērā jūsu sejas forma, lūpu līnija un ādas tonis, tāpēc rezultāts izskatās kā jūsu labākais iespējamais smaids, nevis kāda cita."
+    ],
+    "who_for": [
+      "Jums ir vairākas kosmētiskas problēmas vienlaikus — krāsojums, atlūzumi, spraugas vai nevienmērīgi zobi",
+      "Vēlaties koordinētu rezultātu, nevis viena zoba labošanu pēc otra",
+      "Jums der mērens priekšējo zobu slīpējums"
+    ],
+    "expect_steps": [
+      "Digitālā skenēšana un fotogrāfijas, lai izveidotu jauno smaidu 3D pirms jebkura zoba pieskaršanas",
+      "Minimāls zobu slīpējums, lai atbrīvotu vietu jaunajām restaurācijām",
+      "Pagaidu restaurācijas, kamēr tiek frēzēti jūsu pastāvīgie vinīri vai kroņi",
+      "Uzlikšana, nokrāsas saskaņošana un sakodiena pielāgošana galīgajam rezultātam"
+    ],
+    "why_us": "Katrs Hollywood Smile gadījums vispirms tiek izstrādāts digitāli, tāpēc jūs varat redzēt rezultāta priekšskatījumu jau pirms ārstēšanas sākuma. Cirkonija un porcelāna darbiem attiecas mūsu mūža garantija.",
+    "warranty": "Cirkonija un porcelāna restaurācijām jūsu Hollywood Smile gadījumā attiecas mūsu mūža garantija."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Kroņi un restaurācijas",
+    "title": "Monolītais cirkonijs",
+    "tagline": "Kroņi, kas frēzēti no viena masīva cirkonija bloka maksimālam izturīgumam bez atlūšanas.",
+    "overview": [
+      "Monolītie cirkonija kroņi tiek frēzēti no viena masīva cirkonija bloka, bez atsevišķa porcelāna slāņa virsū. Tas novērš vecāko cirkonija kroņu galveno vājumu — porcelāna pārklājuma atlūšanu laika gaitā.",
+      "Mūsdienu daudzslāņu cirkonija bloki ir iekrāsoti tā, lai caurredzamība mainītos no smaganu līnijas līdz sakodiena malai, tādējādi lielā mērā aizverot veco estētisko atšķirību, nepievienojot atsevišķu, uz atlūšanu tendētu porcelāna slāni."
+    ],
+    "who_for": [
+      "Jums nepieciešams kronis vai tilts uz aizmugurējā zoba, kur košļāšanas spēks ir vislielākais",
+      "Jūs griežat vai sakožat zobus un jums nepieciešams izturīgāks materiāls",
+      "Vēlaties ilgtermiņa risinājumu ar minimālu atlūšanas risku"
+    ],
+    "expect_steps": [
+      "Zoba digitālā skenēšana pēc sagatavošanas",
+      "Kroņa frēzēšana no masīva cirkonija bloka mūsu pašu laboratorijā",
+      "Krāsošana un glazēšana, lai atbilstu dabiskajai zobu nokrāsai",
+      "Galīgā pielāgošanas pārbaude un cementēšana"
+    ],
+    "why_us": "Iekšējā frēzēšanas laboratorija ļauj mums pabeigt kroni dienu, nevis nedēļu laikā, ar precīzu digitālo plānošanu.",
+    "warranty": "Monolītajiem cirkonija kroņiem attiecas mūsu mūža garantija pret materiāla defektiem."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantoloģija",
+    "title": "Zobu implanti",
+    "tagline": "Pastāvīgs titāna zoba saknes aizstājējs, pie kura piestiprina kroni vai tiltu.",
+    "overview": [
+      "Zoba implants tieši aizstāj trūkstošo zoba sakni, patstāvīgi stāvot žokļa kaulā, neatkarīgi no blakus esošajiem zobiem. Titānam ir neparasta īpašība — dzīvas kaulu šūnas tieši aug uz tā virsmas, ko sauc par osseointegrāciju.",
+      "Šis process ilgst vairākus mēnešus, tāpēc implantu gadījumi parasti tiek sadalīti divos apmeklējumos: pirmais skenēšanai, procedūrai un pagaidu restaurācijai, otrais pēc dažiem mēnešiem galīgajam pastāvīgajam kronim."
+    ],
+    "who_for": [
+      "Jums trūkst viens vai vairāki zobi, un vēlaties pastāvīgu risinājumu",
+      "Vēlaties izvairīties no blakus esošo veselo zobu slīpēšanas (kā to prasītu tilts)",
+      "Jums ir pietiekams kaula daudzums vai esat gatavs apsvērt kaula palielināšanu"
+    ],
+    "expect_steps": [
+      "3D skenēšana (CBCT), lai novērtētu pieejamo kaula daudzumu",
+      "Implanta ievietošana vietējā anestēzijā",
+      "Dzīšanas periods (osseointegrācija), parasti 3–6 mēneši",
+      "Galīgā kroņa uzlikšana otrajā apmeklējumā"
+    ],
+    "why_us": "Izmantojam pazīstamus, klīniski pārbaudītus implantu zīmolus ar ilgtermiņa datiem un pilnu garantiju.",
+    "warranty": "Zobu implantiem attiecas mūsu mūža garantija pret implanta atteici."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Ārstēšanas plānošana",
+    "title": "Digitālais smaida dizains",
+    "tagline": "Plānošanas fāze, kas nosaka, kāda ārstēšana jums patiešām nepieciešama, pamatojoties uz jūsu seju, nevis šablonu.",
+    "overview": [
+      "Digitālais smaida dizains pats par sevi nav ārstēšana — tas ir plānošanas posms, kas nosaka, kāda ārstēšana (vinīri, kroņi, balināšana, smaganu formēšana) tiks faktiski izmantota jūsu mērķa sasniegšanai, pamatojoties uz jūsu seju, lūpām un zobiem, nevis vispārīgu šablonu.",
+      "Intraorāla skenēšana veido 3D jūsu zobu modeli, un dizaina programmatūra uzklāj piedāvāto jauno smaidu uz šī modeļa — šis ir brīdis, kad jūs faktiski varat redzēt plānu un pārrunāt izmaiņas, pirms notiek kaut kas pastāvīgs."
+    ],
+    "who_for": [
+      "Apsverat vairākas kosmētiskās procedūras un vēlaties iepriekš redzēt rezultātu",
+      "Vēlaties būt pārliecināts par rezultātu, pirms sākas jebkurš pastāvīgs darbs",
+      "Jums ir nevienmērīgas smaganas vai asimetrija, kas jāatrisina vispirms"
+    ],
+    "expect_steps": [
+      "Fotogrāfijas un video no jūsu smaida, lūpu līnijas un sejas proporcijām",
+      "3D skenēšana un digitāls priekšskatījums piedāvātajam jaunajam smaidam",
+      "Noteikšana, kāda ārstēšana patiešām nepieciešama, zobs pēc zoba",
+      "Fizisks maketa modelis mutē daudzos gadījumos pirms pastāvīga darba"
+    ],
+    "why_us": "Smaida dizains ir iekļauts visos lielākajos kosmētiskajos gadījumos bez maksas, tāpēc jūs precīzi zināt, ko sagaidīt.",
+    "warranty": "Digitālā plānošana ir daļa no galīgās garantijas veiktajai ārstēšanai."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Estētiskā stomatoloģija",
+    "title": "Zobu balināšana",
+    "tagline": "Profesionāla balināšana ievērojami gaišākam smaidam vienā apmeklējumā.",
+    "overview": [
+      "Profesionāla zobu balināšana izmanto koncentrētāku balināšanas gelu nekā bezrecepšu produkti, ko lieto kontrolētas uzraudzības apstākļos ātrākiem un vienmērīgākiem rezultātiem. Parasti tiek veikta vienā apmeklējumā.",
+      "Ja plānojat arī vinīrus vai kroņus, balināšanai jānotiek pirms to izgatavošanas — nevis pēc — lai keramikas darbs pēc nokrāsas atbilstu jūsu balinātajiem dabiskajiem zobiem."
+    ],
+    "who_for": [
+      "Jūsu zobi ir veseli, bet iekrāsojušies no kafijas, tējas, vīna vai smēķēšanas",
+      "Vēlaties ātru kosmētisku rezultātu bez zobu slīpēšanas",
+      "Plānojat apvienot ar citām kosmētiskajām procedūrām (vispirms veiciet balināšanu)"
+    ],
+    "expect_steps": [
+      "Zobu un smaganu pārbaude, lai apstiprinātu piemērotību",
+      "Smaganu aizsardzība un balināšanas gela uzklāšana",
+      "Gela aktivizēšana, parasti vairākos ciklos",
+      "Rezultāta novērtēšana un ieteikumi nokrāsas saglabāšanai"
+    ],
+    "why_us": "Izmantojam profesionālas balināšanas sistēmas ar paredzamiem, vienmērīgiem rezultātiem vienā apmeklējumā.",
+    "warranty": "Sniedzam ieteikumus aprūpei pēc balināšanas, lai pagarinātu rezultātu."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantoloģija",
+    "title": "Skrūvju stiprināta okluzālā sistēma",
+    "tagline": "Restaurācija, kas pieskrūvēta implantiem un ko zobārsts nepieciešamības gadījumā var viegli noņemt.",
+    "overview": [
+      "Skrūvju stiprināta okluzālā sistēma piestiprina kroni vai tiltu pie implanta ar skrūvi, nevis cementēšanu. Tas ļauj zobārstam nepieciešamības gadījumā viegli noņemt restaurāciju pārbaudei vai remontam, nesabojājot pašu restaurāciju.",
+      "Šo pieeju bieži izvēlas lielākiem gadījumiem, piemēram, pilnajiem lokiem, kur vērtīga ir vienkārša piekļuve turpmākai apkopei."
+    ],
+    "who_for": [
+      "Veicat plašāku implantu darbu, piemēram, pilnu loku",
+      "Vēlaties vieglāku turpmāko apkopi vai remontējamību",
+      "Jūsu zobārsts iesaka skrūvju stiprinājumu, nevis cementēšanu jūsu konkrētajam gadījumam"
+    ],
+    "expect_steps": [
+      "Implanta ievietošana un dzīšana (osseointegrācija)",
+      "Digitālā skenēšana restaurācijas izstrādei",
+      "Restaurācijas izgatavošana ar piekļuves atverēm skrūvēm",
+      "Restaurācijas pieskrūvēšana un piekļuves atveru aizvēršana"
+    ],
+    "why_us": "Piedāvājam gan skrūvju, gan cementēšanas variantus un ieteiksim to, kas vislabāk atbilst jūsu konkrētajam gadījumam.",
+    "warranty": "Skrūvju stiprinātai okluzālajai sistēmai attiecas mūsu mūža garantija."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontoloģija",
+    "title": "Gingivektomija",
+    "tagline": "Smaganu formas koriģēšana, lai risinātu pārmērīgu vai nevienmērīgu smaganu audu problēmu.",
+    "overview": [
+      "Gingivektomija noņem lieko smaganu audumu, lai atklātu vairāk dabiskā zoba augstuma, vai nu kosmētisku iemeslu dēļ („smaganu smaids”), vai tāpēc, ka lieks audums apgrūtina pareizu zobu tīrīšanu.",
+      "Procedūra bieži ir solis pirms vinīriem vai kroņiem, lai vispirms izveidotu simetrisku smaganu līniju, uz kuras pēc tam keramikas darbs izskatās dabiski."
+    ],
+    "who_for": [
+      "Smaidot jūs redzami rādāt vairāk smaganu nekā zoba",
+      "Jūsu smaganu līnija ir nevienmērīga gar priekšējiem zobiem",
+      "Lieks smaganu audums apgrūtina efektīvu zobu tīrīšanu"
+    ],
+    "expect_steps": [
+      "Smaganu līmeņu novērtēšana un vēlamā kontūra plānošana",
+      "Vietējā anestēzija",
+      "Lieko smaganu audu noņemšana, izmantojot precīzus instrumentus",
+      "Īss dzīšanas periods pirms jebkāda turpmāka kosmētiskā darba"
+    ],
+    "why_us": "Smaganu novērtēšana ir daļa no katra pareiza digitālā smaida dizaina plāna, tāpēc to risina kā vispārējā plāna daļu, nevis izolēti.",
+    "warranty": "Sniedzam aprūpes vadlīnijas pēc procedūras, lai nodrošinātu pareizu dzīšanu."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantoloģija",
+    "title": "Deguna blakusdobuma pacelšana",
+    "tagline": "Pietiekama kaula augstuma izveide zem augšējā žokļa deguna blakusdobuma implanta ievietošanai.",
+    "overview": [
+      "Augšējais aizmugurējais žoklis atrodas tuvu deguna blakusdobumiem, un kaula zudums tur dažreiz nozīmē, ka zem dobuma nav pietiekama augstuma implantam. Deguna blakusdobuma pacelšana maigi paceļ dobuma pamatni un pievieno palielināšanas materiālu zem tās, lai izveidotu šo augstumu.",
+      "Šis ir konkrēts, labi izveidots risinājums šai konkrētajai zonai, pievienojot dzīšanas laiku vispārējam plānam, bet tas ir ierasta implantoloģijas daļa, nevis reta izņēmuma situācija."
+    ],
+    "who_for": [
+      "Jums nepieciešams implants augšējā aizmugurējā žoklī, bet trūkst kaula augstuma",
+      "3D skenēšana parādīja nepietiekamu attālumu līdz deguna blakusdobumam",
+      "Vēlaties nodrošināt ilgtermiņa implanta stabilitāti šajā sarežģītajā zonā"
+    ],
+    "expect_steps": [
+      "3D skenēšana, lai novērtētu kaula augstumu zem dobuma",
+      "Maiga dobuma membrānas pacelšana",
+      "Palielināšanas materiāla ievietošana",
+      "Dzīšanas laiks pirms (vai vienlaikus ar) implanta ievietošanu"
+    ],
+    "why_us": "Mūsu komandai ir plaša pieredze deguna blakusdobuma pacelšanā kā standarta daļā no augšējā žokļa implantoloģijas gadījumiem.",
+    "warranty": "Deguna blakusdobuma pacelšanai attiecas vispārējā implanta garantija."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontija",
+    "title": "Sakņu kanāla ārstēšana",
+    "tagline": "Inficētās pulpas noņemšana un zoba noslēgšana, parasti salīdzināma ar plombas ievietošanu.",
+    "overview": [
+      "Sakņu kanāla ārstēšana noņem inficēto zoba pulpu no zoba iekšpuses, kanāls tiek iztīrīts, veidots un dezinficēts, tad noslēgts ar bioloģiski saderīgu materiālu.",
+      "Diskomforts, ko cilvēki saista ar šo procedūru, parasti rodas no pašas infekcijas pirms ārstēšanas, nevis no pašas procedūras, kas tiek veikta vietējā anestēzijā un parasti ir salīdzināma ar plombas ievietošanu."
+    ],
+    "who_for": [
+      "Jums ir zobu sāpes vai jutīgums, kas norāda uz pulpas infekciju",
+      "Rentgenogramma parādīja infekciju pie zoba saknes",
+      "Vēlaties saglabāt zobu, nevis to izraut"
+    ],
+    "expect_steps": [
+      "Diagnoze un rentgenogramma, lai apstiprinātu infekcijas apmēru",
+      "Vietējā anestēzija",
+      "Inficētā audu noņemšana un kanāla tīrīšana",
+      "Zoba noslēgšana, un parasti aizsargājošs kronis pēc tam"
+    ],
+    "why_us": "Izmantojam modernus rotācijas instrumentus un dezinfekcijas protokolus rūpīgai un ērtai ārstēšanai.",
+    "warranty": "Sakņu kanāla ārstēšanai attiecas mūsu garantija pret atkārtotu infekciju."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantoloģija",
+    "title": "All-on-4, All-on-5 un All-on-6",
+    "tagline": "Pilnīgs, fiksēts zobu loks uz implantiem, implantu skaits pielāgots jūsu anatomijai.",
+    "overview": [
+      "All-on-4, All-on-5 un All-on-6 izmanto vienu un to pašu pamatideju — pilnu fiksētu zobu loku, ko atbalsta neliels skaits žoklī ievietotu implantu. Skaitlis norāda, cik implanti atbalsta šo loku.",
+      "Lēmums par to, cik implantus izmantot, parasti ir atkarīgs no kaula: 3D skenēšana parāda, cik daudz kaula ir pieejams, un no tā zobārsts var godīgi pateikt, vai četri implanti izturēs ilgtermiņā, vai piektais vai sestais ievērojami uzlabotu rezultātu."
+    ],
+    "who_for": [
+      "Jums trūkst lielākā daļa vai visi zobi vienā lokā",
+      "Vēlaties fiksētu, nevis izņemamu risinājumu",
+      "Jums ir pietiekams kaula daudzums vai esat gatavs apsvērt alternatīvas, piemēram, slīpu implantu novietošanu"
+    ],
+    "expect_steps": [
+      "3D skenēšana, lai novērtētu kaula daudzumu un ieplānotu implantu skaitu un novietojumu",
+      "Implantu ievietošana un pagaidu fiksēta tilta uzlikšana tajā pašā apmeklējumā",
+      "Dzīšanas periods (osseointegrācija), parasti 4–6 mēneši",
+      "Galīgā pastāvīgā tilta uzlikšana otrajā apmeklējumā"
+    ],
+    "why_us": "Digitālā plānošana un implantu slīpums bieži ļauj mums izvairīties no kaula palielināšanas pat pacientiem ar kaula zudumu.",
+    "warranty": "All-on-4/5/6 gadījumiem attiecas mūsu mūža garantija implantiem un strukturāla garantija tiltam."
+  },
+  "emax-veneers": {
+    "eyebrow": "Estētiskā stomatoloģija",
+    "title": "E-max vinīri",
+    "tagline": "Plāni porcelāna vinīri ar minimālu zobu slīpējumu dabiski izskatošam rezultātam.",
+    "overview": [
+      "E-max (litija disilikāta) vinīriem ir stiklveida caurredzamība, kas imitē dabisko zobu emalju tuvāk nekā citi materiāli, īpaši parastā apgaismojumā. Materiāls paliek izturīgs pat izgatavots ļoti plāns, kas daudzos gadījumos ļauj minimālu zoba slīpējumu.",
+      "Ja jūsu zobi jau ir samērā labi izlīdzināti un galvenokārt vēlaties mainīt krāsu, aizvērt mazas spraugas vai nedaudz uzlabot formu, plānu E-max vinīru bieži var pielīmēt ar nelielu vai bez emaljas noņemšanas."
+    ],
+    "who_for": [
+      "Jums ir krāsojums, kas nereaģē uz balināšanu",
+      "Jums ir mazi atlūzumi, spraugas vai nedaudz nevienmērīga zoba mala",
+      "Vēlaties minimāli invazīvu risinājumu, kas saglabā pēc iespējas vairāk dabiskā zoba"
+    ],
+    "expect_steps": [
+      "Digitālā skenēšana un smaida dizaina plānošana",
+      "Minimāls zoba slīpējums, ja tas vispār nepieciešams",
+      "Vinīru frēzēšana no E-max bloka mūsu pašu laboratorijā",
+      "Uzlikšana un krāsas un sakodiena pārbaude"
+    ],
+    "why_us": "Mūsu iekšējā laboratorija ļauj ātri izgatavot E-max vinīrus ar precīzu krāsas saskaņošanu.",
+    "warranty": "E-max vinīriem attiecas mūsu mūža garantija pret materiāla defektiem."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantoloģija",
+    "title": "Zigomātiskie implanti",
+    "tagline": "Garāki implanti, kas nostiprināti vaigu kaulā pacientiem ar smagu augšējā žokļa kaula zudumu.",
+    "overview": [
+      "Zigomātiskie implanti ir garāki nekā standarta zobu implanti un tiek nostiprināti vaigu kaulā (zigomātiskajā kaulā), nevis žokļa kaulā. Tas risina situācijas, kad augšējā žokļa kaula zudums ir pārāk smags standarta implantiem, pat ar kaula palielināšanu.",
+      "Tā kā tie apiet žokļa kaula palielināšanas nepieciešamību, zigomātiskie implanti daudzos gadījumos var nodrošināt fiksētu zobu loku bez atsevišķām kaula veidošanas procedūrām un to ilgāka dzīšanas laika."
+    ],
+    "who_for": [
+      "Jums ir smags augšējā žokļa kaula zudums, kas izslēdz standarta implantus",
+      "Jums iepriekš teica, ka nepieciešama plaša kaula palielināšana",
+      "Vēlaties izvairīties no garā gaidīšanas laika, kas saistīts ar vairākām kaula procedūrām"
+    ],
+    "expect_steps": [
+      "Detalizēta 3D skenēšana, lai novērtētu vaigu kaulu un ieplānotu implanta novietojumu",
+      "Zigomātiskā implanta ievietošana anestēzijā",
+      "Pagaidu fiksēta tilta uzlikšana, bieži tajā pašā apmeklējumā",
+      "Galīgā pastāvīgā tilta uzlikšana pēc dzīšanas"
+    ],
+    "why_us": "Zigomātiskajiem implantiem nepieciešama specializēta ķirurģiska pieredze — mūsu komanda specializējas šajos progresīvajos gadījumos.",
+    "warranty": "Zigomātiskajiem implantiem attiecas mūsu mūža garantija."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restaurācijas",
+    "title": "Zobu tilts",
+    "tagline": "Trūkstošā zoba aizstājējs, kas balstīts uz blakus esošajiem zobiem, parasti pabeigts vienā apmeklējumā.",
+    "overview": [
+      "Zobu tilts aizstāj redzamo trūkstošo zobu, balstoties uz zobiem blakus spraugai, lai iegūtu atbalstu. Atšķirībā no implanta tam nav nepieciešama ķirurģiska operācija vai dzīšanas periods integrācijai kaulā, tāpēc tas parasti tiek pabeigts vienā apmeklējumā.",
+      "Ja blakus esošajiem zobiem jau ir nepieciešami kroņi (vecas plombas, kariesa vai iepriekšēja bojājuma dēļ), tilts ir efektīva izvēle, jo tas ārstē šos zobus un aizpilda spraugu vienā procesā."
+    ],
+    "who_for": [
+      "Jums trūkst viens vai vairāki zobi rindā",
+      "Blakus esošajiem zobiem jau ir nepieciešami kroņi vai tiem ir neliels bojājums",
+      "Vēlaties ātrāku risinājumu bez ķirurģiskas operācijas"
+    ],
+    "expect_steps": [
+      "Balsta zobu slīpēšana abās spraugas pusēs",
+      "Digitālā skenēšana tilta izstrādei",
+      "Tilta frēzēšana un krāsošana mūsu laboratorijā",
+      "Uzlikšana un sakodiena pārbaude"
+    ],
+    "why_us": "Mūsu komanda godīgi konsultēs, vai tilts vai implants ir piemērotāks jūsu konkrētajam gadījumam.",
+    "warranty": "Zobu tiltiem attiecas mūsu mūža garantija pret materiāla defektiem."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodontija",
+    "title": "Invisalign / caurspīdīgie breketi",
+    "tagline": "Caurspīdīgas, izņemamas kapas pakāpeniskai zobu iztaisnošanai bez metāla breketiem.",
+    "overview": [
+      "Caurspīdīgie breketi iztaisno zobus, izmantojot kontrolētu, pakāpenisku spiedienu, līdzīgi tradicionālajiem breketiem, bet izmantojot izņemamu caurspīdīgu kapu sēriju, nevis fiksētas metāla detaļas.",
+      "Izņemamība nozīmē, ka ēdat, tīrāt zobus un lietojat zobu diegu normāli, kas ir liela daļa iemesla, kāpēc pieaugušie pacienti tos bieži izvēlas dzīvesveida apsvērumu dēļ. Tomēr tie darbojas tikai tad, ja tiek nēsāti, kā noteikts, parasti 20–22 stundas dienā."
+    ],
+    "who_for": [
+      "Jums ir viegls līdz vidēji smags zobu sablīvējums, spraugas vai vienkāršas sakodiena problēmas",
+      "Vēlaties iespēju noņemt breketus ēšanas un zobu tīrīšanas laikā",
+      "Esat gatavs konsekventi nēsāt kapas atbilstoši receptei"
+    ],
+    "expect_steps": [
+      "3D skenēšana un sakodiena novērtējums, lai ieplānotu nepieciešamo zobu kustību",
+      "Caurspīdīgo kapu sērijas izgatavošana atbilstoši ārstēšanas plānam",
+      "Pakāpeniska kapu maiņa ik pēc 1–2 nedēļām",
+      "Kontroles apmeklējumi progresa novērošanai"
+    ],
+    "why_us": "3D plānošana precīzi parāda, kādas kustības nepieciešamas jūsu gadījumā, pirms ārstēšana vispār sākas.",
+    "warranty": "Pēc ārstēšanas pabeigšanas nodrošinām retences kapas rezultāta saglabāšanai."
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Esteettinen hammashoito",
+    "title": "Hollywood Smile",
+    "tagline": "Yläkaaren täydellinen uudelleensuunnittelu säihkyvää, symmetristä ja kameravalmista hymyä varten.",
+    "overview": [
+      "Hollywood Smile on näkyvien hampaiden, tavallisesti yläkaaren, täydellinen kosmeettinen muodonmuutos, joka yhdistää muodon, koon, asettelun ja sävyn yhdeksi harmoniseksi kokonaisuudeksi. Tavallisesti käytetään posliinikuorien tai zirkoniumkruunujen yhdistelmää, jotka suunnitellaan yhdessä sarjana niin, että jokainen hammas täydentää seuraavaa.",
+      "Tavoitteena ei ole yksi „täydellinen“ mallihymy — kasvojen muoto, huulten linja ja ihonsävy otetaan huomioon, jotta lopputulos näyttää parhaalta mahdolliselta juuri sinun hymylläsi, ei jonkun toisen."
+    ],
+    "who_for": [
+      "Sinulla on useita kosmeettisia huolia samanaikaisesti — värjäytymiä, lohkeamia, rakoja tai epätasaisia hampaita",
+      "Haluat koordinoidun lopputuloksen yhden hampaan korjaamisen sijaan kerrallaan",
+      "Sinulle sopii etuhampaiden kohtuullinen hionta"
+    ],
+    "expect_steps": [
+      "Digitaalinen skannaus ja valokuvat uuden hymyn suunnittelemiseksi 3D:nä ennen kuin mihinkään hampaaseen koskataan",
+      "Hampaiden minimaalinen hionta, jotta uusille kunnostuksille jää tilaa",
+      "Väliaikaiset kunnostukset, kun pysyviä kuoria tai kruunuja jyrsitään",
+      "Sovitus, sävyn täsmäys ja purennan säätö lopputulosta varten"
+    ],
+    "why_us": "Jokainen Hollywood Smile -tapaus suunnitellaan ensin digitaalisesti, joten näet lopputuloksen esikatselun jo ennen hoidon alkua. Zirkonium- ja posliinityöt kuuluvat elinikäisen takuumme piiriin.",
+    "warranty": "Hollywood Smile -hymysi zirkonium- ja posliinikunnostukset kuuluvat elinikäisen takuumme piiriin."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Kruunut ja kunnostukset",
+    "title": "Monoliittinen zirkonium",
+    "tagline": "Yhdestä massiivisesta zirkoniumlohkosta jyrsityt kruunut maksimaalista lujuutta varten ilman lohkeilua.",
+    "overview": [
+      "Monoliittiset zirkoniumkruunut jyrsitään yhdestä massiivisesta zirkoniumlohkosta ilman erillistä posliinikerrosta päällä. Tämä poistaa vanhempien zirkoniumkruunujen pääasiallisen heikkouden — posliinipäällysteen lohkeilun ajan myötä.",
+      "Nykyaikaiset monikerroksiset zirkoniumlohkot on värjätty niin, että läpinäkyvyys vaihtelee ienlinjasta purupintaan, mikä sulkee suurelta osin vanhan esteettisen eron lisäämättä erillistä, lohkeiluherkkää posliinikerrosta."
+    ],
+    "who_for": [
+      "Tarvitset kruunun tai sillan takahampaaseen, jossa pureskeluvoima on suurin",
+      "Narskutat tai purista hampaitasi ja tarvitset kestävämmän materiaalin",
+      "Haluat pitkäaikaisen ratkaisun minimaalisella lohkeilun riskillä"
+    ],
+    "expect_steps": [
+      "Hampaan digitaalinen skannaus valmistelun jälkeen",
+      "Kruunun jyrsintä massiivisesta zirkoniumlohkosta omassa laboratoriossamme",
+      "Värjäys ja lasitus luonnollisen hammassävyn täsmäämiseksi",
+      "Lopullinen sovitustarkistus ja sementointi"
+    ],
+    "why_us": "Sisäinen jyrsintälaboratoriomme mahdollistaa kruunun valmistumisen päivissä, ei viikoissa, tarkalla digitaalisella suunnittelulla.",
+    "warranty": "Monoliittiset zirkoniumkruunut kuuluvat elinikäisen takuumme piiriin materiaalivikoja vastaan."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologia",
+    "title": "Hammasimplantit",
+    "tagline": "Pysyvä titaaninen hammasjuuren korvike, johon kiinnitetään kruunu tai silta.",
+    "overview": [
+      "Hammasimplantti korvaa suoraan puuttuvan hammasjuuren seisten itsenäisesti leukaluussa naapurihampaista riippumatta. Titaanilla on epätavallinen ominaisuus — elävät luusolut kasvavat suoraan sen pinnalle, mitä kutsutaan osseointegraatioksi.",
+      "Tämä prosessi kestää useita kuukausia, joten implanttitapaukset jaetaan tavallisesti kahteen käyntiin: ensimmäinen skannausta, toimenpidettä ja väliaikaista kunnostusta varten, toinen kuukausia myöhemmin lopullista pysyvää kruunua varten."
+    ],
+    "who_for": [
+      "Sinulta puuttuu yksi tai useampi hammas ja haluat pysyvän ratkaisun",
+      "Haluat välttää muuten terveiden naapurihampaiden hionnan (kuten silta vaatisi)",
+      "Sinulla on riittävästi luumassaa tai olet valmis harkitsemaan luun lisäystä"
+    ],
+    "expect_steps": [
+      "3D-skannaus (CBCT) saatavilla olevan luumassan arvioimiseksi",
+      "Implantin asettaminen paikallispuudutuksessa",
+      "Paranemisjakso (osseointegraatio), tyypillisesti 3–6 kuukautta",
+      "Lopullisen kruunun asettaminen toisella käynnillä"
+    ],
+    "why_us": "Käytämme vakiintuneita, kliinisesti testattuja implanttimerkkejä pitkäaikaisilla tiedoilla ja täydellä takuulla.",
+    "warranty": "Hammasimplantit kuuluvat elinikäisen takuumme piiriin implantin vikaantumista vastaan."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Hoidon suunnittelu",
+    "title": "Digitaalinen hymysuunnittelu",
+    "tagline": "Suunnitteluvaihe, joka päättää, mitä hoitoja todella tarvitset, kasvojesi perusteella, ei mallin.",
+    "overview": [
+      "Digitaalinen hymysuunnittelu ei ole itsessään hoito — se on suunnitteluvaihe, joka päättää, mitä hoitoja (kuoret, kruunut, valkaisu, ikenien muotoilu) todella käytetään tavoitteesi saavuttamiseksi, kasvojesi, huultesi ja hampaidesi perusteella yleisen mallin sijaan.",
+      "Suusisäinen skannaus rakentaa 3D-mallin hampaistasi, ja suunnitteluohjelmisto asettaa ehdotetun uuden hymyn tämän mallin päälle — tässä vaiheessa näet suunnitelman todellisuudessa ja voit keskustella muutoksista ennen kuin mitään pysyvää tapahtuu."
+    ],
+    "who_for": [
+      "Harkitset useita kosmeettisia toimenpiteitä ja haluat nähdä lopputuloksen etukäteen",
+      "Haluat olla varma lopputuloksesta ennen pysyvän työn aloittamista",
+      "Sinulla on epätasaiset ikenet tai epäsymmetria, joka on ratkaistava ensin"
+    ],
+    "expect_steps": [
+      "Valokuvat ja video hymystäsi, huulten linjasta ja kasvojen suhteista",
+      "3D-skannaus ja digitaalinen esikatselu ehdotetusta uudesta hymystä",
+      "Sen määrittäminen, mitä hoitoja todella tarvitaan, hammas kerrallaan",
+      "Fyysinen mallinnos suussa monissa tapauksissa ennen pysyvää työtä"
+    ],
+    "why_us": "Hymysuunnittelu sisältyy kaikkiin suurempiin kosmeettisiin tapauksiin ilman lisäkustannuksia, joten tiedät tarkalleen, mitä odottaa.",
+    "warranty": "Digitaalinen suunnittelu on osa suoritetun hoidon lopullista takuuta."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Esteettinen hammashoito",
+    "title": "Hampaiden valkaisu",
+    "tagline": "Ammattimainen valkaisu huomattavasti vaaleampaa hymyä varten yhdellä käynnillä.",
+    "overview": [
+      "Ammattimainen hampaiden valkaisu käyttää voimakkaampaa valkaisugeeliä kuin käsikauppatuotteet, sovellettuna kontrolloidun valvonnan alla nopeampia ja tasaisempia tuloksia varten. Tavallisesti tehdään yhdellä käynnillä.",
+      "Jos suunnittelet myös kuoria tai kruunuja, valkaisun tulisi tapahtua ennen niiden valmistusta — ei sen jälkeen — jotta keraaminen työ täsmää sävyltään valkaistuihin luonnollisiin hampaisiisi."
+    ],
+    "who_for": [
+      "Hampaasi ovat terveet mutta värjäytyneet kahvista, teestä, viinistä tai tupakoinnista",
+      "Haluat nopean kosmeettisen tuloksen ilman hampaiden hiontaa",
+      "Suunnittelet yhdistämistä muihin kosmeettisiin toimenpiteisiin (tee valkaisu ensin)"
+    ],
+    "expect_steps": [
+      "Hampaiden ja ikenien tarkastus soveltuvuuden vahvistamiseksi",
+      "Ikenien suojaus ja valkaisugeelin levitys",
+      "Geelin aktivointi, tavallisesti useassa syklissä",
+      "Lopputuloksen arviointi ja suositukset sävyn ylläpitämiseksi"
+    ],
+    "why_us": "Käytämme ammattimaisia valkaisujärjestelmiä ennustettavilla, tasaisilla tuloksilla yhdellä käynnillä.",
+    "warranty": "Annamme suosituksia valkaisun jälkeiseen hoitoon tuloksen pidentämiseksi."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantologia",
+    "title": "Ruuvikiinnitteinen okklusaalinen järjestelmä",
+    "tagline": "Implantteihin ruuvattu kunnostus, jonka hammaslääkäri voi tarvittaessa helposti irrottaa.",
+    "overview": [
+      "Ruuvikiinnitteinen okklusaalinen järjestelmä kiinnittää kruunun tai sillan implanttiin ruuvilla sementöinnin sijaan. Tämä mahdollistaa hammaslääkärin helposti irrottaa kunnostuksen tarkastusta tai korjausta varten tarvittaessa vahingoittamatta itse kunnostusta.",
+      "Tätä lähestymistapaa suositaan usein suuremmissa tapauksissa, kuten täysissä kaarissa, joissa helppo pääsy tulevaa huoltoa varten on arvokasta."
+    ],
+    "who_for": [
+      "Läpikäyt laajempaa implanttityötä, kuten täyden kaaren",
+      "Haluat helpomman tulevan huollon tai korjattavuuden",
+      "Hammaslääkärisi suosittelee ruuvikiinnitystä sementoinnin sijaan tapaustasi varten"
+    ],
+    "expect_steps": [
+      "Implantin asettaminen ja paraneminen (osseointegraatio)",
+      "Digitaalinen skannaus kunnostuksen suunnittelemiseksi",
+      "Kunnostuksen valmistus ruuvien pääsyaukoilla",
+      "Kunnostuksen ruuvaus ja pääsyaukkojen sulkeminen"
+    ],
+    "why_us": "Tarjoamme sekä ruuvi- että sementoituja vaihtoehtoja ja suosittelemme sitä, joka sopii parhaiten tapauksesi.",
+    "warranty": "Ruuvikiinnitteinen okklusaalinen järjestelmä kuuluu elinikäisen takuumme piiriin."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontologia",
+    "title": "Gingivektomia",
+    "tagline": "Ikenien muotoilu liiallisen tai epätasaisen ikenkudoksen korjaamiseksi.",
+    "overview": [
+      "Gingivektomia poistaa ylimääräistä ikenkudosta paljastaakseen enemmän luonnollista hampaan korkeutta, joko kosmeettisista syistä („ikenehymy“) tai koska ylimääräinen kudos vaikeuttaa hampaiden kunnollista puhdistamista.",
+      "Toimenpide on usein vaihe ennen kuoria tai kruunuja, jotta ensin luodaan symmetrinen ienlinja, jolla keraaminen työ näyttää sitten luonnolliselta."
+    ],
+    "who_for": [
+      "Näytät hymyillessäsi huomattavasti enemmän ientä kuin hammasta",
+      "Ienlinjasi on epätasainen etuhampaiden kohdalla",
+      "Ylimääräinen ienkudos vaikeuttaa hampaiden tehokasta puhdistusta"
+    ],
+    "expect_steps": [
+      "Ientasojen arviointi ja halutun ääriviivan suunnittelu",
+      "Paikallispuudutus",
+      "Ylimääräisen ienkudoksen poisto tarkkuusvälineillä",
+      "Lyhyt paranemisjakso ennen mahdollista jatkokosmeettista työtä"
+    ],
+    "why_us": "Ikenien arviointi on osa jokaista asianmukaista digitaalista hymysuunnittelusuunnitelmaa, joten se käsitellään osana kokonaissuunnitelmaa, ei erillisenä.",
+    "warranty": "Annamme hoito-ohjeet toimenpiteen jälkeen kunnollisen paranemisen varmistamiseksi."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantologia",
+    "title": "Poskiontelon nosto",
+    "tagline": "Riittävän luukorkeuden luominen yläleuan poskiontelon alle implantin asettamista varten.",
+    "overview": [
+      "Yläleuan takaosa sijaitsee lähellä poskionteloita, ja luukato siellä tarkoittaa toisinaan, ettei ontelon alla ole riittävästi korkeutta implanttia varten. Poskiontelon nosto nostaa varovasti ontelon pohjaa ja lisää sen alle luuntäyteainetta tämän korkeuden luomiseksi.",
+      "Tämä on erityinen, hyvin vakiintunut ratkaisu juuri tälle alueelle, joka lisää paranemisaikaa kokonaissuunnitelmaan, mutta se on implantologian rutiininomainen, ei harvinainen poikkeus."
+    ],
+    "who_for": [
+      "Tarvitset implantin yläleuan takaosaan mutta sinulta puuttuu riittävä luukorkeus",
+      "3D-skannaus osoitti riittämättömän etäisyyden poskionteloon",
+      "Haluat varmistaa implantin pitkäaikaisen vakauden tällä haastavalla alueella"
+    ],
+    "expect_steps": [
+      "3D-skannaus luukorkeuden arvioimiseksi ontelon alla",
+      "Ontelon kalvon varovainen nosto",
+      "Luuntäyteaineen sijoitus",
+      "Paranemisaika ennen implantin asettamista (tai samanaikaisesti)"
+    ],
+    "why_us": "Tiimillämme on laaja kokemus poskiontelon nostosta osana yläleuan implantologiatapausten vakiokäytäntöä.",
+    "warranty": "Poskiontelon nosto kuuluu implantin yleistakuun piiriin."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontia",
+    "title": "Juurihoito",
+    "tagline": "Tulehtuneen ytimen poisto ja hampaan tiivistys, tavallisesti verrattavissa paikkauksen tekemiseen.",
+    "overview": [
+      "Juurihoito poistaa tulehtuneen hammasytimen hampaan sisältä, kanava puhdistetaan, muotoillaan ja desinfioidaan, sitten tiivistetään biologisesti yhteensopivalla materiaalilla.",
+      "Epämukavuus, jonka ihmiset yhdistävät tähän toimenpiteeseen, johtuu tyypillisesti itse tulehduksesta ennen hoitoa — ei itse toimenpiteestä, joka tehdään paikallispuudutuksessa ja on yleisesti verrattavissa paikkauksen tekemiseen."
+    ],
+    "who_for": [
+      "Sinulla on hammassärkyä tai herkkyyttä, joka viittaa ydintulehdukseen",
+      "Röntgen osoitti tulehduksen hampaan juuren luona",
+      "Haluat pelastaa hampaan poiston sijaan"
+    ],
+    "expect_steps": [
+      "Diagnoosi ja röntgen tulehduksen laajuuden vahvistamiseksi",
+      "Paikallispuudutus",
+      "Tulehtuneen kudoksen poisto ja kanavan puhdistus",
+      "Hampaan tiivistys, ja tavallisesti suojaava kruunu sen jälkeen"
+    ],
+    "why_us": "Käytämme nykyaikaisia pyöriviä välineitä ja desinfiointiprotokollia perusteellista ja mukavaa hoitoa varten.",
+    "warranty": "Juurihoito kuuluu takuumme piiriin uudelleentulehdusta vastaan."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantologia",
+    "title": "All-on-4, All-on-5 ja All-on-6",
+    "tagline": "Täysin kiinteä hammaskaari implanteilla, implanttien määrä mukautettuna anatomiaasi.",
+    "overview": [
+      "All-on-4, All-on-5 ja All-on-6 käyttävät samaa perusideaa — täysi kiinteiden hampaiden kaari, jota tukee pieni määrä leukaan asetettuja implantteja. Numero osoittaa, kuinka monta implanttia tukee kyseistä kaarta.",
+      "Päätös siitä, kuinka monta implanttia käytetään, riippuu yleensä luusta: 3D-skannaus näyttää, kuinka paljon luuta on saatavilla, ja siitä hammaslääkäri voi rehellisesti kertoa, kestävätkö neljä implanttia pitkällä aikavälillä vai parantaisiko viides tai kuudes tulosta merkittävästi."
+    ],
+    "who_for": [
+      "Sinulta puuttuu suurin osa tai kaikki hampaat yhdessä kaaressa",
+      "Haluat kiinteän, ei irrotettavan ratkaisun",
+      "Sinulla on riittävästi luuta tai olet valmis harkitsemaan vaihtoehtoja, kuten kallistettua implanttien sijoittelua"
+    ],
+    "expect_steps": [
+      "3D-skannaus luumassan arvioimiseksi ja implanttien määrän ja sijainnin suunnittelemiseksi",
+      "Implanttien asettaminen ja väliaikaisen kiinteän sillan sovittaminen samalla käynnillä",
+      "Paranemisjakso (osseointegraatio), tyypillisesti 4–6 kuukautta",
+      "Lopullisen pysyvän sillan sovittaminen toisella käynnillä"
+    ],
+    "why_us": "Digitaalinen suunnittelu ja implanttien kallistus mahdollistavat usein luun lisäyksen välttämisen jopa luukatoisilla potilailla.",
+    "warranty": "All-on-4/5/6-tapaukset kuuluvat elinikäisen takuumme piiriin implanteille ja rakenteellisen takuun piiriin sillalle."
+  },
+  "emax-veneers": {
+    "eyebrow": "Esteettinen hammashoito",
+    "title": "E-max-kuoret",
+    "tagline": "Ohuet posliinikuoret minimaalisella hampaiden hionnalla luonnolliselta näyttävää lopputulosta varten.",
+    "overview": [
+      "E-max (litiumdisilikaatti) -kuorilla on lasimainen läpinäkyvyys, joka jäljittelee luonnollista hammaskiillettä läheisemmin kuin muut materiaalit, erityisesti normaalissa valossa. Materiaali pysyy vahvana, vaikka se valmistettaisiin erittäin ohueksi, mikä mahdollistaa minimaalisen hampaan hionnan monissa tapauksissa.",
+      "Jos hampaasi ovat jo kohtuullisen hyvin linjassa ja haluat pääasiassa muuttaa väriä, sulkea pieniä rakoja tai hienosäätää muotoa hieman, ohut E-max-kuori voidaan usein liimata vähäisellä tai olemattomalla kiilteen poistolla."
+    ],
+    "who_for": [
+      "Sinulla on värjäytymä, joka ei reagoi valkaisuun",
+      "Sinulla on pieniä lohkeamia, rakoja tai hieman epätasainen hampaan reuna",
+      "Haluat minimaalisesti invasiivisen ratkaisun, joka säilyttää mahdollisimman paljon luonnollista hammasta"
+    ],
+    "expect_steps": [
+      "Digitaalinen skannaus ja hymysuunnittelun suunnittelu",
+      "Minimaalinen hampaan hionta, jos lainkaan tarpeen",
+      "Kuorien jyrsintä E-max-lohkosta omassa laboratoriossamme",
+      "Sovitus sekä värin ja purennan tarkistus"
+    ],
+    "why_us": "Sisäinen laboratoriomme mahdollistaa E-max-kuorien nopean valmistuksen tarkalla värintäsmäyksellä.",
+    "warranty": "E-max-kuoret kuuluvat elinikäisen takuumme piiriin materiaalivikoja vastaan."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantologia",
+    "title": "Tsygomaattiset implantit",
+    "tagline": "Pidemmät poskiluuhun ankkuroidut implantit potilaille, joilla on vaikea yläleuan luukato.",
+    "overview": [
+      "Tsygomaattiset implantit ovat pidempiä kuin tavalliset hammasimplantit ja ne ankkuroidaan poskiluuhun (tsygomaattiseen luuhun) leukaluun sijaan. Tämä ratkaisee tilanteet, joissa yläleuan luukato on liian vakava tavallisille implanteille, jopa luun lisäyksen kanssa.",
+      "Koska ne ohittavat leukaluun lisäyksen tarpeen, tsygomaattiset implantit voivat monissa tapauksissa mahdollistaa kiinteän hammaskaaren ilman erillisiä luunrakennustoimenpiteitä ja niiden pidempää paranemisaikaa."
+    ],
+    "who_for": [
+      "Sinulla on vaikea yläleuan luukato, joka sulkee pois tavalliset implantit",
+      "Sinulle on aiemmin kerrottu, että tarvitset laajaa luun lisäystä",
+      "Haluat välttää useisiin luutoimenpiteisiin liittyviä pitkiä odotusaikoja"
+    ],
+    "expect_steps": [
+      "Yksityiskohtainen 3D-skannaus poskiluun arvioimiseksi ja implantin sijainnin suunnittelemiseksi",
+      "Tsygomaattisen implantin asettaminen puudutuksessa",
+      "Väliaikaisen kiinteän sillan sovittaminen, usein samalla käynnillä",
+      "Lopullisen pysyvän sillan sovittaminen paranemisen jälkeen"
+    ],
+    "why_us": "Tsygomaattiset implantit vaativat erikoistunutta kirurgista kokemusta — tiimimme on erikoistunut näihin edistyneisiin tapauksiin.",
+    "warranty": "Tsygomaattiset implantit kuuluvat elinikäisen takuumme piiriin."
+  },
+  "dental-bridge": {
+    "eyebrow": "Kunnostukset",
+    "title": "Hammassilta",
+    "tagline": "Puuttuvan hampaan korvike, joka tukeutuu naapurihampaisiin, tavallisesti valmis yhdellä käynnillä.",
+    "overview": [
+      "Hammassilta korvaa näkyvän puuttuvan hampaan tukeutumalla raon vieressä oleviin hampaisiin tukea varten. Toisin kuin implantti, se ei vaadi leikkausta tai paranemisjaksoa luuintegraatiota varten, joten se valmistuu tavallisesti yhdellä käynnillä.",
+      "Jos naapurihampaat tarvitsevat jo kruunuja (vanhan paikkauksen, reiän tai aiemman vaurion vuoksi), silta on tehokas valinta, koska se hoitaa nämä hampaat ja täyttää raon yhdessä prosessissa."
+    ],
+    "who_for": [
+      "Sinulta puuttuu yksi tai useampi hammas peräkkäin",
+      "Naapurihampaat tarvitsevat jo kruunuja tai niissä on pieniä vaurioita",
+      "Haluat nopeamman ratkaisun ilman leikkausta"
+    ],
+    "expect_steps": [
+      "Tukihampaiden hionta raon molemmilla puolilla",
+      "Digitaalinen skannaus sillan suunnittelemiseksi",
+      "Sillan jyrsintä ja värjäys laboratoriossamme",
+      "Sovitus ja purennan tarkistus"
+    ],
+    "why_us": "Tiimimme antaa rehellisen neuvon siitä, sopiiko silta vai implantti paremmin tapaukseesi.",
+    "warranty": "Hammassillat kuuluvat elinikäisen takuumme piiriin materiaalivikoja vastaan."
+  },
+  "invisalign": {
+    "eyebrow": "Oikomishoito",
+    "title": "Invisalign / läpinäkyvät oikomiskiskot",
+    "tagline": "Läpinäkyvät, irrotettavat kiskot hampaiden asteittaiseen suoristamiseen ilman metallirautoja.",
+    "overview": [
+      "Läpinäkyvät oikomiskiskot suoristavat hampaita kontrolloidulla, asteittaisella paineella, samalla tavalla kuin perinteiset raudat, mutta irrotettavien läpinäkyvien kiskojen sarjan avulla kiinteiden metalliosien sijaan.",
+      "Irrotettavuus tarkoittaa, että syöt, harjaat hampaasi ja käytät hammaslankaa normaalisti, mikä on suuri osa syytä, miksi aikuiset potilaat suosivat niitä elämäntapasyistä. Ne toimivat kuitenkin vain, jos niitä käytetään ohjeiden mukaisesti, tyypillisesti 20–22 tuntia päivässä."
+    ],
+    "who_for": [
+      "Sinulla on lievää tai kohtalaista ahtautta, rakoja tai yksinkertaisia purentaongelmia",
+      "Haluat mahdollisuuden ottaa raudat pois syömisen ja hampaiden harjauksen ajaksi",
+      "Olet valmis käyttämään kiskoja johdonmukaisesti ohjeiden mukaan"
+    ],
+    "expect_steps": [
+      "3D-skannaus ja purennan arviointi tarvittavan hampaiden liikkeen suunnittelemiseksi",
+      "Läpinäkyvien kiskojen sarjan valmistus hoitosuunnitelman mukaisesti",
+      "Kiskojen asteittainen vaihto 1–2 viikon välein",
+      "Tarkastuskäynnit edistymisen seuraamiseksi"
+    ],
+    "why_us": "3D-suunnittelu näyttää tarkalleen, mitä liikkeitä tapauksesi tarvitsee, jo ennen hoidon alkua.",
+    "warranty": "Tarjoamme retentiokiskot hoidon päätyttyä tuloksen ylläpitämiseksi."
+  }
+}

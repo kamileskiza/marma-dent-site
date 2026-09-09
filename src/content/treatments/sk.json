@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Kozmetická stomatológia",
+    "title": "Hollywood Smile",
+    "tagline": "Kompletný redizajn horného oblúka pre žiarivý, symetrický úsmev pripravený na kameru.",
+    "overview": [
+      "Hollywood Smile je kompletná kozmetická premena viditeľných zubov, zvyčajne horného oblúka, ktorá spája tvar, veľkosť, zarovnanie a odtieň do jedného harmonického výsledku. Zvyčajne využíva kombináciu porcelánových fazetiek alebo zirkónových koruniek, naplánovaných spoločne ako sada, aby každý zub dopĺňal ten ďalší.",
+      "Cieľom nie je jediný „dokonalý“ šablónový úsmev — zohľadňuje sa tvar vašej tváre, línia pier a odtieň pleti, takže výsledok vyzerá ako váš najlepší možný úsmev, nie úsmev niekoho iného."
+    ],
+    "who_for": [
+      "Máte viac kozmetických problémov naraz — sfarbenie, odlomenia, medzery alebo nerovné zuby",
+      "Chcete koordinovaný výsledok namiesto opravy jedného zuba za druhým",
+      "Ste v pohode s miernym brúsením predných zubov"
+    ],
+    "expect_steps": [
+      "Digitálne skenovanie a fotografie na navrhnutie nového úsmevu v 3D ešte predtým, ako sa dotkneme akéhokoľvek zuba",
+      "Minimálne brúsenie zubov na vytvorenie priestoru pre nové náhrady",
+      "Dočasné náhrady, kým sa frézujú vaše trvalé fazetky alebo korunky",
+      "Nasadenie, prispôsobenie odtieňa a úprava skusu pre konečný výsledok"
+    ],
+    "why_us": "Každý prípad Hollywood Smile je najskôr navrhnutý digitálne, takže si môžete pozrieť náhľad výsledku ešte pred začatím liečby. Zirkónové a porcelánové práce sú kryté našou doživotnou zárukou.",
+    "warranty": "Zirkónové a porcelánové náhrady vo vašom Hollywood Smile sú kryté našou doživotnou zárukou."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Korunky a náhrady",
+    "title": "Monolitický zirkón",
+    "tagline": "Korunky frézované z jedného pevného bloku zirkónu pre maximálnu pevnosť bez odlupovania.",
+    "overview": [
+      "Monolitické zirkónové korunky sú vyfrézované z jediného pevného bloku zirkónu, bez samostatnej porcelánovej vrstvy navrchu. To odstraňuje hlavnú slabinu starších zirkónových koruniek — odlupovanie porcelánového obkladu časom.",
+      "Moderné viacvrstvové zirkónové bloky sú zafarbené tak, aby sa priehľadnosť menila od línie ďasna po okluzálnu hranu, čím sa do veľkej miery uzatvára staršia estetická medzera bez pridania krehkej porcelánovej vrstvy."
+    ],
+    "who_for": [
+      "Potrebujete korunku alebo mostík na zadnom zube, kde je žuvacia sila najvyššia",
+      "Škrípete alebo zatínate zuby a potrebujete odolnejší materiál",
+      "Chcete dlhodobé riešenie s minimálnym rizikom odlomenia"
+    ],
+    "expect_steps": [
+      "Digitálne skenovanie zuba po príprave",
+      "Frézovanie korunky z pevného zirkónového bloku vo vlastnom laboratóriu",
+      "Farbenie a glazovanie pre zhodu s prirodzeným odtieňom zubov",
+      "Finálna kontrola nasadenia a cementovanie"
+    ],
+    "why_us": "Interné frézovacie laboratórium nám umožňuje dokončiť korunku počas dní, nie týždňov, s presným digitálnym plánovaním.",
+    "warranty": "Monolitické zirkónové korunky sú kryté našou doživotnou zárukou proti zlyhaniu materiálu."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantológia",
+    "title": "Zubné implantáty",
+    "tagline": "Trvalá náhrada koreňa zuba z titánu, na ktorú sa pripevňuje korunka alebo mostík.",
+    "overview": [
+      "Zubný implantát priamo nahrádza chýbajúci koreň zuba a stojí samostatne v čeľustnej kosti, bez závislosti od susedných zubov. Titán má nezvyčajnú vlastnosť — živé kostné bunky naň priamo narastajú, čo sa nazýva osseointegrácia.",
+      "Tento proces trvá niekoľko mesiacov, preto sa implantátové prípady zvyčajne rozdeľujú do dvoch návštev: prvá na sken, zákrok a dočasnú náhradu, druhá o mesiace neskôr na finálnu trvalú korunku."
+    ],
+    "who_for": [
+      "Chýba vám jeden alebo viac zubov a chcete trvalé riešenie",
+      "Chcete sa vyhnúť brúseniu susedných zdravých zubov (ako by vyžadoval mostík)",
+      "Máte dostatok kostnej hmoty alebo ste ochotní zvážiť augmentáciu"
+    ],
+    "expect_steps": [
+      "3D sken (CBCT) na posúdenie dostupnej kostnej hmoty",
+      "Zavedenie implantátu pod lokálnou anestézou",
+      "Obdobie hojenia (osseointegrácia), zvyčajne 3–6 mesiacov",
+      "Nasadenie finálnej korunky pri druhej návšteve"
+    ],
+    "why_us": "Používame zavedené, klinicky overené značky implantátov s dlhodobými údajmi a plnou zárukou.",
+    "warranty": "Zubné implantáty sú kryté našou doživotnou zárukou proti zlyhaniu implantátu."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Plánovanie liečby",
+    "title": "Digitálny dizajn úsmevu",
+    "tagline": "Fáza plánovania, ktorá rozhoduje, aké liečby skutočne potrebujete, na základe vašej tváre, nie šablóny.",
+    "overview": [
+      "Digitálny dizajn úsmevu nie je sám osebe liečbou — je to plánovacia fáza, ktorá rozhoduje, aké liečby (fazetky, korunky, bielenie, úprava ďasien) budú skutočne použité na dosiahnutie vášho cieľa, na základe vašej tváre, pier a zubov, nie všeobecnej šablóny.",
+      "Intraorálne skenovanie vytvorí 3D model vašich zubov a návrhový softvér na tento model premietne navrhovaný nový úsmev — v tomto bode môžete plán skutočne vidieť a prebrať úpravy skôr, než dôjde k čomukoľvek trvalému."
+    ],
+    "who_for": [
+      "Zvažujete viac kozmetických zákrokov a chcete vidieť výsledok vopred",
+      "Chcete si byť istí výsledkom pred začatím akejkoľvek trvalej práce",
+      "Máte nerovné ďasná alebo asymetriu, ktorú treba najskôr vyriešiť"
+    ],
+    "expect_steps": [
+      "Fotografie a video vášho úsmevu, línie pier a proporcií tváre",
+      "3D sken a digitálny náhľad navrhovaného nového úsmevu",
+      "Určenie, aké liečby sú skutočne potrebné, zub po zube",
+      "Fyzická makreta v ústach v mnohých prípadoch pred trvalou prácou"
+    ],
+    "why_us": "Dizajn úsmevu je zahrnutý pri všetkých väčších kozmetických prípadoch zdarma, takže viete presne, čo očakávať.",
+    "warranty": "Digitálne plánovanie je súčasťou konečnej záruky na vykonanú liečbu."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Kozmetická stomatológia",
+    "title": "Bielenie zubov",
+    "tagline": "Profesionálne bielenie pre citeľne svetlejší úsmev počas jednej návštevy.",
+    "overview": [
+      "Profesionálne bielenie zubov používa koncentrovanejší bieliaci gél ako voľnopredajné produkty, aplikovaný pod kontrolovaným dohľadom pre rýchlejšie a rovnomernejšie výsledky. Typicky sa vykonáva v jednej návšteve.",
+      "Ak plánujete aj fazetky alebo korunky, bielenie by malo prebehnúť pred ich výrobou — nie po — aby keramická práca zodpovedala odtieňom vašim vybieleným prirodzeným zubom."
+    ],
+    "who_for": [
+      "Vaše zuby sú zdravé, ale sfarbené kávou, čajom, vínom alebo fajčením",
+      "Chcete rýchly kozmetický výsledok bez brúsenia zubov",
+      "Plánujete kombinovať s ďalšími kozmetickými zákrokmi (urobte bielenie ako prvé)"
+    ],
+    "expect_steps": [
+      "Kontrola zubov a ďasien na potvrdenie vhodnosti",
+      "Ochrana ďasien a aplikácia bieliaceho gélu",
+      "Aktivácia gélu, zvyčajne vo viacerých cykloch",
+      "Vyhodnotenie výsledku a odporúčania pre udržanie odtieňa"
+    ],
+    "why_us": "Používame profesionálne bieliace systémy s predvídateľnými, rovnomernými výsledkami počas jednej návštevy.",
+    "warranty": "Poskytujeme odporúčania pre starostlivosť po bielení na predĺženie výsledku."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantológia",
+    "title": "Skrutkovaný okluzálny systém",
+    "tagline": "Náhrada priskrutkovaná k implantátom, ktorú môže stomatológ v prípade potreby ľahko odstrániť.",
+    "overview": [
+      "Skrutkovaný okluzálny systém pripevňuje korunku alebo mostík k implantátu pomocou skrutky namiesto cementovania. To umožňuje stomatológovi náhradu v prípade potreby ľahko odobrať na kontrolu alebo opravu bez poškodenia samotnej náhrady.",
+      "Tento prístup sa často preferuje pri väčších prípadoch, ako sú plné oblúky, kde je jednoduchý prístup pre budúcu údržbu cenný."
+    ],
+    "who_for": [
+      "Podstupujete rozsiahlejšiu implantátovú prácu, ako je plný oblúk",
+      "Chcete jednoduchšiu budúcu údržbu alebo opraviteľnosť",
+      "Váš stomatológ odporúča skrutkovanú namiesto cementovanej fixácie pre váš konkrétny prípad"
+    ],
+    "expect_steps": [
+      "Zavedenie implantátu a hojenie (osseointegrácia)",
+      "Digitálne skenovanie na navrhnutie náhrady",
+      "Výroba náhrady s prístupovými otvormi pre skrutky",
+      "Priskrutkovanie náhrady a uzatvorenie prístupových otvorov"
+    ],
+    "why_us": "Ponúkame skrutkované aj cementované možnosti a odporučíme tú, ktorá najlepšie zodpovedá vášmu konkrétnemu prípadu.",
+    "warranty": "Skrutkovaný okluzálny systém je krytý našou doživotnou zárukou."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontológia",
+    "title": "Gingivektómia",
+    "tagline": "Úprava tvaru ďasien na vyriešenie nadmerného alebo nerovnomerného ďasnového tkaniva.",
+    "overview": [
+      "Gingivektómia odstraňuje prebytočné ďasnové tkanivo, aby odhalila viac prirodzenej výšky zuba, či už z kozmetických dôvodov („ďasnový úsmev“), alebo pretože prebytočné tkanivo sťažuje riadne čistenie zubov.",
+      "Zákrok je často krokom pred fazetkami alebo korunkami, aby sa najskôr vytvorila symetrická línia ďasien, na ktorej potom keramická práca vyzerá prirodzene."
+    ],
+    "who_for": [
+      "Pri úsmeve ukazujete citeľne viac ďasna než zuba",
+      "Vaša línia ďasien je pozdĺž predných zubov nerovnomerná",
+      "Prebytočné tkanivo ďasien sťažuje efektívne čistenie zubov"
+    ],
+    "expect_steps": [
+      "Vyhodnotenie úrovní ďasien a plánovanie požadovaného obrysu",
+      "Lokálna anestézia",
+      "Odstránenie prebytočného tkaniva ďasien pomocou presných nástrojov",
+      "Krátka doba hojenia pred akoukoľvek nadväzujúcou kozmetickou prácou"
+    ],
+    "why_us": "Hodnotenie ďasien je súčasťou každého riadneho plánu digitálneho dizajnu úsmevu, takže sa rieši v rámci celkového plánu, nie izolovane.",
+    "warranty": "Poskytujeme pokyny pre starostlivosť po zákroku na zabezpečenie správneho hojenia."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantológia",
+    "title": "Zdvihnutie čeľustnej dutiny",
+    "tagline": "Vytvorenie dostatočnej výšky kosti pod hornou čeľustnou dutinou pre umiestnenie implantátu.",
+    "overview": [
+      "Horná zadná čeľusť sa nachádza blízko čeľustných dutín, a úbytok kosti tam niekedy znamená, že pod dutinou nie je dostatok výšky pre implantát. Zdvihnutie čeľustnej dutiny jemne zdvihne dno dutiny a pod ňu pridá augmentačný materiál, aby sa táto výška vytvorila.",
+      "Toto je konkrétne, dobre zavedené riešenie pre túto konkrétnu oblasť, pridávajúce čas hojenia k celkovému plánu, ale je to rutinná súčasť implantológie, nie výnimka."
+    ],
+    "who_for": [
+      "Potrebujete implantát v hornej zadnej čeľusti, ale nemáte dostatok výšky kosti",
+      "3D sken ukázal nedostatočnú vzdialenosť k čeľustnej dutine",
+      "Chcete zabezpečiť dlhodobú stabilitu implantátu v tejto náročnej oblasti"
+    ],
+    "expect_steps": [
+      "3D sken na posúdenie výšky kosti pod dutinou",
+      "Jemné zdvihnutie membrány dutiny",
+      "Umiestnenie augmentačného materiálu",
+      "Doba hojenia pred (alebo súčasne so) zavedením implantátu"
+    ],
+    "why_us": "Náš tím má rozsiahle skúsenosti so zdvíhaním čeľustnej dutiny ako štandardnou súčasťou implantologických prípadov v hornej čeľusti.",
+    "warranty": "Zdvihnutie čeľustnej dutiny je kryté v rámci celkovej záruky na implantát."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodoncia",
+    "title": "Liečba koreňového kanálika",
+    "tagline": "Odstránenie infikovanej drene a utesnenie zuba, zvyčajne porovnateľné s výplňou.",
+    "overview": [
+      "Liečba koreňového kanálika odstraňuje infikovanú zubnú dreň zvnútra zuba, kanálik sa vyčistí, tvaruje a dezinfikuje a potom sa utesní biokompatibilným materiálom.",
+      "Nepohodlie, ktoré si ľudia spájajú s týmto zákrokom, zvyčajne pochádza zo samotnej infekcie pred liečbou, nie zo samotného zákroku, ktorý sa vykonáva pod lokálnou anestézou a je vo všeobecnosti porovnateľný s výplňou."
+    ],
+    "who_for": [
+      "Máte bolesť zuba alebo citlivosť naznačujúcu infekciu drene",
+      "Röntgen ukázal infekciu pri koreni zuba",
+      "Chcete zub zachrániť namiesto extrakcie"
+    ],
+    "expect_steps": [
+      "Diagnóza a röntgen na potvrdenie rozsahu infekcie",
+      "Lokálna anestézia",
+      "Odstránenie infikovaného tkaniva a čistenie kanálika",
+      "Utesnenie zuba a zvyčajne ochranná korunka potom"
+    ],
+    "why_us": "Používame moderné rotačné nástroje a dezinfekčné protokoly pre dôkladnú a pohodlnú liečbu.",
+    "warranty": "Liečba koreňového kanálika je krytá našou zárukou proti reinfekcii."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantológia",
+    "title": "All-on-4, All-on-5 a All-on-6",
+    "tagline": "Kompletný pevný oblúk zubov na implantátoch, počet implantátov je prispôsobený vašej anatómii.",
+    "overview": [
+      "All-on-4, All-on-5 a All-on-6 používajú rovnakú základnú myšlienku — kompletný oblúk pevných zubov podopretý malým počtom implantátov umiestnených v čeľusti. Číslo udáva, koľko implantátov daný oblúk podopiera.",
+      "Rozhodnutie, koľko implantátov použiť, závisí od kosti: 3D sken ukáže, koľko kosti je k dispozícii, a odtiaľ stomatológ môže poctivo povedať, či štyri implantáty vydržia dlhodobo, alebo či by piaty či šiesty výsledok výrazne zlepšili."
+    ],
+    "who_for": [
+      "Chýba vám väčšina alebo všetky zuby v jednom oblúku",
+      "Chcete pevné, nie snímateľné riešenie",
+      "Máte dostatok kosti alebo ste ochotní zvážiť alternatívy, ako je naklonené umiestnenie implantátov"
+    ],
+    "expect_steps": [
+      "3D sken na posúdenie kostnej hmoty a naplánovanie počtu a umiestnenia implantátov",
+      "Zavedenie implantátov a nasadenie dočasného pevného mostíka v tej istej návšteve",
+      "Obdobie hojenia (osseointegrácia), zvyčajne 4–6 mesiacov",
+      "Nasadenie finálneho trvalého mostíka pri druhej návšteve"
+    ],
+    "why_us": "Digitálne plánovanie a naklonenie implantátov nám umožňuje často sa vyhnúť kostným augmentáciám aj u pacientov s úbytkom kosti.",
+    "warranty": "All-on-4/5/6 prípady sú kryté našou doživotnou zárukou na implantáty a štrukturálnou zárukou na mostík."
+  },
+  "emax-veneers": {
+    "eyebrow": "Kozmetická stomatológia",
+    "title": "Fazetky E-max",
+    "tagline": "Tenké porcelánové fazetky s minimálnym brúsením zubov pre prirodzene vyzerajúci výsledok.",
+    "overview": [
+      "Fazetky E-max (disilikát lítia) majú sklenú priehľadnosť, ktorá napodobňuje prirodzenú zubnú sklovinu bližšie ako iné materiály, najmä pri bežnom osvetlení. Materiál zostáva pevný aj pri veľmi tenkom vyhotovení, čo umožňuje minimálne brúsenie zuba v mnohých prípadoch.",
+      "Ak sú vaše zuby už rozumne dobre zarovnané a chcete predovšetkým zmeniť farbu, uzavrieť malé medzery alebo mierne zjemniť tvar, možno tenkú fazetku E-max často nalepiť s malým alebo žiadnym odstránením skloviny."
+    ],
+    "who_for": [
+      "Máte sfarbenie, ktoré nereaguje na bielenie",
+      "Máte malé odlomenie, medzery alebo mierne nerovný okraj zuba",
+      "Chcete minimálne invazívne riešenie, ktoré zachová čo najviac prirodzeného zuba"
+    ],
+    "expect_steps": [
+      "Digitálne skenovanie a plánovanie dizajnu úsmevu",
+      "Minimálne brúsenie zuba, ak je vôbec potrebné",
+      "Frézovanie fazetiek z bloku E-max vo vlastnom laboratóriu",
+      "Nasadenie a kontrola farby a skusu"
+    ],
+    "why_us": "Naše interné laboratórium umožňuje rýchlu výrobu fazetiek E-max s presnou zhodou farby.",
+    "warranty": "Fazetky E-max sú kryté našou doživotnou zárukou proti zlyhaniu materiálu."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantológia",
+    "title": "Zygomatické implantáty",
+    "tagline": "Dlhšie implantáty ukotvené v lícnej kosti pre pacientov so závažným úbytkom kosti hornej čeľuste.",
+    "overview": [
+      "Zygomatické implantáty sú dlhšie ako štandardné zubné implantáty a sú ukotvené v lícnej kosti (zygomatickej kosti) namiesto čeľustnej kosti. To rieši situácie, kde je úbytok kosti hornej čeľuste príliš závažný pre štandardné implantáty aj s kostnou augmentáciou.",
+      "Pretože obchádzajú potrebu augmentácie čeľustnej kosti, môžu zygomatické implantáty v mnohých prípadoch umožniť pevný oblúk zubov bez samostatných zákrokov na budovanie kosti a ich dlhšie hojenie."
+    ],
+    "who_for": [
+      "Máte závažný úbytok kosti hornej čeľuste, ktorý vylučuje štandardné implantáty",
+      "Bolo vám predtým povedané, že potrebujete rozsiahle kostné augmentácie",
+      "Chcete sa vyhnúť dlhým čakacím dobám spojeným s viacnásobnými kostnými zákrokmi"
+    ],
+    "expect_steps": [
+      "Podrobný 3D sken na posúdenie lícnej kosti a plánovanie umiestnenia implantátu",
+      "Zavedenie zygomatického implantátu pod anestézou",
+      "Nasadenie dočasného pevného mostíka, často v tej istej návšteve",
+      "Nasadenie finálneho trvalého mostíka po hojení"
+    ],
+    "why_us": "Zygomatické implantáty vyžadujú špecializovanú chirurgickú skúsenosť — náš tím sa na tieto pokročilé prípady špecializuje.",
+    "warranty": "Zygomatické implantáty sú kryté našou doživotnou zárukou."
+  },
+  "dental-bridge": {
+    "eyebrow": "Náhrady",
+    "title": "Zubný mostík",
+    "tagline": "Náhrada chýbajúceho zuba opretá o susedné zuby, dokončená zvyčajne v jednej návšteve.",
+    "overview": [
+      "Zubný mostík nahrádza viditeľný chýbajúci zub tým, že sa opiera o zuby vedľa medzery pre podporu. Na rozdiel od implantátu nevyžaduje chirurgický zákrok ani dobu hojenia pre integráciu do kosti, takže sa zvyčajne dokončí počas jednej návštevy.",
+      "Ak susedné zuby už potrebujú korunky (kvôli starej výplni, kazu alebo predchádzajúcemu poškodeniu), je mostík efektívnou voľbou, pretože ošetrí tieto zuby a vyplní medzeru v jednom procese."
+    ],
+    "who_for": [
+      "Chýba vám jeden alebo viac zubov v rade",
+      "Susedné zuby už potrebujú korunky alebo majú menšie poškodenie",
+      "Chcete rýchlejšie riešenie bez chirurgického zákroku"
+    ],
+    "expect_steps": [
+      "Brúsenie oporných zubov po oboch stranách medzery",
+      "Digitálne skenovanie na navrhnutie mostíka",
+      "Frézovanie a farbenie mostíka v našom laboratóriu",
+      "Nasadenie a kontrola skusu"
+    ],
+    "why_us": "Náš tím vám poctivo poradí, či je pre váš konkrétny prípad vhodnejší mostík, alebo implantát.",
+    "warranty": "Zubné mostíky sú kryté našou doživotnou zárukou proti zlyhaniu materiálu."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodoncia",
+    "title": "Invisalign / priehľadné rovnátka",
+    "tagline": "Priehľadné, snímateľné dlahy na postupné narovnanie zubov bez kovových rovnátok.",
+    "overview": [
+      "Priehľadné rovnátka narovnávajú zuby pomocou kontrolovaného, postupného tlaku, podobne ako tradičné rovnátka, ale pomocou série snímateľných priehľadných dláh namiesto fixných kovových súčiastok.",
+      "Snímateľnosť znamená, že jete, čistíte si zuby a používate zubnú niť normálne, čo je veľká časť dôvodu, prečo ich dospelí pacienti preferujú z dôvodov životného štýlu. Fungujú však iba vtedy, ak sú nosené podľa predpisu, zvyčajne 20–22 hodín denne."
+    ],
+    "who_for": [
+      "Máte mierne až stredne ťažké zhlukovanie zubov, medzery alebo jednoduché problémy so skusom",
+      "Chcete možnosť dať si dole rovnátka na jedlo a čistenie zubov",
+      "Ste ochotní dôsledne nosiť dlahy podľa predpisu"
+    ],
+    "expect_steps": [
+      "3D sken a vyhodnotenie skusu na naplánovanie potrebného pohybu zubov",
+      "Výroba sady priehľadných dláh zodpovedajúcich plánu liečby",
+      "Postupná výmena dláh každých 1–2 týždne",
+      "Kontrolné návštevy na sledovanie pokroku"
+    ],
+    "why_us": "3D plánovanie ukáže presne, aké pohyby váš prípad potrebuje, skôr než liečba vôbec začne.",
+    "warranty": "Poskytujeme retenčné dlahy po dokončení liečby na udržanie výsledku."
+  }
+}

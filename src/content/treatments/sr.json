@@ -1,0 +1,310 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Estetska stomatologija",
+    "title": "Hollywood Smile",
+    "tagline": "Potpuni redizajn gornjeg zubnog luka za blistav, simetričan osmeh spreman za kamere.",
+    "overview": [
+      "Hollywood Smile je potpuna kozmetička transformacija vidljivih zuba, obično gornjeg luka, koja spaja oblik, veličinu, poravnanje i nijansu u jedan skladan rezultat. Obično se koristi kombinacija porcelanskih ljuspica ili cirkonijumskih krunica, zajednički planiranih kao set kako bi svaki zub upotpunio sledeći.",
+      "Cilj nije jedan „savršen“ šablonski osmeh — uzimaju se u obzir oblik vašeg lica, linija usana i ton kože, tako da rezultat izgleda kao vaš najbolji mogući osmeh, a ne osmeh nekog drugog."
+    ],
+    "who_for": [
+      "Imate više kozmetičkih problema odjednom — promenu boje, okrnjenja, razmake ili neravne zube",
+      "Želite koordinisan rezultat umesto popravljanja jednog zuba po jednog",
+      "Prihvatljivo vam je umereno brušenje prednjih zuba"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje i fotografije za dizajniranje novog osmeha u 3D-u pre nego što se dotakne bilo koji zub",
+      "Minimalno brušenje zuba kako bi se napravio prostor za nove restauracije",
+      "Privremene restauracije dok se izrađuju vaše trajne ljuspice ili krunice",
+      "Postavljanje, usklađivanje nijanse i podešavanje zagriza za konačan rezultat"
+    ],
+    "why_us": "Svaki slučaj Hollywood Smile-a se prvo dizajnira digitalno, tako da možete videti pregled rezultata i pre početka lečenja. Cirkonijumski i porcelanski radovi pokriveni su našom doživotnom garancijom.",
+    "warranty": "Cirkonijumske i porcelanske restauracije u vašem Hollywood Smile-u pokrivene su našom doživotnom garancijom."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Krunice i restauracije",
+    "title": "Monolitni cirkonijum",
+    "tagline": "Krunice izrađene iz jednog čvrstog bloka cirkonijuma za maksimalnu čvrstoću bez ljuštenja.",
+    "overview": [
+      "Monolitne cirkonijumske krunice izrađuju se iz jednog čvrstog bloka cirkonijuma, bez posebnog sloja porcelana iznad. Time se uklanja glavna slabost starijih cirkonijumskih krunica — ljuštenje porcelanskog premaza tokom vremena.",
+      "Moderni višeslojni cirkonijumski blokovi obojeni su tako da se providnost menja od linije desni do zagriznog ivice, čime se uglavnom zatvara stari estetski jaz bez dodavanja posebnog, ljuštenju sklonog sloja porcelana."
+    ],
+    "who_for": [
+      "Potreban vam je krunica ili most na zadnjem zubu gde je sila žvakanja najveća",
+      "Škripite ili stežete zube i potreban vam je izdržljiviji materijal",
+      "Želite dugoročno rešenje sa minimalnim rizikom od ljuštenja"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje zuba nakon pripreme",
+      "Izrada krunice iz čvrstog cirkonijumskog bloka u našoj sopstvenoj laboratoriji",
+      "Bojenje i glaziranje kako bi se uskladilo sa prirodnom nijansom zuba",
+      "Konačna provera pristajanja i cementiranje"
+    ],
+    "why_us": "Naša interna laboratorija za izradu omogućava nam da završimo krunicu za dane, a ne nedelje, uz precizno digitalno planiranje.",
+    "warranty": "Monolitne cirkonijumske krunice pokrivene su našom doživotnom garancijom protiv kvarova materijala."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologija",
+    "title": "Zubni implantati",
+    "tagline": "Trajna titanijumska zamena korena zuba na koju se pričvršćuje krunica ili most.",
+    "overview": [
+      "Zubni implantat direktno zamenjuje nedostajući koren zuba, samostalno stojeći u vilici, nezavisno od susednih zuba. Titanijum ima neobično svojstvo — žive koštane ćelije direktno rastu na njemu, što se naziva osteointegracija.",
+      "Ovaj proces traje nekoliko meseci, pa se slučajevi implantata obično dele na dve posete: prva za skeniranje, zahvat i privremenu restauraciju, druga mesecima kasnije za konačnu trajnu krunicu."
+    ],
+    "who_for": [
+      "Nedostaje vam jedan ili više zuba i želite trajno rešenje",
+      "Želite da izbegnete brušenje susednih zdravih zuba (kako bi to zahtevao most)",
+      "Imate dovoljno koštane mase ili ste spremni da razmotrite augmentaciju kosti"
+    ],
+    "expect_steps": [
+      "3D skeniranje (CBCT) za procenu dostupne koštane mase",
+      "Postavljanje implantata pod lokalnom anestezijom",
+      "Period zarastanja (osteointegracija), obično 3–6 meseci",
+      "Postavljanje konačne krunice na drugoj poseti"
+    ],
+    "why_us": "Koristimo priznate, klinički testirane marke implantata sa dugoročnim podacima i punom garancijom.",
+    "warranty": "Zubni implantati pokriveni su našom doživotnom garancijom protiv kvara implantata."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Planiranje lečenja",
+    "title": "Digitalni dizajn osmeha",
+    "tagline": "Faza planiranja koja odlučuje koje lečenje vam je zaista potrebno, na osnovu vašeg lica, ne šablona.",
+    "overview": [
+      "Digitalni dizajn osmeha nije sam po sebi lečenje — to je faza planiranja koja odlučuje koja će se lečenja (ljuspice, krunice, izbeljivanje, oblikovanje desni) zapravo koristiti za postizanje vašeg cilja, na osnovu vašeg lica, usana i zuba umesto opšte šablone.",
+      "Intraoralno skeniranje pravi 3D model vaših zuba, a softver za dizajn postavlja predloženi novi osmeh na taj model — ovo je trenutak kada zaista možete videti plan i razgovarati o izmenama pre nego što se dogodi bilo šta trajno."
+    ],
+    "who_for": [
+      "Razmatrate više kozmetičkih zahvata i želite da unapred vidite rezultat",
+      "Želite da budete sigurni u rezultat pre početka bilo kakvog trajnog rada",
+      "Imate neravne desni ili asimetriju koju treba prvo rešiti"
+    ],
+    "expect_steps": [
+      "Fotografije i video vašeg osmeha, linije usana i proporcija lica",
+      "3D skeniranje i digitalni pregled predloženog novog osmeha",
+      "Utvrđivanje koja su lečenja zaista potrebna, zub po zub",
+      "Fizički maket u ustima u mnogim slučajevima pre trajnog rada"
+    ],
+    "why_us": "Dizajn osmeha je uključen u sve veće kozmetičke slučajeve bez dodatnog troška, tako da znate tačno šta da očekujete.",
+    "warranty": "Digitalno planiranje je deo konačne garancije na sprovedeno lečenje."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Estetska stomatologija",
+    "title": "Izbeljivanje zuba",
+    "tagline": "Profesionalno izbeljivanje za primetno svetliji osmeh u jednoj poseti.",
+    "overview": [
+      "Profesionalno izbeljivanje zuba koristi koncentrovaniji gel za izbeljivanje od proizvoda dostupnih bez recepta, primenjen pod kontrolisanim nadzorom za brže i ujednačenije rezultate. Obično se izvodi u jednoj poseti.",
+      "Ako takođe planirate ljuspice ili krunice, izbeljivanje bi trebalo da bude pre njihove izrade — ne posle — kako bi keramički rad odgovarao nijansi vaših izbeljenih prirodnih zuba."
+    ],
+    "who_for": [
+      "Vaši zubi su zdravi, ali obojeni kafom, čajem, vinom ili pušenjem",
+      "Želite brz kozmetički rezultat bez brušenja zuba",
+      "Planirate kombinovanje sa drugim kozmetičkim zahvatima (prvo uradite izbeljivanje)"
+    ],
+    "expect_steps": [
+      "Pregled zuba i desni radi potvrde podobnosti",
+      "Zaštita desni i nanošenje gela za izbeljivanje",
+      "Aktivacija gela, obično u više ciklusa",
+      "Procena rezultata i preporuke za održavanje nijanse"
+    ],
+    "why_us": "Koristimo profesionalne sisteme za izbeljivanje sa predvidljivim, ujednačenim rezultatima u jednoj poseti.",
+    "warranty": "Pružamo preporuke za negu nakon izbeljivanja radi produženja rezultata."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Implantologija",
+    "title": "Okluzalni sistem pričvršćen zavrtnjem",
+    "tagline": "Restauracija privijena na implantate koju stomatolog po potrebi lako može ukloniti.",
+    "overview": [
+      "Okluzalni sistem pričvršćen zavrtnjem pričvršćuje krunicu ili most na implantat pomoću zavrtnja umesto cementiranja. To omogućava stomatologu da po potrebi lako ukloni restauraciju radi pregleda ili popravke, bez oštećenja same restauracije.",
+      "Ovaj pristup se često preferira u većim slučajevima, poput punih lukova, gde je vredan lak pristup za buduće održavanje."
+    ],
+    "who_for": [
+      "Prolazite opsežniji rad sa implantatima, poput punog luka",
+      "Želite lakše buduće održavanje ili mogućnost popravke",
+      "Vaš stomatolog preporučuje pričvršćenje zavrtnjem umesto cementiranja za vaš specifičan slučaj"
+    ],
+    "expect_steps": [
+      "Postavljanje implantata i zarastanje (osteointegracija)",
+      "Digitalno skeniranje za dizajniranje restauracije",
+      "Izrada restauracije sa otvorima za pristup zavrtnjima",
+      "Privijanje restauracije i zatvaranje otvora za pristup"
+    ],
+    "why_us": "Nudimo i opcije sa zavrtnjima i cementirane opcije, a preporučićemo onu koja najbolje odgovara vašem specifičnom slučaju.",
+    "warranty": "Okluzalni sistem pričvršćen zavrtnjem pokriven je našom doživotnom garancijom."
+  },
+  "gingivectomy": {
+    "eyebrow": "Parodontologija",
+    "title": "Gingivektomija",
+    "tagline": "Oblikovanje desni radi rešavanja viška ili neravnog tkiva desni.",
+    "overview": [
+      "Gingivektomija uklanja višak tkiva desni kako bi se izložilo više prirodne visine zuba, bilo iz kozmetičkih razloga („osmeh sa previše desni“) ili zato što višak tkiva otežava pravilno čišćenje zuba.",
+      "Zahvat je često korak pre ljuspica ili krunica, kako bi se prvo napravila simetrična linija desni na kojoj keramički rad zatim izgleda prirodno."
+    ],
+    "who_for": [
+      "Pri osmehu pokazujete primetno više desni nego zuba",
+      "Vaša linija desni je neravna duž prednjih zuba",
+      "Višak tkiva desni otežava efikasno čišćenje zuba"
+    ],
+    "expect_steps": [
+      "Procena nivoa desni i planiranje željenog obrisa",
+      "Lokalna anestezija",
+      "Uklanjanje viška tkiva desni preciznim instrumentima",
+      "Kratak period zarastanja pre bilo kakvog naknadnog kozmetičkog rada"
+    ],
+    "why_us": "Procena desni je deo svakog ispravnog plana digitalnog dizajna osmeha, pa se rešava kao deo celokupnog plana, ne izolovano.",
+    "warranty": "Pružamo smernice za negu nakon zahvata kako bismo osigurali pravilno zarastanje."
+  },
+  "sinus-lift": {
+    "eyebrow": "Implantologija",
+    "title": "Podizanje sinusa",
+    "tagline": "Stvaranje dovoljne visine kosti ispod gornjeg maksilarnog sinusa za postavljanje implantata.",
+    "overview": [
+      "Gornja zadnja vilica se nalazi blizu sinusnih šupljina, a gubitak kosti tamo ponekad znači da nema dovoljno visine ispod sinusa za implantat. Podizanje sinusa nežno podiže dno sinusa i dodaje augmentacioni materijal ispod kako bi se stvorila ta visina.",
+      "Ovo je specifično, dobro utemeljeno rešenje za to konkretno područje, koje dodaje vreme zarastanja ukupnom planu, ali je rutinski deo implantologije, a ne retka izuzetak."
+    ],
+    "who_for": [
+      "Potreban vam je implantat u gornjoj zadnjoj vilici, ali nemate dovoljnu visinu kosti",
+      "3D skeniranje je pokazalo nedovoljnu udaljenost do sinusa",
+      "Želite da obezbedite dugoročnu stabilnost implantata u ovom zahtevnom području"
+    ],
+    "expect_steps": [
+      "3D skeniranje za procenu visine kosti ispod sinusa",
+      "Nežno podizanje membrane sinusa",
+      "Postavljanje augmentacionog materijala",
+      "Vreme zarastanja pre (ili istovremeno sa) postavljanjem implantata"
+    ],
+    "why_us": "Naš tim ima opsežno iskustvo sa podizanjem sinusa kao standardnim delom slučajeva implantologije gornje vilice.",
+    "warranty": "Podizanje sinusa pokriveno je opštom garancijom na implantat."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodoncija",
+    "title": "Lečenje korenskog kanala",
+    "tagline": "Uklanjanje zaražene pulpe i zatvaranje zuba, obično uporedivo sa postavljanjem plombe.",
+    "overview": [
+      "Lečenje korenskog kanala uklanja zaraženu zubnu pulpu iz unutrašnjosti zuba, kanal se čisti, oblikuje i dezinfikuje, a zatim se zatvara biokompatibilnim materijalom.",
+      "Nelagodnost koju ljudi povezuju sa ovim zahvatom obično dolazi od same infekcije, pre lečenja — ne od samog zahvata, koji se izvodi pod lokalnom anestezijom i uglavnom je uporediv sa postavljanjem plombe."
+    ],
+    "who_for": [
+      "Imate bol u zubu ili osetljivost koja ukazuje na infekciju pulpe",
+      "Rendgen je pokazao infekciju kod korena zuba",
+      "Želite da spasite zub umesto vađenja"
+    ],
+    "expect_steps": [
+      "Dijagnoza i rendgen za potvrdu obima infekcije",
+      "Lokalna anestezija",
+      "Uklanjanje zaraženog tkiva i čišćenje kanala",
+      "Zatvaranje zuba, a obično nakon toga zaštitna krunica"
+    ],
+    "why_us": "Koristimo moderne rotacione instrumente i protokole dezinfekcije za temeljito i prijatno lečenje.",
+    "warranty": "Lečenje korenskog kanala pokriveno je našom garancijom protiv ponovne infekcije."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implantologija",
+    "title": "All-on-4, All-on-5 i All-on-6",
+    "tagline": "Potpuno fiksni zubni luk na implantatima, sa brojem implantata prilagođenim vašoj anatomiji.",
+    "overview": [
+      "All-on-4, All-on-5 i All-on-6 koriste istu osnovnu ideju — potpun luk fiksnih zuba podržan malim brojem implantata postavljenih u vilicu. Broj označava koliko implantata podržava taj luk.",
+      "Odluka o tome koliko implantata koristiti obično se svodi na kost: 3D skeniranje pokazuje koliko kosti je dostupno, a odatle stomatolog može iskreno reći da li će četiri implantata izdržati dugoročno ili bi peti ili šesti značajno poboljšali rezultat."
+    ],
+    "who_for": [
+      "Nedostaje vam većina ili svi zubi u jednom luku",
+      "Želite fiksno, a ne izvadivo rešenje",
+      "Imate dovoljno kosti ili ste spremni da razmotrite alternative poput nagnutog postavljanja implantata"
+    ],
+    "expect_steps": [
+      "3D skeniranje za procenu koštane mase i planiranje broja i položaja implantata",
+      "Postavljanje implantata i nameštanje privremenog fiksnog mosta na istoj poseti",
+      "Period zarastanja (osteointegracija), obično 4–6 meseci",
+      "Nameštanje konačnog trajnog mosta na drugoj poseti"
+    ],
+    "why_us": "Digitalno planiranje i nagib implantata često nam omogućavaju izbegavanje augmentacije kosti čak i kod pacijenata sa gubitkom kosti.",
+    "warranty": "Slučajevi All-on-4/5/6 pokriveni su našom doživotnom garancijom za implantate i strukturnom garancijom za most."
+  },
+  "emax-veneers": {
+    "eyebrow": "Estetska stomatologija",
+    "title": "E-max ljuspice",
+    "tagline": "Tanke porcelanske ljuspice sa minimalnim brušenjem zuba za prirodno izgledajući rezultat.",
+    "overview": [
+      "E-max (litijum disilikat) ljuspice imaju staklastu providnost koja bliže oponaša prirodnu zubnu caklinu od drugih materijala, posebno u normalnom svetlu. Materijal ostaje čvrst čak i kada je izrađen vrlo tanko, što omogućava minimalno brušenje zuba u mnogim slučajevima.",
+      "Ako su vaši zubi već razumno dobro poravnati, a uglavnom želite da promenite boju, zatvorite male razmake ili malo doradite oblik, tanka E-max ljuspica se često može zalepiti uz malo ili nimalo uklanjanja cakline."
+    ],
+    "who_for": [
+      "Imate promenu boje koja ne reaguje na izbeljivanje",
+      "Imate mala okrnjenja, razmake ili malo neravnu ivicu zuba",
+      "Želite minimalno invazivno rešenje koje čuva što je moguće više prirodnog zuba"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje i planiranje dizajna osmeha",
+      "Minimalno brušenje zuba, ako je uopšte potrebno",
+      "Izrada ljuspica iz E-max bloka u našoj sopstvenoj laboratoriji",
+      "Postavljanje te provera boje i zagriza"
+    ],
+    "why_us": "Naša interna laboratorija omogućava brzu izradu E-max ljuspica uz precizno usklađivanje boje.",
+    "warranty": "E-max ljuspice pokrivene su našom doživotnom garancijom protiv kvarova materijala."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantologija",
+    "title": "Zigomatski implantati",
+    "tagline": "Duži implantati usidreni u jagodičnu kost za pacijente sa ozbiljnim gubitkom kosti gornje vilice.",
+    "overview": [
+      "Zigomatski implantati su duži od standardnih zubnih implantata i usidreni su u jagodičnu kost (zigomatičnu kost) umesto u vilicu. To rešava situacije u kojima je gubitak kosti gornje vilice previše ozbiljan za standardne implantate, čak i uz augmentaciju kosti.",
+      "Pošto zaobilaze potrebu za augmentacijom vilice, zigomatski implantati u mnogim slučajevima mogu omogućiti fiksni zubni luk bez posebnih postupaka izgradnje kosti i njihovog dužeg vremena zarastanja."
+    ],
+    "who_for": [
+      "Imate ozbiljan gubitak kosti gornje vilice koji isključuje standardne implantate",
+      "Prethodno vam je rečeno da vam je potrebna opsežna augmentacija kosti",
+      "Želite da izbegnete duga čekanja povezana sa više koštanih postupaka"
+    ],
+    "expect_steps": [
+      "Detaljno 3D skeniranje za procenu jagodične kosti i planiranje položaja implantata",
+      "Postavljanje zigomatskog implantata pod anestezijom",
+      "Nameštanje privremenog fiksnog mosta, često na istoj poseti",
+      "Nameštanje konačnog trajnog mosta nakon zarastanja"
+    ],
+    "why_us": "Zigomatski implantati zahtevaju specijalizovano hirurško iskustvo — naš tim je specijalizovan za ove napredne slučajeve.",
+    "warranty": "Zigomatski implantati pokriveni su našom doživotnom garancijom."
+  },
+  "dental-bridge": {
+    "eyebrow": "Restauracije",
+    "title": "Zubni most",
+    "tagline": "Zamena za nedostajući zub koja se oslanja na susedne zube, obično završena u jednoj poseti.",
+    "overview": [
+      "Zubni most zamenjuje vidljivi nedostajući zub oslanjajući se na zube pored praznine radi podrške. Za razliku od implantata, ne zahteva hirurški zahvat niti period zarastanja za integraciju u kost, pa se obično završava u jednoj poseti.",
+      "Ako susedni zubi već trebaju krunice (zbog stare plombe, karijesa ili prethodnog oštećenja), most je efikasan izbor jer leči te zube i popunjava prazninu u jednom procesu."
+    ],
+    "who_for": [
+      "Nedostaje vam jedan ili više zuba u nizu",
+      "Susedni zubi već trebaju krunice ili imaju manje oštećenje",
+      "Želite brže rešenje bez hirurškog zahvata"
+    ],
+    "expect_steps": [
+      "Brušenje potpornih zuba sa obe strane praznine",
+      "Digitalno skeniranje za dizajniranje mosta",
+      "Izrada i bojenje mosta u našoj laboratoriji",
+      "Postavljanje i provera zagriza"
+    ],
+    "why_us": "Naš tim iskreno savetuje da li je most ili implantat prikladniji za vaš specifičan slučaj.",
+    "warranty": "Zubni mostovi pokriveni su našom doživotnom garancijom protiv kvarova materijala."
+  },
+  "invisalign": {
+    "eyebrow": "Ortodoncija",
+    "title": "Invisalign / providne udlage",
+    "tagline": "Providne, izvadljive udlage za postepeno ravnanje zuba bez metalnih aparatića.",
+    "overview": [
+      "Providne udlage ravnaju zube kontrolisanim, postepenim pritiskom, slično tradicionalnim aparatićima, ali kroz seriju izvadljivih providnih udlaga umesto fiksnih metalnih delova.",
+      "Izvadljivost znači da jedete, perete zube i koristite konac za zube normalno, što je veliki deo razloga zašto odrasli pacijenti obično imaju sklonost ka njima zbog razloga vezanih za stil života. Ali, one funkcionišu samo ako se nose prema propisu, obično 20–22 sata dnevno."
+    ],
+    "who_for": [
+      "Imate blagu do umerenu zbijenost, razmake ili jednostavne probleme sa zagrizom",
+      "Želite mogućnost skidanja aparatića za jelo i pranje zuba",
+      "Spremni ste da dosledno nosite udlage prema propisu"
+    ],
+    "expect_steps": [
+      "3D skeniranje i procena zagriza za planiranje potrebnog pomeranja zuba",
+      "Izrada serije providnih udlaga u skladu sa planom lečenja",
+      "Postepena zamena udlaga svakih 1–2 nedelje",
+      "Kontrolne posete za praćenje napretka"
+    ],
+    "why_us": "3D planiranje pokazuje tačno koje pokrete vaš slučaj treba, još pre nego što lečenje uopšte počne.",
+    "warranty": "Pružamo retencione udlage nakon završetka lečenja radi održavanja rezultata."
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "hollywood-smile": {
+    "eyebrow": "Dentisterie esthétique",
+    "title": "Hollywood Smile",
+    "tagline": "Une refonte complète de l'arcade supérieure pour un sourire éclatant, prêt pour la caméra.",
+    "overview": [
+      "Un Hollywood Smile est une transformation esthétique complète des dents visibles, généralement l'arcade supérieure, combinant forme, taille, alignement et teinte en un résultat harmonieux. Il utilise généralement une combinaison de facettes en porcelaine ou de couronnes en zircone, planifiées ensemble comme un ensemble pour que chaque dent complète la suivante.",
+      "L'objectif n'est pas un sourire modèle « parfait » unique — la forme de votre visage, la ligne de vos lèvres et votre teint sont tous pris en compte pour que le résultat ressemble à votre meilleur sourire possible, pas à celui de quelqu'un d'autre."
+    ],
+    "who_for": [
+      "Vous avez plusieurs préoccupations esthétiques à la fois — décoloration, ébréchures, espaces ou dents inégales",
+      "Vous souhaitez un résultat coordonné plutôt que de corriger une dent à la fois",
+      "Vous êtes à l'aise avec une préparation modérée des dents de devant"
+    ],
+    "expect_steps": [
+      "Scan numérique et photos pour concevoir votre nouveau sourire en 3D avant de toucher une seule dent",
+      "Préparation minimale des dents pour faire de la place aux nouvelles restaurations",
+      "Restaurations temporaires pendant la fabrication de vos facettes ou couronnes définitives",
+      "Pose, correspondance de teinte et ajustement de l'occlusion pour le résultat final"
+    ],
+    "why_us": "Chaque cas de Hollywood Smile est d'abord conçu numériquement, afin que vous puissiez voir un aperçu de votre résultat avant le début du traitement. Le travail en zircone et en porcelaine est couvert par notre garantie à vie.",
+    "warranty": "Les restaurations en zircone et en porcelaine de votre Hollywood Smile sont couvertes par notre garantie à vie."
+  },
+  "monolithic-zirconia": {
+    "eyebrow": "Dentisterie restauratrice",
+    "title": "Zircone monolithique",
+    "tagline": "Couronnes et bridges à contour complet, usinés dans un seul bloc de zircone — solides, résistants aux éclats et précis.",
+    "overview": [
+      "Les restaurations en zircone monolithique sont usinées dans un seul bloc massif d'oxyde de zirconium, plutôt qu'à partir d'un noyau métallique ou stratifié en porcelaine avec un revêtement en porcelaine séparé. Cette construction en une seule pièce les rend nettement plus résistantes aux éclats et aux fractures que les couronnes stratifiées traditionnelles.",
+      "La zircone moderne est teintée et caractérisée numériquement, de sorte que la couronne ou le bridge fini se fond naturellement avec vos dents environnantes plutôt que de paraître plat ou opaque."
+    ],
+    "who_for": [
+      "Vous avez besoin d'une couronne ou d'un bridge sur une dent postérieure soumise à une forte pression de mastication",
+      "Vous avez déjà eu des restaurations en porcelaine ébréchées ou fracturées",
+      "Vous grincez ou serrez des dents et avez besoin d'un matériau plus durable"
+    ],
+    "expect_steps": [
+      "Empreinte numérique ou traditionnelle de la dent préparée",
+      "Votre restauration est conçue et usinée pour correspondre à la teinte de vos dents naturelles",
+      "Une restauration temporaire protège la dent pendant la fabrication de la permanente",
+      "Pose finale et vérification de l'occlusion avec ajustements si nécessaire"
+    ],
+    "why_us": "Nous usinons la zircone monolithique en interne avec une conception numérique, de sorte que la correspondance des teintes et l'ajustement sont précis. Tout le travail en zircone porte notre garantie à vie.",
+    "warranty": "Les restaurations en zircone monolithique sont couvertes par notre garantie à vie."
+  },
+  "dental-implants": {
+    "eyebrow": "Implantologie",
+    "title": "Implants dentaires",
+    "tagline": "Un remplacement permanent et d'apparence naturelle pour les dents manquantes.",
+    "overview": [
+      "Un implant dentaire est un pilier en titane placé dans l'os de la mâchoire pour servir de racine dentaire artificielle, couronné d'une couronne assortie à vos dents naturelles. Contrairement à un pont, il ne repose pas sur les dents voisines pour son support, et contrairement à une prothèse, il ne bouge pas et n'a pas besoin d'être retiré.",
+      "Les implants peuvent remplacer une seule dent, plusieurs dents avec un pont, ou une arcade entière — le nombre et le placement dépendent du nombre de dents manquantes et de l'état de votre os maxillaire."
+    ],
+    "who_for": [
+      "Il vous manque une ou plusieurs dents et vous souhaitez une solution fixe et permanente",
+      "Vous ne souhaitez pas préparer ou affecter les dents saines à côté de l'espace",
+      "Vous avez une densité osseuse adéquate, ou êtes ouvert à une greffe osseuse si nécessaire"
+    ],
+    "expect_steps": [
+      "Scan 3D et consultation pour évaluer l'os et planifier la position de l'implant",
+      "Pose chirurgicale de l'implant sous anesthésie locale",
+      "Une période de cicatrisation, généralement quelques mois, pour que l'implant fusionne avec l'os",
+      "Pose de la couronne finale une fois la cicatrisation confirmée"
+    ],
+    "why_us": "La position de l'implant est planifiée numériquement avant la chirurgie pour plus de précision, et chaque implant que nous posons est couvert par notre garantie à vie.",
+    "warranty": "Tous les implants dentaires sont couverts par notre garantie à vie."
+  },
+  "digital-smile-design": {
+    "eyebrow": "Planification numérique",
+    "title": "Conception numérique du sourire",
+    "tagline": "Votre nouveau sourire, planifié et prévisualisé en 3D avant le début du traitement.",
+    "overview": [
+      "La conception numérique du sourire utilise un scanner intra-oral et un logiciel de conception pour construire un modèle 3D de vos dents et simuler le résultat de votre traitement avant tout travail. Au lieu de vous fier à une description écrite, vous voyez un aperçu réaliste de votre nouveau sourire et pouvez discuter des ajustements avant de vous engager.",
+      "Cette approche numérique signifie également qu'une empreinte physique est rarement nécessaire — la plupart des cas sont scannés, pas moulés, ce qui est plus rapide et plus confortable pour la plupart des patients."
+    ],
+    "who_for": [
+      "Vous planifiez un cas esthétique (facettes, couronnes, Hollywood Smile) et souhaitez d'abord voir le résultat",
+      "Vous souhaitez éviter une empreinte traditionnelle si possible",
+      "Vous coordonnez le traitement à distance et souhaitez un plan visuel clair avant de voyager"
+    ],
+    "expect_steps": [
+      "Scan intra-oral de vos dents et de votre occlusion",
+      "Photos et mesures de votre visage et de votre ligne de sourire",
+      "Une conception 3D de votre nouveau sourire proposé, examinée avec votre dentiste",
+      "Ajustements de la conception avant le début de tout traitement permanent"
+    ],
+    "why_us": "Chaque cas esthétique ou restaurateur complexe dans notre clinique commence par une planification numérique, afin que vous et votre dentiste travailliez sur le même plan visuel dès le premier jour.",
+    "warranty": "La planification numérique fait partie de la garantie finale sur le traitement effectué."
+  },
+  "teeth-whitening": {
+    "eyebrow": "Dentisterie esthétique",
+    "title": "Blanchiment des dents",
+    "tagline": "Un éclaircissement de teinte en une seule séance, effectué avant ou après d'autres travaux.",
+    "overview": [
+      "Le blanchiment professionnel des dents utilise un gel blanchissant de concentration plus élevée que les produits en vente libre, appliqué dans des conditions contrôlées pour éclaircir la teinte de vos dents naturelles en toute sécurité et uniformément. La plupart des patients constatent un résultat notable en une seule séance.",
+      "Le blanchiment n'affecte que l'émail dentaire naturel — il ne changera pas la couleur des couronnes, facettes ou plombages existants, c'est pourquoi le moment par rapport aux autres traitements est important."
+    ],
+    "who_for": [
+      "Vos dents sont naturellement décolorées ou tachées par le café, le thé, le vin ou le tabac",
+      "Vous souhaitez un sourire plus éclatant sans autre changement structurel",
+      "Vous souhaitez une référence de teinte avant de décider des facettes ou couronnes"
+    ],
+    "expect_steps": [
+      "Vérification que vos dents et gencives sont assez saines pour le blanchiment",
+      "Protection de vos gencives avant application du gel blanchissant",
+      "Un ou plusieurs cycles de blanchiment lors de la même visite",
+      "Conseils de soins pour faire durer le résultat"
+    ],
+    "why_us": "Nous planifions soigneusement le blanchiment autour de tout autre traitement que vous recevez, afin que vos nouvelles couronnes ou facettes soient assorties en teinte à vos dents naturelles blanchies — et non l'inverse.",
+    "warranty": "Nous fournissons des recommandations de soins après le blanchiment pour prolonger le résultat."
+  },
+  "screw-retained-occlusal": {
+    "eyebrow": "Restaurations implantaires",
+    "title": "Système occlusal vissé",
+    "tagline": "Restaurations implantaires fixées avec une vis occlusale plutôt qu'un ciment, afin qu'elles puissent être accédées et entretenues sans dommage.",
+    "overview": [
+      "Les couronnes et bridges implantaires peuvent être fixés de deux manières principales : scellés en place, ou fixés avec une petite vis traversant la surface occlusale. Une restauration vissée peut être retirée et reposée par votre dentiste pour l'entretien ou la réparation sans avoir à couper ou détruire la restauration, contrairement à une restauration scellée.",
+      "Le canal d'accès à la vis est rempli d'un matériau de la couleur des dents après la pose, il n'est donc pas visible en usage normal."
+    ],
+    "who_for": [
+      "Vous recevez une couronne ou un bridge sur implant et souhaitez un entretien à long terme plus facile",
+      "Votre dentiste recommande la récupérabilité pour votre cas spécifique",
+      "Vous souhaitez éviter le risque d'excès de ciment irritant la gencive autour d'un implant"
+    ],
+    "expect_steps": [
+      "Votre restauration implantaire est conçue avec un canal d'accès à la vis",
+      "La restauration est vissée en place avec un tournevis spécifique et un réglage de couple",
+      "Le trou d'accès est scellé avec un matériau de remplissage de la couleur des dents",
+      "Contrôles de suivi pour confirmer l'ajustement et l'occlusion"
+    ],
+    "why_us": "Pour les cas implantaires où l'entretien futur compte, nous optons par défaut pour des restaurations vissées afin que votre traitement reste réparable à long terme.",
+    "warranty": "Le système occlusal vissé est couvert par notre garantie à vie."
+  },
+  "gingivectomy": {
+    "eyebrow": "Traitement parodontal",
+    "title": "Gingivectomie",
+    "tagline": "Remodelage de la ligne des gencives pour améliorer à la fois la santé et l'apparence de votre sourire.",
+    "overview": [
+      "Une gingivectomie retire et remodèle le tissu gingival excédentaire ou irrégulier, le plus souvent pour corriger un « sourire gingival » où trop de gencive apparaît lorsque vous souriez, ou pour retirer un tissu difficile à garder propre et sujet à l'inflammation. Elle peut être réalisée seule ou comme étape de préparation avant des facettes ou couronnes.",
+      "La procédure est réalisée sous anesthésie locale et est généralement bien tolérée, avec une période de cicatrisation courte et prévisible."
+    ],
+    "who_for": [
+      "Vous montrez plus de gencive que de dent lorsque vous souriez",
+      "Vous avez des niveaux de gencive inégaux sur vos dents de devant",
+      "Un tissu gingival excédentaire rend difficile le nettoyage correct de vos dents"
+    ],
+    "expect_steps": [
+      "Évaluation et cartographie de votre ligne gingivale, parfois numériquement",
+      "Anesthésie locale pour engourdir la zone de traitement",
+      "Retrait et remodelage précis du tissu gingival excédentaire",
+      "Cicatrisation sur une à deux semaines, avec suivi si nécessaire"
+    ],
+    "why_us": "Lorsqu'une gingivectomie fait partie d'un cas esthétique, nous planifions ensemble la nouvelle ligne gingivale et les nouvelles formes dentaires, afin que les deux guérissent en un résultat coordonné.",
+    "warranty": "Nous fournissons des conseils de soins après l'intervention pour assurer une bonne cicatrisation."
+  },
+  "sinus-lift": {
+    "eyebrow": "Chirurgie pré-implantaire",
+    "title": "Élévation du sinus (Sinus Lift)",
+    "tagline": "Ajoute du volume osseux à la mâchoire supérieure si nécessaire, offrant aux implants des dents postérieures une base stable et durable.",
+    "overview": [
+      "Les cavités sinusales se trouvent directement au-dessus des dents postérieures supérieures, et après la perte d'une dent dans cette zone, l'os restant peut devenir trop fin pour soutenir un implant en toute sécurité. Une élévation du sinus soulève doucement le plancher du sinus et ajoute du matériau de greffe osseuse en dessous, créant suffisamment de hauteur pour un implant stable.",
+      "C'est une procédure bien établie et, selon la hauteur nécessaire, peut parfois être réalisée en même temps que la pose de l'implant plutôt que comme une chirurgie séparée."
+    ],
+    "who_for": [
+      "Il vous manque une dent postérieure supérieure et vous souhaitez un implant, mais avez une hauteur osseuse limitée",
+      "Une évaluation précédente a révélé que votre sinus est trop proche du site de l'implant",
+      "Vous avez une perte osseuse dans la mâchoire supérieure due à une dent manquante depuis longtemps"
+    ],
+    "expect_steps": [
+      "Imagerie 3D pour mesurer la hauteur osseuse exacte disponible",
+      "La membrane sinusale est doucement soulevée et le matériau de greffe osseuse est placé",
+      "Une période de cicatrisation (varie selon le cas) avant ou avec la pose de l'implant",
+      "Une fois guéri, l'implant est posé ou restauré comme prévu"
+    ],
+    "why_us": "Nous ne recommandons une élévation du sinus que lorsque le scan 3D montre véritablement qu'elle est nécessaire, et coordonnons le calendrier avec votre plan implantaire pour minimiser le nombre de visites séparées.",
+    "warranty": "Le comblement du sinus est couvert par la garantie globale sur les implants."
+  },
+  "root-canal-therapy": {
+    "eyebrow": "Endodontie",
+    "title": "Traitement de canal",
+    "tagline": "Élimine l'infection à l'intérieur de la dent et la scelle, préservant la dent naturelle autant que possible.",
+    "overview": [
+      "Lorsque la carie ou une fissure atteint le tissu mou à l'intérieur d'une dent, elle peut s'infecter ou s'enflammer, causant douleur et sensibilité. Le traitement de canal élimine ce tissu infecté de l'intérieur de la dent, nettoie et désinfecte l'espace, puis le scelle — vous permettant de conserver votre dent naturelle au lieu de l'extraire.",
+      "Le traitement de canal moderne est réalisé sous anesthésie locale et n'est généralement pas plus inconfortable que la pose d'un plombage."
+    ],
+    "who_for": [
+      "Vous avez une douleur dentaire persistante, surtout avec les aliments chauds ou froids",
+      "Un dentiste a identifié une infection ou un abcès à la racine d'une dent",
+      "Vous avez une fissure profonde ou un ancien plombage atteignant près du nerf de la dent"
+    ],
+    "expect_steps": [
+      "Radiographie pour évaluer l'étendue de l'infection et planifier le traitement",
+      "Anesthésie locale pour engourdir la dent",
+      "Retrait du tissu infecté et nettoyage du ou des canaux radiculaires",
+      "Scellement de la dent, généralement suivi d'une couronne pour une protection à long terme"
+    ],
+    "why_us": "Nous priorisons la préservation de votre dent naturelle lorsque c'est une option viable, et recommandons généralement une couronne protectrice par la suite pour garder la dent traitée solide à long terme.",
+    "warranty": "Le traitement de canal est couvert par notre garantie contre la réinfection."
+  },
+  "all-on-4-5-6": {
+    "eyebrow": "Implants pour arcade complète",
+    "title": "All-on-4, All-on-5 & All-on-6",
+    "tagline": "Une arcade complète fixe soutenue par seulement quatre implants, en une seule visite.",
+    "overview": [
+      "All-on-4 remplace une arcade complète de dents manquantes ou défaillantes par un pont fixe, non amovible, soutenu par seulement quatre implants placés stratégiquement. Deux sont placés droits et deux inclinés vers l'arrière de la mâchoire, utilisant l'os disponible sans nécessiter de greffe osseuse dans la plupart des cas.",
+      "Comme les implants sont placés inclinés et que toute l'arcade est conçue comme une seule unité, le cas est souvent terminé avec un pont fixe temporaire le jour même de la chirurgie."
+    ],
+    "who_for": [
+      "Il vous manque la plupart ou toutes vos dents sur une ou les deux arcades",
+      "Vous portez une prothèse amovible et souhaitez une alternative fixe",
+      "Vous avez une certaine perte osseuse mais souhaitez éviter une greffe osseuse si possible"
+    ],
+    "expect_steps": [
+      "Scan 3D et radiographie pour planifier la position des implants et confirmer votre éligibilité",
+      "Pose chirurgicale de quatre implants, généralement sous anesthésie locale",
+      "Un pont fixe temporaire est fixé le jour même dans la plupart des cas",
+      "Après cicatrisation (généralement quelques mois), votre pont définitif est posé"
+    ],
+    "why_us": "Notre équipe chirurgicale planifie chaque cas All-on-4 numériquement avant l'opération, de sorte que la position des implants et l'occlusion finale sont cartographiées à l'avance. Les implants sont couverts par notre garantie à vie.",
+    "warranty": "Les implants posés dans le cadre de votre traitement All-on-4 sont couverts par notre garantie à vie.",
+    "variants": [
+      {
+        "key": "all-on-4",
+        "title": "All-on-4",
+        "tagline": "Une arcade complète fixe soutenue par seulement quatre implants, en une seule visite.",
+        "desc": "All-on-4 remplace une arcade complète de dents manquantes ou défaillantes par un pont fixe, non amovible, soutenu par seulement quatre implants placés stratégiquement. Deux sont placés droits et deux inclinés vers l'arrière de la mâchoire, utilisant l'os disponible sans nécessiter de greffe osseuse dans la plupart des cas."
+      },
+      {
+        "key": "all-on-5",
+        "title": "All-on-5",
+        "tagline": "Une arcade complète fixe sur cinq implants, apportant un soutien supplémentaire pour un résultat plus solide à long terme.",
+        "desc": "All-on-5 suit le même principe qu'All-on-4 — une arcade complète de dents fixes sur peu d'implants — mais ajoute un cinquième implant pour une meilleure répartition de la force de mastication. Ceci est souvent recommandé lorsque votre densité osseuse ou votre schéma d'occlusion bénéficierait d'un soutien supplémentaire."
+      },
+      {
+        "key": "all-on-6",
+        "title": "All-on-6",
+        "tagline": "Une arcade complète fixe sur six implants, pour le soutien le plus solide en cas de perte osseuse importante.",
+        "desc": "All-on-6 utilise six implants pour soutenir une arcade complète fixe, offrant la répartition la plus large de la force de mastication parmi les options All-on-X. Il est généralement recommandé aux patients présentant une perte osseuse importante, une occlusion très forte, ou dans les cas où la stabilité à long terme est la priorité."
+      }
+    ]
+  },
+  "dental-bridge": {
+    "eyebrow": "Dentisterie restauratrice",
+    "title": "Bridge Dentaire",
+    "tagline": "Une façon fixe de remplacer une ou plusieurs dents manquantes sans chirurgie, ancrée aux dents de chaque côté de l'espace.",
+    "overview": [
+      "Un bridge dentaire comble l'espace laissé par une dent manquante avec une fausse dent (pontique) fusionnée entre deux couronnes, qui sont posées sur les dents naturelles de chaque côté de l'espace. Une fois fixé, un bridge ne se retire pas — vous le nettoyez et le portez exactement comme des dents naturelles.",
+      "Contrairement à un implant, un bridge ne nécessite aucune chirurgie ni période de cicatrisation, ce qui en fait une voie plus rapide et souvent plus abordable pour remplacer une dent manquante pour les candidats appropriés."
+    ],
+    "who_for": [
+      "Il vous manque une ou plusieurs dents d'affilée et vous voulez une solution fixe et non chirurgicale",
+      "Les dents à côté de l'espace ont déjà besoin de couronnes, ou sont assez solides pour en supporter une",
+      "Vous préférez éviter la chirurgie implantaire ou le temps de cicatrisation qu'elle nécessite"
+    ],
+    "expect_steps": [
+      "Scan numérique et préparation des deux dents piliers",
+      "Un bridge temporaire protège la zone pendant que votre bridge permanent est fabriqué",
+      "Votre bridge est usiné et fini pour correspondre à la teinte de vos dents naturelles",
+      "Fixation finale et vérification de l'occlusion"
+    ],
+    "why_us": "Nous ne recommandons un bridge que lorsque les dents piliers sont vraiment assez solides pour cela — sinon nous le disons et discutons d'un implant à la place. Tout travail de bridge est couvert par notre garantie à vie.",
+    "warranty": "Les bridges dentaires sont couverts par notre garantie à vie."
+  },
+  "zygomatic-implants": {
+    "eyebrow": "Implantologie avancée",
+    "title": "Implants Zygomatiques",
+    "tagline": "Une solution fixe le jour même pour les patients présentant une perte osseuse sévère de la mâchoire supérieure qui ne sont pas candidats aux implants standards.",
+    "overview": [
+      "Les implants zygomatiques sont plus longs que les implants dentaires standards et s'ancrent dans l'os zygomatique (pommette) plutôt que dans la mâchoire supérieure. Cela en fait une option pour les patients dont la mâchoire supérieure a perdu trop d'os pour que des implants conventionnels — ou même le All-on-4 — puissent être posés en toute sécurité.",
+      "Comme l'os zygomatique est dense et rarement affecté par la perte osseuse qui suit la perte des dents, il offre un point d'ancrage stable sans nécessiter au préalable de greffe osseuse ou de sinus lift."
+    ],
+    "who_for": [
+      "On vous a dit que vous n'avez pas assez d'os maxillaire supérieur pour des implants standards ou le All-on-4",
+      "Une greffe osseuse précédente a échoué, ou vous préférez éviter une greffe et le temps de cicatrisation supplémentaire",
+      "Vous portez une prothèse supérieure et voulez une alternative fixe, non amovible"
+    ],
+    "expect_steps": [
+      "Scanner 3D pour évaluer votre os zygomatique et planifier précisément la trajectoire de l'implant",
+      "Pose chirurgicale des implants zygomatiques, généralement sous anesthésie générale ou sédation profonde étant donné la complexité",
+      "Un bridge fixe temporaire est souvent posé le jour même",
+      "Le bridge final et permanent est posé une fois la cicatrisation confirmée"
+    ],
+    "why_us": "Les cas zygomatiques nécessitent une précision chirurgicale que la plupart des implantologues généraux ne pratiquent pas régulièrement. Notre équipe chirurgicale planifie chaque cas au préalable sur imagerie 3D, et chaque implant posé est couvert par notre garantie à vie.",
+    "warranty": "Les implants zygomatiques sont couverts par notre garantie à vie."
+  },
+  "invisalign": {
+    "eyebrow": "Orthodontie",
+    "title": "Invisalign / Gouttières Transparentes",
+    "tagline": "Une façon presque invisible d'aligner les dents à l'aide d'une série de gouttières transparentes amovibles sur mesure.",
+    "overview": [
+      "Le traitement par gouttières transparentes utilise une série de gouttières en plastique transparent fabriquées sur mesure qui déplacent progressivement vos dents vers leur position correcte, chacune portée une à deux semaines avant de passer à la suivante de la série. Comme les gouttières sont transparentes et amovibles, la plupart des gens ne remarqueront pas que vous les portez.",
+      "Contrairement aux appareils métalliques fixes, les gouttières peuvent être retirées pour manger, se brosser les dents et utiliser le fil dentaire normalement."
+    ],
+    "who_for": [
+      "Vous avez un encombrement léger à modéré, des espaces, ou un désalignement de la mâchoire",
+      "Vous voulez aligner vos dents sans brackets et fils métalliques visibles",
+      "Vous êtes un adulte qui veut un traitement qui s'intègre à une routine quotidienne normale"
+    ],
+    "expect_steps": [
+      "Scan numérique 3D de vos dents pour planifier toute la séquence de mouvement à l'avance",
+      "Vous verrez un aperçu de votre résultat projeté avant de vous engager dans le traitement",
+      "Toute votre série de gouttières sur mesure est fabriquée selon ce plan",
+      "Vous portez chaque jeu 1 à 2 semaines, avec des contrôles périodiques pour suivre les progrès"
+    ],
+    "why_us": "Chaque cas est planifié numériquement dès le premier scan, afin que vous sachiez approximativement combien de gouttières vous aurez besoin et à quoi devrait ressembler le résultat final avant de commencer.",
+    "warranty": "Nous fournissons des gouttières de contention après la fin du traitement pour maintenir le résultat."
+  }
+}
