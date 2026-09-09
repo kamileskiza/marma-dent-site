@@ -1,5 +1,4 @@
-blog/export const BLOG_FI = [
-
+export const BLOG_FI = [
 {
   slug: "all-on-4-vai-all-on-6-kumpi-sopii-sinulle",
   title: "All-on-4 vai All-on-6: Kumpi sopii sinulle?",
