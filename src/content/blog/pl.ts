@@ -1,5 +1,4 @@
 export const BLOG_PL = [
-
 {
   slug: "all-on-4-czy-all-on-6-co-jest-dla-ciebie-odpowiednie",
   title: "All-on-4 czy All-on-6: Co jest dla Ciebie odpowiednie?",
