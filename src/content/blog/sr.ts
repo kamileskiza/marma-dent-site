@@ -1,5 +1,4 @@
-export const BLOG_SR = [
-{
+export const BLOG_SR = [{
   slug: "all-on-4-ili-all-on-6-sta-vam-odgovara",
   title: "All-on-4 ili All-on-6: Šta vam odgovara?",
   description: "I All-on-4 i All-on-6 daju vam potpun, fiksni zubni luk na implantima. Evo stvarne razlike između njih i kako stomatolog odlučuje šta odgovara vašoj vilici.",
