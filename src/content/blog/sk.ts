@@ -1,5 +1,4 @@
 export const BLOG_SK = [
-
 {
   slug: "all-on-4-alebo-all-on-6-co-je-pre-vas-vhodne",
   title: "All-on-4 alebo All-on-6: Čo je pre vás vhodné?",
