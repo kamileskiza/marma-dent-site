@@ -8,7 +8,7 @@ export const TREATMENT_IMAGES: Record<string, string> = {
   'monolithic-zirconia': '/images/monolithic-zirconia.jpg',
   'dental-implants': '/images/dental-implants.jpg',
   'zygomatic-implants': '/images/zygomatic-implants.png',
-  'dental-bridge': '/images/dental-bridge.png',
+  'dental-bridge': '/images/dental-bridge.jpg',
   'invisalign': '/images/invisalign.png',
   'digital-smile-design': '/images/digital-smile-design.jpg',
   'teeth-whitening': '/images/teeth-whitening.jpg',
@@ -16,4 +16,6 @@ export const TREATMENT_IMAGES: Record<string, string> = {
   'gingivectomy': '/images/gingivectomy.jpg',
   'sinus-lift': '/images/sinus-lift.jpg',
   'root-canal-therapy': '/images/root-canal.jpg',
+  'full-denture': '/images/full-denture.webp',
+  'orthodontics': '/images/orthodontics.jpg',
 };
