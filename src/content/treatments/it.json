@@ -304,5 +304,49 @@
     ],
     "why_us": "Ogni caso viene pianificato digitalmente fin dalla prima scansione, quindi saprete approssimativamente di quanti allineatori avrete bisogno e come dovrebbe apparire il risultato finale prima di iniziare.",
     "warranty": "Al termine del trattamento forniamo mascherine di contenzione per mantenere il risultato."
+  },
+  "full-denture": {
+    "eyebrow": "Protesi dentaria",
+    "title": "Dentiera Completa",
+    "tagline": "Una soluzione rimovibile completa, su misura, per sostituire tutti i denti di un'arcata superiore o inferiore — senza chirurgia.",
+    "overview": [
+      "Una dentiera completa sostituisce tutti i denti di un'arcata con una protesi rimovibile che poggia direttamente sulle gengive, mantenuta in posizione dalla suzione e dai contorni naturali della bocca. Viene realizzata a partire da un'impronta dettagliata delle gengive e della mascella, quindi è modellata specificamente per la tua bocca, non uno stampo generico.",
+      "Poiché non è richiesta alcuna chirurgia, una dentiera completa è solitamente il modo più rapido ed economico per sostituire un'intera arcata di denti mancanti, e resta un'opzione solida per i pazienti che non sono candidati agli impianti o preferiscono evitare la chirurgia."
+    ],
+    "who_for": [
+      "Ti mancano tutti o quasi tutti i denti in una o entrambe le arcate",
+      "Vuoi un modo non chirurgico e più economico per ripristinare un sorriso completo",
+      "Attualmente non sei candidato agli impianti, o preferisci evitare la chirurgia"
+    ],
+    "expect_steps": [
+      "Impronte e misurazioni dell'occlusione di gengive e mascella",
+      "Una prova di adattamento per verificare forma, colore e occlusione prima della finalizzazione",
+      "La tua dentiera viene lavorata e rifinita per abbinarsi al tono delle gengive e al colore dei denti desiderato",
+      "Adattamento finale, con indicazioni su utilizzo, cura e visite di controllo"
+    ],
+    "why_us": "Dedichiamo il tempo necessario a regolare correttamente occlusione e aderenza nella fase di prova, prima che qualcosa venga finalizzato — è questo a determinare se una dentiera risulterà naturale. Se opzioni supportate da impianti fossero più adatte a te, te lo diremo onestamente.",
+    "warranty": "Le dentiere complete sono coperte dalla nostra garanzia clinica standard."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodonzia",
+    "title": "Ortodonzia e Apparecchi Dentali",
+    "tagline": "Raddrizzare denti storti, affollati o disallineati con apparecchi tradizionali o allineatori trasparenti, pianificato attorno a tutta la tua occlusione.",
+    "overview": [
+      "Il trattamento ortodontico sposta gradualmente i tuoi denti in una posizione più dritta e funzionale usando una pressione controllata e delicata — con apparecchio fisso (attacchi e filo) o una serie di allineatori trasparenti rimovibili, a seconda del tuo caso e della tua preferenza.",
+      "Oltre all'aspetto estetico, allineare correttamente l'occlusione facilita la pulizia dei denti, riduce l'usura irregolare e può alleviare la tensione sull'articolazione della mascella — per questo il trattamento è pianificato attorno a tutta l'occlusione, non solo i denti anteriori visibili quando sorridi."
+    ],
+    "who_for": [
+      "I tuoi denti sono affollati, con spazi, ruotati, o l'occlusione non combacia uniformemente",
+      "Vuoi un sorriso più dritto ma preferisci allineatori trasparenti agli attacchi metallici visibili",
+      "Hai già fatto un trattamento ortodontico in passato e i denti si sono spostati di nuovo"
+    ],
+    "expect_steps": [
+      "Scansione digitale e analisi dell'occlusione per tracciare il piano di trattamento completo",
+      "Applicazione dell'apparecchio fisso o del primo set di allineatori trasparenti",
+      "Controlli regolari per regolare i fili o passare alla fase successiva degli allineatori",
+      "Contenzioni a fine trattamento per mantenere la nuova posizione"
+    ],
+    "why_us": "Ogni caso viene pianificato digitalmente fin dall'inizio, così puoi vedere approssimativamente come cambierà la tua occlusione prima di impegnarti. Siamo onesti sui tempi realistici — l'ortodonzia richiede mesi, non giorni, e non ti diremo il contrario.",
+    "warranty": "Le contenzioni fornite a fine trattamento sono coperte dalla nostra garanzia clinica standard."
   }
 }
