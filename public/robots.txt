@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.dtnizamabdullayev.com/sitemap-index.xml
+Sitemap: https://dtnizamabdullayev.com/sitemap-index.xml
