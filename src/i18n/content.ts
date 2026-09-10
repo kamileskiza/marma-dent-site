@@ -116,6 +116,8 @@ export const TREATMENT_CONTENT_LOCALES = [
 // not listed here.
 export const TREATMENT_LOCALES_OVERRIDE: Record<string, string[]> = {
   'emax-veneers': ['en', 'tr', 'ru', 'de'],
+  // Full Denture and Orthodontics now have content in all 29 languages —
+  // no override needed, they use the full TREATMENT_CONTENT_LOCALES list below.
   // zygomatic-implants, dental-bridge, invisalign now have content in all 15 languages —
   // no override needed, they use the full TREATMENT_CONTENT_LOCALES list below.
 };
