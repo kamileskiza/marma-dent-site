@@ -13,7 +13,10 @@ const t = getHome('en');
     <div class="wrap">
       <h1>404</h1>
       <p>Sorry, we couldn't find that page.</p>
-      <a href={localePath('en')} class="btn">Back to home</a>
+      <div class="notfound-actions">
+        <a href={localePath('en')} class="btn">Back to home</a>
+        <a href="https://wa.me/905551901034?text=Hello%2C%20I%20would%20like%20a%20free%20consultation" target="_blank" rel="noopener" class="btn btn-wa">Chat on WhatsApp</a>
+      </div>
     </div>
   </section>
   <Footer locale="en" t={t} />
@@ -21,6 +24,8 @@ const t = getHome('en');
     .notfound{padding:100px 24px;text-align:center;}
     .notfound h1{font-size:64px;color:var(--gold);}
     .notfound p{color:var(--ink-soft);margin:14px 0 24px;}
+    .notfound-actions{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;}
     .btn{display:inline-flex;padding:13px 24px;border-radius:99px;background:var(--gold);color:#fff;font-weight:700;font-size:14px;}
+    .btn-wa{background:#25D366;}
   </style>
 </BaseLayout>
