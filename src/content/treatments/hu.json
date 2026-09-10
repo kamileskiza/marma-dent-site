@@ -306,5 +306,49 @@
     ],
     "why_us": "A 3D tervezés pontosan megmutatja, milyen mozgásokra van szüksége az Ön esetének, mielőtt a kezelés egyáltalán elkezdődne.",
     "warranty": "A kezelés befejezése után retenciós fogsorokat biztosítunk az eredmény megőrzésére."
+  },
+  "full-denture": {
+    "eyebrow": "Protetikai fogászat",
+    "title": "Teljes Fogsor",
+    "tagline": "Teljes, egyénileg illesztett kivehető megoldás a felső vagy alsó fogsor összes fogának pótlására — műtét nélkül.",
+    "overview": [
+      "A teljes fogsor a fogsor összes fogát egy kivehető protézissel pótolja, amely közvetlenül az ínyen nyugszik, és a szívóhatás valamint a szája természetes kontúrjai tartják a helyén. Az íny és az állkapocs részletes lenyomata alapján készül, így kifejezetten az Ön szájára van formázva, nem egy általános sablon szerint.",
+      "Mivel nem jár műtéttel, a teljes fogsor általában a leggyorsabb és legmegfizethetőbb módja a hiányzó fogak teljes sorának pótlására, és szilárd választás marad azoknak a betegeknek, akik nem alkalmasak implantátumra, vagy inkább elkerülnék a műtétet."
+    ],
+    "who_for": [
+      "Hiányzik az összes vagy majdnem az összes foga egyik vagy mindkét állkapcsán",
+      "Nem műtéti, megfizethetőbb módot szeretne a teljes mosoly helyreállítására",
+      "Jelenleg nem alkalmas implantátumra, vagy inkább elkerülné a műtétet"
+    ],
+    "expect_steps": [
+      "Lenyomatok és harapásmérések az ínyről és az állkapocsról",
+      "Próbaillesztés, hogy ellenőrizhesse a formát, színt és harapást a véglegesítés előtt",
+      "Fogsorát az ínye árnyalatához és a kívánt fogszínhez igazítva készítik el és fejezik be",
+      "Végső illesztés, viselési, ápolási és kontroll látogatási útmutatással"
+    ],
+    "why_us": "Időt szánunk arra, hogy a próba szakaszban helyesen állítsuk be a harapást és az illeszkedést, mielőtt bármi véglegesítésre kerülne — ez határozza meg, hogy a fogsor természetesnek érződik-e. Ha implantátumon rögzített megoldások jobban megfelelnének Önnek, azt őszintén elmondjuk.",
+    "warranty": "A teljes fogsorokra standard klinikai garanciánk vonatkozik."
+  },
+  "orthodontics": {
+    "eyebrow": "Fogszabályozás",
+    "title": "Fogszabályozás és Fogszabályozó",
+    "tagline": "Görbe, zsúfolt vagy rosszul illeszkedő fogak kiegyenesítése hagyományos fogszabályozóval vagy átlátszó fogszabályozó kapákkal, a teljes harapás figyelembevételével tervezve.",
+    "overview": [
+      "A fogszabályozó kezelés fokozatosan mozgatja fogait egyenesebb, funkcionálisabb helyzetbe kontrollált, finom nyomás segítségével — vagy rögzített fogszabályozóval (zárak és huzal), vagy egy sor átlátszó, kivehető fogszabályozó kapával, az Ön esetétől és preferenciájától függően.",
+      "A megjelenésen túl a harapás megfelelő beállítása megkönnyíti a fogak tisztítását, csökkenti az egyenetlen kopást, és enyhítheti az állkapocsízület terhelését — ezért a kezelést a teljes harapás figyelembevételével tervezik, nem csak a mosolygáskor látható elülső fogakat."
+    ],
+    "who_for": [
+      "Fogai zsúfoltak, rések vannak köztük, elfordultak, vagy a harapása nem illeszkedik egyenletesen",
+      "Egyenesebb mosolyt szeretne, de a látható fém zárak helyett átlátszó kapákat preferál",
+      "Korábban már volt fogszabályozó kezelése, és fogai visszamozdultak"
+    ],
+    "expect_steps": [
+      "Digitális szkennelés és harapáselemzés a teljes kezelési terv felvázolásához",
+      "Rögzített fogszabályozó vagy az első átlátszó kapa szett felhelyezése",
+      "Rendszeres kontroll a huzalok beállításához vagy a következő kapa fázisra váltáshoz",
+      "Rögzítők a kezelés végén az új helyzet megtartásához"
+    ],
+    "why_us": "Minden esetet a kezdetektől digitálisan tervezünk, így nagyjából láthatja, hogyan fog megváltozni a harapása, mielőtt elköteleződne. Őszinték vagyunk a reális időkeretekkel kapcsolatban — a fogszabályozás hónapokig tart, nem napokig, és nem mondunk mást.",
+    "warranty": "A kezelés végén biztosított rögzítőkre standard klinikai garanciánk vonatkozik."
   }
 }
