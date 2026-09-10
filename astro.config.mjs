@@ -43,7 +43,7 @@ function slugRedirectsIntegration() {
 }
 
 export default defineConfig({
-  site: 'https://www.dtnizamabdullayev.com',
+  site: 'https://dtnizamabdullayev.com',
   trailingSlash: 'always',
   build: {
     assets: 'assets', // avoid a leading-underscore folder name (_astro/) — some
