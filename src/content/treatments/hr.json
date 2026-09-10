@@ -306,5 +306,49 @@
     ],
     "why_us": "3D planiranje pokazuje točno koje pokrete vaš slučaj treba, još prije nego što liječenje uopće počne.",
     "warranty": "Pružamo retencijske udlage nakon završetka liječenja radi održavanja rezultata."
+  },
+  "full-denture": {
+    "eyebrow": "Protetska stomatologija",
+    "title": "Potpuna Proteza",
+    "tagline": "Potpuno, individualno prilagođeno mobilno rješenje za zamjenu svih zuba u gornjoj ili donjoj čeljusti — bez operacije.",
+    "overview": [
+      "Potpuna proteza zamjenjuje sve zube u čeljusti mobilnom protezom koja se oslanja izravno na desni i drži zahvaljujući učinku usisavanja te prirodnim konturama vaših usta. Izrađuje se prema detaljnom otisku vaših desni i čeljusti, pa je oblikovana posebno za vaša usta, a ne prema općem kalupu.",
+      "Budući da ne uključuje operaciju, potpuna proteza obično je najbrži i najpristupačniji način zamjene cijelog luka nedostajućih zuba, i ostaje solidna opcija za pacijente koji nisu kandidati za implantate ili radije izbjegavaju operaciju."
+    ],
+    "who_for": [
+      "Nedostaju vam svi ili gotovo svi zubi u jednoj ili obje čeljusti",
+      "Želite neoperativan, pristupačniji način obnove potpunog osmijeha",
+      "Trenutno niste kandidat za implantate, ili radije izbjegavate operaciju"
+    ],
+    "expect_steps": [
+      "Otisci i mjerenja zagriza desni i čeljusti",
+      "Probna proba kako biste mogli provjeriti oblik, boju i zagriz prije finalizacije",
+      "Vaša proteza se izrađuje i dovršava kako bi odgovarala tonu vaših desni i željenoj boji zuba",
+      "Finalna proba s uputama o nošenju, njezi i kontrolnim posjetima"
+    ],
+    "why_us": "Odvajamo vrijeme za pravilno podešavanje zagriza i pristajanja u probnoj fazi, prije nego što se bilo što finalizira — upravo to određuje hoće li proteza djelovati prirodno. Ako bi vam opcije pridržane implantatima bolje odgovarale, to ćemo vam iskreno reći.",
+    "warranty": "Potpune proteze pokrivene su našim standardnim jamstvom klinike."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodoncija",
+    "title": "Ortodoncija i Nacinjaci",
+    "tagline": "Ispravljanje krivih, zbijenih ili nepravilno poravnatih zuba tradicionalnim nacinjacima ili prozirnim ekserima, planirano oko cijelog vašeg zagriza.",
+    "overview": [
+      "Ortodontsko liječenje postupno pomiče vaše zube u ravniji, funkcionalniji položaj kontroliranim, blagim pritiskom — bilo fiksnim nacinjacima (bravice i žica) ili nizom prozirnih mobilnih eksera, ovisno o vašem slučaju i preferenciji.",
+      "Osim izgleda, pravilno poravnanje zagriza olakšava čišćenje zuba, smanjuje neravnomjerno trošenje i može ublažiti opterećenje na čeljusni zglob — zato se liječenje planira oko cijelog vašeg zagriza, ne samo prednjih zuba vidljivih kad se smiješite."
+    ],
+    "who_for": [
+      "Vaši zubi su zbijeni, imaju razmake, zakrenuti su, ili se zagriz ne poklapa ravnomjerno",
+      "Želite ravniji osmijeh, ali radije nosite prozirne ekser nego vidljive metalne bravice",
+      "Prije ste imali ortodontsko liječenje, a zubi su se ponovno pomaknuli"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje i analiza zagriza za izradu potpunog plana liječenja",
+      "Postavljanje fiksnih nacinjača ili prvog seta prozirnih eksera",
+      "Redoviti pregledi za podešavanje žica ili prelazak na sljedeću fazu eksera",
+      "Retaineri na kraju liječenja za održavanje novog položaja"
+    ],
+    "why_us": "Svaki slučaj se od početka planira digitalno, tako da otprilike možete vidjeti kako će se vaš zagriz promijeniti prije nego što se obvežete. Iskreni smo oko realističnih rokova — ortodoncija traje mjesecima, ne danima, i nećemo vam reći drugačije.",
+    "warranty": "Retaineri pruženi na kraju liječenja pokriveni su našim standardnim jamstvom klinike."
   }
 }
