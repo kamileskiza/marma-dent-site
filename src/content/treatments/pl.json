@@ -304,5 +304,49 @@
     ],
     "why_us": "Każdy przypadek jest planowany cyfrowo od pierwszego skanu, dzięki czemu w przybliżeniu wiesz, ile nakładek będziesz potrzebować i jak powinien wyglądać efekt końcowy, zanim zaczniesz.",
     "warranty": "Po zakończeniu leczenia dostarczamy szyny retencyjne, aby utrzymać efekt."
+  },
+  "full-denture": {
+    "eyebrow": "Protetyka stomatologiczna",
+    "title": "Proteza Całkowita",
+    "tagline": "Kompletne, dopasowane indywidualnie rozwiązanie ruchome zastępujące wszystkie zęby w górnym lub dolnym łuku — bez operacji.",
+    "overview": [
+      "Proteza całkowita zastępuje wszystkie zęby w łuku ruchomą protezą, która opiera się bezpośrednio na dziąsłach i utrzymuje się dzięki efektowi ssania oraz naturalnym konturom jamy ustnej. Wykonywana jest na podstawie szczegółowego wycisku dziąseł i szczęki, dzięki czemu jest dopasowana specjalnie do Ciebie, a nie ma ogólnego kształtu.",
+      "Ponieważ nie wymaga operacji, proteza całkowita jest zwykle najszybszym i najbardziej przystępnym sposobem odbudowy całego łuku brakujących zębów i pozostaje solidną opcją dla pacjentów, którzy nie kwalifikują się do implantów lub wolą uniknąć operacji."
+    ],
+    "who_for": [
+      "Brakuje Ci wszystkich lub prawie wszystkich zębów w jednym lub obu łukach",
+      "Chcesz nieoperacyjnego, bardziej przystępnego sposobu na odbudowę pełnego uśmiechu",
+      "Obecnie nie kwalifikujesz się do implantów lub wolisz uniknąć operacji"
+    ],
+    "expect_steps": [
+      "Wyciski i pomiary zgryzu dziąseł i szczęki",
+      "Przymiarka próbna, aby sprawdzić kształt, kolor i zgryz przed finalizacją",
+      "Twoja proteza jest wykonywana i wykańczana zgodnie z odcieniem dziąseł i pożądanym kolorem zębów",
+      "Ostateczne dopasowanie wraz ze wskazówkami dotyczącymi noszenia, pielęgnacji i wizyt kontrolnych"
+    ],
+    "why_us": "Poświęcamy czas na prawidłowe dopasowanie zgryzu i osadzenia na etapie przymiarki, zanim cokolwiek zostanie sfinalizowane — to właśnie decyduje, czy proteza będzie odczuwana naturalnie. Jeśli opcje utrzymywane na implantach byłyby dla Ciebie lepsze, powiemy o tym szczerze.",
+    "warranty": "Protezy całkowite są objęte naszą standardową gwarancją kliniki."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodoncja",
+    "title": "Ortodoncja i Aparaty Ortodontyczne",
+    "tagline": "Prostowanie krzywych, stłoczonych lub nieprawidłowo ustawionych zębów za pomocą tradycyjnych aparatów lub przezroczystych nakładek, planowane wokół całego zgryzu.",
+    "overview": [
+      "Leczenie ortodontyczne stopniowo przesuwa zęby w bardziej prostą, funkcjonalną pozycję za pomocą kontrolowanego, delikatnego nacisku — za pomocą aparatu stałego (zamki i drut) lub serii przezroczystych nakładek zdejmowanych, w zależności od przypadku i preferencji.",
+      "Poza wyglądem, prawidłowe wyrównanie zgryzu ułatwia czyszczenie zębów, zmniejsza nierównomierne ścieranie i może zmniejszyć obciążenie stawu skroniowo-żuchwowego — dlatego leczenie jest planowane wokół całego zgryzu, a nie tylko przednich zębów widocznych podczas uśmiechu."
+    ],
+    "who_for": [
+      "Twoje zęby są stłoczone, mają przerwy, są obrócone, lub zgryz nie schodzi się równomiernie",
+      "Chcesz prostszego uśmiechu, ale wolisz przezroczyste nakładki niż widoczne metalowe zamki",
+      "Miałeś wcześniej leczenie ortodontyczne, a zęby wróciły do poprzedniej pozycji"
+    ],
+    "expect_steps": [
+      "Skan cyfrowy i analiza zgryzu w celu opracowania pełnego planu leczenia",
+      "Założenie aparatu stałego lub pierwszego zestawu przezroczystych nakładek",
+      "Regularne wizyty kontrolne w celu regulacji drutów lub przejścia do kolejnego etapu nakładek",
+      "Retainery po zakończeniu leczenia, aby utrzymać nową pozycję"
+    ],
+    "why_us": "Każdy przypadek jest planowany cyfrowo od samego początku, dzięki czemu możesz w przybliżeniu zobaczyć, jak zmieni się Twój zgryz, zanim się zdecydujesz. Jesteśmy szczerzy co do realistycznych ram czasowych — ortodoncja trwa miesiące, nie dni, i nie powiemy Ci inaczej.",
+    "warranty": "Retainery dostarczane po zakończeniu leczenia są objęte naszą standardową gwarancją kliniki."
   }
 }
