@@ -68,7 +68,7 @@ const EEAT: Record<string, string> = {
   <Header locale={locale} t={t} path={path} availableLocales={treatmentLocales} slugMap={slugMap} />
 
   <section class="detail-hero">
-    <img src={img} alt={d.title}>
+    <img src={img} alt={d.title} class="zoomable-hero" role="button" tabindex="0" aria-label={t.tap_to_zoom ?? 'Tap to enlarge photo'}>
     <div class="overlay"></div>
     <div class="wrap content">
       <span class="eyebrow">{d.eyebrow}</span>
@@ -76,6 +76,11 @@ const EEAT: Record<string, string> = {
       <p>{d.tagline}</p>
     </div>
   </section>
+
+  <div class="lightbox" id="hero-lightbox">
+    <button class="lightbox-close" aria-label="Close">&times;</button>
+    <img src={img} alt={d.title}>
+  </div>
 
   <section class="body">
     <div class="wrap">
@@ -147,6 +152,12 @@ const EEAT: Record<string, string> = {
   <style>
     .detail-hero{position:relative;min-height:320px;display:flex;align-items:flex-end;overflow:hidden;}
     .detail-hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+    .zoomable-hero{cursor:zoom-in;}
+    .lightbox{display:none;position:fixed;inset:0;z-index:999;background:rgba(6,16,32,.94);align-items:center;justify-content:center;padding:24px;cursor:zoom-out;}
+    .lightbox.open{display:flex;}
+    .lightbox img{max-width:100%;max-height:90vh;object-fit:contain;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.5);}
+    .lightbox-close{position:absolute;top:18px;right:20px;background:rgba(255,255,255,.12);border:none;color:#fff;width:40px;height:40px;border-radius:50%;font-size:26px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;}
+    .lightbox-close:hover{background:rgba(255,255,255,.22);}
     .overlay{position:absolute;inset:0;background:linear-gradient(0deg, rgba(8,27,52,.92) 0%, rgba(8,27,52,.5) 55%, rgba(8,27,52,.15) 100%);}
     .content{position:relative;z-index:1;padding:46px 24px 30px;color:#fff;}
     .eyebrow{display:inline-flex;font-family:'DM Mono',monospace;font-size:11px;text-transform:uppercase;color:var(--gold-light);background:rgba(255,255,255,.14);padding:6px 12px;border-radius:99px;}
@@ -184,4 +195,17 @@ const EEAT: Record<string, string> = {
     .btn-cyan{background:var(--gold);color:#fff;}
     .btn-outline{border:1px solid rgba(255,255,255,.5);color:#fff;}
   </style>
+
+  <script>
+    const heroImg = document.querySelector('.zoomable-hero');
+    const lightbox = document.getElementById('hero-lightbox');
+    const closeBtn = lightbox?.querySelector('.lightbox-close');
+    function openLightbox() { lightbox?.classList.add('open'); document.body.style.overflow = 'hidden'; }
+    function closeLightbox() { lightbox?.classList.remove('open'); document.body.style.overflow = ''; }
+    heroImg?.addEventListener('click', openLightbox);
+    heroImg?.addEventListener('keypress', (e) => { if ((e as KeyboardEvent).key === 'Enter') openLightbox(); });
+    closeBtn?.addEventListener('click', closeLightbox);
+    lightbox?.addEventListener('click', (e) => { if (e.target === lightbox) closeLightbox(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeLightbox(); });
+  </script>
 </BaseLayout>
