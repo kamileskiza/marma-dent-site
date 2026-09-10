@@ -304,5 +304,49 @@
     ],
     "why_us": "Cada caso se planifica digitalmente desde el primer escaneo, por lo que sabrá aproximadamente cuántos alineadores necesitará y cómo debería verse el resultado final antes de comenzar.",
     "warranty": "Proporcionamos férulas de retención al finalizar el tratamiento para mantener el resultado."
+  },
+  "full-denture": {
+    "eyebrow": "Odontología protésica",
+    "title": "Prótesis Dental Completa",
+    "tagline": "Una solución removible completa y ajustada a medida para reemplazar todos los dientes de una arcada superior o inferior — sin cirugía.",
+    "overview": [
+      "Una prótesis completa reemplaza todos los dientes de una arcada con un aparato removible que se apoya directamente sobre las encías, sujeto por succión y los contornos naturales de tu boca. Se elabora a partir de una impresión detallada de tus encías y mandíbula, por lo que está moldeada específicamente para tu boca, no un molde genérico.",
+      "Como no implica cirugía, una prótesis completa suele ser la forma más rápida y económica de reemplazar una arcada completa de dientes faltantes, y sigue siendo una opción sólida para pacientes que no son candidatos a implantes o prefieren evitar la cirugía."
+    ],
+    "who_for": [
+      "Te faltan todos o casi todos los dientes en una o ambas arcadas",
+      "Quieres una forma no quirúrgica y más económica de restaurar una sonrisa completa",
+      "Actualmente no eres candidato a implantes, o prefieres evitar la cirugía"
+    ],
+    "expect_steps": [
+      "Impresiones y mediciones de la mordida de tus encías y mandíbula",
+      "Una prueba de ajuste para verificar forma, color y mordida antes de finalizar",
+      "Tu prótesis se elabora y termina para coincidir con el tono de tus encías y el color de diente deseado",
+      "Ajuste final, con orientación sobre uso, cuidado y visitas de control"
+    ],
+    "why_us": "Nos tomamos el tiempo de ajustar correctamente la mordida y el encaje en la etapa de prueba, antes de finalizar nada — esto es lo que determina si una prótesis se sentirá natural. Si opciones retenidas por implantes te convendrían más, te lo diremos con honestidad.",
+    "warranty": "Las prótesis completas están cubiertas por nuestra garantía clínica estándar."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodoncia",
+    "title": "Ortodoncia y Brackets",
+    "tagline": "Enderezar dientes torcidos, apiñados o desalineados con brackets tradicionales o alineadores transparentes, planificado en torno a toda tu mordida.",
+    "overview": [
+      "El tratamiento de ortodoncia mueve gradualmente tus dientes a una posición más recta y funcional usando presión controlada y suave — ya sea con brackets fijos (soportes y alambre) o una serie de alineadores transparentes removibles, según tu caso y preferencia.",
+      "Más allá de la apariencia, alinear correctamente tu mordida facilita la limpieza dental, reduce el desgaste desigual y puede aliviar la tensión en tu articulación mandibular — por eso el tratamiento se planifica en torno a toda tu mordida, no solo los dientes frontales visibles al sonreír."
+    ],
+    "who_for": [
+      "Tus dientes están apiñados, con espacios, rotados, o tu mordida no encaja uniformemente",
+      "Quieres una sonrisa más recta pero prefieres alineadores transparentes a brackets metálicos visibles",
+      "Has tenido tratamiento de ortodoncia antes y tus dientes se han vuelto a mover"
+    ],
+    "expect_steps": [
+      "Escaneo digital y análisis de mordida para trazar el plan de tratamiento completo",
+      "Colocación de brackets fijos o tu primer juego de alineadores transparentes",
+      "Revisiones regulares para ajustar alambres o pasar a la siguiente etapa de alineadores",
+      "Retenedores al final del tratamiento para mantener la nueva posición"
+    ],
+    "why_us": "Cada caso se planifica digitalmente desde el principio, para que puedas ver aproximadamente cómo cambiará tu mordida antes de comprometerte. Somos honestos sobre plazos realistas — la ortodoncia toma meses, no días, y no te diremos lo contrario.",
+    "warranty": "Los retenedores proporcionados al final del tratamiento están cubiertos por nuestra garantía clínica estándar."
   }
 }
