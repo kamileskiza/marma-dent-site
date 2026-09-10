@@ -304,5 +304,49 @@
     ],
     "why_us": "Hər hal ilk skandan etibarən rəqəmsal olaraq planlaşdırılır, beləliklə başlamadan əvvəl təxminən neçə kapaya ehtiyacınız olacağını və son nəticənin necə görünəcəyini bilirsiniz.",
     "warranty": "Nəticəni qorumaq üçün müalicə tamamlandıqdan sonra saxlayıcı kapalar veririk."
+  },
+  "full-denture": {
+    "eyebrow": "Protez Stomatologiyası",
+    "title": "Tam Protez",
+    "tagline": "Üst və ya alt çənədəki bütün dişlərin cərrahiyyəsiz, fərdi ölçüyə uyğun çıxarıla bilən protezlə əvəz edilməsi.",
+    "overview": [
+      "Tam protez çənədəki bütün dişləri, diş ətlərinin üzərində birbaşa oturan və sorma effekti ilə ağzınızın təbii konturuna bərkidilən çıxarıla bilən protezlə əvəz edir. Diş ətlərinizin və çənənizin ətraflı ölçüsü əsasında hazırlanır, ona görə də ümumi qəlib deyil, sizə xas formaya malikdir.",
+      "Cərrahiyyə tələb olunmadığı üçün tam protez adətən itirilmiş bir çənə dolu dişi bərpa etməyin ən sürətli və ən sərfəli yoludur və implant üçün uyğun olmayan və ya cərrahiyyədən qaçınmaq istəyən xəstələr üçün etibarlı seçim olaraq qalır."
+    ],
+    "who_for": [
+      "Bir və ya hər iki çənənizdəki dişlərin hamısını və ya demək olar ki, hamısını itirmisinizsə",
+      "Cərrahiyyəsiz, daha sərfəli tam gülüş bərpası yolu istəyirsinizsə",
+      "Hazırda implant üçün uyğun deyilsinizsə və ya cərrahiyyədən qaçınmağı üstün tutursunuzsa"
+    ],
+    "expect_steps": [
+      "Diş ətlərinizin və çənənizin ölçüsü və dişləmə ölçmələri alınır",
+      "Yekunlaşdırılmadan əvvəl forma, rəng və dişləməni yoxlaya bilməyiniz üçün sınaq taxılması aparılır",
+      "Protezinizin diş əti tonunuza və istədiyiniz diş rənginə uyğun hazırlanması tamamlanır",
+      "Son taxılma; istifadə, qulluq və tənzimləmə vizitləri barədə məlumat verilir"
+    ],
+    "why_us": "Yekunlaşdırmadan əvvəl sınaq mərhələsində dişləmə və uyğunluğu düzgün tənzimləmək üçün vaxt ayırırıq — protezin təbii hiss olunub-olunmayacağını məhz bu müəyyən edir. İmplant üzərində saxlanılan seçimlər sizə daha uyğun olacaqsa, bunu dürüst şəkildə deyəcəyik.",
+    "warranty": "Tam protezlər standart klinika zəmanətimiz əhatə edir."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodontiya",
+    "title": "Ortodontiya və Diş Teli",
+    "tagline": "Əyri, sıx düzülmüş və ya nizamsız dişlərin ənənəvi diş teli və ya şəffaf kapalarla, bütün dişləməniz nəzərə alınmaqla düzəldilməsi.",
+    "overview": [
+      "Ortodontik müalicə dişlərinizi nəzarətli, yumşaq təzyiq tətbiq edərək tədricən daha düz, funksional vəziyyətə keçirir — vəziyyətinizdən və seçiminizdən asılı olaraq ya sabit diş teli (brakket və məftil), ya da bir sıra şəffaf çıxarıla bilən kapalarla.",
+      "Görünüşdən əlavə, dişləmənizin düzgün tənzimlənməsi dişlərin təmizlənməsini asanlaşdırır, qeyri-bərabər aşınmanı azaldır və çənə oynağına düşən yükü yüngülləşdirə bilər — buna görə müalicə yalnız gülərkən görünən ön dişlər deyil, bütün dişləməniz nəzərə alınaraq planlaşdırılır."
+    ],
+    "who_for": [
+      "Dişləriniz sıx, aralıqlı, burulmuş, və ya dişləməniz düzgün uyğunlaşmırsa",
+      "Daha düz gülüş istəyirsiniz, lakin görünən metal brakketlər əvəzinə şəffaf kapaları üstün tutursunuzsa",
+      "Əvvəllər ortodontik müalicə almısınızsa və dişləriniz yenidən sürüşübsə"
+    ],
+    "expect_steps": [
+      "Tam müalicə planını hazırlamaq üçün rəqəmsal skan və dişləmə analizi",
+      "Sabit diş telinin və ya ilk şəffaf kapa dəstinizin taxılması",
+      "Məftilləri tənzimləmək və ya sizi növbəti kapa mərhələsinə keçirmək üçün müntəzəm baxışlar",
+      "Yeni vəziyyəti saxlamaq üçün müalicənin sonunda retaynerlər"
+    ],
+    "why_us": "Hər vəziyyət əvvəldən rəqəmsal şəkildə planlaşdırılır, ona görə də öhdəlik götürmədən əvvəl dişləmənizin necə dəyişəcəyini təxminən görə bilərsiniz. Realist müddətlər barədə açığıq — ortodontiya aylar çəkir, günlər deyil, və biz sizə başqa cür deməyəcəyik.",
+    "warranty": "Müalicənin sonunda verilən retaynerlər standart klinika zəmanətimiz əhatə edir."
   }
 }
