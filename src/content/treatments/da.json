@@ -306,5 +306,49 @@
     ],
     "why_us": "3D-planlægning viser præcis, hvilke bevægelser dit tilfælde har brug for, allerede før behandlingen begynder.",
     "warranty": "Vi leverer retentionsskinner efter afsluttet behandling for at bevare resultatet."
+  },
+  "full-denture": {
+    "eyebrow": "Protetisk tandpleje",
+    "title": "Helprotese",
+    "tagline": "En komplet, individuelt tilpasset aftagelig løsning til at erstatte alle tænder i en øvre eller nedre tandbue — uden operation.",
+    "overview": [
+      "En helprotese erstatter alle tænder i en tandbue med en aftagelig protese, der hviler direkte på tandkødet og holdes på plads ved sugeeffekt og mundens naturlige konturer. Den fremstilles ud fra et detaljeret aftryk af dit tandkød og kæbe, så den er formet specifikt til din mund, ikke en generisk form.",
+      "Da der ikke er nogen operation involveret, er en helprotese normalt den hurtigste og mest overkommelige måde at erstatte en hel bue af manglende tænder på, og forbliver et solidt valg for patienter, der ikke er kandidater til implantater eller foretrækker at undgå operation."
+    ],
+    "who_for": [
+      "Du mangler alle eller næsten alle dine tænder i en eller begge tandbuer",
+      "Du vil have en ikke-kirurgisk, mere overkommelig måde at genskabe et komplet smil på",
+      "Du er i øjeblikket ikke kandidat til implantater, eller foretrækker at undgå operation"
+    ],
+    "expect_steps": [
+      "Aftryk og bidmålinger af dit tandkød og kæbe",
+      "En prøvetilpasning, så du kan kontrollere form, farve og bid før det færdiggøres",
+      "Din protese fremstilles og færdiggøres, så den matcher din tandkødstone og ønskede tandfarve",
+      "Endelig tilpasning med vejledning om brug, pleje og kontrolbesøg"
+    ],
+    "why_us": "Vi tager os tid til at indstille bid og pasform korrekt i prøvefasen, før noget færdiggøres — det er dette, der afgør, om en protese føles naturlig. Hvis implantatbårne løsninger ville passe dig bedre, siger vi det ærligt.",
+    "warranty": "Helproteser er dækket af vores standard klinikgaranti."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodonti",
+    "title": "Ortodonti og Bøjle",
+    "tagline": "Retning af skæve, trange eller forkert stillede tænder med traditionel bøjle eller gennemsigtige skinner, planlagt omkring hele dit bid.",
+    "overview": [
+      "Ortodontisk behandling flytter gradvist dine tænder til en rettere, mere funktionel position ved hjælp af kontrolleret, mildt tryk — enten med fast bøjle (brackets og tråd) eller en serie gennemsigtige aftagelige skinner, afhængigt af dit tilfælde og din præference.",
+      "Ud over udseendet gør korrekt justering af dit bid det lettere at rengøre tænderne, reducerer ujævnt slid og kan lindre belastningen på din kæbeled — derfor planlægges behandlingen omkring hele dit bid, ikke kun fortænderne, der er synlige, når du smiler."
+    ],
+    "who_for": [
+      "Dine tænder er trange, har mellemrum, er drejede, eller dit bid mødes ikke jævnt",
+      "Du vil have et rettere smil, men foretrækker gennemsigtige skinner frem for synlige metalbrackets",
+      "Du har haft ortodontisk behandling før, og dine tænder har flyttet sig tilbage"
+    ],
+    "expect_steps": [
+      "Digital scanning og bidanalyse for at kortlægge den fulde behandlingsplan",
+      "Montering af fast bøjle eller dit første sæt gennemsigtige skinner",
+      "Regelmæssige kontrolbesøg for at justere tråde eller gå videre til næste skinnetrin",
+      "Retainere ved behandlingens afslutning for at fastholde den nye position"
+    ],
+    "why_us": "Hvert tilfælde planlægges digitalt fra starten, så du nogenlunde kan se, hvordan dit bid vil ændre sig, før du forpligter dig. Vi er ærlige om realistiske tidsrammer — ortodonti tager måneder, ikke dage, og det siger vi også.",
+    "warranty": "Retainere, der leveres ved behandlingens afslutning, er dækket af vores standard klinikgaranti."
   }
 }
