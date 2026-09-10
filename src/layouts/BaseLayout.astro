@@ -18,6 +18,40 @@ const { locale, title, description, path, ogImage = '/images/hollywood-smile.jpg
 const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://dtnizamabdullayev.com';
 const canonical = `${site}${localePath(locale, path)}`;
 const localeInfo = LOCALES.find((l) => l.code === locale) ?? LOCALES[0];
+
+const COOKIE_I18N: Record<string, { text: string; accept: string }> = {
+  en: { text: "We use cookies to improve your experience on this site.", accept: "Accept" },
+  tr: { text: "Bu sitede deneyiminizi iyileştirmek için çerezler kullanıyoruz.", accept: "Kabul Et" },
+  ru: { text: "Мы используем файлы cookie для улучшения вашего опыта на сайте.", accept: "Принять" },
+  de: { text: "Wir verwenden Cookies, um Ihre Erfahrung auf dieser Website zu verbessern.", accept: "Akzeptieren" },
+  ar: { text: "نستخدم ملفات تعريف الارتباط لتحسين تجربتك على هذا الموقع.", accept: "قبول" },
+  az: { text: "Bu saytda təcrübənizi yaxşılaşdırmaq üçün kukilərdən istifadə edirik.", accept: "Qəbul et" },
+  uk: { text: "Ми використовуємо файли cookie для покращення вашого досвіду на цьому сайті.", accept: "Прийняти" },
+  bg: { text: "Използваме бисквитки, за да подобрим вашето изживяване на този сайт.", accept: "Приемам" },
+  nl: { text: "Wij gebruiken cookies om uw ervaring op deze site te verbeteren.", accept: "Accepteren" },
+  fr: { text: "Nous utilisons des cookies pour améliorer votre expérience sur ce site.", accept: "Accepter" },
+  pl: { text: "Używamy plików cookie, aby poprawić Twoje wrażenia na tej stronie.", accept: "Akceptuję" },
+  ro: { text: "Folosim cookie-uri pentru a vă îmbunătăți experiența pe acest site.", accept: "Accept" },
+  it: { text: "Utilizziamo i cookie per migliorare la tua esperienza su questo sito.", accept: "Accetta" },
+  el: { text: "Χρησιμοποιούμε cookies για να βελτιώσουμε την εμπειρία σας σε αυτόν τον ιστότοπο.", accept: "Αποδοχή" },
+  es: { text: "Utilizamos cookies para mejorar su experiencia en este sitio.", accept: "Aceptar" },
+  cs: { text: "Používáme cookies ke zlepšení vašeho zážitku na tomto webu.", accept: "Přijmout" },
+  sk: { text: "Používame cookies na zlepšenie vášho zážitku na tejto stránke.", accept: "Prijať" },
+  hu: { text: "Sütiket használunk az Ön élményének javítása érdekében ezen az oldalon.", accept: "Elfogadom" },
+  lt: { text: "Naudojame slapukus, kad pagerintume jūsų patirtį šioje svetainėje.", accept: "Sutinku" },
+  lv: { text: "Mēs izmantojam sīkfailus, lai uzlabotu jūsu pieredzi šajā vietnē.", accept: "Piekrītu" },
+  et: { text: "Kasutame küpsiseid, et parandada teie kogemust sellel saidil.", accept: "Nõustun" },
+  pt: { text: "Utilizamos cookies para melhorar a sua experiência neste site.", accept: "Aceitar" },
+  sv: { text: "Vi använder cookies för att förbättra din upplevelse på denna webbplats.", accept: "Acceptera" },
+  da: { text: "Vi bruger cookies til at forbedre din oplevelse på dette websted.", accept: "Accepter" },
+  fi: { text: "Käytämme evästeitä parantaaksemme kokemustasi tällä sivustolla.", accept: "Hyväksy" },
+  hr: { text: "Koristimo kolačiće za poboljšanje vašeg iskustva na ovoj stranici.", accept: "Prihvati" },
+  sl: { text: "Uporabljamo piškotke za izboljšanje vaše izkušnje na tej strani.", accept: "Sprejmi" },
+  sr: { text: "Користимо колачиће да побољшамо ваше искуство на овом сајту.", accept: "Прихвати" },
+  no: { text: "Vi bruker informasjonskapsler for å forbedre din opplevelse på dette nettstedet.", accept: "Godta" },
+};
+const cookieI18n = COOKIE_I18N[locale] ?? COOKIE_I18N.en;
+
 const hreflangLocales = LOCALES.filter((l) => {
   if (availableLocales && !availableLocales.includes(l.code)) return false;
   // If a slugMap was supplied, only emit a link for locales it actually covers —
@@ -425,5 +459,32 @@ function hreflangHref(code: string): string {
 </head>
 <body>
   <slot />
+
+  <div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="Cookie notice">
+    <p>{cookieI18n.text}</p>
+    <button id="cookie-accept" type="button">{cookieI18n.accept}</button>
+  </div>
+
+  <style>
+    .cookie-banner{position:fixed;left:16px;right:16px;bottom:16px;z-index:9999;max-width:560px;margin:0 auto;background:var(--navy-deep,#0B2545);color:#fff;border-radius:14px;padding:16px 18px;display:none;align-items:center;gap:16px;flex-wrap:wrap;box-shadow:0 12px 40px rgba(0,0,0,.28);}
+    .cookie-banner.show{display:flex;}
+    .cookie-banner p{margin:0;font-size:13px;line-height:1.5;flex:1;min-width:200px;color:rgba(255,255,255,.9);}
+    .cookie-banner button{background:var(--gold,#C9A24B);color:#fff;border:none;border-radius:99px;padding:9px 20px;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap;}
+  </style>
+  <script define:vars={{}}>
+    (function () {
+      try {
+        if (localStorage.getItem('cookie-consent') === 'yes') return;
+      } catch (e) {}
+      var banner = document.getElementById('cookie-banner');
+      var btn = document.getElementById('cookie-accept');
+      if (!banner || !btn) return;
+      banner.classList.add('show');
+      btn.addEventListener('click', function () {
+        try { localStorage.setItem('cookie-consent', 'yes'); } catch (e) {}
+        banner.classList.remove('show');
+      });
+    })();
+  </script>
 </body>
 </html>
