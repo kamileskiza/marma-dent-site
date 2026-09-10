@@ -306,5 +306,49 @@
     ],
     "why_us": "3D plánovanie ukáže presne, aké pohyby váš prípad potrebuje, skôr než liečba vôbec začne.",
     "warranty": "Poskytujeme retenčné dlahy po dokončení liečby na udržanie výsledku."
+  },
+  "full-denture": {
+    "eyebrow": "Protetická stomatológia",
+    "title": "Celková Zubná Náhrada",
+    "tagline": "Kompletné, individuálne upravené snímateľné riešenie na náhradu všetkých zubov v hornej alebo dolnej čeľusti — bez operácie.",
+    "overview": [
+      "Celková zubná náhrada nahrádza všetky zuby v čeľusti snímateľnou protézou, ktorá spočíva priamo na ďasnách a drží vďaka prísavnému efektu a prirodzeným kontúram úst. Vyrába sa podľa podrobného odtlačku ďasien a čeľuste, takže je tvarovaná špeciálne pre vaše ústa, nie podľa všeobecnej formy.",
+      "Keďže nezahŕňa žiadnu operáciu, celková zubná náhrada je zvyčajne najrýchlejším a najdostupnejším spôsobom nahradenia celého oblúka chýbajúcich zubov a zostáva solídnou voľbou pre pacientov, ktorí nie sú vhodní kandidáti na implantáty alebo preferujú vyhnúť sa operácii."
+    ],
+    "who_for": [
+      "Chýbajú vám všetky alebo takmer všetky zuby v jednej alebo oboch čeľustiach",
+      "Chcete neoperačný, dostupnejší spôsob obnovy kompletného úsmevu",
+      "Momentálne nie ste vhodný kandidát na implantáty, alebo preferujete vyhnúť sa operácii"
+    ],
+    "expect_steps": [
+      "Odtlačky a meranie skusu ďasien a čeľuste",
+      "Skúšobné nasadenie, aby ste mohli skontrolovať tvar, farbu a skus pred finalizáciou",
+      "Vaša náhrada je vyrobená a dokončená tak, aby zodpovedala tónu ďasien a požadovanému odtieňu zubov",
+      "Finálne nasadenie s pokynmi ohľadom nosenia, starostlivosti a kontrolných návštev"
+    ],
+    "why_us": "Venujeme čas správnemu nastaveniu skusu a priliehavosti v skúšobnej fáze, kým je čokoľvek finalizované — to je to, čo určuje, či bude náhrada pôsobiť prirodzene. Ak by vám lepšie vyhovovali možnosti kotvené na implantátoch, povieme vám to úprimne.",
+    "warranty": "Celkové zubné náhrady sú kryté našou štandardnou klinickou zárukou."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodoncia",
+    "title": "Ortodoncia a Strojček",
+    "tagline": "Narovnanie krivých, nahustených alebo nesprávne vyrovnaných zubov pomocou tradičného strojčeka alebo priehľadných dláh, plánované s ohľadom na celý váš skus.",
+    "overview": [
+      "Ortodontická liečba postupne posúva vaše zuby do rovnejšej, funkčnejšej polohy pomocou kontrolovaného, jemného tlaku — buď fixným strojčekom (zámky a drôt), alebo sériou priehľadných snímateľných dláh, podľa vášho prípadu a preferencie.",
+      "Okrem vzhľadu uľahčuje správne zarovnanie skusu čistenie zubov, znižuje nerovnomerné opotrebovanie a môže uľaviť záťaži na čeľustnom kĺbe — preto je liečba plánovaná s ohľadom na celý váš skus, nielen predné zuby viditeľné pri úsmeve."
+    ],
+    "who_for": [
+      "Vaše zuby sú nahustené, s medzerami, otočené, alebo sa váš skus rovnomerne nestretáva",
+      "Chcete rovnejší úsmev, ale preferujete priehľadné dlahy pred viditeľnými kovovými zámkami",
+      "Mali ste už predtým ortodontickú liečbu a zuby sa opäť posunuli"
+    ],
+    "expect_steps": [
+      "Digitálny sken a analýza skusu na zostavenie kompletného plánu liečby",
+      "Nasadenie fixného strojčeka alebo vašej prvej sady priehľadných dláh",
+      "Pravidelné kontroly na úpravu drôtov alebo prechod na ďalšiu fázu dláh",
+      "Retainery na konci liečby na udržanie novej polohy"
+    ],
+    "why_us": "Každý prípad je od začiatku plánovaný digitálne, takže môžete približne vidieť, ako sa váš skus zmení, kým sa zaviažete. Sme úprimní ohľadom realistických časových rámcov — ortodoncia trvá mesiace, nie dni, a nepovieme vám inak.",
+    "warranty": "Retainery poskytnuté na konci liečby sú kryté našou štandardnou klinickou zárukou."
   }
 }
