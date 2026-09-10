@@ -306,5 +306,49 @@
     ],
     "why_us": "3D-suunnittelu näyttää tarkalleen, mitä liikkeitä tapauksesi tarvitsee, jo ennen hoidon alkua.",
     "warranty": "Tarjoamme retentiokiskot hoidon päätyttyä tuloksen ylläpitämiseksi."
+  },
+  "full-denture": {
+    "eyebrow": "Proteettinen hammashoito",
+    "title": "Kokoproteesi",
+    "tagline": "Täydellinen, yksilöllisesti sovitettu irrotettava ratkaisu kaikkien ylä- tai alaleuan hampaiden korvaamiseen — ilman leikkausta.",
+    "overview": [
+      "Kokoproteesi korvaa kaikki leuan hampaat irrotettavalla proteesilla, joka lepää suoraan ikenillä ja pysyy paikallaan imuvaikutuksen sekä suun luonnollisten muotojen ansiosta. Se valmistetaan ikenistänne ja leuastanne otetun tarkan jäljennöksen perusteella, joten se on muotoiltu juuri teidän suullenne, ei yleisen muotin mukaan.",
+      "Koska leikkausta ei tarvita, kokoproteesi on yleensä nopein ja edullisin tapa korvata koko puuttuva hammaskaari, ja se pysyy toimivana vaihtoehtona potilaille, jotka eivät sovi implanteille tai haluavat välttää leikkauksen."
+    ],
+    "who_for": [
+      "Teiltä puuttuvat kaikki tai lähes kaikki hampaat toisesta tai molemmista leuoista",
+      "Haluatte ei-kirurgisen, edullisemman tavan palauttaa täyden hymyn",
+      "Ette tällä hetkellä sovi implanteille, tai haluatte mieluummin välttää leikkauksen"
+    ],
+    "expect_steps": [
+      "Ikenien ja leuan jäljennökset sekä purentamittaukset",
+      "Koesovitus, jotta voitte tarkistaa muodon, värin ja purennan ennen viimeistelyä",
+      "Proteesinne valmistetaan ja viimeistellään vastaamaan ikenienne sävyä ja haluttua hampaiden väriä",
+      "Lopullinen sovitus sekä ohjeet käytöstä, hoidosta ja tarkastuskäynneistä"
+    ],
+    "why_us": "Käytämme aikaa purennan ja istuvuuden säätämiseen oikein koevaiheessa, ennen kuin mitään viimeistellään — juuri tämä ratkaisee, tuntuuko proteesi luonnolliselta. Jos implanttikannatteiset vaihtoehdot sopisivat teille paremmin, kerromme sen rehellisesti.",
+    "warranty": "Kokoproteesit kuuluvat vakiomuotoisen klinikkatakuumme piiriin."
+  },
+  "orthodontics": {
+    "eyebrow": "Oikomishoito",
+    "title": "Oikomishoito ja Hammasraudat",
+    "tagline": "Vinojen, ahtaiden tai väärin asettuneiden hampaiden oikaisu perinteisillä hammasraudoilla tai läpinäkyvillä oikomiskiskoilla, suunniteltuna koko purentanne huomioiden.",
+    "overview": [
+      "Oikomishoito siirtää hampaitanne asteittain suorempaan, toimivampaan asentoon hallitulla, hellävaraisella paineella — joko kiinteillä hammasraudoilla (kiinnikkeet ja lanka) tai sarjalla läpinäkyviä irrotettavia oikomiskiskoja, tapauksestanne ja mieltymyksestänne riippuen.",
+      "Ulkonäön lisäksi purennan oikea asettelu helpottaa hampaiden puhdistusta, vähentää epätasaista kulumista ja voi lievittää leukanivelen rasitusta — siksi hoito suunnitellaan koko purentanne mukaan, ei vain hymyillessä näkyviä etuhampaita."
+    ],
+    "who_for": [
+      "Hampaanne ovat ahtaat, niissä on rakoja, ne ovat kiertyneet, tai purentanne ei kohtaa tasaisesti",
+      "Haluatte suoremman hymyn, mutta suositte läpinäkyviä kiskoja näkyvien metallikiinnikkeiden sijaan",
+      "Olette käyneet oikomishoidossa aiemmin ja hampaanne ovat siirtyneet takaisin"
+    ],
+    "expect_steps": [
+      "Digitaalinen skannaus ja purenta-analyysi koko hoitosuunnitelman laatimiseksi",
+      "Kiinteiden hammasrautojen tai ensimmäisen läpinäkyvän kiskosarjan asennus",
+      "Säännölliset tarkastuskäynnit lankojen säätämiseksi tai seuraavaan kiskovaiheeseen siirtymiseksi",
+      "Retentiokojeet hoidon lopussa uuden asennon säilyttämiseksi"
+    ],
+    "why_us": "Jokainen tapaus suunnitellaan digitaalisesti alusta alkaen, joten näette suunnilleen, miten purentanne muuttuu ennen sitoutumista. Olemme rehellisiä realistisista aikatauluista — oikomishoito kestää kuukausia, ei päiviä, emmekä sano toisin.",
+    "warranty": "Hoidon lopussa annetut retentiokojeet kuuluvat vakiomuotoisen klinikkatakuumme piiriin."
   }
 }
