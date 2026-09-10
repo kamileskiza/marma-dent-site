@@ -4,7 +4,7 @@ export const TREATMENT_IMAGES: Record<TreatmentId, string> = {
   'all-on-4-5-6': '/images/all-on-4.jpg',
   'emax-veneers': '/images/hollywood-smile.jpg',
   'zygomatic-implants': '/images/zygomatic-implants.png',
-  'dental-bridge': '/images/dental-bridge.png',
+  'dental-bridge': '/images/dental-bridge.jpg',
   'invisalign': '/images/invisalign.png',
   'dental-implants': '/images/dental-implants.jpg',
   'hollywood-smile': '/images/hollywood-smile.jpg',
@@ -15,4 +15,6 @@ export const TREATMENT_IMAGES: Record<TreatmentId, string> = {
   'gingivectomy': '/images/gingivectomy.jpg',
   'sinus-lift': '/images/sinus-lift.jpg',
   'root-canal-therapy': '/images/root-canal.jpg',
+  'full-denture': '/images/full-denture.webp',
+  'orthodontics': '/images/orthodontics.jpg',
 };
