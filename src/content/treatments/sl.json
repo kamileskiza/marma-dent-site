@@ -306,5 +306,49 @@
     ],
     "why_us": "3D načrtovanje natančno pokaže, katere gibe vaš primer potrebuje, še preden se zdravljenje sploh začne.",
     "warranty": "Po zaključku zdravljenja nudimo retencijske opornice za ohranjanje rezultata."
+  },
+  "full-denture": {
+    "eyebrow": "Protetična stomatologija",
+    "title": "Popolna Proteza",
+    "tagline": "Popolna, individualno prilagojena snemna rešitev za nadomestitev vseh zob v zgornji ali spodnji čeljusti — brez operacije.",
+    "overview": [
+      "Popolna proteza nadomesti vse zobe v čeljusti s snemno protezo, ki počiva neposredno na dlesnih in se drži zaradi učinka sesanja ter naravnih kontur vaših ust. Izdelana je po podrobnem odtisu vaših dlesni in čeljusti, zato je oblikovana posebej za vaša usta, ne po splošnem kalupu.",
+      "Ker operacija ni potrebna, je popolna proteza običajno najhitrejši in najcenejši način nadomestitve celotnega loka manjkajočih zob in ostaja solidna možnost za paciente, ki niso kandidati za vsadke ali raje izbirajo brez operacije."
+    ],
+    "who_for": [
+      "Manjkajo vam vsi ali skoraj vsi zobje v eni ali obeh čeljustih",
+      "Želite neoperativen, cenejši način obnovitve popolnega nasmeha",
+      "Trenutno niste kandidat za vsadke, ali raje izbirate brez operacije"
+    ],
+    "expect_steps": [
+      "Odtisi in meritve ugriza dlesni in čeljusti",
+      "Poskusna namestitev, da lahko preverite obliko, barvo in ugriz pred dokončanjem",
+      "Vaša proteza je izdelana in dokončana tako, da ustreza tonu vaših dlesni in želeni barvi zob",
+      "Končna namestitev z navodili glede nošenja, nege in kontrolnih obiskov"
+    ],
+    "why_us": "Vzamemo si čas, da v poskusni fazi pravilno nastavimo ugriz in prileganje, preden je karkoli dokončano — prav to odloča, ali bo proteza delovala naravno. Če bi vam bolje ustrezale možnosti, pritrjene na vsadke, vam bomo to iskreno povedali.",
+    "warranty": "Popolne proteze so krite z našo standardno garancijo klinike."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodontija",
+    "title": "Ortodontija in Zobni Aparat",
+    "tagline": "Poravnava krivih, gnečenih ali nepravilno poravnanih zob s tradicionalnim zobnim aparatom ali prozornimi opornicami, načrtovana glede na celoten vaš ugriz.",
+    "overview": [
+      "Ortodontsko zdravljenje postopoma premika vaše zobe v bolj raven, funkcionalen položaj z nadzorovanim, blagim pritiskom — bodisi s fiksnim zobnim aparatom (zaponke in žica) ali serijo prozornih snemnih opornic, odvisno od vašega primera in preference.",
+      "Poleg videza pravilna poravnava ugriza olajša čiščenje zob, zmanjša neenakomerno obrabo in lahko olajša obremenitev čeljustnega sklepa — zato je zdravljenje načrtovano glede na celoten vaš ugriz, ne le sprednje zobe, vidne ob nasmehu."
+    ],
+    "who_for": [
+      "Vaši zobje so gnečeni, imajo vrzeli, so zasukani, ali se vaš ugriz ne ujema enakomerno",
+      "Želite bolj raven nasmeh, vendar raje izberete prozorne opornice namesto vidnih kovinskih zaponk",
+      "Ste že imeli ortodontsko zdravljenje in so se vaši zobje premaknili nazaj"
+    ],
+    "expect_steps": [
+      "Digitalno skeniranje in analiza ugriza za izdelavo celotnega načrta zdravljenja",
+      "Namestitev fiksnega zobnega aparata ali vašega prvega kompleta prozornih opornic",
+      "Redni pregledi za prilagoditev žic ali prehod na naslednjo fazo opornic",
+      "Retainerji ob koncu zdravljenja za ohranjanje novega položaja"
+    ],
+    "why_us": "Vsak primer je od začetka načrtovan digitalno, tako da lahko približno vidite, kako se bo vaš ugriz spremenil, preden se zavežete. Iskreni smo glede realističnih časovnih okvirov — ortodontija traja mesece, ne dni, in tega vam ne bomo povedali drugače.",
+    "warranty": "Retainerji, zagotovljeni ob koncu zdravljenja, so kriti z našo standardno garancijo klinike."
   }
 }
