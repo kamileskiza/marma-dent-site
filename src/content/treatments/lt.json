@@ -306,5 +306,49 @@
     ],
     "why_us": "3D planavimas parodo tiksliai, kokių judesių reikia jūsų atveju, dar prieš prasidedant gydymui.",
     "warranty": "Po gydymo pabaigos teikiame retencines kapas rezultatui išlaikyti."
+  },
+  "full-denture": {
+    "eyebrow": "Protezavimo odontologija",
+    "title": "Pilnas Protezas",
+    "tagline": "Pilnas, individualiai pritaikytas nuimamas sprendimas visiems viršutinio ar apatinio žandikaulio dantims pakeisti — be operacijos.",
+    "overview": [
+      "Pilnas protezas pakeičia visus žandikaulio dantis nuimamu protezu, kuris remiasi tiesiai ant dantenų ir laikosi dėl siurbimo efekto bei natūralių burnos kontūrų. Jis gaminamas pagal detalų dantenų ir žandikaulio atspaudą, todėl yra suformuotas būtent jūsų burnai, o ne pagal bendrą formą.",
+      "Kadangi operacija nereikalinga, pilnas protezas paprastai yra greičiausias ir prieinamiausias būdas pakeisti visą trūkstamų dantų lanką ir išlieka patikima galimybe pacientams, kuriems netinka implantai arba kurie nori išvengti operacijos."
+    ],
+    "who_for": [
+      "Jums trūksta visų arba beveik visų dantų viename ar abiejuose žandikauliuose",
+      "Norite neoperacinio, prieinamesnio būdo atkurti visą šypseną",
+      "Šiuo metu jums netinka implantai arba norite išvengti operacijos"
+    ],
+    "expect_steps": [
+      "Dantenų ir žandikaulio atspaudų bei sąkandžio matavimai",
+      "Bandomasis pritaikymas, kad galėtumėte patikrinti formą, spalvą ir sąkandį prieš galutinį pagaminimą",
+      "Jūsų protezas pagaminamas ir užbaigiamas atsižvelgiant į dantenų atspalvį ir norimą dantų spalvą",
+      "Galutinis pritaikymas su rekomendacijomis dėl dėvėjimo, priežiūros ir kontrolinių vizitų"
+    ],
+    "why_us": "Skiriame laiko teisingai nustatyti sąkandį ir prigludimą bandomajame etape, prieš viską užbaigiant — būtent tai lemia, ar protezas jausis natūraliai. Jei implantais tvirtinami sprendimai jums tiktų geriau, sąžiningai apie tai pasakysime.",
+    "warranty": "Pilniems protezams taikoma mūsų standartinė klinikos garantija."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodontija",
+    "title": "Ortodontija ir Breketai",
+    "tagline": "Kreivų, susigrūdusių ar netaisyklingai sulygiuotų dantų tiesinimas tradiciniais breketais ar skaidriais nakteliais, planuojant visą jūsų sąkandį.",
+    "overview": [
+      "Ortodontinis gydymas laipsniškai perkelia jūsų dantis į tiesesnę, funkcionalesnę padėtį naudojant kontroliuojamą, švelnų spaudimą — arba fiksuotais breketais (spaustukai ir viela), arba serija skaidrių nuimamų nakčių, priklausomai nuo jūsų atvejo ir pageidavimo.",
+      "Be išvaizdos, tinkamas sąkandžio sulygiavimas palengvina dantų valymą, sumažina netolygų dilimą ir gali sumažinti apkrovą žandikaulio sąnariui — todėl gydymas planuojamas atsižvelgiant į visą jūsų sąkandį, o ne tik priekinius dantis, matomus šypsantis."
+    ],
+    "who_for": [
+      "Jūsų dantys susigrūdę, su tarpais, pasukti, arba sąkandis nesutampa tolygiai",
+      "Norite tiesesnės šypsenos, bet labiau mėgstate skaidrius naktelius nei matomus metalinius breketus",
+      "Anksčiau turėjote ortodontinį gydymą, o dantys vėl pasislinko"
+    ],
+    "expect_steps": [
+      "Skaitmeninis skenavimas ir sąkandžio analizė, siekiant nubrėžti visą gydymo planą",
+      "Fiksuotų breketų arba pirmojo skaidrių nakčių komplekto uždėjimas",
+      "Reguliarūs vizitai vielai reguliuoti arba perėjimui į kitą nakčių etapą",
+      "Retaineriai gydymo pabaigoje naujai padėčiai išlaikyti"
+    ],
+    "why_us": "Kiekvienas atvejis nuo pat pradžių planuojamas skaitmeniniu būdu, todėl galite apytiksliai pamatyti, kaip pasikeis jūsų sąkandis, prieš įsipareigojant. Esame atviri dėl realistiškų terminų — ortodontija trunka mėnesius, o ne dienas, ir kitaip nesakysime.",
+    "warranty": "Gydymo pabaigoje suteikiami retaineriai padengiami mūsų standartine klinikos garantija."
   }
 }
