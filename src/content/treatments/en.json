@@ -326,5 +326,49 @@
     ],
     "why_us": "Every case is planned digitally from the first scan, so you know roughly how many aligners you'll need and what the end result should look like before you start.",
     "warranty": "We provide retention aligners after treatment is complete to maintain the result."
+  },
+  "full-denture": {
+    "eyebrow": "Prosthodontics",
+    "title": "Full Denture",
+    "tagline": "A complete, custom-fitted removable option for replacing all the teeth in an upper or lower arch — without surgery.",
+    "overview": [
+      "A full (complete) denture replaces every tooth in an arch with a removable prosthesis that rests directly on the gums, held in place by suction and the natural contours of your mouth. It's made from a detailed impression of your gums and jaw, so it's shaped to fit your mouth specifically, not a generic mould.",
+      "Because there's no surgery involved, a full denture is usually the fastest and most affordable way to replace a full arch of missing teeth, and it remains a solid option for patients who aren't candidates for implants or prefer not to have surgery."
+    ],
+    "who_for": [
+      "You're missing all or nearly all of your teeth in one or both arches",
+      "You want a non-surgical, more affordable way to restore a full smile",
+      "You're not currently a candidate for implants, or prefer to avoid surgery"
+    ],
+    "expect_steps": [
+      "Impressions and bite measurements of your gums and jaw",
+      "A trial fitting so you can check the shape, colour and bite before it's finalised",
+      "Your denture is processed and finished to match your gum tone and desired tooth shade",
+      "Final fitting, with guidance on wear, care and adjustment visits"
+    ],
+    "why_us": "We take the time to get the bite and fit right at the trial stage, before anything is finalised — this is what determines whether a denture feels natural or not. If implant-retained options would serve you better, we'll say so honestly.",
+    "warranty": "Full dentures are covered by our standard clinic warranty."
+  },
+  "orthodontics": {
+    "eyebrow": "Orthodontics",
+    "title": "Orthodontics & Braces",
+    "tagline": "Straightening crooked, crowded or misaligned teeth with traditional braces or clear aligners, planned around your bite as a whole.",
+    "overview": [
+      "Orthodontic treatment gradually moves your teeth into a straighter, more functional position using controlled, gentle pressure — either with fixed braces (brackets and wire) or a series of clear removable aligners, depending on your case and preference.",
+      "Beyond appearance, straightening your bite properly makes teeth easier to clean, reduces uneven wear, and can relieve strain on your jaw joint — which is why treatment is planned around your full bite, not just the front teeth that show when you smile."
+    ],
+    "who_for": [
+      "Your teeth are crowded, gapped, rotated, or your bite doesn't line up evenly",
+      "You want a straighter smile but would prefer clear aligners over visible metal brackets",
+      "You've had orthodontic treatment before and your teeth have shifted back"
+    ],
+    "expect_steps": [
+      "Digital scan and bite analysis to map out the full treatment plan",
+      "Fitting of fixed braces or your first set of clear aligners",
+      "Regular check-ins to adjust wires or move you on to the next aligner stage",
+      "Retainers at the end of treatment to hold your new position"
+    ],
+    "why_us": "Every case is planned digitally from the start, so you can see roughly how your bite will change before committing. We're upfront about realistic timelines — orthodontics takes months, not days, and we won't tell you otherwise.",
+    "warranty": "Retainers provided at the end of treatment are covered by our standard clinic warranty."
   }
 }
