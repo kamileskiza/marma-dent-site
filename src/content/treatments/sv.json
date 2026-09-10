@@ -306,5 +306,49 @@
     ],
     "why_us": "3D-planering visar exakt vilka rörelser ditt fall behöver, innan behandlingen ens börjar.",
     "warranty": "Vi tillhandahåller retentionsskenor efter avslutad behandling för att bibehålla resultatet."
+  },
+  "full-denture": {
+    "eyebrow": "Protetisk tandvård",
+    "title": "Helprotes",
+    "tagline": "En komplett, individuellt anpassad avtagbar lösning för att ersätta alla tänder i en övre eller undre tandbåge — utan operation.",
+    "overview": [
+      "En helprotes ersätter alla tänder i en tandbåge med en avtagbar protes som vilar direkt på tandköttet och hålls på plats genom sugeffekt och munnens naturliga konturer. Den tillverkas utifrån ett detaljerat avtryck av ditt tandkött och käke, så den är formad specifikt för din mun, inte en generisk mall.",
+      "Eftersom ingen operation krävs är en helprotes vanligtvis det snabbaste och mest prisvärda sättet att ersätta en hel båge av saknade tänder, och förblir ett solitt alternativ för patienter som inte är kandidater för implantat eller föredrar att undvika operation."
+    ],
+    "who_for": [
+      "Du saknar alla eller nästan alla tänder i en eller båda tandbågarna",
+      "Du vill ha ett icke-kirurgiskt, mer prisvärt sätt att återställa ett fullständigt leende",
+      "Du är för närvarande inte kandidat för implantat, eller föredrar att undvika operation"
+    ],
+    "expect_steps": [
+      "Avtryck och bettmätningar av tandkött och käke",
+      "En provpassning så att du kan kontrollera form, färg och bett innan det slutförs",
+      "Din protes tillverkas och färdigställs för att matcha din tandköttston och önskad tandfärg",
+      "Slutlig passning, med vägledning om användning, skötsel och kontrollbesök"
+    ],
+    "why_us": "Vi tar oss tid att ställa in bett och passform korrekt i provstadiet, innan något slutförs — det är detta som avgör om en protes känns naturlig. Om implantatstödda alternativ skulle passa dig bättre säger vi det ärligt.",
+    "warranty": "Helproteser omfattas av vår standardklinikgaranti."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodonti",
+    "title": "Tandreglering och Tandställning",
+    "tagline": "Räta upp sneda, trånga eller felställda tänder med traditionell tandställning eller genomskinliga skenor, planerat kring hela ditt bett.",
+    "overview": [
+      "Ortodontisk behandling flyttar gradvis dina tänder till en rakare, mer funktionell position med kontrollerat, milt tryck — antingen med fast tandställning (fästen och tråd) eller en serie genomskinliga avtagbara skenor, beroende på ditt fall och din preferens.",
+      "Utöver utseendet gör en korrekt uppriktad bett tänderna lättare att rengöra, minskar ojämnt slitage och kan lindra belastningen på käkleden — därför planeras behandlingen kring hela ditt bett, inte bara framtänderna som syns när du ler."
+    ],
+    "who_for": [
+      "Dina tänder är trånga, har luckor, är vridna, eller ditt bett möts inte jämnt",
+      "Du vill ha ett rakare leende men föredrar genomskinliga skenor framför synliga metallfästen",
+      "Du har haft ortodontisk behandling tidigare och dina tänder har flyttat tillbaka"
+    ],
+    "expect_steps": [
+      "Digital skanning och bettanalys för att kartlägga hela behandlingsplanen",
+      "Montering av fast tandställning eller din första uppsättning genomskinliga skenor",
+      "Regelbundna kontroller för att justera trådar eller gå vidare till nästa skenstadium",
+      "Retainers i slutet av behandlingen för att behålla den nya positionen"
+    ],
+    "why_us": "Varje fall planeras digitalt från början, så att du ungefär kan se hur ditt bett kommer att förändras innan du bestämmer dig. Vi är ärliga om realistiska tidsramar — ortodonti tar månader, inte dagar, och vi säger inte annat.",
+    "warranty": "Retainers som tillhandahålls i slutet av behandlingen omfattas av vår standardklinikgaranti."
   }
 }
