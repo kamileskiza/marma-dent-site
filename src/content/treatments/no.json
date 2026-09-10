@@ -306,5 +306,49 @@
     ],
     "why_us": "3D-planlegging viser nøyaktig hvilke bevegelser tilfellet ditt trenger, allerede før behandlingen starter.",
     "warranty": "Vi leverer retensjonsskinner etter fullført behandling for å opprettholde resultatet."
+  },
+  "full-denture": {
+    "eyebrow": "Protetisk tannbehandling",
+    "title": "Helprotese",
+    "tagline": "En komplett, individuelt tilpasset avtakbar løsning for å erstatte alle tenner i en øvre eller nedre tannbue — uten operasjon.",
+    "overview": [
+      "En helprotese erstatter alle tenner i en tannbue med en avtakbar protese som hviler direkte på tannkjøttet og holdes på plass ved sugeeffekt og munnens naturlige konturer. Den lages ut fra et detaljert avtrykk av tannkjøttet og kjeven din, så den er formet spesifikt for din munn, ikke en generisk mal.",
+      "Siden ingen operasjon er involvert, er en helprotese vanligvis den raskeste og mest rimelige måten å erstatte en hel bue med manglende tenner på, og forblir et solid alternativ for pasienter som ikke er kandidater for implantater eller foretrekker å unngå operasjon."
+    ],
+    "who_for": [
+      "Du mangler alle eller nesten alle tennene i en eller begge tannbuer",
+      "Du ønsker en ikke-kirurgisk, mer rimelig måte å gjenopprette et komplett smil på",
+      "Du er for øyeblikket ikke kandidat for implantater, eller foretrekker å unngå operasjon"
+    ],
+    "expect_steps": [
+      "Avtrykk og bittmålinger av tannkjøtt og kjeve",
+      "En prøvetilpasning slik at du kan kontrollere form, farge og bitt før det ferdigstilles",
+      "Protesen din lages og ferdigstilles for å matche tannkjøttfargen din og ønsket tannfarge",
+      "Endelig tilpasning, med veiledning om bruk, stell og kontrollbesøk"
+    ],
+    "why_us": "Vi tar oss tid til å stille inn bitt og passform riktig i prøvefasen, før noe ferdigstilles — dette er det som avgjør om en protese føles naturlig. Hvis implantatforankrede alternativer ville passet deg bedre, sier vi det ærlig.",
+    "warranty": "Helproteser dekkes av vår standard klinikkgaranti."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodonti",
+    "title": "Ortodonti og Tannregulering",
+    "tagline": "Retting av skjeve, trange eller feilstilte tenner med tradisjonell tannregulering eller gjennomsiktige skinner, planlagt rundt hele bittet ditt.",
+    "overview": [
+      "Ortodontisk behandling flytter tennene dine gradvis til en rettere, mer funksjonell posisjon ved hjelp av kontrollert, mildt trykk — enten med fast tannregulering (brackets og tråd) eller en serie gjennomsiktige avtakbare skinner, avhengig av ditt tilfelle og preferanse.",
+      "Utover utseendet gjør riktig justering av bittet ditt det lettere å rengjøre tennene, reduserer ujevn slitasje og kan lindre belastningen på kjeveleddet — derfor planlegges behandlingen rundt hele bittet ditt, ikke bare fortennene som er synlige når du smiler."
+    ],
+    "who_for": [
+      "Tennene dine er trange, har mellomrom, er dreid, eller bittet ditt møtes ikke jevnt",
+      "Du ønsker et rettere smil, men foretrekker gjennomsiktige skinner fremfor synlige metallbrackets",
+      "Du har hatt ortodontisk behandling før, og tennene dine har flyttet seg tilbake"
+    ],
+    "expect_steps": [
+      "Digital skanning og bittanalyse for å kartlegge hele behandlingsplanen",
+      "Montering av fast tannregulering eller ditt første sett med gjennomsiktige skinner",
+      "Regelmessige kontroller for å justere tråder eller gå videre til neste skinnetrinn",
+      "Retainere ved slutten av behandlingen for å opprettholde den nye posisjonen"
+    ],
+    "why_us": "Hvert tilfelle planlegges digitalt fra starten, slik at du omtrent kan se hvordan bittet ditt vil endre seg før du forplikter deg. Vi er ærlige om realistiske tidsrammer — ortodonti tar måneder, ikke dager, og vi sier ikke noe annet.",
+    "warranty": "Retainere som gis ved slutten av behandlingen dekkes av vår standard klinikkgaranti."
   }
 }
