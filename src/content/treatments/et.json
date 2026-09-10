@@ -306,5 +306,49 @@
     ],
     "why_us": "3D-planeerimine näitab täpselt, milliseid liigutusi teie juhtum vajab, enne kui ravi üldse algab.",
     "warranty": "Pärast ravi lõppu pakume säilitusravimeid tulemuse säilitamiseks."
+  },
+  "full-denture": {
+    "eyebrow": "Proteesimine",
+    "title": "Täishambaprotees",
+    "tagline": "Täielik, individuaalselt sobitatud eemaldatav lahendus kõigi ülemise või alumise hambakaare hammaste asendamiseks — ilma operatsioonita.",
+    "overview": [
+      "Täisproteesi puhul asendatakse kõik hambakaare hambad eemaldatava proteesiga, mis toetub otse igemetele ja püsib paigal imemisefekti ning suu loomulike kontuuride abil. See valmistatakse teie igemete ja lõualuu detailse jäljendi põhjal, seega on see kujundatud spetsiaalselt teie suule, mitte üldise vormi järgi.",
+      "Kuna operatsiooni ei ole vaja, on täisprotees tavaliselt kiireim ja taskukohaseim viis kogu puuduvate hammaste kaare asendamiseks ning jääb usaldusväärseks valikuks patsientidele, kes ei sobi implantaatideks või eelistavad operatsiooni vältida."
+    ],
+    "who_for": [
+      "Teil puuduvad kõik või peaaegu kõik hambad ühes või mõlemas hambakaares",
+      "Soovite mitteoperatiivset, taskukohasemat viisi täieliku naeratuse taastamiseks",
+      "Te ei sobi praegu implantaatideks või eelistate operatsiooni vältida"
+    ],
+    "expect_steps": [
+      "Igemete ja lõualuu jäljendid ning hambumuse mõõtmised",
+      "Proovipassung, et saaksite kontrollida kuju, värvi ja hambumust enne lõplikku valmistamist",
+      "Teie protees valmistatakse ja viimistletakse vastavalt teie igemete toonile ja soovitud hambavärvile",
+      "Lõplik sobitamine koos juhistega kandmise, hoolduse ja kontrollkülastuste kohta"
+    ],
+    "why_us": "Võtame aega, et proovietapis õigesti seadistada hambumus ja sobivus, enne kui midagi lõplikult valmistatakse — see määrab, kas protees tundub loomulik. Kui implantaatidel toetuvad lahendused sobiksid teile paremini, ütleme seda ausalt.",
+    "warranty": "Täisproteesidele kehtib meie standardne kliiniku garantii."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodontia",
+    "title": "Ortodontia ja Traatravi",
+    "tagline": "Kõverate, tihedalt asetsevate või valesti joondatud hammaste sirgendamine traditsiooniliste traatide või läbipaistvate hambaskaanitega, planeeritud kogu teie hambumust arvestades.",
+    "overview": [
+      "Ortodontiline ravi liigutab teie hambaid järk-järgult sirgemasse, funktsionaalsemasse asendisse, kasutades kontrollitud, õrna survet — kas fikseeritud traatidega (klotsid ja traat) või mitme läbipaistva eemaldatava hambaskaaniga, olenevalt teie juhtumist ja eelistusest.",
+      "Lisaks välimusele muudab hambumuse korrektne joondamine hammaste puhastamise lihtsamaks, vähendab ebaühtlast kulumist ja võib leevendada koormust lõualiigesele — seetõttu planeeritakse ravi kogu hambumust arvestades, mitte ainult naeratades nähtavaid esihambaid."
+    ],
+    "who_for": [
+      "Teie hambad on tihedalt asetsevad, vahedega, pöördunud, või hambumus ei sobi ühtlaselt kokku",
+      "Soovite sirgemat naeratust, kuid eelistate läbipaistvaid hambaskaane nähtavatele metallklotsidele",
+      "Olete varem läbinud ortodontilise ravi ja hambad on tagasi nihkunud"
+    ],
+    "expect_steps": [
+      "Digitaalne skaneerimine ja hambumuse analüüs täieliku raviplaani koostamiseks",
+      "Fikseeritud traatide või esimese läbipaistva hambaskaanide komplekti paigaldamine",
+      "Regulaarsed visiidid traatide reguleerimiseks või järgmisse hambaskaani etappi üleminekuks",
+      "Retainerid ravi lõpus uue asendi säilitamiseks"
+    ],
+    "why_us": "Iga juhtum planeeritakse algusest peale digitaalselt, nii et näete umbkaudu, kuidas teie hambumus muutub, enne kui kohustute. Oleme ausad realistlike ajaraamide osas — ortodontia võtab kuid, mitte päevi, ja me ei ütle teisiti.",
+    "warranty": "Ravi lõpus antud retaineritele kehtib meie standardne kliiniku garantii."
   }
 }
