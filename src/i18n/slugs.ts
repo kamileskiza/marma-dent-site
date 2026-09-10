@@ -15,6 +15,8 @@ export const TREATMENT_IDS = [
   'gingivectomy',
   'sinus-lift',
   'root-canal-therapy',
+  'full-denture',
+  'orthodontics',
 ] as const;
 
 export type TreatmentId = (typeof TREATMENT_IDS)[number];
@@ -37,6 +39,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivectomy-istanbul',
     'sinus-lift': 'sinus-lift-istanbul',
     'root-canal-therapy': 'root-canal-therapy-istanbul',
+    'full-denture': 'full-denture-istanbul',
+    'orthodontics': 'orthodontics-braces-istanbul',
   },
   tr: {
     'all-on-4-5-6': 'all-on-4-5-6-implant-istanbul',
@@ -53,6 +57,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'dis-eti-tedavisi-istanbul',
     'sinus-lift': 'sinus-lift-istanbul',
     'root-canal-therapy': 'kanal-tedavisi-istanbul',
+    'full-denture': 'tam-protez-istanbul',
+    'orthodontics': 'ortodonti-dis-teli-istanbul',
   },
   ru: {
     'all-on-4-5-6': 'implantatsiya-all-on-4-all-on-6-stambul',
@@ -69,6 +75,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomiya-stambul',
     'sinus-lift': 'sinus-lifting-stambul',
     'root-canal-therapy': 'lechenie-kornevyh-kanalov-stambul',
+    'full-denture': 'polnyy-semnyy-protez-stambul',
+    'orthodontics': 'ortodontiya-breket-sistemy-stambul',
   },
   de: {
     'all-on-4-5-6': 'all-on-4-all-on-6-zahnimplantate-istanbul',
@@ -85,6 +93,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomie-istanbul',
     'sinus-lift': 'sinuslift-istanbul',
     'root-canal-therapy': 'wurzelkanalbehandlung-istanbul',
+    'full-denture': 'totalprothese-istanbul',
+    'orthodontics': 'kieferorthopaedie-zahnspange-istanbul',
   },
   ar: {
     'all-on-4-5-6': 'zeraat-all-on-4-all-on-6-istanbul',
@@ -97,6 +107,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'istisal-lithat-istanbul',
     'sinus-lift': 'raf-aljayb-alfaki-istanbul',
     'root-canal-therapy': 'ilaj-qanat-aljithr-istanbul',
+    'full-denture': 'tarkib-asnan-kamil-istanbul',
+    'orthodontics': 'taqweem-alasnan-istanbul',
   },
   az: {
     'all-on-4-5-6': 'all-on-4-5-6-implant-istanbul',
@@ -109,6 +121,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomiya-istanbul',
     'sinus-lift': 'sinus-liftinq-istanbul',
     'root-canal-therapy': 'kanal-mualicesi-istanbul',
+    'full-denture': 'tam-protez-istanbul-az',
+    'orthodontics': 'ortodontiya-diş-teli-istanbul',
   },
   uk: {
     'all-on-4-5-6': 'implantatsiya-all-on-4-all-on-6-stambul',
@@ -121,6 +135,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'ginhivektomiya-stambul',
     'sinus-lift': 'sinus-lifting-stambul',
     'root-canal-therapy': 'likuvannya-kanaliv-stambul',
+    'full-denture': 'povnyi-znimnyi-protez-stambul',
+    'orthodontics': 'ortodontiya-breket-systemy-stambul',
   },
   bg: {
     'all-on-4-5-6': 'implanti-all-on-4-all-on-6-istanbul',
@@ -133,6 +149,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomiya-istanbul',
     'sinus-lift': 'sinus-lifting-istanbul',
     'root-canal-therapy': 'korenovo-lechenie-istanbul',
+    'full-denture': 'palna-proteza-istanbul',
+    'orthodontics': 'ortodontiya-shini-istanbul',
   },
   nl: {
     'all-on-4-5-6': 'all-on-4-all-on-6-implantaten-istanbul',
@@ -145,6 +163,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivectomie-istanbul',
     'sinus-lift': 'sinuslift-istanbul',
     'root-canal-therapy': 'wortelkanaalbehandeling-istanbul',
+    'full-denture': 'volledig-kunstgebit-istanbul',
+    'orthodontics': 'orthodontie-beugel-istanbul',
   },
   fr: {
     'all-on-4-5-6': 'implants-all-on-4-all-on-6-istanbul',
@@ -157,6 +177,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivectomie-istanbul',
     'sinus-lift': 'elevation-sinusienne-istanbul',
     'root-canal-therapy': 'traitement-de-canal-istanbul',
+    'full-denture': 'prothese-dentaire-complete-istanbul',
+    'orthodontics': 'orthodontie-appareil-dentaire-istanbul',
   },
   pl: {
     'all-on-4-5-6': 'implanty-all-on-4-all-on-6-stambul',
@@ -169,6 +191,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingiwektomia-stambul',
     'sinus-lift': 'podniesienie-zatoki-stambul',
     'root-canal-therapy': 'leczenie-kanalowe-stambul',
+    'full-denture': 'proteza-calkowita-stambul',
+    'orthodontics': 'ortodoncja-aparat-stambul',
   },
   ro: {
     'all-on-4-5-6': 'implanturi-all-on-4-all-on-6-istanbul',
@@ -181,6 +205,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivectomie-istanbul',
     'sinus-lift': 'sinus-lift-istanbul',
     'root-canal-therapy': 'tratament-de-canal-istanbul',
+    'full-denture': 'proteza-totala-istanbul',
+    'orthodontics': 'ortodontie-aparat-dentar-istanbul',
   },
   it: {
     'all-on-4-5-6': 'impianti-all-on-4-all-on-6-istanbul',
@@ -193,6 +219,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gengivectomia-istanbul',
     'sinus-lift': 'rialzo-del-seno-mascellare-istanbul',
     'root-canal-therapy': 'cura-canalare-istanbul',
+    'full-denture': 'dentiera-completa-istanbul',
+    'orthodontics': 'ortodonzia-apparecchio-istanbul',
   },
   el: {
     'all-on-4-5-6': 'emfytevmata-all-on-4-all-on-6-konstantinoupoli',
@@ -205,6 +233,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'oulektomi-konstantinoupoli',
     'sinus-lift': 'anypsosi-igmoreiou-konstantinoupoli',
     'root-canal-therapy': 'therapeia-rizas-konstantinoupoli',
+    'full-denture': 'plires-odontostoichia-konstantinoupoli',
+    'orthodontics': 'orthodontiki-sidera-konstantinoupoli',
   },
   es: {
     'all-on-4-5-6': 'implantes-all-on-4-all-on-6-estambul',
@@ -217,6 +247,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivectomia-estambul',
     'sinus-lift': 'elevacion-de-seno-estambul',
     'root-canal-therapy': 'tratamiento-de-conducto-estambul',
+    'full-denture': 'protesis-dental-completa-estambul',
+    'orthodontics': 'ortodoncia-brackets-estambul',
   },
   cs: {
     'all-on-4-5-6': 'all-on-4-5-6-implantaty-istanbul',
@@ -233,6 +265,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomie-istanbul',
     'sinus-lift': 'zvedani-celistni-dutiny-istanbul',
     'root-canal-therapy': 'lecba-korenoveho-kanalku-istanbul',
+    'full-denture': 'celkova-zubni-proteza-istanbul',
+    'orthodontics': 'ortodoncie-rovnatka-istanbul',
   },
   sk: {
     'all-on-4-5-6': 'all-on-4-5-6-implantaty-istanbul',
@@ -249,6 +283,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomia-istanbul',
     'sinus-lift': 'zdvihnutie-celustnej-dutiny-istanbul',
     'root-canal-therapy': 'liecba-korenoveho-kanalika-istanbul',
+    'full-denture': 'celkova-zubna-proteza-istanbul',
+    'orthodontics': 'ortodoncia-strojcek-istanbul',
   },
   hu: {
     'all-on-4-5-6': 'all-on-4-5-6-implantatum-istanbul',
@@ -265,6 +301,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomia-istanbul',
     'sinus-lift': 'arcureg-emeles-istanbul',
     'root-canal-therapy': 'gyokerkezeles-istanbul',
+    'full-denture': 'teljes-fogsor-istanbul',
+    'orthodontics': 'fogszabalyozas-fogszabalyozo-istanbul',
   },
   lt: {
     'all-on-4-5-6': 'all-on-4-5-6-implantai-istanbul',
@@ -281,6 +319,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomija-istanbul',
     'sinus-lift': 'sinuso-pakelimas-istanbul',
     'root-canal-therapy': 'saknies-kanalo-gydymas-istanbul',
+    'full-denture': 'pilnas-protezas-istanbul',
+    'orthodontics': 'ortodontija-breketai-istanbul',
   },
   lv: {
     'all-on-4-5-6': 'all-on-4-5-6-implanti-istanbul',
@@ -297,6 +337,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomija-istanbul',
     'sinus-lift': 'deguna-blakusdobuma-pacelsana-istanbul',
     'root-canal-therapy': 'saknu-kanala-arstesana-istanbul',
+    'full-denture': 'pilna-protezes-istanbul',
+    'orthodontics': 'ortodontija-breketes-istanbul',
   },
   et: {
     'all-on-4-5-6': 'all-on-4-5-6-implantaadid-istanbul',
@@ -313,6 +355,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektoomia-istanbul',
     'sinus-lift': 'siinuse-tostmine-istanbul',
     'root-canal-therapy': 'juurekanaliravi-istanbul',
+    'full-denture': 'taishambaproteesi-istanbul',
+    'orthodontics': 'ortodontia-traatid-istanbul',
   },
   pt: {
     'all-on-4-5-6': 'all-on-4-5-6-implantes-istanbul',
@@ -329,6 +373,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gengivectomia-istanbul',
     'sinus-lift': 'elevacao-seio-maxilar-istanbul',
     'root-canal-therapy': 'tratamento-de-canal-istanbul-pt',
+    'full-denture': 'protese-dentaria-completa-istanbul',
+    'orthodontics': 'ortodontia-aparelho-istanbul',
   },
   sv: {
     'all-on-4-5-6': 'all-on-4-5-6-implantat-istanbul',
@@ -345,6 +391,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomi-istanbul',
     'sinus-lift': 'sinuslyft-istanbul',
     'root-canal-therapy': 'rotfyllning-istanbul',
+    'full-denture': 'helprotes-istanbul',
+    'orthodontics': 'tandreglering-tandstallning-istanbul',
   },
   da: {
     'all-on-4-5-6': 'all-on-4-5-6-implantater-istanbul',
@@ -361,6 +409,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomi-istanbul',
     'sinus-lift': 'sinusloft-istanbul',
     'root-canal-therapy': 'rodbehandling-istanbul',
+    'full-denture': 'helprotese-istanbul',
+    'orthodontics': 'ortodonti-boejle-istanbul',
   },
   fi: {
     'all-on-4-5-6': 'all-on-4-5-6-implantit-istanbul',
@@ -377,6 +427,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomia-istanbul',
     'sinus-lift': 'poskiontelon-nosto-istanbul',
     'root-canal-therapy': 'juurihoito-istanbul',
+    'full-denture': 'kokoproteesi-istanbul',
+    'orthodontics': 'oikomishoito-hammasraudat-istanbul',
   },
   hr: {
     'all-on-4-5-6': 'all-on-4-5-6-implantati-istanbul',
@@ -393,6 +445,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomija-istanbul',
     'sinus-lift': 'podizanje-sinusa-istanbul',
     'root-canal-therapy': 'lijecenje-korijenskog-kanala-istanbul',
+    'full-denture': 'potpuna-proteza-istanbul',
+    'orthodontics': 'ortodoncija-nacinjaci-istanbul',
   },
   sl: {
     'all-on-4-5-6': 'all-on-4-5-6-vsadki-istanbul',
@@ -409,6 +463,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomija-istanbul',
     'sinus-lift': 'dvig-sinusa-istanbul',
     'root-canal-therapy': 'zdravljenje-korenskega-kanala-istanbul',
+    'full-denture': 'popolna-proteza-istanbul',
+    'orthodontics': 'ortodontija-zobni-aparat-istanbul',
   },
   sr: {
     'all-on-4-5-6': 'all-on-4-5-6-implantati-istanbul',
@@ -425,6 +481,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomija-istanbul-sr',
     'sinus-lift': 'podizanje-sinusa-istanbul-sr',
     'root-canal-therapy': 'lecenje-korenskog-kanala-istanbul',
+    'full-denture': 'totalna-proteza-istanbul',
+    'orthodontics': 'ortodoncija-aparatici-istanbul',
   },
   no: {
     'all-on-4-5-6': 'all-on-4-5-6-implantater-istanbul',
@@ -441,6 +499,8 @@ const SLUGS: Record<string, Partial<Record<TreatmentId, string>>> = {
     'gingivectomy': 'gingivektomi-istanbul',
     'sinus-lift': 'bihuleloft-istanbul',
     'root-canal-therapy': 'rotfylling-istanbul-no',
+    'full-denture': 'helprotese-istanbul-no',
+    'orthodontics': 'tannregulering-tannboyle-istanbul',
   },
 };
 
