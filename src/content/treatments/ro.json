@@ -304,5 +304,49 @@
     ],
     "why_us": "Fiecare caz este planificat digital de la prima scanare, astfel încât știți aproximativ de câte gutiere veți avea nevoie și cum ar trebui să arate rezultatul final înainte de a începe.",
     "warranty": "Oferim gutiere de contenție după finalizarea tratamentului pentru a menține rezultatul."
+  },
+  "full-denture": {
+    "eyebrow": "Protetică dentară",
+    "title": "Proteză Totală",
+    "tagline": "O soluție mobilă completă, ajustată individual, pentru înlocuirea tuturor dinților de pe arcada superioară sau inferioară — fără intervenție chirurgicală.",
+    "overview": [
+      "O proteză totală înlocuiește toți dinții unei arcade cu un aparat mobil care se sprijină direct pe gingii, menținut prin sucțiune și conturul natural al gurii tale. Este realizată pe baza unei amprente detaliate a gingiilor și maxilarului tău, fiind astfel modelată special pentru gura ta, nu după un tipar general.",
+      "Deoarece nu implică nicio intervenție chirurgicală, o proteză totală este de obicei cea mai rapidă și mai accesibilă modalitate de a înlocui o arcadă întreagă de dinți lipsă, rămânând o opțiune solidă pentru pacienții care nu sunt candidați pentru implanturi sau preferă să evite intervenția chirurgicală."
+    ],
+    "who_for": [
+      "Îți lipsesc toți sau aproape toți dinții de pe o arcadă sau de pe ambele",
+      "Vrei o modalitate non-chirurgicală, mai accesibilă, de a restaura un zâmbet complet",
+      "Nu ești în prezent candidat pentru implanturi sau preferi să eviți intervenția chirurgicală"
+    ],
+    "expect_steps": [
+      "Amprente și măsurători ale ocluziei gingiilor și maxilarului",
+      "O probă de încercare pentru a verifica forma, culoarea și ocluzia înainte de finalizare",
+      "Proteza ta este realizată și finisată pentru a se potrivi cu nuanța gingiilor și culoarea dorită a dinților",
+      "Ajustarea finală, cu îndrumări privind purtarea, îngrijirea și vizitele de control"
+    ],
+    "why_us": "Ne luăm timpul necesar pentru a regla corect ocluzia și potrivirea în etapa de probă, înainte de finalizare — acest lucru determină dacă o proteză se simte naturală. Dacă opțiunile susținute de implanturi ți s-ar potrivi mai bine, îți vom spune cu sinceritate.",
+    "warranty": "Protezele totale sunt acoperite de garanția noastră standard de clinică."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodonție",
+    "title": "Ortodonție și Aparate Dentare",
+    "tagline": "Îndreptarea dinților strâmbi, înghesuiți sau dezaliniați cu aparate dentare tradiționale sau gutiere transparente, planificată pentru întreaga ta ocluzie.",
+    "overview": [
+      "Tratamentul ortodontic deplasează treptat dinții tăi într-o poziție mai dreaptă, mai funcțională, folosind presiune controlată și blândă — fie cu aparat dentar fix (bracket-uri și sârmă), fie cu o serie de gutiere transparente detașabile, în funcție de cazul și preferința ta.",
+      "Dincolo de aspect, alinierea corectă a ocluziei facilitează curățarea dinților, reduce uzura inegală și poate ameliora tensiunea asupra articulației maxilarului — de aceea tratamentul este planificat pentru întreaga ta ocluzie, nu doar dinții din față vizibili când zâmbești."
+    ],
+    "who_for": [
+      "Dinții tăi sunt înghesuiți, cu spații, rotiți, sau ocluzia nu se aliniază uniform",
+      "Vrei un zâmbet mai drept, dar preferi gutiere transparente în locul bracket-urilor metalice vizibile",
+      "Ai avut tratament ortodontic în trecut, iar dinții s-au deplasat înapoi"
+    ],
+    "expect_steps": [
+      "Scanare digitală și analiza ocluziei pentru a stabili planul complet de tratament",
+      "Montarea aparatului dentar fix sau a primului set de gutiere transparente",
+      "Vizite regulate pentru ajustarea sârmelor sau trecerea la următoarea etapă de gutiere",
+      "Contenții la finalul tratamentului pentru a menține noua poziție"
+    ],
+    "why_us": "Fiecare caz este planificat digital de la început, astfel încât să poți vedea aproximativ cum se va schimba ocluzia ta înainte de a te angaja. Suntem sinceri în privința termenelor realiste — ortodonția durează luni, nu zile, și nu-ți vom spune altceva.",
+    "warranty": "Contențiile furnizate la finalul tratamentului sunt acoperite de garanția noastră standard de clinică."
   }
 }
