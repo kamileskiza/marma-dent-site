@@ -23,11 +23,11 @@
   },
   "monolithic-zirconia": {
     "eyebrow": "Restoratif diş hekimliği",
-    "title": "Monolitik Zirkonya",
-    "tagline": "Tek bir zirkonya bloğundan frezelenen tam konturlu kaplama ve köprüler — güçlü, kırılmaya dayanıklı ve hassas.",
+    "title": "Monolitik Zirkonyum",
+    "tagline": "Tek bir zirkonyum bloğundan frezelenen tam konturlu kaplama ve köprüler — güçlü, kırılmaya dayanıklı ve hassas.",
     "overview": [
-      "Monolitik zirkonya restorasyonlar, metal veya porselen katmanlı bir çekirdek üzerine ayrı bir porselen kaplama yerine, tek bir zirkonyum oksit bloğundan frezelenir. Bu tek parça yapı, geleneksel katmanlı kaplamalara göre çatlama ve kırılmaya karşı önemli ölçüde daha dayanıklı hale getirir.",
-      "Modern zirkonya dijital olarak renklendirilir ve karakterize edilir, böylece bitmiş kaplama veya köprü çevredeki dişlerinizle doğal bir şekilde uyum sağlar, düz veya opak görünmez."
+      "Monolitik zirkonyum restorasyonlar, metal veya porselen katmanlı bir çekirdek üzerine ayrı bir porselen kaplama yerine, tek bir zirkonyum oksit bloğundan frezelenir. Bu tek parça yapı, geleneksel katmanlı kaplamalara göre çatlama ve kırılmaya karşı önemli ölçüde daha dayanıklı hale getirir.",
+      "Modern zirkonyum dijital olarak renklendirilir ve karakterize edilir, böylece bitmiş kaplama veya köprü çevredeki dişlerinizle doğal bir şekilde uyum sağlar, düz veya opak görünmez."
     ],
     "who_for": [
       "Yoğun ısırma kuvveti alan bir arka dişte kaplama veya köprüye ihtiyacınız var",
@@ -40,8 +40,8 @@
       "Kalıcı restorasyon hazırlanırken bir geçici restorasyon dişi korur",
       "Gerektiğinde ayarlamalarla son yerleştirme ve ısırma kontrolü"
     ],
-    "why_us": "Monolitik zirkonyayı dijital tasarımla kendi bünyemizde freze ediyoruz, böylece renk uyumu ve uyum hassas oluyor. Tüm zirkonyum işçiliği ömür boyu garantimizi taşır.",
-    "warranty": "Monolitik zirkonya restorasyonlar ömür boyu garantimiz kapsamındadır."
+    "why_us": "Monolitik zirkonyumu dijital tasarımla kendi bünyemizde freze ediyoruz, böylece renk uyumu ve uyum hassas oluyor. Tüm zirkonyum işçiliği ömür boyu garantimizi taşır.",
+    "warranty": "Monolitik zirkonyum restorasyonlar ömür boyu garantimiz kapsamındadır."
   },
   "dental-implants": {
     "eyebrow": "İmplant diş hekimliği",
@@ -326,5 +326,49 @@
     ],
     "why_us": "Her vaka ilk taramadan itibaren dijital olarak planlanır, böylece başlamadan önce yaklaşık kaç plağa ihtiyacınız olacağını ve son sonucun nasıl görüneceğini bilirsiniz.",
     "warranty": "Sonucu korumak için tedavi tamamlandıktan sonra tutucu plaklar sağlıyoruz."
+  },
+  "full-denture": {
+    "eyebrow": "Protetik Diş Tedavisi",
+    "title": "Tam Protez",
+    "tagline": "Üst veya alt çenedeki tüm dişlerin cerrahisiz, kişiye özel ölçülen hareketli bir protezle yenilenmesi.",
+    "overview": [
+      "Tam protez, bir çenedeki tüm dişlerin yerini, diş etleri üzerine oturan ve emme etkisiyle ile ağzınızın doğal yapısına sabitlenen hareketli bir protezle alır. Diş etleriniz ve çenenizin detaylı bir ölçüsü alınarak hazırlanır, böylece genel bir kalıp değil size özel şekillendirilmiş olur.",
+      "Cerrahi gerektirmediği için tam protez, kayıp bir çene dolusu dişi yenilemenin genellikle en hızlı ve en uygun maliyetli yoludur; implant için uygun olmayan veya cerrahi istemeyen hastalar için hâlâ sağlam bir seçenektir."
+    ],
+    "who_for": [
+      "Bir veya her iki çenenizdeki dişlerin tamamına yakınını kaybettiyseniz",
+      "Cerrahisiz, daha uygun maliyetli bir gülüş yenileme yöntemi istiyorsanız",
+      "Şu an implant için uygun değilseniz veya cerrahiden kaçınmayı tercih ediyorsanız"
+    ],
+    "expect_steps": [
+      "Diş etleriniz ve çenenizin ölçüsü ve kapanış ölçümleri alınır",
+      "Kesinleştirilmeden önce şekil, renk ve kapanışı kontrol edebileceğiniz bir deneme provası yapılır",
+      "Proteziniz diş eti tonunuza ve istediğiniz diş rengine uyacak şekilde tamamlanır",
+      "Son prova yapılır; kullanım, bakım ve ayar randevuları hakkında bilgi verilir"
+    ],
+    "why_us": "Kesinleştirmeden önce deneme aşamasında kapanış ve uyumu doğru ayarlamak için zaman ayırıyoruz — bir protezin doğal hissettirip hissettirmeyeceğini belirleyen tam olarak budur. İmplant destekli seçenekler size daha uygun olacaksa, bunu dürüstçe söyleriz.",
+    "warranty": "Tam protezler standart klinik garantimiz kapsamındadır."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodonti",
+    "title": "Ortodonti ve Diş Teli",
+    "tagline": "Çarpık, sıkışık veya bozuk dizilimli dişlerin, geleneksel diş teli veya şeffaf plaklarla, tüm kapanışınız göz önünde bulundurularak düzeltilmesi.",
+    "overview": [
+      "Ortodontik tedavi, dişlerinizi kontrollü ve nazik bir baskı uygulayarak daha düz ve işlevsel bir konuma kademeli olarak taşır — vakanıza ve tercihinize bağlı olarak sabit diş teli (braket ve tel) veya bir dizi şeffaf hareketli plakla yapılır.",
+      "Görünümün ötesinde, kapanışınızı doğru bir şekilde düzeltmek dişlerin temizlenmesini kolaylaştırır, düzensiz aşınmayı azaltır ve çene ekleminizdeki yükü hafifletebilir — bu yüzden tedavi, sadece gülümserken görünen ön dişler değil, tüm kapanışınız göz önünde bulundurularak planlanır."
+    ],
+    "who_for": [
+      "Dişleriniz sıkışık, aralıklı, dönük veya kapanışınız düzgün değilse",
+      "Daha düz bir gülüş istiyorsanız ancak görünür metal braketler yerine şeffaf plakları tercih ediyorsanız",
+      "Daha önce ortodontik tedavi gördüyseniz ve dişleriniz eski konumuna kaymışsa"
+    ],
+    "expect_steps": [
+      "Tam tedavi planını çıkarmak için dijital tarama ve kapanış analizi yapılır",
+      "Sabit diş teli veya ilk şeffaf plak setiniz takılır",
+      "Telleri ayarlamak veya sizi bir sonraki plak aşamasına geçirmek için düzenli kontroller yapılır",
+      "Tedavi sonunda yeni konumu korumak için pekiştirme apareyi (retainer) verilir"
+    ],
+    "why_us": "Her vaka baştan dijital olarak planlanır, böylece taahhüt etmeden önce kapanışınızın nasıl değişeceğini kabaca görebilirsiniz. Gerçekçi süreler konusunda açığız — ortodonti aylar sürer, günler değil, ve size başka türlü söylemeyiz.",
+    "warranty": "Tedavi sonunda verilen pekiştirme apareyleri standart klinik garantimiz kapsamındadır."
   }
 }
