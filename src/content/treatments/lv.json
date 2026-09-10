@@ -306,5 +306,49 @@
     ],
     "why_us": "3D plānošana precīzi parāda, kādas kustības nepieciešamas jūsu gadījumā, pirms ārstēšana vispār sākas.",
     "warranty": "Pēc ārstēšanas pabeigšanas nodrošinām retences kapas rezultāta saglabāšanai."
+  },
+  "full-denture": {
+    "eyebrow": "Protezēšanas stomatoloģija",
+    "title": "Pilna Protēze",
+    "tagline": "Pilnīgs, individuāli pielāgots izņemams risinājums visu augšējā vai apakšējā žokļa zobu nomaiņai — bez operācijas.",
+    "overview": [
+      "Pilna protēze aizstāj visus žokļa zobus ar izņemamu protēzi, kas balstās tieši uz smaganām un tiek noturēta ar iesūkšanas efektu un jūsu mutes dabiskajām kontūrām. Tā tiek izgatavota pēc detalizēta smaganu un žokļa nospieduma, tāpēc ir veidota tieši jūsu mutei, nevis pēc vispārējas formas.",
+      "Tā kā nav nepieciešama operācija, pilna protēze parasti ir ātrākais un pieejamākais veids, kā aizstāt visu trūkstošo zobu loku, un paliek stabila izvēle pacientiem, kuriem implanti nav piemēroti vai kuri vēlas izvairīties no operācijas."
+    ],
+    "who_for": [
+      "Jums trūkst visu vai gandrīz visu zobu vienā vai abos žokļos",
+      "Vēlaties neoperatīvu, pieejamāku veidu, kā atjaunot pilnu smaidu",
+      "Šobrīd neesat piemērots implantiem, vai vēlaties izvairīties no operācijas"
+    ],
+    "expect_steps": [
+      "Smaganu un žokļa nospiedumi un sakodiena mērījumi",
+      "Izmēģinājuma piemērošana, lai pārbaudītu formu, krāsu un sakodienu pirms galīgās izgatavošanas",
+      "Jūsu protēze tiek izgatavota un pabeigta atbilstoši jūsu smaganu tonim un vēlamajai zobu krāsai",
+      "Galīgā piemērošana ar norādēm par valkāšanu, kopšanu un kontroles vizītēm"
+    ],
+    "why_us": "Mēs veltām laiku, lai izmēģinājuma posmā pareizi noregulētu sakodienu un piegulumu, pirms kaut kas tiek galīgi izgatavots — tieši tas nosaka, vai protēze jutīsies dabiski. Ja implantos balstītas iespējas jums derētu labāk, mēs to godīgi pateiksim.",
+    "warranty": "Uz pilnām protēzēm attiecas mūsu standarta klīnikas garantija."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodontija",
+    "title": "Ortodontija un Breketes",
+    "tagline": "Greizu, sablīvētu vai nepareizi novietotu zobu iztaisnošana ar tradicionālām breketēm vai caurspīdīgām kapām, plānojot visu jūsu sakodienu.",
+    "overview": [
+      "Ortodontiskā ārstēšana pakāpeniski pārvieto jūsu zobus taisnākā, funkcionālākā pozīcijā, izmantojot kontrolētu, maigu spiedienu — vai nu ar fiksētām breketēm (stiprinājumi un stieple), vai ar vairākām caurspīdīgām noņemamām kapām, atkarībā no jūsu gadījuma un vēlmes.",
+      "Papildus izskatam pareiza sakodiena izlīdzināšana atvieglo zobu tīrīšanu, samazina nevienmērīgu nodilumu un var mazināt slodzi uz žokļa locītavu — tāpēc ārstēšana tiek plānota, ņemot vērā visu jūsu sakodienu, nevis tikai priekšējos zobus, kas redzami smaidot."
+    ],
+    "who_for": [
+      "Jūsu zobi ir sablīvēti, ar spraugām, pagriezti, vai sakodiens nesakrīt vienmērīgi",
+      "Vēlaties taisnāku smaidu, bet dodat priekšroku caurspīdīgām kapām, nevis redzamām metāla breketēm",
+      "Iepriekš esat veicis ortodontisko ārstēšanu, un zobi ir atkal pārvietojušies"
+    ],
+    "expect_steps": [
+      "Digitāla skenēšana un sakodiena analīze, lai izstrādātu pilnu ārstēšanas plānu",
+      "Fiksētu breketu vai pirmā caurspīdīgo kapu komplekta uzlikšana",
+      "Regulāras vizītes, lai regulētu stieples vai pārietu uz nākamo kapu posmu",
+      "Retaineri ārstēšanas beigās, lai saglabātu jauno pozīciju"
+    ],
+    "why_us": "Katrs gadījums no paša sākuma tiek plānots digitāli, lai jūs varētu aptuveni redzēt, kā mainīsies jūsu sakodiens, pirms apņematies. Esam godīgi par reālistiskiem termiņiem — ortodontija ilgst mēnešus, nevis dienas, un mēs to nesakām citādi.",
+    "warranty": "Ārstēšanas beigās izsniegtajiem retaineriem attiecas mūsu standarta klīnikas garantija."
   }
 }
