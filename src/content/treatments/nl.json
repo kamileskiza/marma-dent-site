@@ -304,5 +304,49 @@
     ],
     "why_us": "Elk geval wordt vanaf de eerste scan digitaal gepland, zodat u ongeveer weet hoeveel trays u nodig heeft en hoe het eindresultaat eruit moet zien voordat u begint.",
     "warranty": "Na afronding van de behandeling leveren we retentiebeugels om het resultaat te behouden."
+  },
+  "full-denture": {
+    "eyebrow": "Prothetische tandheelkunde",
+    "title": "Volledig Kunstgebit",
+    "tagline": "Een complete, op maat gemaakte uitneembare oplossing om alle tanden in een boven- of onderkaak te vervangen — zonder operatie.",
+    "overview": [
+      "Een volledig kunstgebit vervangt alle tanden in een kaak door een uitneembare prothese die rechtstreeks op het tandvlees rust en op zijn plaats blijft door zuigkracht en de natuurlijke contouren van uw mond. Het wordt gemaakt op basis van een gedetailleerde afdruk van uw tandvlees en kaak, dus het is specifiek voor uw mond gevormd, niet een standaardmal.",
+      "Omdat er geen operatie bij komt kijken, is een volledig kunstgebit meestal de snelste en betaalbaarste manier om een volledige boog ontbrekende tanden te vervangen, en blijft het een solide optie voor patiënten die geen kandidaat zijn voor implantaten of liever geen operatie ondergaan."
+    ],
+    "who_for": [
+      "U mist alle of bijna alle tanden in een of beide kaken",
+      "U wilt een operatievrije, betaalbaardere manier om een volledige glimlach te herstellen",
+      "U komt momenteel niet in aanmerking voor implantaten, of u geeft de voorkeur aan het vermijden van een operatie"
+    ],
+    "expect_steps": [
+      "Afdrukken en beetmetingen van uw tandvlees en kaak",
+      "Een proefpassing zodat u vorm, kleur en beet kunt controleren voordat het definitief wordt",
+      "Uw kunstgebit wordt vervaardigd en afgewerkt om bij uw tandvleeskleur en gewenste tandtint te passen",
+      "Definitieve passing, met begeleiding over dragen, verzorging en controlebezoeken"
+    ],
+    "why_us": "We nemen de tijd om beet en pasvorm goed af te stellen in de proeffase, voordat iets definitief wordt — dit bepaalt of een kunstgebit natuurlijk aanvoelt. Als implantaatgedragen opties beter bij u zouden passen, zeggen we dat eerlijk.",
+    "warranty": "Volledige kunstgebitten vallen onder onze standaard kliniekgarantie."
+  },
+  "orthodontics": {
+    "eyebrow": "Orthodontie",
+    "title": "Orthodontie & Beugels",
+    "tagline": "Het rechtzetten van scheve, samengepakte of verkeerd uitgelijnde tanden met traditionele beugels of doorzichtige aligners, gepland rondom uw gehele beet.",
+    "overview": [
+      "Orthodontische behandeling verplaatst uw tanden geleidelijk naar een rechtere, functionelere positie met gecontroleerde, zachte druk — met vaste beugels (brackets en draad) of een reeks doorzichtige uitneembare aligners, afhankelijk van uw geval en voorkeur.",
+      "Naast het uiterlijk maakt het correct rechtzetten van uw beet het reinigen van tanden makkelijker, vermindert het ongelijkmatige slijtage en kan het de belasting op uw kaakgewricht verlichten — daarom wordt de behandeling gepland rondom uw volledige beet, niet alleen de voortanden die zichtbaar zijn bij het glimlachen."
+    ],
+    "who_for": [
+      "Uw tanden staan samengepakt, hebben spleten, zijn gedraaid, of uw beet sluit niet gelijkmatig",
+      "U wilt een rechtere glimlach maar geeft de voorkeur aan doorzichtige aligners boven zichtbare metalen brackets",
+      "U heeft eerder een orthodontische behandeling gehad en uw tanden zijn teruggeschoven"
+    ],
+    "expect_steps": [
+      "Digitale scan en beetanalyse om het volledige behandelplan uit te stippelen",
+      "Plaatsing van vaste beugels of uw eerste set doorzichtige aligners",
+      "Regelmatige controles om draden bij te stellen of naar de volgende alignerfase te gaan",
+      "Retainers aan het einde van de behandeling om de nieuwe positie vast te houden"
+    ],
+    "why_us": "Elk geval wordt vanaf het begin digitaal gepland, zodat u ruwweg kunt zien hoe uw beet zal veranderen voordat u zich vastlegt. We zijn eerlijk over realistische tijdlijnen — orthodontie duurt maanden, geen dagen, en dat zeggen we u ook zo.",
+    "warranty": "Retainers die aan het einde van de behandeling worden verstrekt, vallen onder onze standaard kliniekgarantie."
   }
 }
