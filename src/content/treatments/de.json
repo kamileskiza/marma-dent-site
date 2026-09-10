@@ -326,5 +326,49 @@
     ],
     "why_us": "Jeder Fall wird ab dem ersten Scan digital geplant, sodass Sie ungefähr wissen, wie viele Schienen Sie benötigen werden und wie das Endergebnis aussehen sollte, bevor Sie beginnen.",
     "warranty": "Nach Abschluss der Behandlung stellen wir Retentionsschienen zur Verfügung, um das Ergebnis zu erhalten."
+  },
+  "full-denture": {
+    "eyebrow": "Prothetik",
+    "title": "Totalprothese",
+    "tagline": "Eine vollständige, individuell angepasste herausnehmbare Lösung zum Ersatz aller Zähne im Ober- oder Unterkiefer — ohne Operation.",
+    "overview": [
+      "Eine Totalprothese ersetzt alle Zähne eines Kiefers durch eine herausnehmbare Prothese, die direkt auf dem Zahnfleisch aufliegt und durch Saugwirkung sowie die natürlichen Konturen Ihres Mundes gehalten wird. Sie wird nach einem detaillierten Abdruck Ihres Zahnfleisches und Kiefers gefertigt und ist somit speziell an Sie angepasst, nicht an eine Standardform.",
+      "Da keine Operation erforderlich ist, ist eine Totalprothese meist der schnellste und günstigste Weg, einen kompletten Kieferbogen fehlender Zähne zu ersetzen, und bleibt eine solide Option für Patienten, die keine Kandidaten für Implantate sind oder eine Operation vermeiden möchten."
+    ],
+    "who_for": [
+      "Ihnen fehlen alle oder nahezu alle Zähne in einem oder beiden Kiefern",
+      "Sie wünschen eine operationsfreie, kostengünstigere Möglichkeit, ein vollständiges Lächeln wiederherzustellen",
+      "Sie kommen derzeit nicht für Implantate infrage oder möchten eine Operation vermeiden"
+    ],
+    "expect_steps": [
+      "Abdrücke und Bissmessungen von Zahnfleisch und Kiefer",
+      "Eine Probeeinprobe, damit Sie Form, Farbe und Biss vor der endgültigen Fertigung prüfen können",
+      "Ihre Prothese wird gefertigt und an Ihren Zahnfleischton und die gewünschte Zahnfarbe angepasst",
+      "Endgültige Anpassung mit Hinweisen zu Tragen, Pflege und Kontrollterminen"
+    ],
+    "why_us": "Wir nehmen uns beim Probelauf Zeit, Biss und Passform richtig einzustellen, bevor etwas endgültig gefertigt wird — genau das entscheidet, ob sich eine Prothese natürlich anfühlt. Wenn implantatgetragene Optionen für Sie besser geeignet wären, sagen wir das ehrlich.",
+    "warranty": "Totalprothesen sind durch unsere Standard-Klinikgarantie abgedeckt."
+  },
+  "orthodontics": {
+    "eyebrow": "Kieferorthopädie",
+    "title": "Kieferorthopädie & Zahnspangen",
+    "tagline": "Begradigung von schiefen, engstehenden oder fehlgestellten Zähnen mit traditionellen Zahnspangen oder durchsichtigen Alignern, geplant für Ihren gesamten Biss.",
+    "overview": [
+      "Eine kieferorthopädische Behandlung bewegt Ihre Zähne durch kontrollierten, sanften Druck schrittweise in eine geradere, funktionalere Position — entweder mit festsitzenden Zahnspangen (Brackets und Draht) oder einer Reihe durchsichtiger herausnehmbarer Aligner, je nach Fall und Präferenz.",
+      "Über die Optik hinaus erleichtert ein richtig ausgerichteter Biss die Zahnreinigung, verringert ungleichmäßigen Verschleiß und kann die Belastung des Kiefergelenks lindern — deshalb wird die Behandlung anhand Ihres gesamten Bisses geplant, nicht nur der beim Lächeln sichtbaren Frontzähne."
+    ],
+    "who_for": [
+      "Ihre Zähne stehen eng, haben Lücken, sind verdreht, oder Ihr Biss passt nicht richtig zusammen",
+      "Sie wünschen ein geraderes Lächeln, bevorzugen aber durchsichtige Aligner gegenüber sichtbaren Metallbrackets",
+      "Sie hatten bereits eine kieferorthopädische Behandlung und Ihre Zähne haben sich wieder verschoben"
+    ],
+    "expect_steps": [
+      "Digitaler Scan und Bissanalyse zur Erstellung des gesamten Behandlungsplans",
+      "Anbringen fester Zahnspangen oder Ihres ersten Alignersets",
+      "Regelmäßige Kontrolltermine zur Anpassung der Drähte oder zum Wechsel zur nächsten Alignerstufe",
+      "Retainer am Ende der Behandlung, um die neue Position zu halten"
+    ],
+    "why_us": "Jeder Fall wird von Anfang an digital geplant, damit Sie ungefähr sehen können, wie sich Ihr Biss verändern wird, bevor Sie sich festlegen. Wir sind ehrlich bei realistischen Zeitrahmen — Kieferorthopädie dauert Monate, keine Tage, und das sagen wir Ihnen auch so.",
+    "warranty": "Am Ende der Behandlung bereitgestellte Retainer sind durch unsere Standard-Klinikgarantie abgedeckt."
   }
 }
