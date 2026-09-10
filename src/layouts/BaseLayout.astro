@@ -15,7 +15,7 @@ export interface Props {
 }
 
 const { locale, title, description, path, ogImage = '/images/hollywood-smile.jpg', availableLocales, slugMap } = Astro.props;
-const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://www.dtnizamabdullayev.com';
+const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://dtnizamabdullayev.com';
 const canonical = `${site}${localePath(locale, path)}`;
 const localeInfo = LOCALES.find((l) => l.code === locale) ?? LOCALES[0];
 const hreflangLocales = LOCALES.filter((l) => {
@@ -100,7 +100,8 @@ function hreflangHref(code: string): string {
   }
   *{box-sizing:border-box;} html{scroll-behavior:smooth;scroll-padding-top:112px;}
   @media (max-width:640px){ html{scroll-padding-top:150px;} }
-  body{margin:0;background:var(--bg);color:var(--ink);font-family:'Manrope',sans-serif;font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased;}
+  html{overflow-x:hidden;width:100%;}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:'Manrope',sans-serif;font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden;max-width:100vw;}
   h1,h2,h3{font-family:'Fraunces',serif;font-weight:600;line-height:1.08;margin:0 0 .5em;letter-spacing:-0.01em;}
   p{margin:0 0 1em;color:var(--ink-soft);}
   a{color:inherit;} img{display:block;max-width:100%;}
