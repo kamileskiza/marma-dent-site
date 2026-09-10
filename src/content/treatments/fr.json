@@ -304,5 +304,49 @@
     ],
     "why_us": "Chaque cas est planifié numériquement dès le premier scan, afin que vous sachiez approximativement combien de gouttières vous aurez besoin et à quoi devrait ressembler le résultat final avant de commencer.",
     "warranty": "Nous fournissons des gouttières de contention après la fin du traitement pour maintenir le résultat."
+  },
+  "full-denture": {
+    "eyebrow": "Prothèse dentaire",
+    "title": "Prothèse Dentaire Complète",
+    "tagline": "Une solution amovible complète, ajustée sur mesure, pour remplacer toutes les dents d'une arcade supérieure ou inférieure — sans chirurgie.",
+    "overview": [
+      "Une prothèse complète remplace toutes les dents d'une arcade par un appareil amovible qui repose directement sur les gencives, maintenu par succion et les contours naturels de votre bouche. Elle est fabriquée à partir d'une empreinte détaillée de vos gencives et de votre mâchoire, donc façonnée spécifiquement pour votre bouche, et non selon un moule générique.",
+      "Comme aucune chirurgie n'est impliquée, une prothèse complète est généralement le moyen le plus rapide et le plus abordable de remplacer une arcade entière de dents manquantes, et reste une option solide pour les patients qui ne sont pas candidats aux implants ou préfèrent éviter la chirurgie."
+    ],
+    "who_for": [
+      "Il vous manque toutes ou presque toutes vos dents sur une ou deux arcades",
+      "Vous voulez un moyen non chirurgical et plus abordable de restaurer un sourire complet",
+      "Vous n'êtes pas actuellement candidat aux implants, ou préférez éviter la chirurgie"
+    ],
+    "expect_steps": [
+      "Empreintes et mesures de l'occlusion de vos gencives et de votre mâchoire",
+      "Un essayage d'essai pour vérifier la forme, la couleur et l'occlusion avant la finalisation",
+      "Votre prothèse est fabriquée et finalisée pour correspondre à la teinte de vos gencives et à la couleur de dent souhaitée",
+      "Ajustement final, avec des conseils sur le port, l'entretien et les visites de contrôle"
+    ],
+    "why_us": "Nous prenons le temps de bien régler l'occlusion et l'ajustement à l'étape de l'essai, avant toute finalisation — c'est ce qui détermine si une prothèse paraît naturelle. Si des options retenues par implants vous conviendraient mieux, nous vous le dirons honnêtement.",
+    "warranty": "Les prothèses complètes sont couvertes par notre garantie clinique standard."
+  },
+  "orthodontics": {
+    "eyebrow": "Orthodontie",
+    "title": "Orthodontie et Appareils Dentaires",
+    "tagline": "Redresser des dents tordues, encombrées ou mal alignées avec des appareils traditionnels ou des gouttières transparentes, planifié autour de toute votre occlusion.",
+    "overview": [
+      "Le traitement orthodontique déplace progressivement vos dents vers une position plus droite et plus fonctionnelle grâce à une pression contrôlée et douce — soit avec un appareil fixe (bagues et fil), soit avec une série de gouttières transparentes amovibles, selon votre cas et votre préférence.",
+      "Au-delà de l'apparence, redresser correctement votre occlusion facilite le nettoyage des dents, réduit une usure inégale et peut soulager la tension sur votre articulation de la mâchoire — c'est pourquoi le traitement est planifié autour de toute votre occlusion, pas seulement les dents de devant visibles quand vous souriez."
+    ],
+    "who_for": [
+      "Vos dents sont encombrées, espacées, tournées, ou votre occlusion ne s'aligne pas uniformément",
+      "Vous voulez un sourire plus droit mais préférez des gouttières transparentes aux bagues métalliques visibles",
+      "Vous avez déjà eu un traitement orthodontique et vos dents se sont redéplacées"
+    ],
+    "expect_steps": [
+      "Scan numérique et analyse de l'occlusion pour établir le plan de traitement complet",
+      "Pose d'un appareil fixe ou de votre premier jeu de gouttières transparentes",
+      "Contrôles réguliers pour ajuster les fils ou passer à l'étape suivante des gouttières",
+      "Contentions en fin de traitement pour maintenir la nouvelle position"
+    ],
+    "why_us": "Chaque cas est planifié numériquement dès le départ, pour que vous puissiez voir approximativement comment votre occlusion changera avant de vous engager. Nous sommes francs sur les délais réalistes — l'orthodontie prend des mois, pas des jours, et nous ne vous dirons pas le contraire.",
+    "warranty": "Les contentions fournies en fin de traitement sont couvertes par notre garantie clinique standard."
   }
 }
