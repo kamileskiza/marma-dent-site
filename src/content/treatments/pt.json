@@ -306,5 +306,49 @@
     ],
     "why_us": "O planeamento 3D mostra exatamente que movimentos o seu caso precisa, antes mesmo de o tratamento começar.",
     "warranty": "Fornecemos alinhadores de retenção após a conclusão do tratamento para manter o resultado."
+  },
+  "full-denture": {
+    "eyebrow": "Prótese dentária",
+    "title": "Prótese Dentária Completa",
+    "tagline": "Uma solução removível completa e ajustada individualmente para substituir todos os dentes de uma arcada superior ou inferior — sem cirurgia.",
+    "overview": [
+      "Uma prótese completa substitui todos os dentes de uma arcada por um aparelho removível que assenta diretamente sobre as gengivas, mantido por sucção e pelos contornos naturais da sua boca. É feita a partir de uma impressão detalhada das suas gengivas e mandíbula, sendo assim moldada especificamente para a sua boca, e não um molde genérico.",
+      "Como não envolve cirurgia, uma prótese completa é geralmente a forma mais rápida e económica de substituir uma arcada inteira de dentes em falta, e continua a ser uma opção sólida para pacientes que não são candidatos a implantes ou preferem evitar a cirurgia."
+    ],
+    "who_for": [
+      "Falta-lhe a totalidade ou quase a totalidade dos dentes numa ou em ambas as arcadas",
+      "Quer uma forma não cirúrgica e mais económica de restaurar um sorriso completo",
+      "Não é atualmente candidato a implantes, ou prefere evitar a cirurgia"
+    ],
+    "expect_steps": [
+      "Impressões e medições da mordida das gengivas e mandíbula",
+      "Uma prova de ajuste para verificar forma, cor e mordida antes da finalização",
+      "A sua prótese é fabricada e finalizada para corresponder ao tom das suas gengivas e à cor de dente desejada",
+      "Ajuste final, com orientação sobre uso, cuidados e visitas de controlo"
+    ],
+    "why_us": "Dedicamos tempo a ajustar corretamente a mordida e o encaixe na fase de prova, antes de qualquer coisa ser finalizada — isto é o que determina se uma prótese parecerá natural. Se opções retidas por implantes lhe servissem melhor, diremos isso com honestidade.",
+    "warranty": "As próteses completas estão cobertas pela nossa garantia clínica padrão."
+  },
+  "orthodontics": {
+    "eyebrow": "Ortodontia",
+    "title": "Ortodontia e Aparelho Dentário",
+    "tagline": "Endireitar dentes tortos, apinhados ou desalinhados com aparelho tradicional ou alinhadores transparentes, planeado em torno de toda a sua mordida.",
+    "overview": [
+      "O tratamento ortodôntico move gradualmente os seus dentes para uma posição mais direita e funcional usando pressão controlada e suave — seja com aparelho fixo (brackets e fio) ou uma série de alinhadores transparentes removíveis, consoante o seu caso e preferência.",
+      "Para além da aparência, alinhar corretamente a sua mordida facilita a limpeza dos dentes, reduz o desgaste desigual e pode aliviar a tensão na sua articulação da mandíbula — por isso o tratamento é planeado em torno de toda a sua mordida, não apenas os dentes da frente visíveis quando sorri."
+    ],
+    "who_for": [
+      "Os seus dentes estão apinhados, com espaços, rodados, ou a sua mordida não encaixa uniformemente",
+      "Quer um sorriso mais direito mas prefere alinhadores transparentes a brackets metálicos visíveis",
+      "Já teve tratamento ortodôntico antes e os seus dentes voltaram a mover-se"
+    ],
+    "expect_steps": [
+      "Digitalização e análise da mordida para traçar o plano de tratamento completo",
+      "Colocação de aparelho fixo ou do seu primeiro conjunto de alinhadores transparentes",
+      "Consultas regulares para ajustar fios ou avançar para a próxima fase de alinhadores",
+      "Contenções no final do tratamento para manter a nova posição"
+    ],
+    "why_us": "Cada caso é planeado digitalmente desde o início, para que possa ver aproximadamente como a sua mordida vai mudar antes de se comprometer. Somos honestos sobre prazos realistas — a ortodontia demora meses, não dias, e não lhe diremos o contrário.",
+    "warranty": "As contenções fornecidas no final do tratamento estão cobertas pela nossa garantia clínica padrão."
   }
 }
