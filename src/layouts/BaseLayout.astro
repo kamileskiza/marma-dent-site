@@ -70,7 +70,7 @@ function hreflangHref(code: string): string {
 }
 ---
 <!DOCTYPE html>
-<html lang={locale} dir={localeInfo.dir}>
+<html lang={locale} dir={localeInfo.dir} translate="no">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NGJY01MMZM"></script>
@@ -81,6 +81,8 @@ function hreflangHref(code: string): string {
   gtag('config', 'G-NGJY01MMZM');
 </script>
 <meta charset="UTF-8">
+<meta name="google" content="notranslate">
+<meta http-equiv="Content-Language" content={locale}>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title}</title>
 <meta name="description" content={description}>
