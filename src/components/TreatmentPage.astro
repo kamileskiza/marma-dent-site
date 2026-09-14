@@ -74,6 +74,10 @@ const EEAT: Record<string, string> = {
       <span class="eyebrow">{d.eyebrow}</span>
       <h1>{d.title}</h1>
       <p>{d.tagline}</p>
+      <a href="#overview" class="scroll-cue" aria-label={t.learn_more ?? 'Learn more'}>
+        <span>{t.learn_more ?? 'Learn more'}</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+      </a>
     </div>
   </section>
 
@@ -82,7 +86,7 @@ const EEAT: Record<string, string> = {
     <img src={img} alt={d.title}>
   </div>
 
-  <section class="body">
+  <section class="body" id="overview">
     <div class="wrap">
       <h2>{t.overview_label ?? 'Overview'}</h2>
       {d.overview?.map((p: string) => <p>{p}</p>)}
@@ -163,6 +167,11 @@ const EEAT: Record<string, string> = {
     .eyebrow{display:inline-flex;font-family:'DM Mono',monospace;font-size:11px;text-transform:uppercase;color:var(--gold-light);background:rgba(255,255,255,.14);padding:6px 12px;border-radius:99px;}
     .content h1{color:#fff;font-size:clamp(24px,4vw,34px);margin-top:12px;}
     .content p{color:rgba(255,255,255,.85);font-size:14.5px;margin-top:8px;max-width:60ch;}
+    .scroll-cue{display:inline-flex;align-items:center;gap:8px;margin-top:22px;color:#fff;font-size:13px;font-weight:700;text-decoration:none;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.3);padding:10px 18px;border-radius:99px;backdrop-filter:blur(4px);}
+    .scroll-cue svg{width:16px;height:16px;animation:scrollcue-bounce 1.6s ease-in-out infinite;}
+    .scroll-cue:hover{background:rgba(255,255,255,.26);}
+    @keyframes scrollcue-bounce{0%,100%{transform:translateY(0);}50%{transform:translateY(4px);}}
+    html{scroll-behavior:smooth;}
     .body{padding:40px 24px;max-width:820px;margin:0 auto;}
     .body h2{font-size:19px;margin:30px 0 12px;}
     .body h2:first-child{margin-top:0;}
