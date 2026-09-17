@@ -178,5 +178,7 @@
   "privacy_p3": "Võite igal ajal paluda oma andmetele juurdepääsu, nende parandamist või kustutamist, võttes meiega ühendust WhatsAppi või ülaltoodud andmete kaudu.",
   "privacy_note": "See on üldine kokkuvõte, mitte täielik juriidiline dokument. Enne avaldamist asendage see juristi poolt üle vaadatud täieliku GDPR-iga vastavas olevas privaatsuspoliitikaga.",
   "nav_get_plan": "Tasuta plaan",
-  "more_treatments_label": "Tutvuge teiste raviviisidega"
+  "more_treatments_label": "Tutvuge teiste raviviisidega",
+  "show_all_treatments": "Näita kõiki protseduure",
+  "show_less": "Näita vähem"
 }
