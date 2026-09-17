@@ -178,5 +178,7 @@
   "privacy_p3": "Kdykoli nás můžete požádat o přístup, opravu nebo smazání vašich informací kontaktováním přes WhatsApp nebo výše uvedené údaje.",
   "privacy_note": "Toto je obecné shrnutí, nikoli úplný právní dokument. Před zveřejněním jej nahraďte kompletními zásadami ochrany osobních údajů v souladu s GDPR, zkontrolovanými právníkem.",
   "nav_get_plan": "Zdarma plán",
-  "more_treatments_label": "Prozkoumejte další léčby"
+  "more_treatments_label": "Prozkoumejte další léčby",
+  "show_all_treatments": "Zobrazit všechny zákroky",
+  "show_less": "Zobrazit méně"
 }
