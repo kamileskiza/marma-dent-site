@@ -178,5 +178,7 @@
   "privacy_p3": "Voit milloin tahansa pyytää meitä käyttämään, korjaamaan tai poistamaan tietojasi ottamalla yhteyttä WhatsAppin tai yllä olevien tietojen kautta.",
   "privacy_note": "Tämä on yleinen yhteenveto, ei täydellinen oikeudellinen asiakirja. Ennen julkaisua korvaa tämä lakimiehen tarkistamalla, täysin GDPR-yhteensopivalla tietosuojakäytännöllä.",
   "nav_get_plan": "Ilmainen suunnitelma",
-  "more_treatments_label": "Tutustu muihin hoitoihin"
+  "more_treatments_label": "Tutustu muihin hoitoihin",
+  "show_all_treatments": "Näytä kaikki hoidot",
+  "show_less": "Näytä vähemmän"
 }
