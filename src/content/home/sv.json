@@ -178,5 +178,7 @@
   "privacy_p3": "Du kan när som helst be oss att komma åt, korrigera eller radera din information genom att kontakta oss via WhatsApp eller uppgifterna ovan.",
   "privacy_note": "Detta är en allmän sammanfattning, inte ett fullständigt juridiskt dokument. Innan publicering, ersätt detta med en fullständig GDPR-kompatibel integritetspolicy granskad av en advokat.",
   "nav_get_plan": "Gratis plan",
-  "more_treatments_label": "Utforska andra behandlingar"
+  "more_treatments_label": "Utforska andra behandlingar",
+  "show_all_treatments": "Visa alla behandlingar",
+  "show_less": "Visa färre"
 }
