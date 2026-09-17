@@ -178,5 +178,7 @@
   "privacy_p3": "Bármikor kérheti adatai elérését, javítását vagy törlését WhatsAppon vagy a fenti elérhetőségeken keresztül.",
   "privacy_note": "Ez egy általános összefoglaló, nem teljes jogi dokumentum. Közzététel előtt cserélje le egy ügyvéd által ellenőrzött, teljes GDPR-kompatibilis adatvédelmi szabályzatra.",
   "nav_get_plan": "Ingyenes terv",
-  "more_treatments_label": "Fedezze fel további kezeléseinket"
+  "more_treatments_label": "Fedezze fel további kezeléseinket",
+  "show_all_treatments": "Összes kezelés megjelenítése",
+  "show_less": "Kevesebb megjelenítése"
 }
