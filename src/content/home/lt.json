@@ -178,5 +178,7 @@
   "privacy_p3": "Bet kada galite paprašyti prieigos prie savo informacijos, jos taisymo ar ištrynimo susisiekdami per WhatsApp ar aukščiau nurodytus duomenis.",
   "privacy_note": "Tai bendra santrauka, o ne pilnas teisinis dokumentas. Prieš publikavimą pakeiskite ją teisininko peržiūrėta, visiškai BDAR reikalavimus atitinkančia privatumo politika.",
   "nav_get_plan": "Nemokamas planas",
-  "more_treatments_label": "Pažvelkite į kitus gydymo būdus"
+  "more_treatments_label": "Pažvelkite į kitus gydymo būdus",
+  "show_all_treatments": "Rodyti visas procedūras",
+  "show_less": "Rodyti mažiau"
 }
