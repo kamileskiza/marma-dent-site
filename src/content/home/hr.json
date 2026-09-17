@@ -178,5 +178,7 @@
   "privacy_p3": "Možete nas u bilo kojem trenutku zamoliti za pristup, ispravak ili brisanje vaših informacija kontaktirajući nas putem WhatsAppa ili gore navedenih podataka.",
   "privacy_note": "Ovo je opći sažetak, a ne potpuni pravni dokument. Prije objave, zamijenite ga potpunom, GDPR-usklađenom politikom privatnosti koju je pregledao odvjetnik.",
   "nav_get_plan": "Besplatan plan",
-  "more_treatments_label": "Istražite druge tretmane"
+  "more_treatments_label": "Istražite druge tretmane",
+  "show_all_treatments": "Prikaži sve tretmane",
+  "show_less": "Prikaži manje"
 }
