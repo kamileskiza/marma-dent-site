@@ -178,5 +178,7 @@
   "privacy_p3": "Kadar koli nas lahko prosite za dostop, popravek ali izbris vaših informacij tako, da nas kontaktirate prek WhatsAppa ali zgornjih podatkov.",
   "privacy_note": "To je splošen povzetek, ne popoln pravni dokument. Pred objavo ga nadomestite s popolno, GDPR skladno politiko zasebnosti, ki jo je pregledal odvetnik.",
   "nav_get_plan": "Brezplačen načrt",
-  "more_treatments_label": "Raziščite druga zdravljenja"
+  "more_treatments_label": "Raziščite druga zdravljenja",
+  "show_all_treatments": "Prikaži vse postopke",
+  "show_less": "Prikaži manj"
 }
