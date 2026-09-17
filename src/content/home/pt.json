@@ -178,5 +178,7 @@
   "privacy_p3": "Pode pedir-nos a qualquer momento para aceder, corrigir ou eliminar a sua informação contactando-nos via WhatsApp ou os dados acima.",
   "privacy_note": "Este é um resumo geral, não um documento legal completo. Antes de publicar, substitua-o por uma política de privacidade completa e conforme com o RGPD, revista por um advogado.",
   "nav_get_plan": "Plano gratuito",
-  "more_treatments_label": "Explore outros tratamentos"
+  "more_treatments_label": "Explore outros tratamentos",
+  "show_all_treatments": "Ver todos os tratamentos",
+  "show_less": "Ver menos"
 }
