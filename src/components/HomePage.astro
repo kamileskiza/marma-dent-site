@@ -105,9 +105,9 @@ function tp(id: string) {
         <span class="eyebrow">{t.treat_eyebrow}</span>
         <h2 style="margin-top:14px;">{t.treat_h2}</h2>
       </div>
-      <div class="photo-treat-grid reveal">
-        {treatCards.map((c) => (
-          <div class="pcard">
+      <div class="photo-treat-grid reveal" id="treat-grid">
+        {treatCards.map((c, i) => (
+          <div class="pcard" data-extra={i >= 6 ? "true" : "false"}>
             <div class="photo-frame"><img class="photo" src={c.img} alt={c.title} loading="lazy"></div>
             <div class="body">
               <h3>{c.title}</h3>
@@ -126,9 +126,42 @@ function tp(id: string) {
           </div>
         ))}
       </div>
+      {treatCards.length > 6 && (
+        <button type="button" id="treat-toggle" class="treat-toggle-btn">
+          <span data-label-more>{t.show_all_treatments ?? 'Show all treatments'} (+{treatCards.length - 6})</span>
+          <span data-label-less style="display:none;">{t.show_less ?? 'Show less'}</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+      )}
       <p class="special-care">{t.special_care}</p>
     </div>
   </section>
+
+  <style>
+    .pcard[data-extra="true"]{display:none;}
+    #treat-grid.show-all .pcard[data-extra="true"]{display:flex;}
+    .treat-toggle-btn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;max-width:340px;margin:8px auto 0;padding:13px 24px;border-radius:99px;border:1.5px solid var(--line);background:var(--bg);color:var(--ink);font-size:14px;font-weight:700;cursor:pointer;transition:background .15s;}
+    .treat-toggle-btn:hover{background:var(--bg-alt);}
+    .treat-toggle-btn svg{width:16px;height:16px;transition:transform .2s;}
+    .treat-toggle-btn.open svg{transform:rotate(180deg);}
+  </style>
+
+  <script>
+    (function(){
+      const btn = document.getElementById('treat-toggle');
+      const grid = document.getElementById('treat-grid');
+      if (!btn || !grid) return;
+      btn.addEventListener('click', function () {
+        const open = grid.classList.toggle('show-all');
+        btn.classList.toggle('open', open);
+        const more = btn.querySelector('[data-label-more]') as HTMLElement | null;
+        const less = btn.querySelector('[data-label-less]') as HTMLElement | null;
+        if (more) more.style.display = open ? 'none' : '';
+        if (less) less.style.display = open ? '' : 'none';
+        if (!open) grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    })();
+  </script>
 
   <!-- BEFORE / AFTER -->
   {t.gallery2_h2 && (
@@ -266,9 +299,9 @@ function tp(id: string) {
           <div class="platform-badge"><svg viewBox="0 0 48 48" width="20" height="20"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3c-1.6 4.7-6.1 8-11.3 8-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34.5 6.5 29.6 4.5 24 4.5 13.5 4.5 5 13 5 23.5S13.5 42.5 24 42.5 43 34 43 23.5c0-1.3-.1-2.6-.4-3.8z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 16 19 13.5 24 13.5c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34.5 7.5 29.6 5.5 24 5.5c-7.4 0-13.7 4.1-17 10.2z"/><path fill="#4CAF50" d="M24 43.5c5.5 0 10.4-1.9 14.2-5l-6.6-5.6c-2 1.5-4.6 2.4-7.6 2.4-5.2 0-9.6-3.4-11.2-8.1l-6.6 5.1C9.3 39 16 43.5 24 43.5z"/><path fill="#1976D2" d="M43.6 20.5H24v8h11.3c-.8 2.4-2.3 4.4-4.3 5.9l6.6 5.6C41.9 37 44 30.9 44 23.5c0-1.3-.1-2.6-.4-3.8z"/></svg> Google</div>
           <div class="platform-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M2 12h20M12 2a15 15 0 010 20 15 15 0 010-20z"/></svg> Infobel</div>
         </div>
-        <div class="review-score"><span class="count-num" data-count-to="5">0</span> <span>/5</span></div>
+        <div class="review-score"><span class="count-num" data-count-to="5">5</span> <span>/5</span></div>
         <p class="review-score-label">{t.review_score_label}</p>
-        <p class="review-count"><span class="count-num" data-count-to="88">0</span> <span>{t.review_count_label}</span></p>
+        <p class="review-count"><span class="count-num" data-count-to="88">88</span> <span>{t.review_count_label}</span></p>
         <p style="font-size:12.5px;color:var(--ink-faint);margin:-10px 0 18px;">{t.review_count2}</p>
         <a href="https://wa.me/905551901034?text=Hello%2C%20I%20would%20like%20a%20free%20consultation" target="_blank" rel="noopener" class="btn btn-wa">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 20zm4.4-5.9c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.5.1s-.6.8-.8 1c-.1.1-.3.2-.5.1-.2-.1-1-.4-2-1.2-.7-.7-1.2-1.5-1.4-1.7-.1-.2 0-.4.1-.5l.4-.4.2-.4c.1-.1.1-.3 0-.4-.1-.1-.5-1.3-.7-1.8-.2-.4-.4-.4-.5-.4h-.5c-.2 0-.4.1-.6.3-.2.2-.8.8-.8 2s.8 2.3.9 2.5c.1.2 1.6 2.5 3.9 3.4.5.2 1 .4 1.3.5.5.2 1 .1 1.4.1.4-.1 1.4-.6 1.6-1.1.2-.5.2-1 .1-1.1z"/></svg>
