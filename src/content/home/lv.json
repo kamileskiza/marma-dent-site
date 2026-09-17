@@ -178,5 +178,7 @@
   "privacy_p3": "Jūs jebkurā laikā varat pieprasīt piekļuvi, labošanu vai savas informācijas dzēšanu, sazinoties ar mums pa WhatsApp vai izmantojot iepriekš minēto informāciju.",
   "privacy_note": "Šis ir vispārīgs kopsavilkums, nevis pilns juridisks dokuments. Pirms publicēšanas aizstājiet to ar pilnu, GDPR atbilstošu privātuma politiku, ko pārbaudījis jurists.",
   "nav_get_plan": "Bezmaksas plāns",
-  "more_treatments_label": "Iepazīstiet citas ārstēšanas metodes"
+  "more_treatments_label": "Iepazīstiet citas ārstēšanas metodes",
+  "show_all_treatments": "Rādīt visas procedūras",
+  "show_less": "Rādīt mazāk"
 }
