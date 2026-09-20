@@ -6,6 +6,7 @@ import { getHome } from '../i18n/content';
 import { localePath } from '../i18n/locales';
 
 const t = getHome('en');
+const waLink = `https://wa.me/905551901034?text=${encodeURIComponent(t.wa_message ?? 'Hello, I would like a free consultation')}`;
 ---
 <BaseLayout locale="en" title="Page not found — Nizam Abdullayev Dental Clinic" description="The page you're looking for doesn't exist." path="404/">
   <Header locale="en" t={t} path="" />
@@ -15,7 +16,7 @@ const t = getHome('en');
       <p>Sorry, we couldn't find that page.</p>
       <div class="notfound-actions">
         <a href={localePath('en')} class="btn">Back to home</a>
-        <a href="https://wa.me/905551901034?text=Hello%2C%20I%20would%20like%20a%20free%20consultation" target="_blank" rel="noopener" class="btn btn-wa">Chat on WhatsApp</a>
+        <a href={waLink} target="_blank" rel="noopener" class="btn btn-wa">Chat on WhatsApp</a>
       </div>
     </div>
   </section>
