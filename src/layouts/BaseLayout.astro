@@ -396,6 +396,10 @@ function hreflangHref(code: string): string {
   .field{margin-bottom:12px;} .field label{display:block;font-size:12px;font-weight:600;margin-bottom:6px;}
   .field input{width:100%;padding:12px 14px;border:1.5px solid var(--line);border-radius:10px;font-family:'Manrope',sans-serif;font-size:16px;background:var(--bg);}
   .field input:focus{border-color:var(--gold);outline:none;}
+  .phone-row{display:flex;gap:8px;}
+  .phone-code{flex:none;width:108px;padding:12px 8px;border:1.5px solid var(--line);border-radius:10px;font-family:'Manrope',sans-serif;font-size:15px;background:var(--bg);}
+  .phone-code:focus{border-color:var(--gold);outline:none;}
+  .phone-row input[type="tel"]{flex:1;min-width:0;}
   .form-note{font-size:11px;color:var(--ink-faint);margin-top:10px;text-align:center;}
   .form-success{display:none;text-align:center;padding:18px 0;}
   .form-success.show{display:block;}
@@ -494,6 +498,22 @@ function hreflangHref(code: string): string {
     .cookie-banner p{margin:0;font-size:13px;line-height:1.5;flex:1;min-width:200px;color:rgba(255,255,255,.9);}
     .cookie-banner button{background:var(--gold,#C9A24B);color:#fff;border:none;border-radius:99px;padding:9px 20px;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap;}
   </style>
+  <script>
+    // Auto-redirect Turkish-browser visitors from the (English) homepage to /tr/.
+    // Only fires on the bare root path, and only once per visitor.
+    (function () {
+      try {
+        if (window.location.pathname !== '/') return;
+        if (localStorage.getItem('lang-redirected')) return;
+        localStorage.setItem('lang-redirected', '1');
+        var lang = ((navigator.language || navigator.userLanguage || '') + '').toLowerCase();
+        if (lang.indexOf('tr') === 0) {
+          window.location.replace('/tr/');
+        }
+      } catch (e) {}
+    })();
+  </script>
+
   <script define:vars={{}}>
     (function () {
       try {
