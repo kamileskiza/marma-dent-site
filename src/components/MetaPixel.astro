@@ -1,0 +1,110 @@
+---
+// Meta (Facebook) Pixel + Conversions API bridge for dtnizamabdullayev.com
+//
+// - The Pixel only sends data after the visitor accepts the cookie banner
+//   (localStorage 'cookie-consent' === 'yes'), matching BaseLayout's banner.
+// - Every browser event is mirrored to /.netlify/functions/meta-capi with the
+//   same event_id, so Meta de-duplicates the browser + server copies.
+// - Events: PageView (all pages), Contact (WhatsApp / phone link clicks),
+//   Lead (website form #leadForm submit).
+//
+// PIXEL_ID must match META_PIXEL_ID in netlify/functions/meta-capi.mjs.
+const PIXEL_ID = '1879222660061391';
+// Meta Business domain verification code (Business settings → Domains). Optional.
+const DOMAIN_VERIFICATION = '';
+---
+{DOMAIN_VERIFICATION && <meta name="facebook-domain-verification" content={DOMAIN_VERIFICATION} />}
+<script is:inline define:vars={{ PIXEL_ID }}>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  (function () {
+    var CAPI_URL = '/.netlify/functions/meta-capi';
+    var pageViewSent = false;
+
+    function hasConsent() {
+      try { return localStorage.getItem('cookie-consent') === 'yes'; } catch (e) { return false; }
+    }
+    function newEventId() {
+      try { if (window.crypto && crypto.randomUUID) return crypto.randomUUID(); } catch (e) {}
+      return Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 10);
+    }
+    function readCookie(name) {
+      var m = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
+      return m ? decodeURIComponent(m[1]) : undefined;
+    }
+
+    // Fires the Pixel event and its server-side (CAPI) twin with the same event_id.
+    function track(eventName, customData, userData) {
+      if (!hasConsent()) return;
+      var eventId = newEventId();
+      fbq('track', eventName, customData || {}, { eventID: eventId });
+      var payload = {
+        event_name: eventName,
+        event_id: eventId,
+        event_source_url: location.href,
+        custom_data: customData || {},
+        user_data: Object.assign({ fbp: readCookie('_fbp'), fbc: readCookie('_fbc') }, userData || {})
+      };
+      try {
+        var body = JSON.stringify(payload);
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon(CAPI_URL, new Blob([body], { type: 'application/json' }));
+        } else {
+          fetch(CAPI_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: body, keepalive: true });
+        }
+      } catch (e) {}
+    }
+    window.mdTrack = track;
+
+    fbq('consent', hasConsent() ? 'grant' : 'revoke');
+    fbq('init', PIXEL_ID);
+
+    function trackPageView() {
+      if (pageViewSent || !hasConsent()) return;
+      pageViewSent = true;
+      track('PageView');
+    }
+    trackPageView();
+
+    document.addEventListener('click', function (ev) {
+      var target = ev.target;
+      if (!(target instanceof Element)) return;
+
+      // Cookie banner "Accept": the banner's own handler stores the consent,
+      // so grant + record this page view right after it runs.
+      if (target.closest('#cookie-accept')) {
+        setTimeout(function () { fbq('consent', 'grant'); trackPageView(); }, 0);
+        return;
+      }
+
+      var link = target.closest('a[href]');
+      if (!link) return;
+      var href = link.getAttribute('href') || '';
+      if (href.indexOf('wa.me/') !== -1 || href.indexOf('api.whatsapp.com') !== -1) {
+        track('Contact', { content_name: 'WhatsApp', content_category: location.pathname });
+      } else if (href.indexOf('tel:') === 0) {
+        track('Contact', { content_name: 'Phone', content_category: location.pathname });
+      }
+    }, true);
+
+    // Website lead form → Lead. Name/phone go only to our own CAPI function,
+    // which hashes them (SHA-256) before sending to Meta.
+    document.addEventListener('submit', function (ev) {
+      var form = ev.target;
+      if (!(form instanceof HTMLFormElement) || form.id !== 'leadForm') return;
+      var nameEl = form.querySelector('#name');
+      var codeEl = form.querySelector('#phoneCode');
+      var numEl = form.querySelector('#phoneNumber');
+      var localeEl = form.querySelector('input[name="locale"]');
+      var digits = ((numEl && numEl.value) || '').replace(/\D/g, '').replace(/^0+/, '');
+      var code = ((codeEl && codeEl.value) || '').replace(/\D/g, '');
+      track('Lead',
+        { content_name: 'Website form', content_category: (localeEl && localeEl.value) || document.documentElement.lang },
+        { name: (nameEl && nameEl.value) || '', ph: digits ? code + digits : '' });
+    }, true);
+  })();
+</script>
