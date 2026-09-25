@@ -1,6 +1,7 @@
 ---
 import { LOCALES, DEFAULT_LOCALE, localePath } from '../i18n/locales';
 import { getHome } from '../i18n/content';
+import MetaPixel from '../components/MetaPixel.astro';
 
 export interface Props {
   locale: string;
@@ -83,6 +84,7 @@ function hreflangHref(code: string): string {
   gtag('js', new Date());
   gtag('config', 'G-NGJY01MMZM');
 </script>
+<MetaPixel />
 <meta charset="UTF-8">
 <meta name="google" content="notranslate">
 <meta http-equiv="Content-Language" content={locale}>
