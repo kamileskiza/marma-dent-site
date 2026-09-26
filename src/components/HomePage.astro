@@ -49,7 +49,7 @@ function tp(id: string) {
   "@context": "https://schema.org",
   "@type": "Dentist",
   "@id": `https://dtnizamabdullayev.com/#clinic`,
-  "aggregateRating": {"@type":"AggregateRating","ratingValue":"5","reviewCount":"88"}
+  "aggregateRating": {"@type":"AggregateRating","ratingValue":"5","reviewCount":"89"}
 })} />
 <Header locale={locale} t={t} path="" showInstagram={true} />
 
@@ -302,7 +302,7 @@ function tp(id: string) {
         </div>
         <div class="review-score"><span class="count-num" data-count-to="5">5</span> <span>/5</span></div>
         <p class="review-score-label">{t.review_score_label}</p>
-        <p class="review-count"><span class="count-num" data-count-to="88">88</span> <span>{t.review_count_label}</span></p>
+        <p class="review-count"><span class="count-num" data-count-to="89">89</span> <span>{t.review_count_label}</span></p>
         <p style="font-size:12.5px;color:var(--ink-faint);margin:-10px 0 18px;">{t.review_count2}</p>
         <a href={waLink} target="_blank" rel="noopener" class="btn btn-wa">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 20zm4.4-5.9c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.5.1s-.6.8-.8 1c-.1.1-.3.2-.5.1-.2-.1-1-.4-2-1.2-.7-.7-1.2-1.5-1.4-1.7-.1-.2 0-.4.1-.5l.4-.4.2-.4c.1-.1.1-.3 0-.4-.1-.1-.5-1.3-.7-1.8-.2-.4-.4-.4-.5-.4h-.5c-.2 0-.4.1-.6.3-.2.2-.8.8-.8 2s.8 2.3.9 2.5c.1.2 1.6 2.5 3.9 3.4.5.2 1 .4 1.3.5.5.2 1 .1 1.4.1.4-.1 1.4-.6 1.6-1.1.2-.5.2-1 .1-1.1z"/></svg>
@@ -495,14 +495,8 @@ function tp(id: string) {
   }
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const countEls = document.querySelectorAll('.count-num');
-  if (!reduceMotion && 'IntersectionObserver' in window) {
-    const obs = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => { if (entry.isIntersecting) { animateCount(entry.target); obs.unobserve(entry.target); } });
-    }, { threshold: 0.5 });
-    countEls.forEach((el) => obs.observe(el));
-  } else {
-    countEls.forEach((el) => { (el as HTMLElement).textContent = el.getAttribute('data-count-to'); });
-  }
+  // Show the real rating immediately — a count-up from 0 made the section read "0/5" at first glance.
+  countEls.forEach((el) => { (el as HTMLElement).textContent = el.getAttribute('data-count-to'); });
 
   const reveals = document.querySelectorAll('.reveal');
   if (!reduceMotion && 'IntersectionObserver' in window) {
