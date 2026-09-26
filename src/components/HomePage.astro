@@ -457,6 +457,7 @@ function tp(id: string) {
       const num = (phoneNumber?.value ?? '').trim();
       phoneHidden.value = num ? `${code} ${num}` : '';
     }
+    try { (window as any).gtag?.('event', 'generate_lead', { form_name: 'free_plan', page_path: location.pathname }); } catch (_) {}
     const def = document.getElementById('formDefault');
     const success = document.getElementById('formSuccess');
     const formData = new FormData(leadForm);
