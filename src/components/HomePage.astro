@@ -508,7 +508,7 @@ function tp(id: string) {
   if (!reduceMotion && 'IntersectionObserver' in window) {
     const robs = new IntersectionObserver((entries) => {
       entries.forEach((en) => { if (en.isIntersecting) { en.target.classList.add('is-visible'); robs.unobserve(en.target); } });
-    }, { threshold: 0.12 });
+    }, { threshold: 0, rootMargin: '0px 0px 25% 0px' });
     reveals.forEach((el) => robs.observe(el));
   } else {
     reveals.forEach((el) => el.classList.add('is-visible'));

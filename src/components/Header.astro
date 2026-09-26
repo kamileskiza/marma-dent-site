@@ -9,7 +9,7 @@ export interface Props {
   slugMap?: Record<string, string>; // locale -> that locale's own path for this content; see BaseLayout.
   showInstagram?: boolean;
 }
-const { locale, t, path = '', availableLocales, slugMap, showInstagram = false } = Astro.props;
+const { locale, t, path = '', availableLocales, slugMap, showInstagram = true } = Astro.props;
 const current = LOCALES.find((l) => l.code === locale) ?? LOCALES[0];
 const others = LOCALES.filter((l) => l.code !== locale);
 
@@ -27,7 +27,7 @@ function targetHref(code: string): string {
 ---
 <header>
   <div class="nav wrap">
-    <a href={localePath(locale, path || '#top')} class="brand">
+    <a href={(path ? localePath(locale, '') : localePath(locale, '#top'))} class="brand">
       <img src="/images/logo.png" alt="Nizam Abdullayev Dental Clinic">
     </a>
     <div class="nav-address">
