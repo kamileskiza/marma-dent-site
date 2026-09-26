@@ -24,9 +24,9 @@ const treatCards: Array<{ id: string; img: string; title: string; desc: string; 
   { id: 'emax-veneers', img: '/images/emax-veneers-smile.jpg', title: treatments['emax-veneers']?.title ?? 'E-max Veneers', desc: treatments['emax-veneers']?.tagline ?? '' },
   { id: 'monolithic-zirconia', img: '/images/monolithic-zirconia.jpg', title: treatments['monolithic-zirconia']?.title ?? 'Monolithic Zirconia', desc: treatments['monolithic-zirconia']?.tagline ?? '', warranty: true },
   { id: 'dental-implants', img: '/images/dental-implants.jpg', title: treatments['dental-implants']?.title ?? 'Dental Implants', desc: treatments['dental-implants']?.tagline ?? '', warranty: true },
-  { id: 'zygomatic-implants', img: '/images/zygomatic-implants.png', title: treatments['zygomatic-implants']?.title ?? 'Zygomatic Implants', desc: treatments['zygomatic-implants']?.tagline ?? '', warranty: true },
+  { id: 'zygomatic-implants', img: '/images/zygomatic-implants.webp', title: treatments['zygomatic-implants']?.title ?? 'Zygomatic Implants', desc: treatments['zygomatic-implants']?.tagline ?? '', warranty: true },
   { id: 'dental-bridge', img: '/images/dental-bridge.jpg', title: treatments['dental-bridge']?.title ?? 'Dental Bridge', desc: treatments['dental-bridge']?.tagline ?? '', warranty: true },
-  { id: 'invisalign', img: '/images/invisalign.png', title: treatments['invisalign']?.title ?? 'Invisalign', desc: treatments['invisalign']?.tagline ?? '' },
+  { id: 'invisalign', img: '/images/invisalign.webp', title: treatments['invisalign']?.title ?? 'Invisalign', desc: treatments['invisalign']?.tagline ?? '' },
   { id: 'digital-smile-design', img: '/images/digital-smile-design.jpg', title: treatments['digital-smile-design']?.title ?? 'Digital Smile Design', desc: treatments['digital-smile-design']?.tagline ?? '' },
   { id: 'teeth-whitening', img: '/images/teeth-whitening.jpg', title: treatments['teeth-whitening']?.title ?? 'Teeth Whitening', desc: treatments['teeth-whitening']?.tagline ?? '' },
   { id: 'screw-retained-occlusal', img: '/images/screw-retained.jpg', title: treatments['screw-retained-occlusal']?.title ?? 'Screw-Retained System', desc: treatments['screw-retained-occlusal']?.tagline ?? '' },
@@ -34,7 +34,7 @@ const treatCards: Array<{ id: string; img: string; title: string; desc: string; 
   { id: 'sinus-lift', img: '/images/sinus-lift.jpg', title: treatments['sinus-lift']?.title ?? 'Sinus Lift', desc: treatments['sinus-lift']?.tagline ?? '' },
   { id: 'root-canal-therapy', img: '/images/root-canal.jpg', title: treatments['root-canal-therapy']?.title ?? 'Root Canal Therapy', desc: treatments['root-canal-therapy']?.tagline ?? '' },
   { id: 'full-denture', img: '/images/full-denture.webp', title: treatments['full-denture']?.title ?? 'Full Denture', desc: treatments['full-denture']?.tagline ?? '' },
-  { id: 'orthodontics', img: '/images/orthodontics.jpg', title: treatments['orthodontics']?.title ?? 'Orthodontics & Braces', desc: treatments['orthodontics']?.tagline ?? '' },
+  { id: 'orthodontics', img: '/images/orthodontics.webp', title: treatments['orthodontics']?.title ?? 'Orthodontics & Braces', desc: treatments['orthodontics']?.tagline ?? '' },
 ];
 
 function tp(id: string) {
@@ -57,7 +57,7 @@ function tp(id: string) {
 
   <!-- HERO -->
   <section class="hero-photo">
-    <img class="hero-photo-bg" src="/images/clinic-room.jpg" alt="">
+    <img class="hero-photo-bg" src="/images/clinic-room.jpg" alt={t.hero_photo_alt ?? 'Treatment room at Nizam Abdullayev Dental Clinic, Istanbul'}>
     <div class="hero-photo-overlay"></div>
     <div class="wrap hero-photo-inner">
       <span class="eyebrow eyebrow--light">{t.eyebrow}</span>

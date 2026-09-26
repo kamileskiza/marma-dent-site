@@ -7,9 +7,9 @@ export const TREATMENT_IMAGES: Record<string, string> = {
   'emax-veneers': '/images/emax-veneers-smile.jpg',
   'monolithic-zirconia': '/images/monolithic-zirconia.jpg',
   'dental-implants': '/images/dental-implants.jpg',
-  'zygomatic-implants': '/images/zygomatic-implants.png',
+  'zygomatic-implants': '/images/zygomatic-implants.webp',
   'dental-bridge': '/images/dental-bridge.jpg',
-  'invisalign': '/images/invisalign.png',
+  'invisalign': '/images/invisalign.webp',
   'digital-smile-design': '/images/digital-smile-design.jpg',
   'teeth-whitening': '/images/teeth-whitening.jpg',
   'screw-retained-occlusal': '/images/screw-retained.jpg',
@@ -17,5 +17,5 @@ export const TREATMENT_IMAGES: Record<string, string> = {
   'sinus-lift': '/images/sinus-lift.jpg',
   'root-canal-therapy': '/images/root-canal.jpg',
   'full-denture': '/images/full-denture.webp',
-  'orthodontics': '/images/orthodontics.jpg',
+  'orthodontics': '/images/orthodontics.webp',
 };

@@ -3,9 +3,9 @@ import type { TreatmentId } from './slugs';
 export const TREATMENT_IMAGES: Record<TreatmentId, string> = {
   'all-on-4-5-6': '/images/all-on-4.jpg',
   'emax-veneers': '/images/hollywood-smile.jpg',
-  'zygomatic-implants': '/images/zygomatic-implants.png',
+  'zygomatic-implants': '/images/zygomatic-implants.webp',
   'dental-bridge': '/images/dental-bridge.jpg',
-  'invisalign': '/images/invisalign.png',
+  'invisalign': '/images/invisalign.webp',
   'dental-implants': '/images/dental-implants.jpg',
   'hollywood-smile': '/images/hollywood-smile.jpg',
   'monolithic-zirconia': '/images/monolithic-zirconia.jpg',
@@ -16,5 +16,5 @@ export const TREATMENT_IMAGES: Record<TreatmentId, string> = {
   'sinus-lift': '/images/sinus-lift.jpg',
   'root-canal-therapy': '/images/root-canal.jpg',
   'full-denture': '/images/full-denture.webp',
-  'orthodontics': '/images/orthodontics.jpg',
+  'orthodontics': '/images/orthodontics.webp',
 };

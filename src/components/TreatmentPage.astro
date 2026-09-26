@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getHome, getTreatments, TREATMENT_CONTENT_LOCALES, localesForTreatment } from '../i18n/content';
 import { getSeoOverride } from '../i18n/seo-overrides';
+import { buildFallbackTitle, buildFallbackDescription } from '../i18n/seo-fallback';
 import { localePath } from '../i18n/locales';
 import { treatmentSlug, TREATMENT_IDS, type TreatmentId } from '../i18n/slugs';
 import { TREATMENT_IMAGES } from '../i18n/treatment-images';
@@ -24,8 +25,8 @@ for (const loc of treatmentLocales) {
   slugMap[loc] = `${treatmentSlug(loc, treatmentId as TreatmentId)}/`;
 }
 const seo = getSeoOverride(locale, treatmentId);
-const pageTitle = seo?.title ?? `${d.title} — Nizam Abdullayev Dental Clinic`;
-const pageDescription = seo?.description ?? d.tagline;
+const pageTitle = seo?.title ?? buildFallbackTitle(d.title, locale);
+const pageDescription = seo?.description ?? buildFallbackDescription(d.tagline, locale);
 
 // Other treatments available in this locale, so a visitor who landed directly on
 // this page (e.g. from search) can discover the rest of the site instead of

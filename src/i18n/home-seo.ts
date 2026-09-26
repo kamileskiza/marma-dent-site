@@ -5,7 +5,7 @@
 // the clickable blue link in search results.
 export const HOME_SEO: Record<string, { title: string; description: string }> = {
   en: {
-    title: 'Dentist Istanbul Turkey | Dental Implants, Veneers & Hollywood Smile',
+    title: 'Dentist Istanbul Turkey | Implants, Veneers & Hollywood Smile',
     description: 'Dental clinic in Istanbul offering implants, zirconia crowns, E-max veneers and Hollywood Smile makeovers. Digital planning, lifetime warranty, free quote in 24h.',
   },
   tr: {
@@ -17,7 +17,7 @@ export const HOME_SEO: Record<string, { title: string; description: string }> = 
     description: 'Стоматологическая клиника в Стамбуле: имплантация, циркониевые коронки, виниры E-max и Hollywood Smile. Цифровое планирование, пожизненная гарантия.',
   },
   de: {
-    title: 'Zahnarzt Istanbul Türkei | Zahnimplantate, Veneers & Hollywood Smile',
+    title: 'Zahnarzt Istanbul Türkei | Implantate, Veneers & Hollywood Smile',
     description: 'Zahnklinik in Istanbul: Zahnimplantate, Zirkonkronen, E-max Veneers und Hollywood Smile. Digitale Planung, lebenslange Garantie, kostenloses Angebot in 24h.',
   },
   ar: {
@@ -37,7 +37,7 @@ export const HOME_SEO: Record<string, { title: string; description: string }> = 
     description: 'Стоматологична клиника в Истанбул: импланти, циркониеви корони, фасети E-max и Hollywood Smile. Цифрово планиране, доживотна гаранция.',
   },
   nl: {
-    title: 'Tandarts Istanbul Turkije | Implantaten, Facings & Hollywood Smile',
+    title: 'Tandarts Istanbul Turkije | Implantaten & Hollywood Smile',
     description: 'Tandartspraktijk in Istanbul: tandimplantaten, zirkonium kronen, E-max facings en Hollywood Smile. Digitale planning, levenslange garantie.',
   },
   fr: {

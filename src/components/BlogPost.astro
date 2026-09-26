@@ -9,6 +9,7 @@ import { localePath } from '../i18n/locales';
 import { treatmentIdFromSlug } from '../i18n/slugs';
 import { TREATMENT_IMAGES } from '../i18n/treatment-images';
 import { getBlogSlugMap } from '../i18n/blog';
+import { buildTitleWithBrand, buildFallbackDescription } from '../i18n/seo-fallback';
 
 export interface Props { locale: string; post: BlogPost; path: string; postIndex?: number; }
 const { locale, post, path, postIndex } = Astro.props;
@@ -35,8 +36,11 @@ let relatedHref: string | null = null;
 if (post.relatedTreatment) {
   relatedHref = localePath(locale, `${post.relatedTreatment}/`);
 }
+
+const pageTitle = buildTitleWithBrand(post.title);
+const pageDescription = buildFallbackDescription(post.description, locale);
 ---
-<BaseLayout locale={locale} title={`${post.title} — Nizam Abdullayev Dental Clinic`} description={post.description} path={path} slugMap={slugMap} ogImage={ogImage}>
+<BaseLayout locale={locale} title={pageTitle} description={pageDescription} path={path} slugMap={slugMap} ogImage={ogImage}>
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BlogPosting",

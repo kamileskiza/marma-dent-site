@@ -5,10 +5,6 @@
 
 export const SEO_OVERRIDES: Record<string, Record<string, { title: string; description: string }>> = {
   en: {
-    'all-on-4-5-6': {
-      title: 'All-on-4 & All-on-6 Dental Implants Istanbul | Fixed Teeth in One Day',
-      description: 'All-on-4 and All-on-6 dental implants in Istanbul: a full, fixed arch of teeth in one visit. Genuine implant brands, digital planning, lifetime warranty.',
-    },
     'dental-implants': {
       title: 'Dental Implants Istanbul | Single Tooth to Full-Mouth Implants',
       description: 'Dental implants in Istanbul, planned digitally and backed by a lifetime warranty — from a single missing tooth to full-mouth restoration.',
@@ -34,7 +30,7 @@ export const SEO_OVERRIDES: Record<string, Record<string, { title: string; descr
       description: 'Professional, in-office teeth whitening in Istanbul — safely lift the shade of your natural teeth in a single session.',
     },
     'all-on-4-5-6': {
-      title: 'All-on-4 & All-on-6 Dental Implants Istanbul | Fixed Teeth in a Day',
+      title: 'All-on-4 & All-on-6 Implants Istanbul | Fixed Teeth in a Day',
       description: 'Full-arch dental implants in Istanbul on 4, 5 or 6 implants. Fixed, non-removable teeth, genuine implant brands, digital planning, lifetime warranty.',
     },
     'zygomatic-implants': {
@@ -94,10 +90,6 @@ export const SEO_OVERRIDES: Record<string, Record<string, { title: string; descr
     'teeth-whitening': {
       title: 'Diş Beyazlatma İstanbul | Profesyonel Ofis Tipi Beyazlatma',
       description: 'İstanbul\'da profesyonel diş beyazlatma: tek seansta, ofis tipi bleaching ile doğal dişlerinizin rengini güvenle açın.',
-    },
-    'all-on-4-5-6': {
-      title: 'All-on-4 All-on-5 All-on-6 İmplant İstanbul | Tam Çene Sabit Diş',
-      description: 'İstanbul\'da All-on-4, All-on-5 ve All-on-6 implant tedavisi: tam çene sabit diş, dijital planlama, ömür boyu garanti. Ücretsiz tedavi planı için iletişime geçin.',
     },
     'zygomatic-implants': {
       title: 'Zigoma İmplant İstanbul | Ciddi Kemik Kaybında İmplant Çözümü',
