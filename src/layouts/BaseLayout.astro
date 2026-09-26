@@ -550,13 +550,18 @@ function hreflangHref(code: string): string {
       if (h) document.documentElement.style.setProperty('--hdr-h', (h.offsetHeight + 12) + 'px');
     };
     setH(); window.addEventListener('resize', setH);
+    // Capture phase (not bubble): GA4's own Enhanced Measurement outbound-click
+    // listener can stop the event from reaching a bubble-phase listener on
+    // document, which silently dropped these custom events in production.
+    // Capture fires before that, on every browser, regardless of what any
+    // other listener does to the event afterwards.
     document.addEventListener('click', function (e) {
       var a = e.target.closest && e.target.closest('a[href]');
       if (!a || typeof gtag !== 'function') return;
       var href = a.getAttribute('href') || '';
       if (href.indexOf('wa.me/') !== -1 || href.indexOf('api.whatsapp.com') !== -1) gtag('event', 'whatsapp_click', { link_url: href, page_path: location.pathname });
       else if (href.indexOf('tel:') === 0) gtag('event', 'phone_click', { link_url: href, page_path: location.pathname });
-    });
+    }, true);
     var showAll = function () { document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('is-visible'); }); };
     if (location.hash) showAll();
     window.addEventListener('hashchange', showAll);
