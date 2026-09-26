@@ -79,3 +79,20 @@ export function getBlogPosts(locale: string): BlogPost[] {
 export function getBlogPost(locale: string, slug: string): BlogPost | undefined {
   return getBlogPosts(locale).find((p) => p.slug === slug);
 }
+
+export function getBlogPostIndex(locale: string, slug: string): number {
+  return getBlogPosts(locale).findIndex((p) => p.slug === slug);
+}
+
+// Every locale's blog array is the same 45 hand-translated posts in the same
+// order, so array index doubles as a stable cross-locale post ID. Returns
+// {locale: thatLocale'sSlug} for every locale that actually has this post
+// (all of them, in practice, but this stays honest if one is ever short).
+export function getBlogSlugMap(index: number): Record<string, string> {
+  const map: Record<string, string> = {};
+  for (const locale of BLOG_LOCALES) {
+    const post = BLOG[locale]?.[index];
+    if (post) map[locale] = post.slug;
+  }
+  return map;
+}

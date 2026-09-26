@@ -3,13 +3,13 @@ import BlogPost from '../../components/BlogPost.astro';
 import { BLOG_EN } from '../../content/blog/en';
 
 export function getStaticPaths() {
-  return BLOG_EN.map((post) => ({
+  return BLOG_EN.map((post, postIndex) => ({
     params: { slug: post.slug },
-    props: { post },
+    props: { post, postIndex },
   }));
 }
 
-const { post } = Astro.props;
+const { post, postIndex } = Astro.props;
 const { slug } = Astro.params;
 ---
-<BlogPost locale="en" post={post} path={`blog/${slug}/`} />
+<BlogPost locale="en" post={post} path={`blog/${slug}/`} postIndex={postIndex} />

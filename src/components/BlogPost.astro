@@ -8,9 +8,16 @@ import { getBlogUI } from '../i18n/blog-ui';
 import { localePath } from '../i18n/locales';
 import { treatmentIdFromSlug } from '../i18n/slugs';
 import { TREATMENT_IMAGES } from '../i18n/treatment-images';
+import { getBlogSlugMap } from '../i18n/blog';
 
-export interface Props { locale: string; post: BlogPost; path: string; }
-const { locale, post, path } = Astro.props;
+export interface Props { locale: string; post: BlogPost; path: string; postIndex?: number; }
+const { locale, post, path, postIndex } = Astro.props;
+// Every locale's blog array is the same 45 translated posts in the same order,
+// so postIndex is a stable cross-locale ID. slugMap tells BaseLayout each
+// locale's real slug for *this* post, so hreflang links to pages that exist
+// instead of guessing — see i18n/blog.ts for why this is safe.
+const blogSlugMap = typeof postIndex === 'number' ? getBlogSlugMap(postIndex) : undefined;
+const slugMap = blogSlugMap ? Object.fromEntries(Object.entries(blogSlugMap).map(([l, s]) => [l, `blog/${s}/`])) : undefined;
 const t = getHome(locale);
 const ui = getBlogUI(locale);
 
@@ -29,11 +36,7 @@ if (post.relatedTreatment) {
   relatedHref = localePath(locale, `${post.relatedTreatment}/`);
 }
 ---
-<!-- Blog posts don't share a slug across locales (each language's post has its own,
-     independently-written slug with no cross-locale ID mapping), so we can't honestly
-     build hreflang alternates to other languages' versions of "this same post" — doing
-     so would guess at a URL that doesn't exist. We self-reference only. -->
-<BaseLayout locale={locale} title={`${post.title} — Nizam Abdullayev Dental Clinic`} description={post.description} path={path} availableLocales={[locale]} ogImage={ogImage}>
+<BaseLayout locale={locale} title={`${post.title} — Nizam Abdullayev Dental Clinic`} description={post.description} path={path} slugMap={slugMap} ogImage={ogImage}>
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BlogPosting",
