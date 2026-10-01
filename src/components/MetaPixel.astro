@@ -91,20 +91,15 @@ const DOMAIN_VERIFICATION = 'go6ea9cuwh94vwuhf03mn2nepm6qbn';
       }
     }, true);
 
-    // Website lead form → Lead. Name/phone go only to our own CAPI function,
+    // Website lead form → Lead, only after Netlify confirmed delivery (HomePage
+    // dispatches 'md:lead'). Name/phone go only to our own CAPI function,
     // which hashes them (SHA-256) before sending to Meta.
-    document.addEventListener('submit', function (ev) {
-      var form = ev.target;
-      if (!(form instanceof HTMLFormElement) || form.id !== 'leadForm') return;
-      var nameEl = form.querySelector('#name');
-      var codeEl = form.querySelector('#phoneCode');
-      var numEl = form.querySelector('#phoneNumber');
-      var localeEl = form.querySelector('input[name="locale"]');
-      var digits = ((numEl && numEl.value) || '').replace(/\D/g, '').replace(/^0+/, '');
-      var code = ((codeEl && codeEl.value) || '').replace(/\D/g, '');
+    document.addEventListener('md:lead', function (ev) {
+      var d = (ev && ev.detail) || {};
+      var digits = (d.phone || '').replace(/\D/g, '');
       track('Lead',
-        { content_name: 'Website form', content_category: (localeEl && localeEl.value) || document.documentElement.lang },
-        { name: (nameEl && nameEl.value) || '', ph: digits ? code + digits : '' });
-    }, true);
+        { content_name: 'Website form', content_category: d.locale || document.documentElement.lang },
+        { name: d.name || '', ph: digits });
+    });
   })();
 </script>

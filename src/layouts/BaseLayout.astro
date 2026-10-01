@@ -10,13 +10,18 @@ export interface Props {
   path: string; // path within the current locale, e.g. '' for home, 'treatment-slug/' for a treatment
   ogImage?: string;
   availableLocales?: string[]; // which locales actually have this page; defaults to all (used for the homepage)
+  pageType?: string; // home | treatment | blog | blog-list | other — sent with click events
+  treatment?: string; // treatment id on treatment pages — sent with click events
   slugMap?: Record<string, string>; // locale -> that locale's own path for this same piece of content.
     // Required whenever `path` is not identical across locales (e.g. localized treatment slugs).
     // Without it, we only self-reference the current locale rather than guess another locale's slug —
     // guessing would produce hreflang links to URLs that don't exist.
 }
 
-const { locale, title, description, path, ogImage = '/images/hollywood-smile.jpg', availableLocales, slugMap } = Astro.props;
+const { locale, title, description, path, ogImage = '/images/hollywood-smile.jpg', availableLocales, slugMap, pageType = 'other', treatment = '' } = Astro.props;
+// og:locale wants language_TERRITORY.
+const OG_REGION: Record<string, string> = { en:'GB', tr:'TR', ru:'RU', de:'DE', ar:'SA', az:'AZ', uk:'UA', bg:'BG', nl:'NL', fr:'FR', pl:'PL', ro:'RO', it:'IT', el:'GR', es:'ES', cs:'CZ', sk:'SK', hu:'HU', lt:'LT', lv:'LV', et:'EE', pt:'PT', sv:'SE', da:'DK', fi:'FI', hr:'HR', sl:'SI', sr:'RS', no:'NO' };
+const ogLocale = `${locale === 'no' ? 'nb' : locale}_${OG_REGION[locale] ?? 'GB'}`;
 const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://dtnizamabdullayev.com';
 const canonical = `${site}${localePath(locale, path)}`;
 const localeInfo = LOCALES.find((l) => l.code === locale) ?? LOCALES[0];
@@ -76,6 +81,11 @@ function hreflangHref(code: string): string {
 <!DOCTYPE html>
 <html lang={locale} dir={localeInfo.dir} translate="no">
 <head>
+<meta charset="UTF-8">
+<meta name="google" content="notranslate">
+<meta http-equiv="Content-Language" content={locale}>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{title}</title>
 <script is:inline>
   // Dil yönlendirme: sadece ana sayfada ("/") çalışır, sayfa çizilmeden önce.
   // 1) Ziyaretçi menüden dil seçtiyse o dil. 2) Tarayıcı dili sitede varsa o dil.
@@ -85,6 +95,16 @@ function hreflangHref(code: string): string {
     var L = ['en','tr','ru','de','ar','az','uk','bg','nl','fr','pl','ro','it','el','es','cs','sk','hu','lt','lv','et','pt','sv','da','fi','hr','sl','sr','no'];
     var MAP = { nb: 'no', nn: 'no' };
     function norm(x) { x = (x || '').toLowerCase().split('-')[0]; return MAP[x] || x; }
+    // Ad/campaign source for this visit (kept for the session only), sent with the lead form.
+    try {
+      var q = new URLSearchParams(location.search), keys = ['utm_source','utm_medium','utm_campaign','utm_content','utm_term','gclid','gbraid','wbraid','fbclid'], got = {}, any = false;
+      keys.forEach(function (k) { var v = q.get(k); if (v) { got[k] = v.slice(0, 200); any = true; } });
+      var ref = document.referrer && document.referrer.indexOf(location.origin) !== 0 ? document.referrer.slice(0, 300) : '';
+      if (any || (ref && !sessionStorage.getItem('md-attr'))) {
+        got.landing_page = location.pathname; got.referrer = ref;
+        sessionStorage.setItem('md-attr', JSON.stringify(got));
+      }
+    } catch (err) {}
     try {
       document.addEventListener('click', function (e) {
         var a = e.target && e.target.closest ? e.target.closest('a[data-lang]') : null;
@@ -117,11 +137,6 @@ function hreflangHref(code: string): string {
   gtag('config', 'G-NGJY01MMZM');
 </script>
 <MetaPixel />
-<meta charset="UTF-8">
-<meta name="google" content="notranslate">
-<meta http-equiv="Content-Language" content={locale}>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{title}</title>
 <meta name="description" content={description}>
 <link rel="canonical" href={canonical}>
 {hreflangLocales.map((l) => (
@@ -133,7 +148,7 @@ function hreflangHref(code: string): string {
 <meta property="og:description" content={description}>
 <meta property="og:image" content={`${site}${ogImage}`}>
 <meta property="og:url" content={canonical}>
-<meta property="og:locale" content={locale}>
+<meta property="og:locale" content={ogLocale}>
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content={title}>
 <meta name="twitter:description" content={description}>
@@ -513,7 +528,7 @@ function hreflangHref(code: string): string {
   }
 </style>
 </head>
-<body>
+<body data-page-type={pageType} data-treatment={treatment || undefined}>
   <slot />
 
   <div class="wa-float">
@@ -574,8 +589,23 @@ function hreflangHref(code: string): string {
       var a = e.target.closest && e.target.closest('a[href]');
       if (!a || typeof gtag !== 'function') return;
       var href = a.getAttribute('href') || '';
-      if (href.indexOf('wa.me/') !== -1 || href.indexOf('api.whatsapp.com') !== -1) gtag('event', 'whatsapp_click', { link_url: href, page_path: location.pathname });
-      else if (href.indexOf('tel:') === 0) gtag('event', 'phone_click', { link_url: href, page_path: location.pathname });
+      var isWa = href.indexOf('wa.me/') !== -1 || href.indexOf('api.whatsapp.com') !== -1;
+      var isTel = href.indexOf('tel:') === 0;
+      if (!isWa && !isTel) return;
+      var sec = a.closest('[data-cta-loc]');
+      var loc = sec ? sec.getAttribute('data-cta-loc')
+        : a.closest('header') ? 'header' : a.closest('footer') ? 'footer'
+        : (a.closest('section[id]') ? a.closest('section[id]').id : (a.closest('section') && a.closest('section').className.split(' ')[0]) || 'page');
+      var params = {
+        link_url: href.split('?')[0],
+        page_path: location.pathname,
+        page_language: document.documentElement.lang,
+        page_type: document.body.getAttribute('data-page-type') || 'other',
+        treatment: document.body.getAttribute('data-treatment') || '',
+        button_location: loc,
+        link_text: (a.textContent || '').trim().slice(0, 60)
+      };
+      gtag('event', isWa ? 'whatsapp_click' : 'phone_click', params);
     }, true);
     var showAll = function () { document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('is-visible'); }); };
     if (location.hash) showAll();

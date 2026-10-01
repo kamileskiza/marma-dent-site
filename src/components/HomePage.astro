@@ -41,16 +41,42 @@ function tp(id: string) {
   const idLocale = localesForTreatment(id).includes(locale) ? locale : 'en';
   return localePath(idLocale, treatmentSlug(idLocale, id as any) + '/');
 }
+// Shown when the form could not be delivered, so the lead is never silently lost.
+const FORM_ERROR: Record<string, string> = {
+  en: 'Your request could not be sent. Please message us on WhatsApp instead.',
+  tr: 'Talebiniz gönderilemedi. Lütfen bize WhatsApp üzerinden yazın.',
+  ru: 'Не удалось отправить заявку. Пожалуйста, напишите нам в WhatsApp.',
+  de: 'Ihre Anfrage konnte nicht gesendet werden. Bitte schreiben Sie uns auf WhatsApp.',
+  ar: 'تعذّر إرسال طلبك. يرجى مراسلتنا عبر واتساب.',
+  az: 'Sorğunuz göndərilmədi. Zəhmət olmasa bizə WhatsApp-da yazın.',
+  uk: 'Не вдалося надіслати заявку. Будь ласка, напишіть нам у WhatsApp.',
+  bg: 'Запитването не можа да бъде изпратено. Моля, пишете ни в WhatsApp.',
+  nl: 'Uw aanvraag kon niet worden verzonden. Stuur ons een bericht via WhatsApp.',
+  fr: "Votre demande n'a pas pu être envoyée. Écrivez-nous plutôt sur WhatsApp.",
+  pl: 'Nie udało się wysłać zgłoszenia. Prosimy napisać do nas na WhatsApp.',
+  ro: 'Cererea dumneavoastră nu a putut fi trimisă. Vă rugăm să ne scrieți pe WhatsApp.',
+  it: 'Non è stato possibile inviare la richiesta. Scriveteci su WhatsApp.',
+  el: 'Το αίτημά σας δεν στάλθηκε. Παρακαλούμε γράψτε μας στο WhatsApp.',
+  es: 'No se pudo enviar su solicitud. Escríbanos por WhatsApp.',
+  cs: 'Vaši žádost se nepodařilo odeslat. Napište nám prosím na WhatsApp.',
+  sk: 'Vašu žiadosť sa nepodarilo odoslať. Napíšte nám prosím na WhatsApp.',
+  hu: 'Kérését nem sikerült elküldeni. Kérjük, írjon nekünk WhatsAppon.',
+  lt: 'Užklausos išsiųsti nepavyko. Parašykite mums per WhatsApp.',
+  lv: 'Pieprasījumu neizdevās nosūtīt. Lūdzu, rakstiet mums WhatsApp.',
+  et: 'Päringut ei õnnestunud saata. Palun kirjutage meile WhatsAppis.',
+  pt: 'Não foi possível enviar o seu pedido. Escreva-nos pelo WhatsApp.',
+  sv: 'Din förfrågan kunde inte skickas. Skriv till oss på WhatsApp i stället.',
+  da: 'Din henvendelse kunne ikke sendes. Skriv venligst til os på WhatsApp.',
+  fi: 'Pyyntöäsi ei voitu lähettää. Kirjoita meille WhatsAppissa.',
+  hr: 'Vaš zahtjev nije poslan. Molimo pišite nam na WhatsApp.',
+  sl: 'Vaše zahteve ni bilo mogoče poslati. Pišite nam na WhatsApp.',
+  sr: 'Ваш захтев није послат. Молимо вас да нам пишете на WhatsApp.',
+  no: 'Forespørselen kunne ikke sendes. Skriv til oss på WhatsApp i stedet.',
+};
+const formError = FORM_ERROR[locale] ?? FORM_ERROR.en;
+const ATTR_FIELDS = ['utm_source','utm_medium','utm_campaign','utm_content','utm_term','gclid','gbraid','wbraid','fbclid','landing_page','referrer'];
 ---
-<BaseLayout locale={locale} title={pageTitle} description={pageDescription} path="">
-<!-- Review rating markup lives only here, on the page that actually displays the
-     reviews section — not repeated across every treatment/blog page. -->
-<script type="application/ld+json" set:html={JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "Dentist",
-  "@id": `https://dtnizamabdullayev.com/#clinic`,
-  "aggregateRating": {"@type":"AggregateRating","ratingValue":"5","reviewCount":"89"}
-})} />
+<BaseLayout locale={locale} title={pageTitle} description={pageDescription} path="" pageType="home">
 <Header locale={locale} t={t} path="" showInstagram={true} />
 
 <main>
@@ -145,7 +171,9 @@ function tp(id: string) {
     .treat-toggle-btn:hover{background:var(--bg-alt);}
     .treat-toggle-btn svg{width:16px;height:16px;transition:transform .2s;}
     .treat-toggle-btn.open svg{transform:rotate(180deg);}
-  </style>
+    .form-error{margin-top:12px;padding:12px;border-radius:12px;background:#FDECEC;border:1px solid #F3B4B4;}
+  .form-error p{margin:0 0 10px;color:#8A1F1F;font-size:14px;}
+</style>
 
   <script>
     (function(){
@@ -369,6 +397,7 @@ function tp(id: string) {
               <form id="leadForm" name="lead" method="POST" data-netlify="true" netlify-honeypot="bot-field">
                 <input type="hidden" name="form-name" value="lead" />
                 <input type="hidden" name="locale" value={locale} />
+                {ATTR_FIELDS.map((f) => <input type="hidden" name={f} value="" />)}
                 <p style="position:absolute;left:-9999px;" aria-hidden="true"><label>Don't fill this out if you're human: <input name="bot-field" tabindex="-1" autocomplete="off" /></label></p>
                 <div class="field"><label for="name">{t.form_name}</label><input id="name" name="name" type="text" required placeholder="Jane Miller"></div>
                 <div class="field">
@@ -389,7 +418,8 @@ function tp(id: string) {
                   </div>
                   <input type="hidden" id="phone" name="phone">
                 </div>
-                <button type="submit" class="btn btn-gold btn-block">{t.form_submit}</button>
+                <button type="submit" class="btn btn-gold btn-block" id="leadSubmit">{t.form_submit}</button>
+                <div class="form-error" id="formError" role="alert" hidden><p>{formError}</p><a href={waLink} target="_blank" rel="noopener" class="btn btn-wa btn-block" data-cta-loc="form_error">{t.cta2_wa}</a></div>
               </form>
               <p class="form-note">{t.form_note}</p>
             </div>
@@ -608,14 +638,26 @@ function tp(id: string) {
 
   leadForm?.addEventListener('submit', function(e){
     e.preventDefault();
+    const btn = document.getElementById('leadSubmit') as HTMLButtonElement | null;
+    if (btn?.disabled) return; // no double submit
     if (phoneHidden) {
       const code = phoneCode?.value ?? '';
       const num = (phoneNumber?.value ?? '').trim();
       phoneHidden.value = num ? `${code} ${num}` : '';
     }
-    try { (window as any).gtag?.('event', 'generate_lead', { form_name: 'free_plan', page_path: location.pathname }); } catch (_) {}
+    // Campaign source of this visit (stored by BaseLayout) goes with the lead.
+    try {
+      const attr = JSON.parse(sessionStorage.getItem('md-attr') || '{}');
+      Object.keys(attr).forEach((k) => {
+        const el = leadForm.elements.namedItem(k) as HTMLInputElement | null;
+        if (el) el.value = String(attr[k] ?? '');
+      });
+    } catch (_) {}
     const def = document.getElementById('formDefault');
     const success = document.getElementById('formSuccess');
+    const errBox = document.getElementById('formError');
+    if (errBox) errBox.hidden = true;
+    if (btn) btn.disabled = true;
     const formData = new FormData(leadForm);
     const body = new URLSearchParams(formData as unknown as Record<string, string>).toString();
     fetch('/', {
@@ -623,16 +665,30 @@ function tp(id: string) {
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body,
     })
-      .then(() => {
+      .then((res) => {
+        if (!res.ok) throw new Error('form ' + res.status);
+        // Count the lead only once it is really delivered.
+        try {
+          (window as any).gtag?.('event', 'generate_lead', {
+            form_name: 'free_plan',
+            page_path: location.pathname,
+            page_language: document.documentElement.lang,
+            lead_source: String(formData.get('utm_source') || formData.get('gclid') ? 'ads' : (formData.get('referrer') ? 'referral' : 'direct_or_organic')),
+          });
+        } catch (_) {}
+        document.dispatchEvent(new CustomEvent('md:lead', { detail: {
+          name: String(formData.get('name') || ''),
+          phone: String(formData.get('phone') || ''),
+          locale: String(formData.get('locale') || ''),
+        } }));
         if (def) (def as HTMLElement).style.display = 'none';
         success?.classList.add('show');
       })
       .catch(() => {
-        // Network/submission failure: still show a confirmation rather than a dead
-        // end, but this case should be rare — Netlify Forms endpoint is the same
-        // origin as the page itself.
-        if (def) (def as HTMLElement).style.display = 'none';
-        success?.classList.add('show');
+        // Not delivered: tell the visitor and offer WhatsApp instead of a fake success.
+        if (btn) btn.disabled = false;
+        if (errBox) errBox.hidden = false;
+        try { (window as any).gtag?.('event', 'form_error', { form_name: 'free_plan', page_path: location.pathname }); } catch (_) {}
       });
   });
 

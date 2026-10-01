@@ -58,7 +58,7 @@ const EEAT: Record<string, string> = {
   es: 'Contenido revisado médicamente por: Dt. Nizam Abdullayev, Odontólogo. Última actualización: 2026. Esta página tiene fines informativos generales; su plan de tratamiento personalizado se determina mediante examen clínico e imágenes.',
 };
 ---
-<BaseLayout locale={locale} title={pageTitle} description={pageDescription} path={path} ogImage={img} availableLocales={treatmentLocales} slugMap={slugMap}>
+<BaseLayout locale={locale} title={pageTitle} description={pageDescription} path={path} ogImage={img} availableLocales={treatmentLocales} slugMap={slugMap} pageType="treatment" treatment={treatmentId}>
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",

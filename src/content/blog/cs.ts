@@ -810,7 +810,7 @@ export const BLOG_CS = [
   ]
 },
 {
-  slug: "proc-miliony-pacientu-volí-turecko-pro-zubni-peci",
+  slug: "proc-miliony-pacientu-voli-turecko-pro-zubni-peci",
   title: "Proč miliony pacientů volí Turecko pro zubní péči",
   description: "Skutečný rozsah zubní turistiky do Turecka a faktory za volbou tolika mezinárodních pacientů.",
   date: "2026-09-11",

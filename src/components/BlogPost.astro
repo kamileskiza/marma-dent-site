@@ -40,7 +40,7 @@ if (post.relatedTreatment) {
 const pageTitle = buildTitleWithBrand(post.title);
 const pageDescription = buildFallbackDescription(post.description, locale);
 ---
-<BaseLayout locale={locale} title={pageTitle} description={pageDescription} path={path} slugMap={slugMap} ogImage={ogImage}>
+<BaseLayout locale={locale} title={pageTitle} description={pageDescription} path={path} slugMap={slugMap} ogImage={ogImage} pageType="blog">
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BlogPosting",

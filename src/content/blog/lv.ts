@@ -133,7 +133,7 @@ export const BLOG_LV = [
   ]
 },
 {
-  slug: "cik-ilgi-aizmnem-cirkonija-kroņa-izgatavosana",
+  slug: "cik-ilgi-aizmnem-cirkonija-krona-izgatavosana",
   title: "Cik ilgi aizņem cirkonija kroņa izgatavošana?",
   description: "No jūsu pirmās vizītes līdz pabeigtajam kronim.",
   date: "2026-09-02",
@@ -226,7 +226,7 @@ export const BLOG_LV = [
   ]
 },
 {
-  slug: "kas-notiek-sakņu-kanala-arstesanas-laika-solis-pa-solim",
+  slug: "kas-notiek-saknu-kanala-arstesanas-laika-solis-pa-solim",
   title: "Kas notiek sakņu kanāla ārstēšanas laikā, solis pa solim",
   description: "Skaidrs, soli pa solim apraksts par to, kas patiesībā notiek sakņu kanāla ārstēšanas laikā.",
   date: "2026-09-02",
@@ -574,7 +574,7 @@ export const BLOG_LV = [
   ]
 },
 {
-  slug: "cirkonija-kroni-cena-lētāks-ne-vienmēr-labāks",
+  slug: "cirkonija-kroni-cena-letaks-ne-vienmer-labaks",
   title: "Cirkonija kroņa cena: Lētāks ne vienmēr nozīmē labāks",
   description: "Kas patiešām ietekmē cirkonija kroņa cenu, un kāpēc zemākais piedāvājums dažreiz var izmaksāt vairāk ilgtermiņā.",
   date: "2026-09-10",

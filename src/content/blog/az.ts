@@ -514,7 +514,7 @@ export const BLOG_AZ = [
   ]
 },
 {
-  slug: "all-on-4-qiymeti-turkiye-vs-ingiltere-abş",
+  slug: "all-on-4-qiymeti-turkiye-vs-ingiltere-abs",
   title: "Türkiyədə All-on-4 qiyməti vs İngiltərə və ABŞ: Həqiqətdə nəyi müqayisə edirsiniz",
   description: "All-on-4 qiymət təkliflərinin ölkələr arasında niyə bu qədər fərqli olduğu və yalnız işçi qüvvəsi xərcindən başqa fərqi həqiqətdə nəyin yaratdığı.",
   date: "2026-09-10",

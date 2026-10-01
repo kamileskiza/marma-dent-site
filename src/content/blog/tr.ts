@@ -808,7 +808,7 @@ export const BLOG_TR = [{
   ]
 },
 {
-  slug: "milyonlarca-hasta-neden-turkiyeyi-diş-bakimi-icin-seciyor",
+  slug: "milyonlarca-hasta-neden-turkiyeyi-dis-bakimi-icin-seciyor",
   title: "Milyonlarca Hasta Diş Bakımı İçin Neden Türkiye'yi Seçiyor",
   description: "Türkiye'ye diş turizminin gerçek ölçeği ve bu kadar çok uluslararası hastanın neden tedavi için oraya seyahat etmeyi seçtiğinin arkasındaki faktörler.",
   date: "2026-09-11",

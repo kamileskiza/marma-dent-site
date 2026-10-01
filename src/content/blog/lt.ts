@@ -171,7 +171,7 @@ export const BLOG_LT = [
   ]
 },
 {
-  slug: "hollywood-smile-prieš-fasetes-tikrasis-skirtumas",
+  slug: "hollywood-smile-pries-fasetes-tikrasis-skirtumas",
   title: "Hollywood Smile prieš fasetes: Koks tikrasis skirtumas?",
   description: "„Hollywood Smile“ nėra atskira medžiaga ar procedūra nuo fasečių.",
   date: "2026-09-02",
@@ -188,7 +188,7 @@ export const BLOG_LT = [
   ]
 },
 {
-  slug: "invisalign-prieš-tradicinius-breketus-ka-pasirinkti",
+  slug: "invisalign-pries-tradicinius-breketus-ka-pasirinkti",
   title: "Invisalign prieš tradicinius breketus: Ką pasirinkti?",
   description: "Skaidrūs breketai ir metaliniai breketai abu tiesina dantis.",
   date: "2026-09-02",
@@ -315,7 +315,7 @@ export const BLOG_LT = [
   ]
 },
 {
-  slug: "kiek-iš-tikrujų-trunka-cirkonio-karuneles",
+  slug: "kiek-is-tikruju-trunka-cirkonio-karuneles",
   title: "Kiek iš tikrųjų trunka cirkonio karūnėlės?",
   description: "Realistiškas žvilgsnis į cirkonio karūnėlių tarnavimo laiką.",
   date: "2026-09-02",
@@ -431,7 +431,7 @@ export const BLOG_LT = [
   ]
 },
 {
-  slug: "all-on-4-kaina-kas-iš-tikrujų-ijeita",
+  slug: "all-on-4-kaina-kas-is-tikruju-ijeita",
   title: "All-on-4 kaina: Kas iš tikrųjų įeina į kainą?",
   description: "All-on-4 pasiūlymai gali atrodyti labai skirtingai tarp klinikų dėl priežasčių, neturinčių nieko bendra su kokybe.",
   date: "2026-09-03",

@@ -455,7 +455,7 @@ export const BLOG_UK = [
   ]
 },
 {
-  slug: "chy-mozhna-robyty-implanty-yakshcho-vy-kurytе",
+  slug: "chy-mozhna-robyty-implanty-yakshcho-vy-kuryte",
   title: "Чи можна робити зубні імпланти, якщо ви курите?",
   description: "Куріння автоматично не виключає імпланти, але це реальний фактор, який стоматологи сприймають серйозно. Що насправді змінюється і що дійсно варто знати перед лікуванням.",
   date: "2026-09-03",
