@@ -1,4 +1,5 @@
 ---
+const SITE = (Astro.site?.toString() ?? 'https://dtnizamabdullayev.com/').replace(/\/$/, '');
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -50,16 +51,16 @@ const pageDescription = buildFallbackDescription(post.description, locale);
   "dateModified": post.date,
   "inLanguage": locale,
   "author": { "@type": "Person", "name": "Dt. Nizam Abdullayev" },
-  "publisher": { "@type": "Dentist", "@id": `${Astro.site}/#clinic`, "name": "Nizam Abdullayev Dental Clinic" },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": `${Astro.site}${localePath(locale, path)}` }
+  "publisher": { "@type": "Dentist", "@id": `${SITE}/#clinic`, "name": "Nizam Abdullayev Dental Clinic" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE}${localePath(locale, path)}` }
 })} />
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": t.nav_home, "item": `${Astro.site}${localePath(locale, '')}` },
-    { "@type": "ListItem", "position": 2, "name": "Blog", "item": `${Astro.site}${localePath(locale, 'blog/')}` },
-    { "@type": "ListItem", "position": 3, "name": post.title, "item": `${Astro.site}${localePath(locale, path)}` }
+    { "@type": "ListItem", "position": 1, "name": t.nav_home, "item": `${SITE}${localePath(locale, '')}` },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": `${SITE}${localePath(locale, 'blog/')}` },
+    { "@type": "ListItem", "position": 3, "name": post.title, "item": `${SITE}${localePath(locale, path)}` }
   ]
 })} />
   <Header locale={locale} t={t} path={path} slugMap={{ [locale]: path }} />

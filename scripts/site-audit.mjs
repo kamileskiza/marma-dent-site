@@ -104,7 +104,10 @@ for (const p of pages.values()) {
   p.noindex = noindex;
   if (!p.canonical) err('canonical', u, 'missing canonical');
   else if (p.canonical !== SITE + u) err('canonical', u, `canonical points elsewhere: ${p.canonical}`);
-  for (const blk of p.ld) { try { JSON.parse(blk); } catch { err('jsonld', u, 'invalid JSON-LD'); } }
+  for (const blk of p.ld) {
+    try { JSON.parse(blk); } catch { err('jsonld', u, 'invalid JSON-LD'); }
+    if (/https:\/\/[^"/]+\/\//.test(blk)) err('jsonld', u, 'JSON-LD URL with double slash');
+  }
   // hreflang
   if (!noindex) {
     if (!p.hreflang.length) err('hreflang', u, 'no hreflang');

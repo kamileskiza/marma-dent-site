@@ -77,6 +77,15 @@ const formError = FORM_ERROR[locale] ?? FORM_ERROR.en;
 const ATTR_FIELDS = ['utm_source','utm_medium','utm_campaign','utm_content','utm_term','gclid','gbraid','wbraid','fbclid','landing_page','referrer'];
 ---
 <BaseLayout locale={locale} title={pageTitle} description={pageDescription} path="" pageType="home">
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": locale,
+  "mainEntity": [1,2,3,4,5].filter((n) => t[`faq${n}_q`] && t[`faq${n}_a`]).map((n) => ({
+    "@type": "Question", "name": t[`faq${n}_q`],
+    "acceptedAnswer": { "@type": "Answer", "text": t[`faq${n}_a`] }
+  }))
+})} />
 <Header locale={locale} t={t} path="" showInstagram={true} />
 
 <main>
