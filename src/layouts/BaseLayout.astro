@@ -100,8 +100,10 @@ function hreflangHref(code: string): string {
       var q = new URLSearchParams(location.search), keys = ['utm_source','utm_medium','utm_campaign','utm_content','utm_term','gclid','gbraid','wbraid','fbclid'], got = {}, any = false;
       keys.forEach(function (k) { var v = q.get(k); if (v) { got[k] = v.slice(0, 200); any = true; } });
       var ref = document.referrer && document.referrer.indexOf(location.origin) !== 0 ? document.referrer.slice(0, 300) : '';
-      if (any || (ref && !sessionStorage.getItem('md-attr'))) {
-        got.landing_page = location.pathname; got.referrer = ref;
+      var prev = {};
+      try { prev = JSON.parse(sessionStorage.getItem('md-attr') || '{}'); } catch (e2) {}
+      if (any || (ref && !prev.landing_page)) {
+        got.landing_page = location.pathname; got.referrer = ref || prev.referrer || '';
         sessionStorage.setItem('md-attr', JSON.stringify(got));
       }
     } catch (err) {}
@@ -111,6 +113,8 @@ function hreflangHref(code: string): string {
         if (a) { try { localStorage.setItem('lang-choice', a.getAttribute('data-lang')); } catch (err) {} }
       }, true);
       if (location.pathname !== '/') return;
+      // Internal navigation to the homepage (logo, menu) keeps the language the visitor is reading.
+      if (document.referrer && document.referrer.indexOf(location.origin) === 0) return;
       var target = null, choice = null;
       try { choice = localStorage.getItem('lang-choice'); } catch (err) {}
       if (choice && L.indexOf(choice) !== -1) {

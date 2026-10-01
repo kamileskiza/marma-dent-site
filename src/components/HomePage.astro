@@ -682,12 +682,16 @@ const ATTR_FIELDS = ['utm_source','utm_medium','utm_campaign','utm_content','utm
             form_name: 'free_plan',
             page_path: location.pathname,
             page_language: document.documentElement.lang,
-            lead_source: String(formData.get('utm_source') || formData.get('gclid') ? 'ads' : (formData.get('referrer') ? 'referral' : 'direct_or_organic')),
+            lead_source: ['utm_source','gclid','gbraid','wbraid','fbclid'].some((k) => formData.get(k)) ? 'ads'
+              : (formData.get('referrer') ? 'organic_or_referral' : 'direct'),
           });
         } catch (_) {}
+        // E.164-style digits for Meta matching: country code + national number without leading 0.
+        const ccDigits = (phoneCode?.value ?? '').replace(/\D/g, '');
+        const natDigits = (phoneNumber?.value ?? '').replace(/\D/g, '').replace(/^0+/, '');
         document.dispatchEvent(new CustomEvent('md:lead', { detail: {
           name: String(formData.get('name') || ''),
-          phone: String(formData.get('phone') || ''),
+          ph: natDigits ? ccDigits + natDigits : '',
           locale: String(formData.get('locale') || ''),
         } }));
         if (def) (def as HTMLElement).style.display = 'none';

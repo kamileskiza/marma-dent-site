@@ -75,10 +75,8 @@ const EEAT: Record<string, string> = {
   "name": d.title,
   "description": d.tagline,
   "url": `${SITE}${localePath(locale, path)}`,
-  "inLanguage": locale,
   "relevantSpecialty": { "@type": "MedicalSpecialty", "name": "Dentistry" },
-  "subjectOf": { "@type": "MedicalWebPage", "url": `${SITE}${localePath(locale, path)}`, "reviewedBy": { "@type": "Person", "name": "Dt. Nizam Abdullayev" } },
-  "provider": { "@id": `${SITE}/#clinic` }
+  "subjectOf": { "@type": "MedicalWebPage", "url": `${SITE}${localePath(locale, path)}`, "inLanguage": locale, "reviewedBy": { "@type": "Person", "name": "Dt. Nizam Abdullayev" } }
 })} />
   <Header locale={locale} t={t} path={path} availableLocales={treatmentLocales} slugMap={slugMap} />
 

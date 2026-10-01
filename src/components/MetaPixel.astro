@@ -6,7 +6,7 @@
 // - Every browser event is mirrored to /.netlify/functions/meta-capi with the
 //   same event_id, so Meta de-duplicates the browser + server copies.
 // - Events: PageView (all pages), Contact (WhatsApp / phone link clicks),
-//   Lead (website form #leadForm submit).
+//   Lead (website form, only after Netlify confirmed delivery — 'md:lead').
 //
 // PIXEL_ID must match META_PIXEL_ID in netlify/functions/meta-capi.mjs.
 const PIXEL_ID = '1879222660061391';
@@ -96,7 +96,7 @@ const DOMAIN_VERIFICATION = 'go6ea9cuwh94vwuhf03mn2nepm6qbn';
     // which hashes them (SHA-256) before sending to Meta.
     document.addEventListener('md:lead', function (ev) {
       var d = (ev && ev.detail) || {};
-      var digits = (d.phone || '').replace(/\D/g, '');
+      var digits = (d.ph || '').replace(/\D/g, '');
       track('Lead',
         { content_name: 'Website form', content_category: d.locale || document.documentElement.lang },
         { name: d.name || '', ph: digits });
