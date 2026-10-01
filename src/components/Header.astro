@@ -47,7 +47,7 @@ function targetHref(code: string): string {
         </button>
         <div class="lang-menu" id="langMenu" role="listbox">
           {LOCALES.map((l) => (
-            <a href={targetHref(l.code)} role="option" class:list={{active: l.code === locale}}>
+            <a href={targetHref(l.code)} data-lang={l.code} role="option" class:list={{active: l.code === locale}}>
               <span>{l.flag}</span><span>{l.name}</span>
             </a>
           ))}
