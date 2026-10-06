@@ -1,2 +1,7 @@
 node_modules/
 dist/
+
+# Graphify kod haritasi (scripts/graphify/guncelle.sh uretir; KOD_HARITASI.md kopyasi scripts/graphify altinda izlenir)
+/graphify-out/
+/.graphifyignore
+/scripts/graphify/__pycache__/

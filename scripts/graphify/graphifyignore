@@ -1,0 +1,17 @@
+# Graphify: yalnız kod. Veri, sır, üretilmiş dosya haritaya girmez.
+.env*
+*secret*
+*token*.json
+node_modules/
+.next/
+dist/
+build/
+coverage/
+.cache/
+drizzle/meta/
+package-lock.json
+assets/
+*.min.js
+*.woff2
+*.png
+graphify-out/
