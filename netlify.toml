@@ -12,3 +12,11 @@
     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://connect.facebook.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.facebook.com; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://www.googletagmanager.com https://*.analytics.google.com https://connect.facebook.net https://www.facebook.com; frame-src https://www.google.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'"
     
+
+# Hasta kisisel tedavi plani linki (Kamil 10.10.2026): dtnizamabdullayev.com/plan/<anahtar> -> Clinic OS hasta sayfasi.
+# Hasta linki klinigin kendi alan adindan alir; sayfa Clinic OS'ta acilir (acilma kaydi orada tutulur).
+[[redirects]]
+  from = "/plan/*"
+  to = "https://clinicospanel.com/portal/dtnizamabdullayev/p/:splat"
+  status = 302
+  force = true
