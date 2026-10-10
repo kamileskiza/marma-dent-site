@@ -1,0 +1,518 @@
+---
+// Country landing page ("patients from <country>"): hero with flight time,
+// home-country price reference (third-party ranges, never clinic prices),
+// doctor / digital workflow / warranty, process, travel, FAQ, lead form.
+// Data: src/i18n/country-landings.ts + src/i18n/country-landing-ui.ts.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from './Header.astro';
+import Footer from './Footer.astro';
+import { getHome, getTreatments, localesForTreatment } from '../i18n/content';
+import { localePath } from '../i18n/locales';
+import { treatmentSlug } from '../i18n/slugs';
+import { COUNTRY_LANDINGS, X_DEFAULT_ID, landingPath, type CountryLanding } from '../i18n/country-landings';
+import { LANDING_UI } from '../i18n/country-landing-ui';
+
+export interface Props { landing: CountryLanding; }
+const { landing: L } = Astro.props;
+const SITE = (Astro.site?.toString() ?? 'https://dtnizamabdullayev.com/').replace(/\/$/, '');
+const ui = LANDING_UI[L.ui];
+const t = getHome(L.locale);
+const pagePath = landingPath(L);
+const pageUrl = `${SITE}${pagePath}`;
+const WA_NUMBER = '905551901034'; // same number as the rest of the site (BaseLayout / Footer / audit)
+const waLink = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(L.wa)}`;
+
+// hreflang cluster: every country landing is a language-region version of this page.
+const xDefault = COUNTRY_LANDINGS.find((l) => l.id === X_DEFAULT_ID)!;
+const alternates = [
+  ...COUNTRY_LANDINGS.map((l) => ({ hreflang: l.htmlLang, href: `${SITE}${landingPath(l)}` })),
+  { hreflang: 'x-default', href: `${SITE}${landingPath(xDefault)}` },
+];
+
+// Related treatment pages that exist in this locale (internal links).
+const treatments = getTreatments(L.locale);
+const related = (['dental-implants', 'all-on-4-5-6', 'monolithic-zirconia', 'screw-retained-occlusal'] as const)
+  .filter((id) => localesForTreatment(id).includes(L.locale))
+  .map((id) => ({ href: localePath(L.locale, treatmentSlug(L.locale, id) + '/'), label: treatments[id]?.title ?? id }));
+
+// Phone country codes: this page's country first, then the other markets.
+const lang = L.htmlLang.split('-')[0];
+let regionName: (c: string) => string = (c) => c;
+try { const dn = new Intl.DisplayNames([L.htmlLang, lang, 'en'], { type: 'region' }); regionName = (c) => dn.of(c) ?? c; } catch (e) {}
+const flagOf = (iso: string) => iso.replace(/./g, (c) => String.fromCodePoint(127397 + c.charCodeAt(0)));
+const EXTRA: Array<[string, string]> = [['TR', '90'], ['LU', '352'], ['DK', '45'], ['SE', '46'], ['FI', '358'], ['IT', '39'], ['ES', '34'], ['GR', '30'], ['HU', '36'], ['SK', '421'], ['CA', '1'], ['AU', '61'], ['NZ', '64'], ['AE', '971'], ['AZ', '994']];
+const seen = new Set<string>();
+const phoneOptions: Array<{ iso: string; dial: string; label: string }> = [];
+for (const [iso, dial] of [[L.country, L.dial] as [string, string], ...COUNTRY_LANDINGS.map((l) => [l.country, l.dial] as [string, string]), ...EXTRA]) {
+  if (seen.has(iso)) continue;
+  seen.add(iso);
+  phoneOptions.push({ iso, dial, label: `${flagOf(iso)} ${regionName(iso)} +${dial}` });
+}
+const ATTR_FIELDS = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'gclid', 'gbraid', 'wbraid', 'fbclid', 'landing_page', 'referrer'];
+const FORM_ERROR: Record<string, string> = {
+  de: 'Ihre Anfrage konnte nicht gesendet werden. Bitte schreiben Sie uns auf WhatsApp.',
+  deCH: 'Ihre Anfrage konnte nicht gesendet werden. Bitte schreiben Sie uns auf WhatsApp.',
+  nl: 'Uw aanvraag kon niet worden verzonden. Stuur ons een bericht via WhatsApp.',
+  fr: "Votre demande n'a pas pu être envoyée. Écrivez-nous plutôt sur WhatsApp.",
+  no: 'Forespørselen kunne ikke sendes. Skriv til oss på WhatsApp i stedet.',
+  en: 'Your request could not be sent. Please message us on WhatsApp instead.',
+  enUS: 'Your request could not be sent. Please message us on WhatsApp instead.',
+  pl: 'Nie udało się wysłać zgłoszenia. Prosimy napisać do nas na WhatsApp.',
+  cs: 'Vaši žádost se nepodařilo odeslat. Napište nám prosím na WhatsApp.',
+  bg: 'Запитването не можа да бъде изпратено. Моля, пишете ни в WhatsApp.',
+  ro: 'Cererea dumneavoastră nu a putut fi trimisă. Vă rugăm să ne scrieți pe WhatsApp.',
+  pt: 'Não foi possível enviar o seu pedido. Escreva-nos pelo WhatsApp.',
+};
+const formError = FORM_ERROR[L.ui] ?? FORM_ERROR.en;
+const otherLandings = COUNTRY_LANDINGS.filter((l) => l.id !== L.id);
+let countryEn = L.country;
+try { countryEn = new Intl.DisplayNames(['en'], { type: 'region' }).of(L.country) ?? L.country; } catch (e) {}
+---
+<BaseLayout
+  locale={L.locale}
+  htmlLang={L.htmlLang}
+  title={L.title}
+  description={L.description}
+  path={`${L.slug}/`}
+  ogImage="/images/clinic-room.jpg"
+  availableLocales={[L.locale]}
+  alternates={alternates}
+  waText={L.wa}
+  pageType="country_landing"
+>
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["MedicalClinic", "Dentist"],
+      "@id": `${SITE}/#clinic`,
+      "name": "Nizam Abdullayev Dental Clinic",
+      "url": `${SITE}/`,
+      "telephone": "+905551901034",
+      "medicalSpecialty": "Dentistry",
+      "address": { "@type": "PostalAddress", "streetAddress": "Bağlarbaşı, Atatürk Caddesi, Galip Arcan Sokağı 1a", "addressLocality": "Maltepe", "addressRegion": "Istanbul", "postalCode": "34844", "addressCountry": "TR" },
+      "employee": { "@type": "Person", "name": "Dt. Nizam Abdullayev", "jobTitle": "Dentist" }
+    },
+    {
+      "@type": "MedicalWebPage",
+      "@id": `${pageUrl}#webpage`,
+      "url": pageUrl,
+      "name": L.title,
+      "description": L.description,
+      "inLanguage": L.htmlLang,
+      "about": { "@id": `${SITE}/#clinic` },
+      "audience": { "@type": "PeopleAudience", "geographicArea": { "@type": "Country", "name": countryEn, "identifier": L.country } },
+      "reviewedBy": { "@type": "Person", "name": "Dt. Nizam Abdullayev" },
+      "lastReviewed": "2026-10-10"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": t.nav_home, "item": `${SITE}${localePath(L.locale, '')}` },
+        { "@type": "ListItem", "position": 2, "name": L.navLabel, "item": pageUrl }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": `${pageUrl}#faq`,
+      "inLanguage": L.htmlLang,
+      "mainEntity": L.faq.map((f) => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": f.a } }))
+    }
+  ]
+})} />
+<Header locale={L.locale} t={t} path={`${L.slug}/`} availableLocales={[L.locale]} showInstagram={true} />
+
+<main class="cl">
+  <!-- HERO -->
+  <section class="cl-hero">
+    <img class="cl-hero-bg" src="/images/clinic-room.jpg" alt={t.hero_photo_alt ?? 'Treatment room at Nizam Abdullayev Dental Clinic, Istanbul'} fetchpriority="high">
+    <div class="cl-hero-overlay"></div>
+    <div class="wrap cl-hero-inner">
+      <span class="cl-eyebrow">{L.flag} {L.eyebrow}</span>
+      <h1>{L.h1}</h1>
+      <p class="cl-lead">{L.lead}</p>
+      <div class="cl-ctas">
+        <a class="btn btn-gold" href="#consultation">{ui.cta_form}</a>
+        <a class="btn btn-wa" href={waLink} target="_blank" rel="noopener" data-cta-loc="landing_hero">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 20z"/></svg>
+          <span>{ui.cta_wa}</span>
+        </a>
+      </div>
+      <ul class="cl-chips">
+        {ui.chips.map((c) => <li>{c}</li>)}
+      </ul>
+    </div>
+  </section>
+
+  <!-- DOCTOR -->
+  <section class="cl-sec">
+    <div class="wrap cl-split">
+      <figure class="cl-photo">
+        <img src="/images/doctor.jpg" alt={ui.doctor_caption} loading="lazy" width="600" height="750">
+        <figcaption>{ui.doctor_caption}</figcaption>
+      </figure>
+      <div>
+        <span class="eyebrow">{ui.doctor_eyebrow}</span>
+        <h2>{ui.doctor_h2}</h2>
+        <p>{ui.doctor_p1}</p>
+        <p>{ui.doctor_p2}</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- DIGITAL WORKFLOW -->
+  <section class="cl-sec cl-alt">
+    <div class="wrap">
+      <span class="eyebrow">{ui.digital_eyebrow}</span>
+      <h2>{ui.digital_h2}</h2>
+      <div class="cl-split cl-split--rev">
+        <ul class="cl-list">
+          {ui.digital.map((d) => <li><strong>{d.t}</strong><span>{d.d}</span></li>)}
+        </ul>
+        <figure class="cl-photo cl-photo--contain">
+          <img src="/images/itero-scanner.jpg" alt={ui.digital[0].t} loading="lazy">
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- WARRANTY / TRUST -->
+  <section class="cl-sec">
+    <div class="wrap">
+      <span class="eyebrow">{ui.trust_eyebrow}</span>
+      <h2>{ui.trust_h2}</h2>
+      <div class="cl-cards">
+        {ui.trust.map((d) => (
+          <div class="cl-card">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3.5 8.5-7 10-3.5-1.5-7-5-7-10V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
+            <h3>{d.t}</h3>
+            <p>{d.d}</p>
+          </div>
+        ))}
+      </div>
+      <div class="cl-certs">
+        <img src="/images/cert-ministry.jpg" alt="International Health Tourism Authorization Certificate" loading="lazy">
+        <img src="/images/cert-health-turkiye.jpg" alt="Health Türkiye" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <!-- COST REFERENCE (home country, third-party sources) -->
+  <section class="cl-sec cl-alt">
+    <div class="wrap cl-narrow">
+      <span class="eyebrow">{ui.price_eyebrow}</span>
+      <h2>{L.priceH2}</h2>
+      <p>{L.priceIntro}</p>
+      <div class="cl-table-wrap">
+        <table class="cl-table">
+          <thead><tr><th scope="col">{ui.price_th_item}</th><th scope="col">{L.priceCol}</th></tr></thead>
+          <tbody>
+            {L.prices.map((r) => (
+              <tr><td>{r.item}<sup><a href={`#src-${r.src + 1}`}>[{r.src + 1}]</a></sup></td><td class="cl-num">{r.range}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="cl-small">{ui.price_disclaimer}</p>
+      <p class="cl-plan">{ui.price_plan}</p>
+      <div class="cl-sources">
+        <strong>{ui.sources_label}</strong>
+        <ol>
+          {L.sources.map((s, i) => <li id={`src-${i + 1}`}><a href={s.url} target="_blank" rel="noopener nofollow">{s.label}</a></li>)}
+        </ol>
+      </div>
+      <a class="btn btn-gold" href="#consultation">{ui.cta_form}</a>
+    </div>
+  </section>
+
+  <!-- PROCESS -->
+  <section class="cl-sec">
+    <div class="wrap">
+      <span class="eyebrow">{ui.process_eyebrow}</span>
+      <h2>{ui.process_h2}</h2>
+      <h3 class="cl-sub">{ui.process_implant_label}</h3>
+      <ol class="cl-steps">
+        {ui.implant_steps.map((s, i) => <li><span class="cl-step-n">{i + 1}</span><div><strong>{s.t}</strong><p>{s.d}</p></div></li>)}
+      </ol>
+      <div class="cl-box">
+        <h3 class="cl-sub">{ui.process_crown_label}</h3>
+        <p>{ui.crown_text}</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRAVEL -->
+  <section class="cl-sec cl-alt">
+    <div class="wrap">
+      <span class="eyebrow">{ui.travel_eyebrow}</span>
+      <h2>{L.travelH2}</h2>
+      <div class="cl-split">
+        <div>
+          <div class="cl-table-wrap">
+            <table class="cl-table">
+              <thead><tr><th scope="col">{ui.th_from}</th><th scope="col">{ui.th_time}</th></tr></thead>
+              <tbody>
+                {L.airports.map((a) => <tr><td>{a.from}</td><td class="cl-num">{a.time}</td></tr>)}
+              </tbody>
+            </table>
+          </div>
+          <p class="cl-small">{ui.flight_note}</p>
+          {L.travelNote && <p>{L.travelNote}</p>}
+        </div>
+        <ul class="cl-list">
+          {ui.travel_items.map((d) => <li><strong>{d.t}</strong><span>{d.d}</span></li>)}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="cl-sec">
+    <div class="wrap cl-narrow">
+      <span class="eyebrow">{ui.faq_eyebrow}</span>
+      <h2>{L.faqH2}</h2>
+      <div class="cl-faq">
+        {L.faq.map((f) => (
+          <details>
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- LEAD FORM -->
+  <section class="cl-sec cl-form-sec" id="consultation">
+    <div class="wrap cl-split">
+      <div class="cl-form-copy">
+        <span class="eyebrow eyebrow--light">{ui.form_eyebrow}</span>
+        <h2>{ui.form_h2}</h2>
+        <p>{ui.form_p}</p>
+        <a class="btn btn-wa" href={waLink} target="_blank" rel="noopener" data-cta-loc="landing_form">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 20z"/></svg>
+          <span>{ui.cta_wa}</span>
+        </a>
+      </div>
+      <div class="cl-form-card">
+        <div id="clFormDefault">
+          <h3>{t.form_title}</h3>
+          <p class="cl-small">{t.form_sub}</p>
+          <form id="clLeadForm" name="lead" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <input type="hidden" name="form-name" value="lead" />
+            <input type="hidden" name="locale" value={L.htmlLang} />
+            <input type="hidden" name="country" value={L.country} />
+            <input type="hidden" name="landing" value={L.id} />
+            {ATTR_FIELDS.map((f) => <input type="hidden" name={f} value="" />)}
+            <p class="cl-hp" aria-hidden="true"><label>Don't fill this out if you're human: <input name="bot-field" tabindex="-1" autocomplete="off" /></label></p>
+            <div class="cl-field">
+              <label for="clName">{t.form_name}</label>
+              <input id="clName" name="name" type="text" required autocomplete="name">
+            </div>
+            <div class="cl-field">
+              <label for="clPhoneNumber">{t.form_phone}</label>
+              <div class="cl-phone">
+                <select id="clPhoneCode" aria-label={ui.phone_code_label}>
+                  {phoneOptions.map((o, i) => <option value={`+${o.dial}`} selected={i === 0}>{o.label}</option>)}
+                </select>
+                <input id="clPhoneNumber" type="tel" required inputmode="tel" autocomplete="tel-national">
+              </div>
+              <input type="hidden" id="clPhone" name="phone">
+            </div>
+            <button type="submit" class="btn btn-gold btn-block" id="clSubmit">{t.form_submit}</button>
+            <div class="form-error" id="clFormError" role="alert" hidden><p>{formError}</p><a href={waLink} target="_blank" rel="noopener" class="btn btn-wa btn-block" data-cta-loc="form_error">{t.cta2_wa}</a></div>
+          </form>
+          <p class="cl-small">{t.form_note}</p>
+        </div>
+        <div class="cl-success" id="clFormSuccess" hidden>
+          <h3>{t.form_success_title}</h3>
+          <p>{t.form_success_desc}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- RELATED + OTHER COUNTRIES -->
+  <section class="cl-sec">
+    <div class="wrap">
+      {related.length > 0 && (
+        <nav class="cl-links" aria-label={ui.related_h}>
+          <h2 class="cl-h-small">{ui.related_h}</h2>
+          <ul>{related.map((r) => <li><a href={r.href}>{r.label}</a></li>)}</ul>
+        </nav>
+      )}
+      <nav class="cl-links" aria-label={ui.other_h2}>
+        <h2 class="cl-h-small">{ui.other_h2}</h2>
+        <ul>{otherLandings.map((l) => <li><a href={landingPath(l)} hreflang={l.htmlLang}>{l.flag} {l.navLabel}</a></li>)}</ul>
+      </nav>
+      <p class="cl-small cl-review">{ui.review_note}</p>
+    </div>
+  </section>
+</main>
+
+<Footer locale={L.locale} t={t} />
+
+<style>
+  .cl h2{font-size:clamp(26px,4vw,38px);}
+  .cl-sec{padding:64px 0;}
+  .cl-alt{background:var(--bg-alt);}
+  .cl-narrow{max-width:860px;}
+  .cl .eyebrow{margin-bottom:14px;}
+  .cl-hero{position:relative;min-height:560px;display:flex;align-items:flex-end;color:#fff;overflow:hidden;}
+  .cl-hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+  .cl-hero-overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(8,27,52,.35) 0%,rgba(8,27,52,.88) 70%);}
+  .cl-hero-inner{position:relative;padding-top:72px;padding-bottom:48px;}
+  .cl-eyebrow{display:inline-block;font-family:'DM Mono',monospace;font-size:12.5px;letter-spacing:.04em;text-transform:uppercase;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);padding:7px 12px;border-radius:99px;margin-bottom:16px;}
+  .cl-hero h1{font-size:clamp(30px,5.2vw,54px);max-width:20ch;color:#fff;}
+  .cl-lead{color:rgba(255,255,255,.9);font-size:18px;max-width:62ch;}
+  .cl-ctas{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0 20px;}
+  .cl-ctas svg,.cl-form-copy svg{width:18px;height:18px;}
+  .cl-chips{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px;}
+  .cl-chips li{font-size:13px;font-weight:600;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);border-radius:99px;padding:6px 12px;}
+  .cl-split{display:grid;grid-template-columns:1fr 1.2fr;gap:44px;align-items:center;}
+  .cl-split--rev{grid-template-columns:1.2fr 1fr;margin-top:8px;}
+  .cl-photo{margin:0;border-radius:20px;overflow:hidden;background:var(--white);border:1px solid var(--line);box-shadow:var(--shadow);}
+  .cl-photo img{width:100%;height:auto;}
+  .cl-photo figcaption{padding:12px 16px;font-size:13px;color:var(--ink-faint);font-family:'DM Mono',monospace;}
+  .cl-photo--contain{padding:18px;}
+  .cl-photo--contain img{max-height:320px;object-fit:contain;margin:0 auto;}
+  .cl-list{list-style:none;margin:0;padding:0;display:grid;gap:16px;}
+  .cl-list li{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:16px 18px;}
+  .cl-list strong{display:block;margin-bottom:4px;}
+  .cl-list span{color:var(--ink-soft);font-size:14.5px;}
+  .cl-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:8px;}
+  .cl-card{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:20px;}
+  .cl-card svg{width:26px;height:26px;color:var(--gold);margin-bottom:10px;}
+  .cl-card h3{font-family:'Manrope',sans-serif;font-size:16px;font-weight:800;margin-bottom:6px;}
+  .cl-card p{font-size:14px;margin:0;}
+  .cl-certs{display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-top:24px;}
+  .cl-certs img{height:110px;width:auto;background:#fff;border:1px solid var(--line);border-radius:10px;padding:8px;}
+  .cl-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:8px 0 12px;}
+  .cl-table{width:100%;border-collapse:collapse;background:var(--white);border-radius:14px;overflow:hidden;font-size:15px;}
+  .cl-table th{text-align:left;font-family:'DM Mono',monospace;font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);padding:12px 14px;border-bottom:1px solid var(--line);}
+  .cl-table td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top;}
+  .cl-table tr:last-child td{border-bottom:none;}
+  .cl-num{font-weight:700;white-space:nowrap;}
+  .cl-table sup a{font-size:11px;color:var(--ink-faint);text-decoration:none;margin-left:3px;}
+  .cl-small{font-size:13px;color:var(--ink-faint);}
+  .cl-plan{font-weight:600;color:var(--ink);}
+  .cl-sources{font-size:12.5px;color:var(--ink-faint);margin:6px 0 22px;}
+  .cl-sources ol{margin:6px 0 0;padding-left:20px;}
+  .cl-sources a{color:var(--ink-soft);word-break:break-word;}
+  .cl-sub{font-family:'Manrope',sans-serif;font-size:17px;font-weight:800;margin:18px 0 12px;}
+  .cl-steps{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:14px;}
+  .cl-steps li{display:flex;flex-direction:column;gap:10px;background:var(--white);border:1px solid var(--line);border-radius:16px;padding:16px;}
+  .cl-steps p{margin:6px 0 0;font-size:14px;}
+  .cl-step-n{width:32px;height:32px;border-radius:50%;background:var(--gold);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center;flex:none;}
+  .cl-box{margin-top:22px;background:var(--bg-alt);border:1px dashed var(--line);border-radius:16px;padding:16px 20px;}
+  .cl-box p{margin:0;}
+  .cl-faq{border-top:1px solid var(--line);}
+  .cl-faq details{border-bottom:1px solid var(--line);padding:4px 0;}
+  .cl-faq summary{cursor:pointer;font-weight:700;padding:14px 28px 14px 0;list-style:none;position:relative;}
+  .cl-faq summary::-webkit-details-marker{display:none;}
+  .cl-faq summary::after{content:'+';position:absolute;right:4px;top:12px;font-size:20px;color:var(--gold);}
+  .cl-faq details[open] summary::after{content:'–';}
+  .cl-faq details p{margin:0 0 16px;font-size:15px;}
+  .cl-form-sec{background:var(--navy);color:#fff;}
+  .cl-form-copy h2{color:#fff;}
+  .cl-form-copy p{color:rgba(255,255,255,.82);}
+  .cl-form-card{background:var(--white);color:var(--ink);border-radius:20px;padding:26px;box-shadow:var(--shadow);}
+  .cl-form-card h3{font-size:22px;margin-bottom:4px;}
+  .cl-field{margin:14px 0;}
+  .cl-field label{display:block;font-weight:700;font-size:14px;margin-bottom:6px;}
+  .cl-field input,.cl-field select{width:100%;font:inherit;font-size:16px;padding:12px 14px;border:1.5px solid var(--line);border-radius:12px;background:#fff;color:var(--ink);}
+  .cl-phone{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:8px;}
+  .cl-hp{position:absolute;left:-9999px;}
+  .cl-success h3{margin-bottom:6px;}
+  .cl-links{margin-bottom:26px;}
+  .cl-h-small{font-family:'Manrope',sans-serif;font-size:15px !important;font-weight:800;margin-bottom:10px;}
+  .cl-links ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px;}
+  .cl-links a{display:inline-block;padding:8px 12px;border:1px solid var(--line);border-radius:99px;background:var(--white);text-decoration:none;font-size:14px;}
+  .cl-links a:hover{border-color:var(--gold);}
+  .cl-review{max-width:80ch;}
+  @media (max-width:980px){
+    .cl-steps{grid-template-columns:1fr 1fr;}
+  }
+  @media (max-width:760px){
+    .cl-sec{padding:44px 0;}
+    .wrap{padding:0 16px;}
+    .cl-hero{min-height:520px;}
+    .cl-lead{font-size:16px;}
+    .cl-split,.cl-split--rev{grid-template-columns:1fr;gap:24px;}
+    .cl-steps{grid-template-columns:1fr;}
+    .cl-steps li{flex-direction:row;}
+    .cl-ctas .btn{width:100%;}
+    .cl-phone{grid-template-columns:1fr;}
+    .cl-form-card{padding:20px;}
+    .cl-certs img{height:84px;}
+  }
+</style>
+
+<script>
+  const form = document.getElementById('clLeadForm') as HTMLFormElement | null;
+  const codeSel = document.getElementById('clPhoneCode') as HTMLSelectElement | null;
+  const numInput = document.getElementById('clPhoneNumber') as HTMLInputElement | null;
+  const phoneHidden = document.getElementById('clPhone') as HTMLInputElement | null;
+
+  form?.addEventListener('submit', function (e) {
+    e.preventDefault();
+    const btn = document.getElementById('clSubmit') as HTMLButtonElement | null;
+    if (btn?.disabled) return; // no double submit
+    const raw = (numInput?.value ?? '').trim();
+    // A full international number (+49…, 0049…) wins over the selected code.
+    const intl = /^(\+|00)/.test(raw);
+    const code = intl ? '' : (codeSel?.value ?? '');
+    if (phoneHidden) phoneHidden.value = raw ? (intl ? raw.replace(/^00/, '+') : `${code} ${raw}`) : '';
+    // Campaign source of this visit (stored by BaseLayout) goes with the lead.
+    try {
+      const attr = JSON.parse(sessionStorage.getItem('md-attr') || '{}');
+      Object.keys(attr).forEach((k) => {
+        const el = form.elements.namedItem(k) as HTMLInputElement | null;
+        if (el) el.value = String(attr[k] ?? '');
+      });
+    } catch (_) {}
+    const lp = form.elements.namedItem('landing_page') as HTMLInputElement | null;
+    if (lp && !lp.value) lp.value = location.pathname;
+    const def = document.getElementById('clFormDefault');
+    const success = document.getElementById('clFormSuccess');
+    const errBox = document.getElementById('clFormError');
+    if (errBox) errBox.hidden = true;
+    if (btn) btn.disabled = true;
+    const formData = new FormData(form);
+    const body = new URLSearchParams(formData as unknown as Record<string, string>).toString();
+    fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body })
+      .then((res) => {
+        if (!res.ok) throw new Error('form ' + res.status);
+        // Count the lead only once it is really delivered (same event as the homepage form).
+        try {
+          (window as any).gtag?.('event', 'generate_lead', {
+            form_name: 'free_plan',
+            page_path: location.pathname,
+            page_language: document.documentElement.lang,
+            page_type: 'country_landing',
+            country: String(formData.get('country') || ''),
+            lead_source: ['utm_source', 'gclid', 'gbraid', 'wbraid', 'fbclid'].some((k) => formData.get(k)) ? 'ads'
+              : (formData.get('referrer') ? 'organic_or_referral' : 'direct'),
+          });
+        } catch (_) {}
+        // E.164-style digits for Meta matching (hashed server-side by the CAPI function).
+        const phoneDigits = (phoneHidden?.value ?? '').replace(/\D/g, '');
+        const ccDigits = (code || '').replace(/\D/g, '');
+        const ph = intl ? phoneDigits : (ccDigits + raw.replace(/\D/g, '').replace(/^0+/, ''));
+        document.dispatchEvent(new CustomEvent('md:lead', { detail: {
+          name: String(formData.get('name') || ''),
+          ph: raw ? ph : '',
+          locale: String(formData.get('locale') || ''),
+        } }));
+        if (def) (def as HTMLElement).hidden = true;
+        if (success) success.hidden = false;
+      })
+      .catch(() => {
+        // Not delivered: tell the visitor and offer WhatsApp instead of a fake success.
+        if (btn) btn.disabled = false;
+        if (errBox) errBox.hidden = false;
+        try { (window as any).gtag?.('event', 'form_error', { form_name: 'free_plan', page_path: location.pathname }); } catch (_) {}
+      });
+  });
+</script>
+</BaseLayout>

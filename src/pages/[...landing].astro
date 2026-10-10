@@ -1,0 +1,16 @@
+---
+// Country landing pages, e.g. /de/zahnimplantate-tuerkei-istanbul/ or /dental-implants-turkey-uk/.
+// All page data: src/i18n/country-landings.ts.
+import CountryLanding from '../components/CountryLanding.astro';
+import { COUNTRY_LANDINGS } from '../i18n/country-landings';
+
+export function getStaticPaths() {
+  return COUNTRY_LANDINGS.map((landing) => ({
+    params: { landing: landing.locale === 'en' ? landing.slug : `${landing.locale}/${landing.slug}` },
+    props: { landing },
+  }));
+}
+
+const { landing } = Astro.props;
+---
+<CountryLanding landing={landing} />

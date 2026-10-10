@@ -16,17 +16,22 @@ export interface Props {
     // Required whenever `path` is not identical across locales (e.g. localized treatment slugs).
     // Without it, we only self-reference the current locale rather than guess another locale's slug —
     // guessing would produce hreflang links to URLs that don't exist.
+  htmlLang?: string; // overrides <html lang> (e.g. 'de-AT' on country landing pages); defaults to `locale`
+  alternates?: Array<{ hreflang: string; href: string }>; // explicit hreflang set (absolute URLs, incl. x-default); replaces the computed one
+  waText?: string; // prefilled text for the floating WhatsApp button; defaults to the locale's wa_message
 }
 
-const { locale, title, description, path, ogImage = '/images/hollywood-smile.jpg', availableLocales, slugMap, pageType = 'other', treatment = '' } = Astro.props;
+const { locale, title, description, path, ogImage = '/images/hollywood-smile.jpg', availableLocales, slugMap, pageType = 'other', treatment = '', htmlLang, alternates, waText } = Astro.props;
 // og:locale wants language_TERRITORY.
 const OG_REGION: Record<string, string> = { en:'GB', tr:'TR', ru:'RU', de:'DE', ar:'SA', az:'AZ', uk:'UA', bg:'BG', nl:'NL', fr:'FR', pl:'PL', ro:'RO', it:'IT', el:'GR', es:'ES', cs:'CZ', sk:'SK', hu:'HU', lt:'LT', lv:'LV', et:'EE', pt:'PT', sv:'SE', da:'DK', fi:'FI', hr:'HR', sl:'SI', sr:'RS', no:'NO' };
-const ogLocale = `${locale === 'no' ? 'nb' : locale}_${OG_REGION[locale] ?? 'GB'}`;
+const ogLocale = htmlLang && /^[a-z]{2}-[A-Z]{2}$/.test(htmlLang)
+  ? htmlLang.replace('-', '_')
+  : `${locale === 'no' ? 'nb' : locale}_${OG_REGION[locale] ?? 'GB'}`;
 const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://dtnizamabdullayev.com';
 const canonical = `${site}${localePath(locale, path)}`;
 const localeInfo = LOCALES.find((l) => l.code === locale) ?? LOCALES[0];
 const waHomeT = getHome(locale);
-const waLink = `https://wa.me/905551901034?text=${encodeURIComponent(waHomeT.wa_message ?? 'Hello, I would like a free consultation')}`;
+const waLink = `https://wa.me/905551901034?text=${encodeURIComponent(waText ?? waHomeT.wa_message ?? 'Hello, I would like a free consultation')}`;
 
 const COOKIE_I18N: Record<string, { text: string; accept: string; reject: string }> = {
   en: { text: "We use cookies to improve your experience on this site.", accept: "Accept", reject: "Reject" },
@@ -79,11 +84,11 @@ function hreflangHref(code: string): string {
 }
 ---
 <!DOCTYPE html>
-<html lang={locale} dir={localeInfo.dir} translate="no">
+<html lang={htmlLang ?? locale} dir={localeInfo.dir} translate="no">
 <head>
 <meta charset="UTF-8">
 <meta name="google" content="notranslate">
-<meta http-equiv="Content-Language" content={locale}>
+<meta http-equiv="Content-Language" content={htmlLang ?? locale}>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{title}</title>
 <script is:inline>
@@ -143,10 +148,16 @@ function hreflangHref(code: string): string {
 <MetaPixel />
 <meta name="description" content={description}>
 <link rel="canonical" href={canonical}>
-{hreflangLocales.map((l) => (
-  <link rel="alternate" hreflang={l.hreflang} href={hreflangHref(l.code)} />
-))}
-<link rel="alternate" hreflang="x-default" href={hreflangHref(DEFAULT_LOCALE)} />
+{alternates ? alternates.map((a) => (
+  <link rel="alternate" hreflang={a.hreflang} href={a.href} />
+)) : (
+  <>
+    {hreflangLocales.map((l) => (
+      <link rel="alternate" hreflang={l.hreflang} href={hreflangHref(l.code)} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={hreflangHref(DEFAULT_LOCALE)} />
+  </>
+)}
 <meta property="og:type" content="website">
 <meta property="og:title" content={title}>
 <meta property="og:description" content={description}>
@@ -476,6 +487,8 @@ function hreflangHref(code: string): string {
   .foot-col ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px;}
   .foot-treat-list{columns:2;column-gap:16px;display:block !important;}
   .foot-treat-list li{margin-bottom:8px;break-inside:avoid;}
+  /* five footer columns when the locale has country landing pages */
+  @media (min-width:981px){ .foot-top:has(> :nth-child(5)){grid-template-columns:1fr .7fr .7fr .85fr 1.25fr;gap:28px;} }
   .foot-about{border-top:1px solid rgba(255,255,255,.12);padding:32px 28px 8px;max-width:var(--maxw);margin:0 auto;}
   .foot-about h4{font-family:'DM Mono',monospace;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:rgba(255,255,255,.45);margin:0 0 12px;}
   .foot-about p{font-size:13.5px;color:rgba(255,255,255,.72);max-width:80ch;margin:0 0 10px;}
