@@ -2,6 +2,7 @@
 import { localePath } from '../i18n/locales';
 import { treatmentSlug, TREATMENT_IDS, type TreatmentId } from '../i18n/slugs';
 import { TREATMENT_CONTENT_LOCALES, getTreatments, localesForTreatment } from '../i18n/content';
+import { landingsForLocale, landingPath, FOOTER_HEADING } from '../i18n/country-landings';
 
 export interface Props {
   locale: string;
@@ -16,6 +17,8 @@ const waLink = `https://wa.me/905551901034?text=${encodeURIComponent(t.wa_messag
 // override), with their real titles — not the previous hardcoded 5-item list.
 const footerLinks = TREATMENT_IDS.filter((id) => localesForTreatment(id).includes(locale))
   .map((id) => ({ id, label: treatments[id]?.title ?? id }));
+// Country landing pages in this language (e.g. /de/zahnimplantate-tuerkei-oesterreich/).
+const countryLinks = landingsForLocale(locale);
 ---
 <footer>
   <div class="foot-top">
@@ -32,6 +35,16 @@ const footerLinks = TREATMENT_IDS.filter((id) => localesForTreatment(id).include
       <p style="margin:0 0 6px;"><a href={waLink} target="_blank" rel="noopener">WhatsApp: +90 555 190 10 34</a></p>
       <p style="margin:0;">{t.footer_languages}</p>
     </div>
+    {countryLinks.length > 0 && (
+      <div class="foot-col">
+        <h4>{FOOTER_HEADING[locale] ?? FOOTER_HEADING.en}</h4>
+        <ul>
+          {countryLinks.map((l) => (
+            <li><a href={landingPath(l)}>{l.flag} {l.navLabel}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
     {hasTreatmentPages && (
       <div class="foot-col">
         <h4>{t.footer_services_label}</h4>
