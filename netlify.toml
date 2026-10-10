@@ -20,3 +20,10 @@
   to = "https://clinicospanel.com/portal/dtnizamabdullayev/p/:splat"
   status = 302
   force = true
+
+# Hasta pasaportu linki: /pasaport/<anahtar> -> Clinic OS pasaport sayfasi (alt yollar /pdf, /opened dahil).
+[[redirects]]
+  from = "/pasaport/*"
+  to = "https://clinicospanel.com/portal/dtnizamabdullayev/pasaport/:splat"
+  status = 302
+  force = true
